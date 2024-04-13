@@ -671,7 +671,7 @@ If you didn't read the detailed post here is a tldr.
 
 - Completing this achievement will be required in other Infinity Keys quests and hunts, bringing other communities to Aavegotchi
 
-One question that came through the discussions was about metrics. Infinity Keys has 26,000 mints from 5,000+ unique wallets for both free and low-cost mints from players solving challenges and collecting NFT keys. Individual partner projects have seen \~4,000 mints. And what's more exciting is that many of those mints continue to creep up far after the promotional campaign is complete.
+One question that came through the discussions was about metrics. Infinity Keys has 26,000 mints from 5,000+ unique wallets for both free and low-cost mints from players solving challenges and collecting NFT keys. Individual partner projects have seen ~4,000 mints. And what's more exciting is that many of those mints continue to creep up far after the promotional campaign is complete.
 
 We have done no marketing or promotions, so we think this is a good sign that as we ramp up community, more players will come to test out the games. We can't guarantee any level of participation, however, it is very much in our interest to bring as many players as we can through this hunt and into Aavegotchi.
 
@@ -1013,7 +1013,7 @@ This liquidity injection must occur 3 days before the close of the curve.
 
 _Bribes program:_
 
-It is possible for the DAO to deploy 6M DAI (this number depends on the number of DAI at the close of the curve) on Balancer and earn 5% (\~300k annual) + 5-6% BAL rewards. (For the rest of the calculation we will take the worst case: 5% APY total on the DAI => 300k$/year)
+It is possible for the DAO to deploy 6M DAI (this number depends on the number of DAI at the close of the curve) on Balancer and earn 5% (~300k annual) + 5-6% BAL rewards. (For the rest of the calculation we will take the worst case: 5% APY total on the DAI => 300k$/year)
 
 Then we can use the 300k+ in DAI rewards to bribe the 80-20 GHST-STABLE pool, giving the DAO more rewards. This allows us to yield on our treasury and not let it sleep without yield.
 
@@ -1063,7 +1063,7 @@ _Changes from SigProp:_ The previous SigProp funding request was for 25,000 GHST
 
 _BEGINNING_
 
-Last year, within the fireball.gg team we tried to imagine how guilds may look like in Aavegotchi. We deployed a guilds list page https\://fireball.gg/guilds where players could group up and claim their spot as a guild inside the Gotchiverse!
+Last year, within the fireball.gg team we tried to imagine how guilds may look like in Aavegotchi. We deployed a guilds list page https://fireball.gg/guilds where players could group up and claim their spot as a guild inside the Gotchiverse!
 
 Twenty one brave guild leaders with their guilds passed through a github pull request quest and participated in this imaginary guild claim!
 
@@ -1071,7 +1071,7 @@ _NEXT STEPS_
 
 Using all of our knowledge and insight, a new guild model was constructed, with given properties:
 
-- on chain solution based on https\://app.safe.global/ makes it very convenient to pull all related guild stats
+- on chain solution based on https://app.safe.global/ makes it very convenient to pull all related guild stats
 - to participate there is no need to move any assets or any change in custody
 - guild warehouse (inventory) out of the box
 - name (flag) as non-transferable NFT
@@ -1110,7 +1110,7 @@ _Version 3:_
 (a) updates to the smart contract:
 
 1. guilds legacy — a historical NFT issued to remember historical events, like tournaments
-2. advanced guild warehouse access framework on https\://github.com/gnosis/zodiac-guard-scope/
+2. advanced guild warehouse access framework on https://github.com/gnosis/zodiac-guard-scope/
 
 (b) guilds market
 
@@ -1143,7 +1143,7 @@ _INTEGRATIONS_
 
 Having guilds makes pvp, farming and development much more interesting! The fireball.gg team has agreements in place to test new guild mechanics with other Aavegotchi sponsored projects:
 
-1. integration with https\://gotchiboard.com/ will open a road for guild specific tournaments!
+1. integration with https://gotchiboard.com/ will open a road for guild specific tournaments!
 
 2. Integration with STRATEGOTCHI will help with guilds registrations and leaderboards data.
 
@@ -1790,7 +1790,7 @@ _Future Project Outlines_ – Forge Team to investigate and prepare potential pr
 
 _Forge Team Stipend:_
 
-For this work, diddly will be hired on as a full-time developer and responsible for all technical builds, solidity work and front-end management. This stipend for the Lead Developer role includes pay for extensive work performed in February-March 2023 to complete the Forge and to build the mobile user interface for a 4 month total stipend vs 3 months for the rest of the team. The three other roles will be part time \~20 hours/week. The 10,000 GHST bounty budget is to maximize external contributions and facilitate open contributions as much as possible.
+For this work, diddly will be hired on as a full-time developer and responsible for all technical builds, solidity work and front-end management. This stipend for the Lead Developer role includes pay for extensive work performed in February-March 2023 to complete the Forge and to build the mobile user interface for a 4 month total stipend vs 3 months for the rest of the team. The three other roles will be part time ~20 hours/week. The 10,000 GHST bounty budget is to maximize external contributions and facilitate open contributions as much as possible.
 
 _Execution Details:_
 
@@ -2314,7 +2314,7 @@ In essence the goal is to secure a fair OTC deal that meets the needs and expect
 
 To circumvent market volatilities, the OTC price will be defined by averaging Chainlink prices over the time period that this CoreProp is voted on.
 
-To derive the price of the GHST / DAI pair from Chainlink, the block-per-block price feeds on Polygon PoS will be used. The final OTC price for swapping GHST into DAI will be determined as the simple average of all the GHST/DAI pair prices derived at each block (\~300k distinct values).
+To derive the price of the GHST / DAI pair from Chainlink, the block-per-block price feeds on Polygon PoS will be used. The final OTC price for swapping GHST into DAI will be determined as the simple average of all the GHST/DAI pair prices derived at each block (~300k distinct values).
 
 Upon passing of the CoreProp vote, a csv file and simple script will be submitted to the Aavegotchi DAO with the final OTC price value for everyone to verify publicly.
 
@@ -2902,7 +2902,7 @@ table_agip95
 
 We are proposing that we start rarity farming season 7 on Halloween, October 31 (if deemed feasible by PC, or ASAP after that in consultation with PC).
 
-We’ve been aiming for \~3 rarity farming seasons a year, and our proposed Halloween start date ends this third 2023 season right around the end of the year. This proposal suggests keeping reward parameters largely the same as the prior several seasons, with the addition of a 100k prize pool for Gotchi Battler. Last season used the following reward parameters:
+We’ve been aiming for ~3 rarity farming seasons a year, and our proposed Halloween start date ends this third 2023 season right around the end of the year. This proposal suggests keeping reward parameters largely the same as the prior several seasons, with the addition of a 100k prize pool for Gotchi Battler. Last season used the following reward parameters:
 
 4 Rounds (2 weeks each) 1.5 Million GHST Rewards Pool - to be funded by the DAO Treasury
 
