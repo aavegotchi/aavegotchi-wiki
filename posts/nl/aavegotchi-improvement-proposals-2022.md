@@ -172,7 +172,7 @@ Totale LPs: 150k / 40K
 Totale Handelsvolume: 100k / 20k
 Dagelijks handelsvolume: $100M / $29M
 
-Het handelsvolume van de SynFutures bedraagt \~1/3e van QuickSwap, en de hoeveelheid handelaren is 1/5e zo groot als bij QuickSwap, Het handelsvolume van verschillende paren is echter meer geconcentreerd. SynFutures heeft 108 trading paren terwijl QuickSwap meer dan 22k paren heeft. Het dagelijkse handelsvolume van MATIC-USDC bij SynFutures sluit bijvoorbeeld op ongeveer $9 terwijl Quickswap $14 bereikt.
+Het handelsvolume van de SynFutures bedraagt ~1/3e van QuickSwap, en de hoeveelheid handelaren is 1/5e zo groot als bij QuickSwap, Het handelsvolume van verschillende paren is echter meer geconcentreerd. SynFutures heeft 108 trading paren terwijl QuickSwap meer dan 22k paren heeft. Het dagelijkse handelsvolume van MATIC-USDC bij SynFutures sluit bijvoorbeeld op ongeveer $9 terwijl Quickswap $14 bereikt.
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
 
@@ -198,7 +198,7 @@ tabel_agip19
 
 We stellen voor om de DAO Schatkist Taask Force (DTF) op te richten. Dit comité zal in eerste instantie bestaan uit acht ledenwaarvan we het lidmaatschap binnen zes maanden opnieuw zullen laten beoordelen door de DAO.
 
-Vanaf 12/07/2021 beschikt de DAO Schat (https\://aavegotchi.com/treasury) over bijna \~$11,408,400 ter waarde in DAI en GHST. In zijn oorspronkelijke vorm zal de commissie voorstellen voor behandeling voorleggen aan de DAO, die vervolgens in stemming zal worden gebracht en, indien goedgekeurd, zal worden goedgekeurd.
+Vanaf 12/07/2021 beschikt de DAO Schat (https://aavegotchi.com/treasury) over bijna ~$11,408,400 ter waarde in DAI en GHST. In zijn oorspronkelijke vorm zal de commissie voorstellen voor behandeling voorleggen aan de DAO, die vervolgens in stemming zal worden gebracht en, indien goedgekeurd, zal worden goedgekeurd.
 
 Voorgestelde Missie Verklaring
 
@@ -315,7 +315,7 @@ Op basis van de forumdiscussies zou dit het uiteindelijke model voor SZN3 zijn:
 
 Updated Rewards Sheet: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
 
-Aangezien er een \~100k GHST verschil is tussen het voorgestelde bedrag dat zal worden verdeeld en GHST momenteel in de beloningen pool, bevat dit voorstel een financieringsverzoek om het resterende bedrag uit de schatkist van de AavegotchiDAO te halen.
+Aangezien er een ~100k GHST verschil is tussen het voorgestelde bedrag dat zal worden verdeeld en GHST momenteel in de beloningen pool, bevat dit voorstel een financieringsverzoek om het resterende bedrag uit de schatkist van de AavegotchiDAO te halen.
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
 
@@ -396,7 +396,7 @@ tabel_agip23
 
 **Proposal Summary:**
 
-Naast de DAO schatkist Taask Kracht (DTF), Dr. Wagmi stelt voor om onmiddellijk te profiteren van de Aave GHST lijsting door \~80% van onze DAO schatkist GHST te deponeren (3, 00.000 GHST) in Aave als onderpand om een passieve opbrengst te verdienen. Het huidige gebruikspercentage bedraagt 45% met een storting APR \~2,5%. Gezien de aanzienlijke opbrengst en het snel groeiende nut van het GHST-token anticiperen we op de lopende leningsvraag en zo rendement voor GHST-deposanten en de Schatkist van DAO. De Aavegotchi DAO kan haar dexteriteit, effectiviteit en indrukwekkende schatkist laten zien door snel munt te slaan uit deze passieve opbrengstkans. Dit zou volumes spreken met de bredere DeFi en crypto community en onmiddellijk extra waarde bieden aan GHST token houders door een verhoogde leencapaciteit in de Aave pool.
+Naast de DAO schatkist Taask Kracht (DTF), Dr. Wagmi stelt voor om onmiddellijk te profiteren van de Aave GHST lijsting door ~80% van onze DAO schatkist GHST te deponeren (3, 00.000 GHST) in Aave als onderpand om een passieve opbrengst te verdienen. Het huidige gebruikspercentage bedraagt 45% met een storting APR ~2,5%. Gezien de aanzienlijke opbrengst en het snel groeiende nut van het GHST-token anticiperen we op de lopende leningsvraag en zo rendement voor GHST-deposanten en de Schatkist van DAO. De Aavegotchi DAO kan haar dexteriteit, effectiviteit en indrukwekkende schatkist laten zien door snel munt te slaan uit deze passieve opbrengstkans. Dit zou volumes spreken met de bredere DeFi en crypto community en onmiddellijk extra waarde bieden aan GHST token houders door een verhoogde leencapaciteit in de Aave pool.
 
 Een eerste storting van 3.000.000 GHST zou ongeveer 80 procent van Schatkist van de DAO vertegenwoordigen. Deze storting is volledig liquide en kan worden ingetrokken als de DAO andere toepassingen aanduidt. Een APR van 3 procent bedraagt bijna 90.000 dollar, die via DAO-initiatieven gebruikt kunnen worden voor verdere investeringen in het ecosysteem van Aavegotchi. Een afzonderlijk voorstel kan in overweging worden genomen voor de extra 20 procent en voor de 2,4 miljoen DAI in de schatkist. Wij stellen niet voor om het ontvangen amGHST van het voorgestelde oorspronkelijke deposito GRATIS uit te voeren. In dit voorstel wordt geen meerzijdige DTF voor dit deposito of het huidige beheer gevraagd.
 
@@ -468,7 +468,7 @@ _Solution_
 
 Ik wil voorstellen om de variatie te verlagen naar MINIMUM 0,5 tot 1. indien nog niet eens 0,75 - 1.25 voor de eerste ronde (Stemkeuze 1). Mijn probleem met dit zeer grote verschil is dat mensen financiële beslissingen nemen op basis van het gemiddelde aantal dat vóór de eerste veiling is gepubliceerd, mensen 50 tot 80 procent van de alchemische waarde onder het pakket laten verliezen, is verschrikkelijk voor mij.
 
-Een andere optie van Mori is het creëren van een binomiale verdeling met de linker staart afgesneden. dus het is mogelijk om groot maar onmogelijk om hard te worden gerkt (Stem Keuze 2). Dit resulteert in een gemiddelde trek van 100, een minimale trek van 60 en een maximale trek van \~800. Er is een vrij redelijke kans om deze topprijs te winnen, met \~0,02% van de pakketjes om dit te bereiken. Belangrijke opmerking: deze optie zou de vorige Mediaan van 100 tot ongeveer 83 verminderen.
+Een andere optie van Mori is het creëren van een binomiale verdeling met de linker staart afgesneden. dus het is mogelijk om groot maar onmogelijk om hard te worden gerkt (Stem Keuze 2). Dit resulteert in een gemiddelde trek van 100, een minimale trek van 60 en een maximale trek van ~800. Er is een vrij redelijke kans om deze topprijs te winnen, met ~0,02% van de pakketjes om dit te bereiken. Belangrijke opmerking: deze optie zou de vorige Mediaan van 100 tot ongeveer 83 verminderen.
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
 
@@ -761,7 +761,7 @@ The Aavegotchi DAO should use its DYST voting power to support the vQi-Qi pool o
 
 _Background:_
 
-Dystopia Swap is an automated market maker with ve(3,3) mechanics which was recently launched on Polygon. They airdropped a big portion of their initial token supply to Polygon dApps including the Aavegotchi protocol, QiDAO, and the GotchiVault. This voting token is used to allocate scheduled rewards similar to QiDAO’s Qi. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the \~4M GHST in the vGHST protocol.
+Dystopia Swap is an automated market maker with ve(3,3) mechanics which was recently launched on Polygon. They airdropped a big portion of their initial token supply to Polygon dApps including the Aavegotchi protocol, QiDAO, and the GotchiVault. This voting token is used to allocate scheduled rewards similar to QiDAO’s Qi. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the ~4M GHST in the vGHST protocol.
 
 A brief overview of why this is good for GHST:
 
@@ -777,7 +777,7 @@ A brief overview of why this is good for GHST:
 
 6. More rewards for vGHST means more rewards in the hands of the Aavegotchi community
 
-None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https\://www\.dystopia.exchange/vote).
+None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
 
 Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
 
@@ -1442,7 +1442,7 @@ _Emergency Scenarios_
 2. MakerDAO shifts away from a dollar backing: Very long-term strategic consideration, will probably take 2-3 years to unfold. No immediate action needed, more relevant for the discussion surrounding a general Curve shutdown.
 3. This is the important one. MakerDAO contracts get blacklisted by Circle (USDC) due to regulatory reasons: Signers would have to act immediately to protect the value of GHST's backing. I propose immediately shutting down the Curve and swapping the DAI for USDC. This ensures that we lock in some of our treasury's value, it does however remove the main source of liquidity for GHST. To make sure GHST doesn't enter a free fall, $5M worth of USDC should immediately be paired with $5M worth of treasury GHST in our main Quickswap pool.
 
-Using the current numbers, this would leave us with \~$18M USDC - the majority of which should be used to buy back the paired GHST and build up a larger LP position. The initial LP position would double our current pool and buy enough time to decide on next steps.
+Using the current numbers, this would leave us with ~$18M USDC - the majority of which should be used to buy back the paired GHST and build up a larger LP position. The initial LP position would double our current pool and buy enough time to decide on next steps.
 
 Keep in mind that this is a very unlikely emergency scenario. We should be prepared for everything though, getting caught with our pants down could wipe out a large sum of our treasury value and put GHST in a very vulnerable position.
 
