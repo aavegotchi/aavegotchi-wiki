@@ -146,5 +146,17 @@ export const tables
 					["No", "826,000 GHST (7.39%)"]
 				]
             }
+        },
+		
+		{
+            tableName: "agip114",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes! Fund it.", "9,600,000 GHST (85.65%)"],
+					["No. Don't fund.", "1,600,000 GHST (14.35%)"]
+				]
+            }
         }
     ]
