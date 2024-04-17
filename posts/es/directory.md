@@ -49,6 +49,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Developers](/developers)
 
+* [DROPT - The Fallen Gotchi](/dropt)
+
 * [Fincas](/estaates)
 
 * [Eye Shape](/eye-shape)
