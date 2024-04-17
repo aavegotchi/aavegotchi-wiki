@@ -49,6 +49,8 @@ contributors:
 
 * [Developers](/developers)
 
+* [DROPT - The Fallen Gotchi](/dropt)
+
 * [Estaates](/estaates)
 
 * [Eye Shape](/eye-shape)
