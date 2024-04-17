@@ -49,6 +49,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [Developers](/developers)
 
+* [DROPT - The Fallen Gotchi](/dropt)
+
 * [Estaates（エステート）](/estaates)
 
 * [Eye Shape](/eye-shape)
