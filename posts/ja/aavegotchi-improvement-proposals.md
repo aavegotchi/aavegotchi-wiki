@@ -27,6 +27,7 @@ contributors:
 <li><a href=#staking-350-eth-with-lido-and-acquiring-reth>Staking 350 ETH with Lido and Acquiring rETH</a></li>
 <li><a href=#establishing-an-eth-sell-ladder>Establishing an ETH Sell Ladder</a></li>
 <li><a href=#gas-fee-reimbursement-for-dao-directors>Gas Fee Reimbursement for DAO Directors</a></li>
+<li><a href=#strategotchi-v2-0---voxel-unity-sdk-funding>Strategotchi V2.0 & Voxel Unity SDK funding</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -609,6 +610,165 @@ Option 2: No
 table_agip113
 
 [スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x9e2dfd4a35b6069df9c0e29a4d88f197a3a6af816f5275b210a768521c734b97)
+
+<hr />
+
+### Strategotchi V2.0 & Voxel Unity SDK funding
+**Aavegotchi Improvement Proposal #114**
+
+**提案の要約**
+
+With the overwhelmingly positive feedback on our proof-of-concept, my team and I are eager to embark on the next iteration of Strategotchi, version 2.0 - Multiplayer. This update brings a plethora of enhancements, focusing on Gotchi and weapon utility, gameplay depth, and the introduction of multiplayer infrastructure in a new game mode, Teams.
+
+This proposal is to obtain funding for the development of Strategotchi V2.0 as outlined in the following document, as well as delivery of a FULL Voxel art Unity SDK.
+
+*R0ADMAP*
+
+[https://docs.google.com/document/d/1-fvn5ITST2s469GxRpUsBT5MX_r3IuIGWhbadIsZ1r4](https://docs.google.com/document/d/1-fvn5ITST2s469GxRpUsBT5MX_r3IuIGWhbadIsZ1r4)
+
+(Note that the proposal does not include delivery of versions 2.1 - 2.4)
+
+*COST & DELIVERABLES*
+
+We are seeking 197,000 aDAI and 10,000 GHST, paid in 2 installments, for the delivery of:
+
+* A full Unity SDK featuring all of our assets and animations
+
+* 3D modeling and rigging of over 300 wearables and gotchi types in our unique voxel style. This deliverable lays the groundwork for a unity SDK that we will make available for other developers.
+
+* Full blockchain integration of all gotchis and wearables. Players will be able to play with their own unique gotchis.
+
+* Full Utility for over 30 weapons, each with unique effects, animations and 5 unique targeting systems. Players will be able to equip 2 weapons per gotchi.
+
+* Gotchi trait mapping & class perks. 12 unique perks. Gotchis can earn up to 6 perks (1 for each godlike trait)
+
+* New multiplayer co-op game mode: Teams. In this mode players will team up with frens, working together to hit harvest targets and defend them from enemies.
+
+* V2 web dapp with new features including a weapons library with interactive 3d previews.
+
+* An in-game tutorial
+
+* Improved GUI & UX
+
+* Improved targeting and push indicators. Players will be able to assess the effects of their weapons at a glance.
+
+* New and improved sound design, including music and SFX. We will be introducing more lickquidator taunts as well as gotchi cheers.
+
+* Multiple bug fixes, QOL improvements, and better optimization
+
+*WEAPONS DETAILS*
+
+A detailed list of all wearables effects can be found in this document:
+
+[https://docs.google.com/document/d/1RODcNTaSORhQvd2DLqS18YdcBuf0Gd_wOLuRTFFRlC8](https://docs.google.com/document/d/1RODcNTaSORhQvd2DLqS18YdcBuf0Gd_wOLuRTFFRlC8)
+
+*REVENUE PROJECTIONS*
+
+This document outlines future monetization mechanisms and our proposed allocations:
+
+[https://docs.google.com/document/d/1BNbeGTrk8N7qiRrM1gqLjcVdeKE8WbYV8E75AgJf_p4](https://docs.google.com/document/d/1BNbeGTrk8N7qiRrM1gqLjcVdeKE8WbYV8E75AgJf_p4)
+
+*TEAM:*
+
+Laggin:
+
+* Proficient in product design, branding, and visual communication.
+
+* Experienced game designer, contributing to multiple top-rated mobile games in the MENA region.
+
+* Internationally recognized artist, exhibited at prestigious galleries like the Saatchi Gallery, London.
+
+* OG member of the Aavegotchi community, deeply familiar with the protocol, contributing to a multitude of projects within the ecosystem.
+
+Nomichamp:
+
+* Full stack game developer with extensive experience.
+
+* Successfully operated indie game development studio, focusing on hyper casual games.
+
+* Produced multiple successful titles across various platforms.
+
+Fase:
+
+* Experienced music producer, proficient in all aspects of audio design
+
+* Experience in marketing, project management, and community building
+
+* Creator of multiple web 3.0 music projects and collaborations
+
+* Involved community member, collaborating on a multitude of projects in the ecosystem and beyond
+
+*COST BREAKDOWN:*
+
+In-house work: 147,000 aDAI
+
+* Game Design, PM, Design Lead, 3D modeling, UI/UX, Unity front end: 90k
+
+* Lead Dev: 50k
+
+* Sound design, social media management: 7k
+
+Outsourced work: 50,000 aDAI
+
+* Additional Unity dev: 20k
+
+* Rigging and animation: 20k
+
+* Web developer: 5k
+
+* Artwork: 3k
+
+* Infrastructure and tools: 2k
+
+Community: 10,000 GHST
+
+* Marketing
+
+* Promotion
+
+* Play testing
+
+* Bounties
+
+*DELIVERY & PAYMENT MILESTONES:*
+
+Milestone 1: Passing of core prop
+
+Payment of 107,000 aDAI + 10,000 GHST
+
+Milestone 2: Wearables showcase (April 2024)
+
+A showcase of our progress modeling a large portion of the wearables. We will present images of dozens of the new designs as well in-game footage of some of the new weapons in action. We will release a small number of new weapons on the public build for the community to test out and give us feedback on.
+
+Milestone 3: Weapons Utility showcase (May 2024)
+
+The addition of a large number of weapons and wearables into our public build. Integration of blockchain assets into the game. Players will be able to use their own gotchis in single player mode. Gotchis will now have unique stats and most of the perks implemented. Each gotchi will look and feel unique, giving players a feel for the levels of customization to come.
+
+Milestone 4: Multiplayer showcase (June 2024)
+
+Playable multiplayer mode with MVP versions of all new features. Players will now be able to try the new co-op mode, playing with their own weapons and gotchis, with unique perks and stats. At this stage some weapons may still have generic effects/animations. Introduction of new SFX including gotchi cheers. Improvements to GUI & UX. We will be overhauling the UI to accommodate multiplayer mode.
+
+Milestone 5: Completion of all content (July 2024)
+
+completion of all weapons utility and wearables, including animations and effects. Players will be able to experience the full utility of weapons and perks in both single and multiplayer modes. Delivery of an improved system for targeting and knock-back indicators. Players will be able to assess the effects of their weapons at a glance under the new system.
+
+Milestone 6: All deliverables polished and shipped (August 2024)
+
+Payment of 90,000 aDAI Completion of all listed deliverables, fully polished. All wearables are fully modeled and rigged. All weapon utility completed. All gotchi traits and class perks implemented. Multiplayer teams mode polished. In-game tutorial. Updated webb dapp including a full weapons library with interactive 3D models, as well as all stats and information about the weapons. Bug fixes and multiple QOL improvements including UX/UI enhancements. We will be streamlining the user interface to be more intuitive as well as adding more user feedbacks such as sounds and UI animations to help guide the player for a smoother experience. Enhanced optimization for webGL performance.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1216035947951423518)
+
+Option 1: Yes! Fund it.
+
+Option 2: No. Don't fund.
+
+**Voting Period:** 2 - 16 April 2024
+
+**結果:**
+
+table_agip114
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x1470e49097b506d8aa9f017f1fd13328f456cba790c8df48bc789375c6cd723a)
 
 <hr />
 
