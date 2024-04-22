@@ -158,5 +158,17 @@ export const tables
 					["No. Don't fund.", "1,600,000 GHST (14.35%)"]
 				]
             }
+        },
+		
+		{
+            tableName: "agip115",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Fund FAKEwaar!", "7,200,000 GHST (70.66%)"],
+					["Do not fund FAKEwaar...", "3,000,000 GHST (29.34%)"]
+				]
+            }
         }
     ]
