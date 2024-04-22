@@ -28,6 +28,7 @@ Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les
 <li><a href=#establishing-an-eth-sell-ladder>Establishing an ETH Sell Ladder</a></li>
 <li><a href=#gas-fee-reimbursement-for-dao-directors>Gas Fee Reimbursement for DAO Directors</a></li>
 <li><a href=#strategotchi-v2-0---voxel-unity-sdk-funding>Strategotchi V2.0 & Voxel Unity SDK funding</a></li>
+<li><a href=#fakewaar-continuing-development-fund>FAKEwaar Continuing Development Fund</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -769,6 +770,69 @@ Option 2: No. Don't fund.
 table_agip114
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x1470e49097b506d8aa9f017f1fd13328f456cba790c8df48bc789375c6cd723a)
+
+<hr />
+
+### FAKEwaar Continuing Development Fund
+**Aavegotchi Improvement Proposal #115**
+
+**Proposal Summary:**
+
+Do you hear the drums of waar, fren? It's time to find out who's FAKE strength is real. This adaptation of classic war card combat + 3-in-a-row, utilizing FAKEgotchis with a custom dynamic numerical model, enables deterministic gameplay with the existing asset library of FAKEgotchi NFTs.
+
+*Whitepaper*
+
+[https://gmifrens.gitbook.io/fakewaar-whitepaper](https://gmifrens.gitbook.io/fakewaar-whitepaper)
+
+*Current Gameplay*
+
+Two players, 1v1, 9 cards randomly selected from the FAKEgotchiDEX. High card wins. Winner is able to place their winning card on the battle board. Players are able to overtake an already placed card on the battle board if their card has a higher FAKE strength. Three in a row placed on the battle board provides additional bonus points at final score.
+
+*Target Audience*
+
+FAKEwaar is designed to provide a lightweight, casual, replayable gamification layer to the existing FAKEgotchi assets. It is meant for creators, collectors and everyone else who has yet to discover the cultural heartbeat of Aavegotchi: FAKEgotchis!
+
+*Platform*
+
+FAKEwaar is built in Unity with native networking. While a web hosted version is the primary focus, we will also be working hard to support ANDROID mobile users. Probably iOS as well.
+
+*Request for Continuing Development Support*
+
+V1 as presented during the March 30th, 2024 DAO call has been developed independently by GMI Game Labs. We humbly request additional support from the Aavegotchi DAO based on the demonstrated capabilities and potential of the V1 playable proof of concept.
+
+*Timeline*
+
+Upon approval and receipt of the requested continuing development fund, FAKEwaar V2 would be planned for a three month development timeline. This fund would allow GMI Game Labs to put full time effort into this development and we fully anticipate fulfilling or even beating this timeline. A full overview of V2 implementations can be found in the [FAKEwaar Whitepaper](https://gmifrens.gitbook.io/fakewaar-whitepaper).
+
+*Requested Funding*
+
+Total Cost: 18K USD
+
+Breakdown:
+
+* 6K - Unity Development & Project Management by Mycaleum
+
+* 6K - Website, Smart Contract and Technical Support by User Default
+
+* 6K - Creative leadership of asset and art generation by Kravitch
+
+Upon approval, we request $18k USD equivalent in stablecoins (USDC/USDT/DAI) to be transferred to the GMI Multisig Treasury on Polygon PoS at: 0x376184461aaa5Bd445cd52924Fdf29e8E4b86900
+
+In the event the DAO does not have on-hand stablecoin liquidity on Polygon PoS to fulfill this disbursement, we request an appropriate amount of $GHST tokens be swapped in order to provide this stablecoin liquidity in full.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1221209900517163158)
+
+Option 1: Fund FAKEwaar!
+
+Option 2: Do not fund FAKEwaar...
+
+**Voting Period:** 11 - 21 April 2024
+
+**Results:**
+
+table_agip115
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x62cb52138d0d66f0b363156f0be470d2289f7e64aa0b00a98f09a52ec6e4cba4)
 
 <hr />
 
