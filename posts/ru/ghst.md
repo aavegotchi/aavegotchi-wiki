@@ -7,6 +7,7 @@ image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -14,11 +15,11 @@ contributors:
 <p class="headerImageText">Токен GHST</p>
 </div>
 
-Трейдинг и отслеживание цены токена — это круто, но на что еще может сгодиться GHST — токен проекта Аавеготчи?
+The GHST token is the eco-governance token that powers the whole Aavegotchi ecosystem.
 
-Он предназначен стать базовой валютой Метавселенной Аавеготчи. Внутри экосистемы за GHST можно покупать порталы, экипировку, расходники, арт-объекты и многое другое. Также у собственного токена проекта есть и другие функции — стейкинг и возможность участвовать в управлении Аавеготчи DAO (децентрализованной автономной организацией).
+Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
 
-Итак, в этой части ВИКИ мы предлагаем вам познакомиться поближе с этими сиренево-фиолетовыми монетками.
+GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
 
@@ -26,6 +27,7 @@ contributors:
 
 <ol>
 <li><a href=#why-ghst>Почему GHST?</a></li>
+<li><a href=#total-supply>Total supply</a></li>
 <li><a href=#using-ghst>Как использовать GHST.</a></li>
 <li><a href=#buying-ghst>Как купить GHST.</a></li>
 <li><a href=#earning-ghst>Как заработать GHST.</a></li>
@@ -39,6 +41,10 @@ contributors:
 Токены GHST нужны на старте игры, чтобы получить своего Готчи — вызвать его из портала и обучить. Часть потраченных игроком средств передается на нужды DAO и используется для дальнейшего развития экосистемы. Часть средств распределяется в качестве наград за управление DAO и фарминг.
 
 Подробнее об этом можно узнать на странице о  [Токенэкономике](/tokenomics) проекта.
+
+## Total supply
+
+The total supply of GHST token is 52,747,802 GHST. The token supply of GHST is fixed, and no more tokens will ever be minted.
 
 ## Как использовать GHST
 Что можно делать с токенами, кроме как покупать и ждать туземуна? На самом деле, вариантов использования токенов — огромное множество.
