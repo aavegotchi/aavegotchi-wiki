@@ -7,6 +7,7 @@ image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -14,11 +15,11 @@ contributors:
 <p class="headerImageText">GHST Token</p>
 </div>
 
-Prijsactie en handel is cool, maar wat kunt u doen met Aavegotch’s native token, GHST?
+The GHST token is the eco-governance token that powers the whole Aavegotchi ecosystem.
 
-De token is bedoeld om te worden gebruikt als basis ecosysteem valuta voor de aankoop van verschillende on-chain Aavegotchi activa. Het gaat onder andere om Portalen, wearables, verbruiksgoederen en verzamel items. Daarnaast heeft GHST nog een aantal andere functies, zoals staking en de mogelijkheid voor spelers om in de DAO te stemmen.
+Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
 
-Laad je tassen op, fren, – in dit deel van onze Wiki kijken we nog eens goed naar deze glanzend ronde paarse jongens.
+GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
 
@@ -26,6 +27,7 @@ Laad je tassen op, fren, – in dit deel van onze Wiki kijken we nog eens goed n
 
 <ol>
 <li><a href=#why-ghst>Waarom GHST?</a></li>
+<li><a href=#total-supply>Total supply</a></li>
 <li><a href=#using-ghst>GHST Gebruiken</a></li>
 <li><a href=#buying-ghst>GHST Kopen</a></li>
 <li><a href=#earning-ghst>GHST Verdienen</a></li>
@@ -39,6 +41,10 @@ Gebruikersbeloningen spelen een grote rol in elk project. In dit geval biedt GHS
 Spelers moeten GHST kopen en het uitgeven bij het oproepen en opleiden van Aavegotchis. Een deel hiervan wordt rechtstreeks terugverwezen naar de DAO om de ontwikkeling van het ecosysteem te blijven financieren. Tegelijkertijd wordt een deel van de waarde ook verdeeld als beloning voor wijze governance in de DAO, en als beloning voor het deelnemen aan het kweken van zeldzaamheid.
 
 Kijk voor meer informatie op de [Tokenomics pagina](/tokenomics).
+
+## Total supply
+
+The total supply of GHST token is 52,747,802 GHST. The token supply of GHST is fixed, and no more tokens will ever be minted.
 
 ## GHST Gebruiken
 Wat kun je doen met GHST, anders dan het kopen en verwonderen? Als je eenmaal kennis hebt genomen van de verschillende manieren om GHST te gebruiken, dan denken wij dat je de verkoop van je GHST zou kunnen heroverwegen.
