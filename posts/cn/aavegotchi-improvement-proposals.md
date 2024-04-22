@@ -29,6 +29,8 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#gas-fee-reimbursement-for-dao-directors>Gas Fee Reimbursement for DAO Directors</a></li>
 <li><a href=#strategotchi-v2-0---voxel-unity-sdk-funding>Strategotchi V2.0 & Voxel Unity SDK funding</a></li>
 <li><a href=#fakewaar-continuing-development-fund>FAKEwaar Continuing Development Fund</a></li>
+<li><a href=#elected-facilitators-for-dao-meetings>Elected Facilitators for DAO Meetings</a></li>
+<li><a href=#custom-irl-aavegotchi-physical-arcade-machine>Custom IRL Aavegotchi Physical Arcade Machine</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -833,6 +835,154 @@ Option 2: Do not fund FAKEwaar...
 table_agip115
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x62cb52138d0d66f0b363156f0be470d2289f7e64aa0b00a98f09a52ec6e4cba4)
+
+<hr />
+
+### Elected Facilitators for DAO Meetings
+**Aavegotchi Improvement Proposal #116**
+
+**Proposal Summary:**
+
+This proposal aims to provide guidelines for nominating and compensating accountable DAO members to collect DAO feedback, build meeting agenda's and to host the Saturday DAO call.
+
+This proposal outlines job dimensions, as well as a compensation structure for 4 elected DAO members to fulfill.
+
+*Job Dimensions:*
+
+* Meeting Preparation and Organization:
+
+* Work with DAO members to allocate time slots for presentations and discussions for each speaker.
+
+*Facilitation/Moderation:*
+
+* Steer discussions towards productive outcomes, ensuring active engagement while managing time efficiently.
+
+*Decision-Making Support:*
+
+* Provide clarity on proposals, including their goals and potential impact. Gather and communicate feedback to forum operators.
+
+*Communication and Follow-Up:*
+
+* Deliver succinct summaries of discussions, decisions, and action items. Monitor progress on agreed-upon tasks.
+
+*Conflict Resolution:*
+
+* Serve as an impartial mediator to resolve disputes and disagreements during discussions.
+
+*Innovation Promotion:*
+
+* Promote the exploration of innovative ideas, tools, and practices to improve our governance process.
+
+*Commitment:*
+
+* The role requires 6-10 hours of preparation weekly, including a one-hour DAO call every Saturday at 3pm UTC.
+
+* If the role is split (in this case amongst 4 members) the commitment will also be split equally. 4 members taking on this role would take one week each in this case.
+
+* Important to note this is usually a week long ongoing effort + Saturday Call.
+
+*Term length:*
+
+* 6 Months with an option to re-elect a member at 3 months should they step down or cannot fulfill the role adequately.
+
+*Compensation:*
+
+* 500 USD, per month, per member
+
+* Total of 2000 USD in GHST for 4 Members, payed at the end of the month
+
+Many have stepped up to nominate as well as those I have spoken to myself.
+
+Following the passing of the proposal I suggest we hold a soft election off-chain to appoint actively participating members.
+
+I am deeply grateful for serving in this position for the last 3 Years, and look forward to the evolution of our roster!
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1214964126510747729/1214964126510747729).
+
+Option 1: Fund DAO Meetings
+
+Option 2: Do not fund
+
+**Voting Period:** 19 April - 3 May 2024
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x4ffa41a2ab80839e03bbc0eaa1d4f8b210f294aad043343809d4f8b36059f11a)
+
+<hr />
+
+### Custom IRL Aavegotchi Physical Arcade Machine
+**Aavegotchi Improvement Proposal #117**
+
+**Proposal Summary:**
+
+This proposal outlines the development of an Aavegotchi web3 physical arcade machine, leveraging the Aavegotchi ecosystem and current available titles through a custom Aavegotchi Gaming OS and integration with GotchiChain. This machine aims to provide an immersive gaming experience, bridging the digital and physical worlds, with a portion of the budget allocated to design contest rewards to foster community engagement and creativity.
+
+*Project Objectives:*
+
+* To develop a unique, customizable, blockchain-enabled arcade machine for the Aavegotchi gaming protocol.
+
+* To serve as the IRL public interface to the Aavegotchi gaming protocol.
+
+* To engage the gaming community at events, function as a standalone entertainment unit located regionally, or be distributed as a collector's item.
+
+* To utilize RFID and QR Code technology for seamless interaction with the blockchain, enabling easy transaction signing and user authentication.
+
+*Software:*
+
+* Aavegotchi Gaming OS
+
+* Custom overlay application tailored for arcade gaming, with native support for GotchiChain.
+
+* User-friendly interface designed for ease of use in an arcade setting.
+
+* Enhanced security features to ensure safe and secure blockchain interactions.
+
+*Hardware Specifications:*
+
+* High-performance gaming single-board computers (SBCs) or full size ATX to handle advanced gaming and blockchain operations.
+
+* Vibrant high-resolution displays optimized for gaming graphics and user interaction.
+
+* Durable and responsive arcade controls for an authentic gaming experience along with traditional keyboard and mouse access.
+
+* RFID sensors and QR Code integration for user authentication and blockchain transactions.
+
+* Custom-designed arcade cabinets featuring Aavegotchi branding and aesthetics.
+
+*Development Roadmap and Budget Estimation:*
+
+Design Phase: 8-12 weeks timeline.
+
+* Conceptualization, software/hardware specification, initial design, and design contest.
+
+* Estimated Cost: 1,000 GHST (500 GHST allocated to design contest rewards).
+
+Prototype Development:
+
+* Assembly and testing of a functional prototype with the Aavegotchi Gaming OS and RFID integration.
+
+* Estimated Cost: 2,000 GHST.
+
+Production of One Testing Machine:
+
+* Manufacturing and assembly of a single arcade machine for extensive testing and validation.
+
+* Estimated Cost: 3,000 GHST.
+
+Total Estimated Cost for Initial Phases: 6,000 GHST
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1222928440282583050).
+
+Option 1: Yes, fund it!
+
+Option 2: No, do not fund.
+
+**Voting Period:** 19 April - 3 May 2024
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xad9c32042678c6250507f602a57ea52846efe8391d781bc9476683e9347bef63)
 
 <hr />
 
