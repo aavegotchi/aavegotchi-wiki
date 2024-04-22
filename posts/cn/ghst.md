@@ -7,6 +7,7 @@ image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -14,11 +15,11 @@ contributors:
 <p class="headerImageText">GHST 代币</p>
 </div>
 
-价格波动和交易虽然很酷，但你还可以用Aavegotchi的原生代币GHST做什么呢？
+The GHST token is the eco-governance token that powers the whole Aavegotchi ecosystem.
 
-该代币旨在作为购买各种链上Aavegotchi资产的基本生态系统货币。 这些资产包括传送门、可穿戴设备、消耗品和收藏品以及其他商品。 除此之外，GHST还有其他一些功能，比如质押挖矿和DAO投票。
+Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
 
-收拾行李，从零开始-在我们的Wiki这一部分中，我们将仔细研究这些闪亮的圆形紫色男孩。
+GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
 
@@ -26,6 +27,7 @@ contributors:
 
 <ol>
 <li><a href=#why-ghst>为什么要GHST？</a></li>
+<li><a href=#total-supply>Total supply</a></li>
 <li><a href=#using-ghst>使用 GHST</a></li>
 <li><a href=#buying-ghst>购买GHST</a></li>
 <li><a href=#earning-ghst>获得GHST</a></li>
@@ -39,6 +41,10 @@ contributors:
 玩家必须购买GHST，并在召唤和训练Aavegotchis的过程中进行消费。 其中一部分会直接转回DAO，继续资助生态系统的发展。 同时，部分价值也会作为DAO中明智治理的奖励，以及从事稀有度挖矿的奖励进行分配。
 
 For more information, make sure to check out the [Tokenomics page](/tokenomics).
+
+## Total supply
+
+The total supply of GHST token is 52,747,802 GHST. The token supply of GHST is fixed, and no more tokens will ever be minted.
 
 ## 使用 GHST
 除了买GHST，然后想知道他什么时候涨上天之外，你能用GHST做什么呢？ 很多哦，一旦你了解了GHST的各种使用方法，我们感觉你可能会重新考虑抛售。
