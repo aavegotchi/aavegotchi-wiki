@@ -22,6 +22,20 @@ contributors:
 </div>
 
 ## Year 2024
+## [Aavegotchi Dev Update - April 2024](https://blog.aavegotchi.com/aavegotchi-dev-update-april-2024/)
+* Gotchichain chose to settle on Base, Spirit Force Arena has gotten EBIC updates, Gotchi Guardians leveled up with a whole new progression system, and moar in this April 2024 Update!
+<p></p>
+
+## [3 New Features Now Live in the Aavegotchi Auction House](https://blog.aavegotchi.com/3-new-features-now-live-in-the-aavegotchi-auction-house/)
+* Ever wished you could snag that must-have collectible without the wait? The new “Buy It Now” option lets you do just that!
+* Tired of lowball opening bids? We've got you covered! Now, you can set a minimum starting bid to kick things off right.
+* For those looking to sell more liquid assets, our new “Low (0.5%-2%)” incentives preset might be perfect.
+<p></p>
+
+## [GHST Token Is Now Live on Base](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/)
+* GHST token, the eco-governance token of the Aavegotchi Crypto Gaming protocol, is now live for trading on Base!
+* This expansion marks GHST's evolution into a multichain token and paves the way for even deeper integrations within the Base and Coinbase ecosystems.
+<p></p>
 
 ## [Aavegotchi chooses Base as settlement layer for Gotchichain](https://blog.aavegotchi.com/aavegotchi-chooses-base-as-settlement-layer-for-gotchichain/)
 * Gotchichain, our upcoming Layer 3 (L3) rollup dedicated to Aavegotchi gaming, will use Base as its settlement layer
