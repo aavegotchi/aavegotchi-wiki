@@ -31,6 +31,8 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#fakewaar-continuing-development-fund>FAKEwaar Continuing Development Fund</a></li>
 <li><a href=#elected-facilitators-for-dao-meetings>Elected Facilitators for DAO Meetings</a></li>
 <li><a href=#custom-irl-aavegotchi-physical-arcade-machine>Custom IRL Aavegotchi Physical Arcade Machine</a></li>
+<li><a href=#proposal-to-add-liquidity-on-aerodrome-and-earn-aero>Proposal to Add Liquidity on Aerodrome and earn AERO</a></li>
+<li><a href=#convert-all-dao-owned--dai--adai-----usdc--ausdc>Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -983,6 +985,114 @@ Option 2: No, do not fund.
 **Resultaten:**
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xad9c32042678c6250507f602a57ea52846efe8391d781bc9476683e9347bef63)
+
+<hr />
+
+### Proposal to Add Liquidity on Aerodrome and earn AERO
+**Aavegotchi Improvement Proposal #118**
+
+**Voorstel Samenvatting:**
+
+This proposal seeks to strengthen the Aavegotchi ecosystem by increasing liquidity on Aerodrome, Base's native decentralized exchange (DEX). By adding $500K worth of $GHST and $500K worth of Ethereum to a liquidity pool on Aerodrome, we aim to deepen liquidity and attract more users to the platform. Additionally, we propose allocating 100K GHST worth of bribe incentives to further encourage participation and engagement.
+
+*Rationale:*
+
+Increasing Liquidity: With GHST recently launching on Base, we have a responsibility to help ensure adequate liquidity for traders on Base. The proposed allocation of $500K worth of GHST and $500K worth of Ethereum into a liquidity pool on Aerodrome will significantly improve the depth of liquidity for trading on Base. This will allow for more efficient trading and reduce price slippage, making the Aavegotchi ecosystem more attractive to both existing and potential users.
+
+Incentivizing Participation: By allocating 100K GHST worth of bribe incentives, we aim to encourage more users to engage with the Aavegotchi ecosystem on Aerodrome. These incentives will be distributed as rewards for veAERO holders in exchange for them voting to increase the allocation of AERO rewards for the GHST-ETH pool.
+
+Earning AERO token for the DAO treasury: Aerodrome is the leading native DEX on Base, and with Aavegotchi making inroads into Base and Gotchichain settling to Base, it makes sense for the DAO to have a stake in the chain’s success. Since Base does not have a native token, tokens like AERO can be seen as proxies for the chain’s growth.
+
+*Proposal Details:*
+
+Allocation of Funds: The proposal calls for the allocation of $500K worth of GHST and $500K worth of Ethereum from the AavegotchiDAO treasury to be used for creating a liquidity pool on Aerodrome.
+
+Distribution of Incentives: The proposal also includes the allocation of 100K GHST of bribe incentives to be distributed among veAERO holders on Aerodrome. These incentives should be distributed in two tranches of 50K GHST each over a period of one month.
+
+Implementation Timeline: The proposal aims to have the liquidity pool established and the bribe incentives ready for distribution within 14 days of the proposal's approval. The AavegotchiDAO foundation should be responsible for overseeing the implementation process and ensuring that all necessary steps are completed in a timely manner.
+
+Source of funds: $500K worth of ETH should be sourced by converting DAI from the DAO Liquidity wallet into ETH. $500K worth of GHST should be obtained by reducing the DAO’s 80-20 LP on Balancer to obtain enough GHST. Both GHST and ETH should be bridged from Ethereum to Base via the canonical Superbridge or Base Bridge (whichever is easiest).
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1224594975673684018/1224594975673684018).
+
+Option 1: Yes, create the pool
+
+Option 2: No, do not create the pool
+
+**Voting Period:** 26 April - 3 May 2024
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xba11262fc75ec6b49dafcdfb55c6aa3395ce58c18aa377b6a955d695a27ff3f0)
+
+<hr />
+
+### Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC
+**Aavegotchi Improvement Proposal #119**
+
+**Voorstel Samenvatting:**
+
+AavegotchiDAO holds a range of treasury assets according to the mandate laid out in AGIP65 which outlined a 4-way split for unlocked $DAI for liquidity, general reserve, core team, and player rewards.
+
+As of April 1st 2024, our stablecoin basket is as follows:
+
+* ~5.8million USD worth
+
+* 87.3% in $DAI/$aDAI; remaining in $USDC
+
+*Motivation:*
+
+An ecosystem change at MakerDAO is recently introducing some additional risk to $DAI with the consideration of including algorithmic stablecoin $USDE and $sUSDE as collateral to borrow $DAI against, with a cap being considered up to $1 billion USD.
+
+This move is indicative of a growing trend where DeFi protocols seek to capture additional yield for users and controversially increase instability risks of the underlying assets in return. With our own DAO stablecoin holdings denominated largely in $DAI I think it is time to shed this risk by converting all our DAI into less risky stablecoins. It is encouraged voters learn more on the MakerDAO situation in the URLs listed at the bottom of this vote.
+
+*Voting Material:*
+
+I am proposing we convert all treasury assets held in $DAI and $aDAI into $USDC and $aUSDC, respectively. All assets will remain on their current networks unless bridged elsewhere on a different vote. With some research on 3-month yields it looks like there will be minimal impact on our interest accrued if we swap all $aDAI -> $aUSDC. This can be seen from a Dune Analytics chart below.
+
+If passed, the acting AavegotchiDAO Treasurer and Foundation multi-sig directors should follow the below recommendations when swapping:
+
+* Withdraw all $DAI tokens deposited into Aave & Issue two tranches of swaps to USDC on https://swap.cow.fi/. Then re-deposit all USDC from aDAI equivalents back into the Aave Ethereum V3 Market for address 0x53…7B62.
+
+* For affected addresses on Polygon issue one swap from DAI -> USDC for both addresses 0x93…631c & 0x8c…90f6 on https://curve.fi/ .
+
+* For the remaining DAI in wallet 0xFF…8020 please follow the swap instructions above for Polygon on Curve.fi and swap to USDC.
+
+*Total DAI Holdings and Wallets*
+
+DAO Foundation Treasury
+
+* 15,809 DAI - 0x53c3CA81EA03001a350166D2Cc0fcd9d4c1b7B62 ; Ethereum
+
+* 3,557,579 aDAI - 0x53c3CA81EA03001a350166D2Cc0fcd9d4c1b7B62 ; Ethereum
+
+* 193,490 DAI - 0x939b67F6F6BE63E09B0258621c5A24eecB92631c ; Polygon
+
+Remaining Bonding Curve Fees (Ethereum)
+
+* 275,825 DAI - 0xFFE6280ae4E864D9aF836B562359FD828EcE8020
+
+DAO Foundation Rewards Pool (Polygon)
+
+* 9 DAI - 0x8c8E076Cd7D2A17Ba2a5e5AF7036c2b2B7F790f6
+
+Total – 4,042,712 DAI
+
+*Background Sources:*
+
+[https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026](https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026)
+
+[https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7](https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7)
+
+Option 1: YES. Convert all DAI to USDC
+
+Option 2: NO. Do not convert DAI to USDC
+
+**Voting Period:** 27 April - 5 May 2024
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x2d8df1e8ad91c9b928e9d0c319e8cabfef103e48fbc7a8933d889b1389a17873)
 
 <hr />
 
