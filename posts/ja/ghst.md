@@ -28,9 +28,9 @@ GHST is a fully compliant ERC20 token. You can view its contract address on Poly
 <ol>
 <li><a href=#why-ghst>なぜGHSTなのか？</a></li>
 <li><a href=#total-supply>Total supply</a></li>
-<li><a href=#using-ghst>GHSTを使う</a></li>
 <li><a href=#buying-ghst>GHSTを買う</a></li>
-<li><a href=#earning-ghst>GHSTを獲得する</a></li>
+<li><a href=#using-ghst>GHSTを使う</a></li>
+<li><a href=#is-ghst-decentralized->Is GHST decentralized?</a></li>
 </ol>
 
 </div>
@@ -38,31 +38,53 @@ GHST is a fully compliant ERC20 token. You can view its contract address on Poly
 ## なぜGHSTなのか？
 どんなプロジェクトでも、ユーザーのインセンティブは大きな役割を果たします。 この場合、GHSTはAavegotchiのエコシステムへの参加をより促すための経済的インセンティブを提供します。 具体的には、このトークンはAavegotchiDAO、GHST保有者、Aavegotchi保有者のそれぞれの目標を一致させるのに役立ちます。
 
-プレイヤーはGHSTを購入し、Aavegotchiの召喚やトレーニングの過程でそれを使用する必要があります。 その一部はそのままDAOに返却され、エコシステムの開発資金として提供されます。 同時に、価値の一部は、DAOにおける賢明なガバナンスのための報酬や、レアリティファーミングに従事するための報酬としても配布されます。
+Players have to buy GHST and spend it within the ecosystem. その一部はそのままDAOに返却され、エコシステムの開発資金として提供されます。 At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in [rarity farming](/rarity-farming).
 
 詳細については、[トークノミクスのページ](/tokenomics)を必ずご確認ください。
 
 ## Total supply
 
-The total supply of GHST token is 52,747,802 GHST. The token supply of GHST is fixed, and no more tokens will ever be minted.
+GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, in 2023, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token.
 
-## GHSTを使う
-GHSTを買って、wen moonと思う以外に何ができるのでしょうか？ GHSTの様々な使い方を知れば、売ることを考え直すかもしれません。
+Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
 
-例えば、以下のようなことです：
-
-* Aavegotchiを召喚するための[ポータル](/portals)を買う
-* Aavegotchiに装備させるための[ウェアラブル](/wearables)を買う
-* [REALM区画](/metaverse)の購入（詳細未定）
-* [GHSTをステーク](/staking)して、FRENSを作り、チケットを買って抽選で賞品が当たる
+As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
 
 ## GHSTを買う
-ウォレット（できればメタマスク）を用意してください。GHSTトークンを購入するには、いくつかの方法があります。
 
-* イーサリアムメインネットの[カーブ](/curve)から直接購入する（ただし、これにはKYCが必要で、残念ながら米国と中国の市民は対象外です）。
-* [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550)や[Matcha](https://matcha.xyz/markets/GHST)など、イーサリアムメインネット上の分散型取引所（DEX）から購入する。
-* [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)などのPolygon上の分散型取引所から購入する。
-* [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1)、[Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)などの中央集権型取引所（CEX）から購入する。
+There are 3 ways to get GHST.
+
+### Swap
+
+* Crosschain Swap
+
+* Quickswap
+
+* Uniswap
+
+Access the DEXes through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=swap).
+
+### Bridge
+
+* Superbridge — Bridge from Ethereum to Base
+
+* Gotchi Bridge — Bridge between Polygon and Ethereum
+
+* Polygon Bridge — Official Polygon Bridge
+
+* Umbria Bridge — Fast bridge with GHST liquidity
+
+Access the Bridges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=bridge).
+
+### Purchase
+
+* Binance
+
+* Crypto.com
+
+* Kraken
+
+Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=purchase).
 
 トークン・アドレスも正しく取得するようにしましょう。
 
@@ -72,14 +94,20 @@ GHSTを買って、wen moonと思う以外に何ができるのでしょうか�
 
 **これらのリンクは、他の公式に発表されたAavegotchiの情報源とも照らし合わせてください - 注意に越したことはありません。**
 
-## GHSTを獲得する
-誰しもがクジラではありませんが、DeFiの海にはたくさんのクジラがいます。
+## GHSTを使う
+GHSTを買って、wen moonと思う以外に何ができるのでしょうか？ GHSTの様々な使い方を知れば、売ることを考え直すかもしれません。
 
-がんばってGHSTを獲得することができます。 以下のような方法があります：
+例えば、以下のようなことです：
 
-* [レアリティファーミング](/rarity-farming)をする
-* [AavegotchiDAO](/dao)に参加・投票する。
-* [ミニゲーム](/minigames)で遊んで勝つ（詳細未定）
+* Aavegotchiを召喚するための[ポータル](/portals)を買う
+* Aavegotchiに装備させるための[ウェアラブル](/wearables)を買う
+* Buying [REALM parcels](/gotchiverse)
+* [Staking GHST](/staking) to earn daily GLTR rewards
+* Buying [Fake Gotchis](https://www.fakegotchis.com/)
+
+## Is GHST decentralized?
+
+Yes, GHST is a fully decentralized token, with no admin privileges or backdoors. Originally deployed under the ownership of AavegotchiDAO, when the bonding curve turned off, the DAO that maintained admin keys to GHST was also dismantled, meaning that no one owns the admin keys to GHST any longer. 
 
 
 
