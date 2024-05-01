@@ -22,6 +22,7 @@ contributors:
 </div>
 
 ## Year 2024
+
 ## [Aavegotchi Dev Update - April 2024](https://blog.aavegotchi.com/aavegotchi-dev-update-april-2024/)
 * Gotchichain chose to settle on Base, Spirit Force Arena has gotten EBIC updates, Gotchi Guardians leveled up with a whole new progression system, and moar in this April 2024 Update!
 <p></p>
