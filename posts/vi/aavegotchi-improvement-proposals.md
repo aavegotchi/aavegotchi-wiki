@@ -909,6 +909,8 @@ Option 2: Do not fund
 
 **Kết quả:**
 
+table_agip116
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x4ffa41a2ab80839e03bbc0eaa1d4f8b210f294aad043343809d4f8b36059f11a)
 
 <hr />
@@ -984,6 +986,8 @@ Option 2: No, do not fund.
 
 **Kết quả:**
 
+table_agip117
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xad9c32042678c6250507f602a57ea52846efe8391d781bc9476683e9347bef63)
 
 <hr />
@@ -1022,6 +1026,8 @@ Option 2: No, do not create the pool
 **Voting Period:** 26 April - 3 May 2024
 
 **Kết quả:**
+
+table_agip118
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xba11262fc75ec6b49dafcdfb55c6aa3395ce58c18aa377b6a955d695a27ff3f0)
 
@@ -1091,6 +1097,8 @@ Option 2: NO. Do not convert DAI to USDC
 **Voting Period:** 27 April - 5 May 2024
 
 **Kết quả:**
+
+table_agip119
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x2d8df1e8ad91c9b928e9d0c319e8cabfef103e48fbc7a8933d889b1389a17873)
 
