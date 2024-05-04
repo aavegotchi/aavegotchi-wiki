@@ -170,5 +170,53 @@ export const tables
 					["Do not fund FAKEwaar...", "3,000,000 GHST (29.34%)"]
 				]
             }
+        },
+		
+		{
+            tableName: "agip116",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Fund DAO Meetings", "8,700,000 GHST (76.99%)"],
+					["Do not fund", "2,600,000 GHST (23.01%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip117",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund it!", "10,000,000 GHST (88.31%)"],
+					["No, do not fund.", "1,400,000 GHST (11.69%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip118",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, create the pool", "9,200,000 GHST (94.36%)"],
+					["No, do not create the pool", "548,000 GHST (5.64%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip119",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["YES. Convert all DAI to USDC", "8,200,000 GHST (91.77%)"],
+					["NO. Do not convert DAI to USDC", "732,000 GHST (8.23%)"]
+				]
+            }
         }
     ]
