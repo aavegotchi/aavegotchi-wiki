@@ -52,6 +52,11 @@ contributors:
 <p><a href=#alchemical-channeling>Alchemical Channeling</a></p>
 <p><a href=#aesthetica>Aesthetica</a></p>
 <p><a href=#tile>Tile</a></p>
+<li><a href=#forge-specific>Forge-specific</a></li>
+<p><a href=#schematic>Schematic</a></p>
+<p><a href=#core>Core</a></p>
+<p><a href=#alloy>Alloy</a></p>
+<p><a href=#essence>Essence</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
@@ -68,7 +73,7 @@ contributors:
 <p><a href=#smart-contracts>Smart Contracts</a></p>
 <p><a href=#staking>Staking</a></p>
 <p><a href=#yield-farming>Yield Farming</a></p>
-<li><a href=#general-terms>通用术语</a></li>
+<li><a href=#general-terms>General Terms</a></li>
 <p><a href=#aragon>Aragon</a></p>
 <p><a href=#bell-curve>Bell Curve</a></p>
 <p><a href=#chainlink-vrf>Chainlink VRF</a></p>
@@ -196,6 +201,20 @@ A subset of Installations. Purely  a e s t h e t i c .
 ### Tile
 An ERC-1155 NFT that can be placed on a REALM parcel. Rests underneath the Installation layer.
 
+## Forge-specific
+
+### Schematic
+Schematics are the blueprints for each specific wearable. Each wearable contains a schematic inside of it.
+
+### Core
+Cores are what gives the wearable its [BRS](/rarity-farming#base-rarity-score) boosting power. Each Core represents two things: the rarity tier and the wearable slot.
+
+### Alloy
+Alloy is the substance which forms all wearables in the Gotchiverse. It controls the overall supply of wearables. Depending on what you’re Forging, you’re going to need different amounts of Alloy.
+
+### Essence
+If you want to craft Godlike items or Pets, you will need some Essence. The only way to obtain this mystical stuff is through Gotchi-sacrifice.
+
 ## DeFi 101
 
 "DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
@@ -228,7 +247,7 @@ Let's say you want to borrow some assets from a protocol. For this to happen, yo
 In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. DAICO是一种自治模式，在募资结束后，投资者对募集的资金拥有控制权。 投资者可以通过 "水龙头 "机制影响开发者如何获得资金，以及以何种频率获得资金。 此外，投资者还可以投票决定是否取消项目，并将资金返还。
+Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
 
 ### DAO
 Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
@@ -276,7 +295,7 @@ Very simply put, yield farming is a practice that allows users to earn rewards b
 This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
-## 通用术语
+## General Terms
 
 ### Aragon
 Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
@@ -291,7 +310,7 @@ Check out their [site](https://aragon.org/) here.
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
 ### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening, raffle prizes, and parcel surveying.
 
 Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 

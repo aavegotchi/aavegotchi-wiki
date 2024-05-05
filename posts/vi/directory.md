@@ -35,8 +35,6 @@ contributors:
 
 * [Nhạc Sĩ Baard](/baard)
 
-* [Baazaar](/baazaar)
-
 * [Bridge](/bridge)
 
 * [Cuộc thi](/contests)
@@ -50,6 +48,8 @@ contributors:
 * [Biệt Đội Ngân Quỹ DAO](/dao-treasury-taask-force)
 
 * [Developers](/developers)
+
+* [DROPT - The Fallen Gotchi](/dropt)
 
 * [Estaates](/estaates)
 
@@ -65,7 +65,11 @@ contributors:
 
 * [Thuật Ngữ](/glossary)
 
+* [Gotchi Battler](/gotchi-battler)
+
 * [Gotchi Lending](/gotchi-lending)
+
+* [Gotchichain](/gotchichain)
 
 * [Gotchiverse](/gotchiverse)
 
@@ -83,9 +87,11 @@ contributors:
 
 * [Kinship](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maTokens](/matokens)
+* [Lore](/lore)
+
+* [Marketplace](/marketplace)
 
 * [Media](/media)
 
@@ -128,6 +134,8 @@ contributors:
 * [Spirit Force History](/spirit-force-history)
 
 * [Staking](/staking)
+
+* [Strategotchi](/strategotchi)
 
 * [Team](/team)
 

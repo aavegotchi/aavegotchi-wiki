@@ -18,6 +18,7 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 <ol>
 <li><a href=#contract-addresses-on-mainnet>Contract Addresses on Mainnet</a></li>
 <li><a href=#contract-addresses-on-polygon>Contract Addresses on Polygon</a></li>
+<li><a href=#contract-addresses-on-mumbai-testnet>Contract Addresses on Mumbai Testnet</a></li>
 </ol>
 
 </div>
@@ -40,7 +41,9 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 * Tiles Diamond Address: [0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355](https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355)
 
-* Aavegotchi and Wearables Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://polygonscan.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+* Aavegotchi Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://polygonscan.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
+
+* Wearables Address: [0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f](https://polygonscan.com/address/0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f)
 
 ### Tokens Contracts
 
@@ -75,3 +78,33 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 * Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://polygonscan.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
 
 * Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://polygonscan.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
+
+* Tickets Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://polygonscan.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
+
+## Contract Addresses on Mumbai Testnet
+
+* Aavegotchi Diamond Contract: [0x83e73D9CF22dFc3A767EA1cE0611F7f50306622e](https://mumbai.polygonscan.com/address/0x83e73D9CF22dFc3A767EA1cE0611F7f50306622e)
+
+* Wearables Diamond Contract: [0x1b1bcB49A744a09aEd636CDD9893508BdF1431A8](https://mumbai.polygonscan.com/address/0x1b1bcB49A744a09aEd636CDD9893508BdF1431A8)
+
+* Forge Diamond Contract: [0x2E6cb85DD86141a2A284988E883fF377CA223afE](https://mumbai.polygonscan.com/address/0x2E6cb85DD86141a2A284988E883fF377CA223afE)
+
+* REALM Diamond Contract: [0xBcCf68d104aCEa36b1EA20BBE8f06ceD12CaC008](https://mumbai.polygonscan.com/address/0xBcCf68d104aCEa36b1EA20BBE8f06ceD12CaC008)
+
+* Installation Diamond Contract: [0x2fD1C70728f686AE5f30734C20924a0Db1Df14e6](https://mumbai.polygonscan.com/address/0x2fD1C70728f686AE5f30734C20924a0Db1Df14e6)
+
+* Tile Diamond Contract: [0xCbc2682E1Dd543557174c4168Ce33c7B358f5a1B](https://mumbai.polygonscan.com/address/0xCbc2682E1Dd543557174c4168Ce33c7B358f5a1B)
+
+### Tokens Contracts
+
+* GHST Token Address: [0xc93A55a39356BddA580036Ce50044C106Dd211c8](https://mumbai.polygonscan.com/address/0xc93A55a39356BddA580036Ce50044C106Dd211c8)
+
+* FUD Token Address: [0x1D349EB5c7FBC586892C8903B0565cf1684ef111](https://mumbai.polygonscan.com/address/0x1D349EB5c7FBC586892C8903B0565cf1684ef111)
+
+* FOMO Token Address: [0xd33259671Db89b82d6fFf0ed043FeCcEB6D72270](https://mumbai.polygonscan.com/address/0xd33259671Db89b82d6fFf0ed043FeCcEB6D72270)
+
+* ALPHA Token Address: [0xbC59FD59163E9F32Be1E1c836fBADd34525cf798](https://mumbai.polygonscan.com/address/0xbC59FD59163E9F32Be1E1c836fBADd34525cf798)
+
+* KEK Token Address: [0x419Cd8C320C485A2169C5Bc7FAA49f563Cd16B78](https://mumbai.polygonscan.com/address/0x419Cd8C320C485A2169C5Bc7FAA49f563Cd16B78)
+
+* GLTR Token Address: [0xcBcDae5769d31B468402e695a32277E29b1FEc06](https://mumbai.polygonscan.com/address/0xcBcDae5769d31B468402e695a32277E29b1FEc06)

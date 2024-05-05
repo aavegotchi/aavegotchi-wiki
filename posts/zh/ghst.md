@@ -7,6 +7,7 @@ image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
   - "appellants"
+  - "chinyh"
 ---
 
 <div class="headerImageContainer">
@@ -14,11 +15,11 @@ contributors:
 <p class="headerImageText">GHST 代幣</p>
 </div>
 
-Price action and trading is cool, but what else can you do with Aavegotchi’s native token, GHST?
+The GHST token is the eco-governance token that powers the whole Aavegotchi ecosystem.
 
-The token is meant to be used as the base ecosystem currency for the purchase of various on-chain Aavegotchi assets. These include Portals, wearables, consumables and collectibles, amongst other goods. Beyond this, GHST also has several other functions, such as staking and enabling players to vote in the DAO.
+Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
 
-Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer look at these shiny round purple boys.
+GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
 
@@ -26,9 +27,10 @@ Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer
 
 <ol>
 <li><a href=#why-ghst>Why GHST?</a></li>
-<li><a href=#using-ghst>Using GHST</a></li>
+<li><a href=#total-supply>Total supply</a></li>
 <li><a href=#buying-ghst>Buying GHST</a></li>
-<li><a href=#earning-ghst>Earning GHST</a></li>
+<li><a href=#using-ghst>Using GHST</a></li>
+<li><a href=#is-ghst-decentralized->Is GHST decentralized?</a></li>
 </ol>
 
 </div>
@@ -36,27 +38,53 @@ Load up your bags, fren – in this part of our Wiki, we’ll be taking a closer
 ## Why GHST
 User incentives play a huge part in any project. In this case, GHST provides the economic incentives to encourage greater participation in the Aavegotchi ecosystem. Specifically, the token helps to align the respective goals of the AavegotchiDAO, GHST holders, and Aavegotchi holders.
 
-Players have to buy GHST and spend it in the process of summoning and training Aavegotchis. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in rarity farming.
+Players have to buy GHST and spend it within the ecosystem. A portion of this is transferred directly back to the DAO to continue funding the development of the ecosystem. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in [rarity farming](/rarity-farming).
 
 For more information, make sure to check out the [Tokenomics page](/tokenomics).
 
-## Using GHST
-What can you do with GHST, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
+## Total supply
 
-These include:
+GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, in 2023, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token.
 
-* Buying [portals](/portals) to summon Aavegotchis
-* Buying [wearables](/wearables) to equip on your Aavegotchis
-* Buying [REALM parcels](/metaverse) (more information TBC)
-* [Stake GHST](/staking), make FRENS, buy tickets and win raffle prizes
+Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
+
+As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
 
 ## Buying GHST
-Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
 
-* Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
-* Buying it from Decentralized Exchanges on Ethereum Mainnet such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST)
-* Buying it from Decentralized Exchanges on Polygon such as [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
-* Buying it from Centralized Exchanges such as [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
+There are 3 ways to get GHST.
+
+### Swap
+
+* Crosschain Swap
+
+* Quickswap
+
+* Uniswap
+
+Access the DEXes through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=swap).
+
+### Bridge
+
+* Superbridge — Bridge from Ethereum to Base
+
+* Gotchi Bridge — Bridge between Polygon and Ethereum
+
+* Polygon Bridge — Official Polygon Bridge
+
+* Umbria Bridge — Fast bridge with GHST liquidity
+
+Access the Bridges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=bridge).
+
+### Purchase
+
+* Binance
+
+* Crypto.com
+
+* Kraken
+
+Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=purchase).
 
 Make sure you get the correct token address as well.
 
@@ -66,14 +94,20 @@ On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainne
 
 **Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 
-## Earning GHST
-Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
+## Using GHST
+What can you do with GHST, other than buy it and wonder wen moon? Plenty, and once you learn about the various ways to use GHST, we have a feeling you might just rethink selling.
 
-There are several ways to grind it out and earn GHST. These include:
+These include:
 
-* Engaging in [rarity farming](/rarity-farming)
-* Participate and vote in [AavegotchiDAO](/dao)
-* Playing and winning in [mini-games](/minigames) (more information TBC)
+* Buying [portals](/portals) to summon Aavegotchis
+* Buying [wearables](/wearables) to equip on your Aavegotchis
+* Buying [REALM parcels](/gotchiverse)
+* [Staking GHST](/staking) to earn daily GLTR rewards
+* Buying [Fake Gotchis](https://www.fakegotchis.com/)
+
+## Is GHST decentralized?
+
+Yes, GHST is a fully decentralized token, with no admin privileges or backdoors. Originally deployed under the ownership of AavegotchiDAO, when the bonding curve turned off, the DAO that maintained admin keys to GHST was also dismantled, meaning that no one owns the admin keys to GHST any longer. 
 
 
 

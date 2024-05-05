@@ -1,68 +1,87 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace'
-description: 'Aavegotchi Marketplaces'
+date: 2014-04-26T22:00:00.000Z
+title: Marketplace
+description: Aavegotchi Marketplace
 contributors:
-  - "unintelligent-nerd"
+  - unintelligent-nerd
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/marketplace/baazaar.gif">
-<p class="headerImageText">The Baazaar</p>
+<img class="headerImage" src="/marketplace/marketplace.gif">
+<p class="headerImageText">The Marketplace</p>
 </div>
 
-"Psst.....you there"
+“Любезный, не проходи мимо. Есть все, чего душа желает”.
 
-The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
+Торговец Gotchi размахивает руками и манит тебя к своему прилавку. С задорным блеском в глазах говорит:
 
-"I have something aamazing for you."
+“У меня есть для тебя нечто удивительное!”
 
-The Merchant Gotchi brings out a cloth-covered object. Slowly, he pulls away the cloth. The object catches the sun's rays and shines in the bright afternoon sun.
+Он достает небольшой предмет, завернутый в ткань. Аккуратно разворачивает ее. И, попав под яркие полуденные лучи, у него в руках переливается всеми цветами радуги огромный драгоценный камень.
 
-".....A Mudgen Diamond" you whisper to yourself.
+“Вот этот алмаз” — восторгаешься ты, протягивая руки к чуду.
 
-The marvellous shine catches the attention of countless bystanders.
+Чудесное сияние не осталось незамеченным. Вокруг собирается толпа.
 
-Another Gotchi shoves in. "I'll have it!"
+Вот уже другой Готчи тянет свои загребущие руки… Хочу, хочу!!!
 
-"NO! I'LL HAVE IT!"
+Но ты проворней. С воплем “Моя Прелесть!” ты прячешь сокровище, заплатив за него звонкой монетой…
 
-This, my Frens, is the Aavegotchi Baazaar. Are you savvy enough to spot and snap up a good deal fast? Can you stand the heat of haggling your way to riches?
+This, my Frens, is the Aavegotchi Marketplace. Интересно, хватит ли у тебя смекалки среди десятков других распознать выгодную сделку. И хватит ли терпения выдержать жаркую торговлю на пути к богатству?
 
-Come and test your mettle! Buyers and sellers alike!
+Заходи и проверь! Ты можешь быть как продавцом, так и покупателем.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
-<li><a href=#collection-addresses>Collection Addresses</a></li>
-<li><a href=#precautions>Precautions</a></li>
+<li><a href=#aavegotchi-marketplace>Aavegotchi Marketplace</a></li>
+<li><a href=#features>Features</a></li>
+<li><a href=#secondary-marketplaces>Secondary Marketplaces</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Baazaar
+## Aavegotchi Marketplace
 
-The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+The Aavegotchi Marketplace is the official secondary marketplace for Aavegotchi. Здесь можно продать все лишнее. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Marketplace. Комиссия введена для предотвращения заспамливания Polygon. This 0.1 GHST neither goes to Pixelcraft Studios nor to [AavegotchiDAO](/dao). Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
+После продажи товара вы получите на свой кошелек 96,5%.  Оставшиеся токены в количестве 3,5% попадают:
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+- Команде Pixelcraft Studios — 2%.
+- Аавеготчи DAO — 1%.
+- Пулу наград за фарминг — 0,5%.
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+Продажа товара производится минимум за 1 GHST. Если вы хотите поставить цену ниже, укажите несколько товаров общей ценой в 1 GHST или выше.
 
-## Collection Addresses
+При этом покупатель может купить как весь лот, так и несколько позиций в списке.
 
-The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
+<img class = "bodyImage" src = "/marketplace/aavegotchi-marketplace.png" alt = "Aavegotchi Marketplace">
 
-table_smartcontracts
+The Aavegotchi Marketplace can be found [here](https://dapp.aavegotchi.com/baazaar/aavegotchis).
 
-## Precautions
+## Фичи.
 
-It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
+There are a variety of products listed on the Marketplace:
 
-* Always double-check that the contract address for the items are coming from the correct contract addresses.
-* If you're unsure about something, go to the [official Aavegotchi Discord](https://discord.com/invite/NPwnWB6), where there's always frenly Aapprentices ready to help!
+- Aavegotchis
+- [Wearables](/wearables)
+- Расходники.
+- [Portals](/portals)
+- [Forge items](/forge)
+- Лотерейные билеты.
+- Gotchiverse Parcels
+- Gotchiverse Tiles
+- Gotchiverse Installations
+- [FAKE Gotchis](https://www.fakegotchis.com/)
+- FAKE Cards
+
+The Marketplace comes equipped with filter functions to help buyers narrow down their choices.
+
+## Secondary Marketplaces
+
+Besides the official Aavegotchi Marketplace, there are other secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
+
+As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.

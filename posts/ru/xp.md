@@ -17,6 +17,7 @@ contributors:
 <li><a href=#gaining-xp>Gaining XP</a></li>
 <li><a href=#formula>ФОРМУЛА</a></li>
 <li><a href=#experience-table>Experience Table</a></li>
+<li><a href=#claiming-xp>Claiming XP</a></li>
 <li><a href=#tracking-xp-received>Tracking XP received</a></li>
 <li><a href=#xp-requirements-for-joining-guilds>XP Requirements for joining Guilds</a></li>
 </ol>
@@ -49,6 +50,12 @@ The maximum level that an aavegotchi could attain is 99. Any changes to the maxi
 *Note: Aavegotchis start at Level 1. "Level 0" is included in the table for individuals who are interested to apply the formula and observe how XP computation works.*
 
 table_XP
+
+## Claiming XP
+
+XP has to be manually claimed at https://dapp.aavegotchi.com/u/[XXXXX]/xp.
+
+Replace XXXXX with your wallet address in the url above.
 
 ## Tracking XP received
 

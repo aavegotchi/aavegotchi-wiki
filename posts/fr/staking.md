@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2020-04-23'
 title: 'Staking'
-description: 'Stake du GHST, gagne des FRENS'
+description: 'Stake GHST, Become GLTRy'
 contributors:
   - "mudgen"
   - "unintelligent-nerd"

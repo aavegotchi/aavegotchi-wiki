@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
+Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Wearables conform to the ERC-1155 standard.
 
 This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Each wearable comes with 4 different views (front, right, left, and back).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
 
@@ -66,6 +66,8 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 <li><a href=#partnerships-set>Partnerships Set</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 </ol>
 
 </div>
@@ -139,7 +141,7 @@ table_farmerWearablesTable
 
 ## Santa Wearables Set
 
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
@@ -246,3 +248,11 @@ table_partnershipsTable
 ## DeFi RPG Wearables
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table

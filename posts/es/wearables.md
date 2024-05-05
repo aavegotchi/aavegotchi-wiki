@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">Los cuadros azules de Sergey</p>
 </div>
 
-Los equipables son un componente importante del juego Aavegotchi. Además de dotar a tus Aavegotchi de un sentido de la moda, los vestidos también aumentan los rasgos de Aavegotchi y la puntuación de rareza, permitiéndoles mejorar su desempeño en [mini-juegos](/minigames), así como en [rarity farming](/rarity-farming).
+Los equipables son un componente importante del juego Aavegotchi. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Los vestidos se ajustan al estándar ERC-1155.
 
 Esta página contiene información detallada sobre cada equipable que ha sido confirmado en el juego Aavegotchi.
 
-El diseño de los equipables es realizado por [Xibot](/team#xibot) y nuestro equipo de [aartistas de la comunidad](/aartist). Cada equipable viene con 4 vistas diferentes (delante, derecha, izquierda y atrás).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Cada equipable viene con 4 vistas diferentes (delante, derecha, izquierda y atrás).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Equipables de Aavegotchi - 4 vistas" />
 
@@ -66,6 +66,8 @@ Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets
 <li><a href=#haunt-2-wearables>Equipables Ritual 2</a></li>
 <li><a href=#partnerships-set>Set de Partnerships</a></li>
 <li><a href=#defi-rpg-wearables>RPG DeFi Equipables</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 </ol>
 
 </div>
@@ -89,13 +91,13 @@ Mira [rasgos](/traits) para más información sobre este tema.
 
 Los equipables se puede añadir o quitar en cualquier momento. Equipar/desequipar puede afectar a la [rareza general](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) de un Aavegotchi:
 
-table_wearablesBRStable
+tabla_vestiblesBRestables
 
 ## Poder de voto
 
 Con el paso de [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), los dquipables ahora tienen poder de voto en [AavegotchiDAO](/dao). El poder de voto (medido en GHST) de un determinado equipable se basa en su tipo de rareza/[Maall](/maall) precio.
 
-table_wearablesVotingPower
+tabla_usarablesPoder de voto
 
 ## Armas
 
@@ -115,7 +117,7 @@ table_linkWearablesTable
 
 El conjunto temático Aave-se distribuyó en el segundo de los tres Raffles anteriores al lanzamiento, celebrado el 8 de diciembre de 2020. Esta impresionante colección celebra el vínculo entre Aavegotchi y la comunidad Aave y el equipo de liderazgo.
 
-table_aaveWearablesTable
+tabla_aaveWearablesTable
 
 ## Set temático Ethereum
 
@@ -139,7 +141,7 @@ table_farmerWearablesTable
 
 ## Set de Santa
 
-Uno de nuestros amigos accidentalmente envió 4000 LINK (~$50,000) al Contrato de Staking de GHST. Recaudamos fondos de nuestra comunidad para ayudarle. Cualquiera que haya donado más de $20 en CUALQUIER token ERC20 a SantaGotchi.eth será lanzado un sombrero Santagotchi de edición limitada. Vea [aquí](https://twitter.com/aavegotchi/status/1339738554906243072) para más información. ¡Las fotos del equipable estarán en breve! Otros artículos en el set de equipables de Santa también estarán disponibles pronto.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. Recaudamos fondos de nuestra comunidad para ayudarle. Cualquiera que haya donado más de $20 en CUALQUIER token ERC20 a SantaGotchi.eth será lanzado un sombrero Santagotchi de edición limitada. Vea [aquí](https://twitter.com/aavegotchi/status/1339738554906243072) para más información. ¡Las fotos del equipable estarán en breve! Otros artículos en el set de equipables de Santa también estarán disponibles pronto.
 
 table_santaWearablesTable
 
@@ -246,3 +248,11 @@ table_partnershipsTable
 ## RPG DeFi Equipables
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table

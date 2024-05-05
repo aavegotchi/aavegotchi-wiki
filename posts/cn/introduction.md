@@ -61,7 +61,7 @@ Aavegotchis 是生活在以太坊区块链上的稀有加密收藏品，它也�
 
 ## Aavegotchi 的价值
 
-Aavegotchi 的价值来源于它的内在价值和稀有价值。
+The valuation of an Aavegotchi comes from both its intrinsic value and from its rarity value.
 
 * **内在价值**： 内在价值是指 Aavegotchi 的质押价值。 如果 Aavegotchi 以10个 aDAI 作为质押，那么其内在价值就是10个 aDAI 再加上借贷池中产生的额外收益的 aDAI。 项目初期的时候，只有在 Aave 平台上的 ERC20 代币（aTokens）才能作为抵押品， 随着 AavegotchiDAO 的推出，社区将能够投票决定引入哪些新的抵押品。 
 

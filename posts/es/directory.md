@@ -35,8 +35,6 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Baard](/baard)
 
-* [Bazar](/baazaar)
-
 * [Bridge](/bridge)
 
 * [Contests](/contests)
@@ -50,6 +48,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 * [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
 * [Developers](/developers)
+
+* [DROPT - The Fallen Gotchi](/dropt)
 
 * [Fincas](/estaates)
 
@@ -65,7 +65,11 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Glossary](/glossary)
 
+* [Gotchi Battler](/gotchi-battler)
+
 * [Alquiler de Gotchi](/gotchi-lending)
+
+* [Gotchichain](/gotchichain)
 
 * [Gotchiverso](/gotchiverse)
 
@@ -83,9 +87,11 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Kinship](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maTokens](/matokens)
+* [Lore](/lore)
+
+* [Marketplace](/marketplace)
 
 * [Multimedia](/media)
 
@@ -128,6 +134,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 * [Spirit Force History](/spirit-force-history)
 
 * [Staking](/staking)
+
+* [Strategotchi](/strategotchi)
 
 * [Equipo](/team)
 

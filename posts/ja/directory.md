@@ -35,8 +35,6 @@ Avegotchi Wikiのページ一覧です：
 
 * [Baard (ミュージシャン)](/baard)
 
-* [Baazaar](/baazaar)
-
 * [Bridge](/bridge)
 
 * [コンテスト](/contests)
@@ -50,6 +48,8 @@ Avegotchi Wikiのページ一覧です：
 * [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
 * [Developers](/developers)
+
+* [DROPT - The Fallen Gotchi](/dropt)
 
 * [Estaates（エステート）](/estaates)
 
@@ -65,7 +65,11 @@ Avegotchi Wikiのページ一覧です：
 
 * [用語解説](/glossary)
 
+* [Gotchi Battler](/gotchi-battler)
+
 * [ゴッチ・レンディング](/gotchi-lending)
+
+* [Gotchichain](/gotchichain)
 
 * [ゴッチバース](/gotchiverse)
 
@@ -83,9 +87,11 @@ Avegotchi Wikiのページ一覧です：
 
 * [キンシップ](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maToken](/matokens)
+* [Lore](/lore)
+
+* [Marketplace](/marketplace)
 
 * [メディア（Media）](/media)
 
@@ -128,6 +134,8 @@ Avegotchi Wikiのページ一覧です：
 * [Spirit Force History](/spirit-force-history)
 
 * [ステーキング](/staking)
+
+* [Strategotchi](/strategotchi)
 
 * [チーム](/team)
 
