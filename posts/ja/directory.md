@@ -135,6 +135,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [ステーキング](/staking)
 
+* [Strategotchi](/strategotchi)
+
 * [チーム](/team)
 
 * [九人の達人](/the-nine-aadepts)
