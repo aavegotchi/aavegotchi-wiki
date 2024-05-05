@@ -135,6 +135,8 @@ contributors:
 
 * [Staking](/staking)
 
+* [Strategotchi](/strategotchi)
+
 * [Team](/team)
 
 * [The Nine Aadepts](/the-nine-aadepts)
