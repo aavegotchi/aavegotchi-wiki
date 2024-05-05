@@ -135,6 +135,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Staken](/staking)
 
+* [Strategotchi](/strategotchi)
+
 * [Team](/team)
 
 * [De Negen Aadepten](/the-nine-aadepts)
