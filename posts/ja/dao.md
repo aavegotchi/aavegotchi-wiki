@@ -72,7 +72,7 @@ AavegotchiDAOのV1.5。 [ジェネシス](/dao#genesis)と[メタモルフォー
 
 コクーンステージでは、2種類の投票を行うことができます：(1) シグナル提案（Signal Proposal）、(2) コア提案（Core Proposal）の2種類です。
 
-シグナル提案は、[Snapshot](https://snapshot.page/#/aavegotchi.eth)のコミュニティー（Community）タブに誰でも投稿することができます。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 シグナル提案を思いつく前に、Discordや[Discourse/AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でコミュニティと議論することが必須となります。 その理由は、さらにアイデアを練って、シグナル提案を進めるに値するサポートがあるかどうかを発見するためです。 [「シグナル提案の作成」](/dao#creating-signal-proposals)にあるテンプレートにしたがってください。
+シグナル提案は、[Snapshot](https://snapshot.org/#/aavegotchi.eth)のコミュニティー（Community）タブに誰でも投稿することができます。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 シグナル提案を思いつく前に、Discordや[Discourse/AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でコミュニティと議論することが必須となります。 その理由は、さらにアイデアを練って、シグナル提案を進めるに値するサポートがあるかどうかを発見するためです。 [「シグナル提案の作成」](/dao#creating-signal-proposals)にあるテンプレートにしたがってください。
 
 シグナル提案は、提案作成時にPolygonで投票できる流通GHSTの20%に達する定足数で前者が可決されると、コア提案に格上げされることになります。
 
@@ -135,7 +135,7 @@ AavegotchiDAOガバナンス・フォーラムは Discourse を使用してい�
 
 *コクーン*ステージには2種類の企画案があります：
 
-* **シグナル提案（Signal Proposal）** - 誰でも投稿可能な提案。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Discordの#🌱dao-discussionチャンネル、または[AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でアイデアを共有し、他のコミュニティメンバーと議論してください。 提案の詳細が決まったら、AavegotchiDAOフォーラムに公式スレッドを作成し、以下の[「シグナル提案の作成」](/dao#creating-signal-proposals)で説明されているフレームワークを使用してください。 その後、[スナップショット](https://snapshot.page/#/aavegotchi.eth)で投票を行ってください。
+* **シグナル提案（Signal Proposal）** - 誰でも投稿可能な提案。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Discordの#🌱dao-discussionチャンネル、または[AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でアイデアを共有し、他のコミュニティメンバーと議論してください。 提案の詳細が決まったら、AavegotchiDAOフォーラムに公式スレッドを作成し、以下の[「シグナル提案の作成」](/dao#creating-signal-proposals)で説明されているフレームワークを使用してください。 その後、[スナップショット](https://snapshot.org/#/aavegotchi.eth)で投票を行ってください。
 
 * **コア提案（Core Proposal）** - シグナル提案が20%以上の定足数（ポリゴン上で投票可能な流通GHSTの量）を達成した場合、Pixelcraftはこれらの提案をコア提案として再提案します。 これらの投票には拘束力があり、参加者への[XP](/traits#experience)報酬の対象となります。
 
@@ -196,7 +196,7 @@ AavegotchiDAOガバナンス・フォーラムは Discourse を使用してい�
 
 ### スナップショット投票
 
-スナップショットはイーサリアム上の投票DAppです。 スナップショットで行われる投票はガスを必要とせず、オンチェーンでもありません。 Aavegotchiのスナップショットのページは[こちら](https://snapshot.page/#/aavegotchi.eth)です。
+スナップショットはイーサリアム上の投票DAppです。 スナップショットで行われる投票はガスを必要とせず、オンチェーンでもありません。 Aavegotchiのスナップショットのページは[こちら](https://snapshot.org/#/aavegotchi.eth)です。
 
 スナップショットで投票を行うには、以下の手順で行います：
 
