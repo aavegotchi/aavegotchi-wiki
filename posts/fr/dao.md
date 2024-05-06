@@ -72,7 +72,7 @@ Ses caractéristiques principales sont les suivantes :
 
 Il y a deux types de votes à l'étape Cocoon: (1) Proposition de signal, et (2) Proposition fondamentale (Core).
 
-Une proposition Signal peut être postée par n'importe qui dans l'onglet Communauté sur [Snapshot](https://snapshot.page/#/aavegotchi.eth). Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Avant de présenter une proposition Signal, il est obligatoire d'en discuter avec la communauté sur Discord et/ou [Discours/AavegotchiDAO Forum](https://dao.aavegotchi.com/). Le raisonnement est de continuer à s'organiser et de découvrir s'il y a un soutien digne à faire avancer la proposition de signal. Veuillez suivre le modèle trouvé dans la section [Créer des propositions de Signal](/dao#creating-signal-proposals).
+A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Avant de présenter une proposition Signal, il est obligatoire d'en discuter avec la communauté sur Discord et/ou [Discours/AavegotchiDAO Forum](https://dao.aavegotchi.com/). Le raisonnement est de continuer à s'organiser et de découvrir s'il y a un soutien digne à faire avancer la proposition de signal. Veuillez suivre le modèle trouvé dans la section [Créer des propositions de Signal](/dao#creating-signal-proposals).
 
 La proposition Signal sera mise à niveau vers une proposition de base dès que la première aura atteint un quorum atteignant 20 % de la circulation de GHST pouvant voter sur Polygon au moment de la création de la proposition.
 
@@ -135,7 +135,7 @@ Vous pouvez trouver le Forum [ici](https://dao.aavegotchi.com/).
 
 Il y a 2 types de propositions à l'étape *Cocoon*:
 
-* **Proposition Signal** - Une proposition qui peut être postée par n'importe qui. Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Partagez votre idée de proposition et discutez-la avec d'autres membres de la communauté sur le canal #🌱dao-discussion sur Discord ou sur le [Forum AavegotchiDAO](https://dao.aavegotchi.com/). Une fois que vous avez finalisé les détails de votre proposition, créer un fil de discussion officiel sur le forum AavegotchiDAO en utilisant le cadre décrit dans la section [Créer des propositions de signaux](/dao#creating-signal-proposals) ci-dessous. Après quoi, créez un vote pour cela sur [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **Proposition Signal** - Une proposition qui peut être postée par n'importe qui. Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Partagez votre idée de proposition et discutez-la avec d'autres membres de la communauté sur le canal #🌱dao-discussion sur Discord ou sur le [Forum AavegotchiDAO](https://dao.aavegotchi.com/). Une fois que vous avez finalisé les détails de votre proposition, créer un fil de discussion officiel sur le forum AavegotchiDAO en utilisant le cadre décrit dans la section [Créer des propositions de signaux](/dao#creating-signal-proposals) ci-dessous. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
 
 * **Proposition de base** – Si une proposition de signal atteint 20% ou plus de quorum (quantité de GHST circulante éligible au vote sur Polygon), Pixelcraft réintroduira la proposition en tant que proposition principale. Ces votes sont liés et sont éligibles aux récompenses [XP](/traits#experience) pour les participants.
 
@@ -196,7 +196,7 @@ There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
 
 ### Snapshot Voting
 
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot is a voting DApp on Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.org/#/aavegotchi.eth).
 
 To vote on Snapshot, follow the steps below:
 
