@@ -8,6 +8,7 @@ contributors:
   - "vanilladelphia"
   - "cinnabarhorse"
   - "hackingmoneyph"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -29,7 +30,6 @@ Aavegotchi volgt in de voetstappen van succesvolle DeFi protocollen zoals Compou
 <li><a href=#metamorphosis>Metamorfose</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Deelnemen aan Governance</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
 <li><a href=#type-of-proposals>Type Voorstellen</a></li>
 <li><a href=#vote-differentials>Stem Verschillen</a></li>
 <li><a href=#creating-signal-proposals>Signal Proposals maken</a></li>
@@ -72,7 +72,7 @@ Kenmerken houden in:
 
 Er zijn twee soorten stemmen in de Cocoon-fase: (1) Signaal-voorstel en (2) Core-voorstel.
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Voordat je met een Signal Voorstel komt, is het verplicht om het te bespreken met de gemeenschap op Discord en/of [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). De redenering is om verder te gaan en te ontdekken of er de nodige steun is om verder te gaan met het Signaal-voorstel. Volg het sjabloon gevonden in de [Signaal Voorstellen sectie](/dao#creating-signal-proposals).
+A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. De redenering is om verder te gaan en te ontdekken of er de nodige steun is om verder te gaan met het Signaal-voorstel. Volg het sjabloon gevonden in de [Signaal Voorstellen sectie](/dao#creating-signal-proposals).
 
 Het Signaalvoorstel zal worden opgewaardeerd tot een kernvoorstel, zodra dit met een quorum van 20 procent van het aantal circulerende GHST dat in aanmerking komt om te stemmen op Polygon op het moment dat het voorstel wordt ingediend.
 
@@ -117,25 +117,17 @@ Kenmerken houden in:
 ## Deelnemen aan Governance
 Ik ben wakker! Dus hoe neem ik deel aan de AavegotchiDAO? Wij staan voor je klaar, Fren!
 
-* Je kunt deelnemen aan de discussies in het [AavegotchiDAO forum](https://dao.aavegotchi.com/) of het #🌱dao-discussie kanaal op Discord. We heten iedereen welkom!
+* You can participate in the discussions in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. We heten iedereen welkom!
 
 * Deelnemen aan de stemming in AavegotchiDAO (wanneer ze beschikbaar zijn!)
 
 * De [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details over de lijst van DAO functies die leden kunnen aanroepen en gebruiken om wijzigingen waar gestemd is uit te voeren. Laten we bijvoorbeeld zeggen dat asUSD is gestemd als een [onderpand](/posts/atokens). AavegotchiDAO zou de wijziging kunnen implementeren door gebruik te maken van de functie `addCollateralTypes()` en het specificeren van asUSD binnen de functie.
 
-## AavegotchiDAO Forum
-
-Het AavegotchiDAO Governance Forum wordt aangedreven door Discord. Dit forum zal helpen om de discussie te centraliseren over belangrijke onderwerpen in verband met Aavegotchi spelmechanisme, financieringsverzoeken en andere voorstellen.
-
-We hopen dat de #GotchiGang een model kan worden voor DAO-spellen in de toekomst, dus doe mee en onthoud je dat je uitkijkt voor je mededelingen.
-
-Het Forum kan gevonden worden [hier](https://dao.aavegotchi.com/).
-
 ## Type Voorstellen
 
 Er zijn 2 soorten voorstellen in de *Cocoon* fase:
 
-* **Signaal Voorstel** - Een voorstel dat door iedereen kan worden geplaatst. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Deel je voorstel en bespreek het met andere leden van de gemeenschap via het #🌱dao-discussie kanaal op Discord of in het [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Zodra je de details van je voorstel hebt afgerond, maak een officiële thread voor het op het AavegotchiDAO forum met behulp van het framework beschreven in het [Signaal Voorstellen](/dao#creating-signal-proposals) gedeelte hieronder. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
+* **Signaal Voorstel** - Een voorstel dat door iedereen kan worden geplaatst. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Share your proposal idea and discuss it with other community members in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Once you have finalized the details of your proposal, create an official thread for it on the DAO channel using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
 
 * **Kernvoorstel** - Als een signaalvoorstel 20% of groter quorum bereikt (hoeveelheid circulerende GHST in aanmerking om te stemmen op Polygon), Pixelcraf introduceert het voorstel opnieuw als een kernvoorstel. Deze stemmen zijn bindend en komen in aanmerking voor [XP](/traits#experience) beloningen voor deelnemers.
 
@@ -180,7 +172,7 @@ Voor COCON zullen we beginnen met de volgende stem Differentiële parameters en 
 Om signaalvoorstellen te maken waarop de #GotchiGang kan stemmen, moet u zich houden aan het volgende formaat:
 
 * Auteur + GotchiID
-* Link naar de overeenkomende Discord thread (Voorstellen zonder significante discussie in het forum worden automatisch verwijderd van Snapshot)
+* Link to the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) thread on Discord (Proposals without significant discussion will be automatically removed from Snapshot)
 * Samenvatting (inclusief rationele, tijdlijn, doelstellingen en belangrijke prestatie-indicatoren) Kopie/plak voorstellen van bestaande voorstellen zullen worden verwijderd, terwijl voorstellen met gelijksoortige maar specifieke variaties naast elkaar mogen bestaan.
 * Effect
 * Markeer einddoel en voordelen
@@ -191,10 +183,6 @@ Om signaalvoorstellen te maken waarop de #GotchiGang kan stemmen, moet u zich ho
 Meer details zijn te vinden in dit [Medium bericht](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
 ## Stemmen
-
-Er zijn twee manieren om te stemmen: (1) Snapshot Stemming en/of (2) Aragon.
-
-### Snapshot Stemming
 
 Snapshot is een stem-DApp op Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.org/#/aavegotchi.eth).
 
@@ -216,36 +204,9 @@ Om te stemmen op Snapshot, volg de onderstaande stappen:
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "onderteken Snapshot Stemming transactie" />
 
-### Aragon stemmen
-
-Aragon is een hulpmiddel voor het creëren en deelnemen aan gedecentraliseerde organisaties bij Ethereum. Stemmen die zijn gemaakt op Aragon, vereisen gas en bestaan op on-chain.
-
-Aavegotchi's Snapshot pagina kan je [hier](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/) vinden.
-
-Om via Aragon te stemmen, volg de onderstaande stappen:
-
-1). Ga naar een open voorstel.
-
-2). Verbind uw Wallet.
-
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Stemming Ethereum" />
-
-3). Kies om "Ja" of "Nee" te stemmen
-
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Stemming Ethereum" />
-
-4). Uw Metamask zal verschijnen. Houd er rekening mee dat uw transactie gemind moet worden om te worden bevestigd, dus raadpleeg een site als [gas](https://gasnow.org/) over de nieuwste gasprijs.
-
-5). Zodra uw transactie is gemined, zal uw stem overeenkomstig worden weergegeven.
-
-
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Stemming Ethereum" />
-
 ## Aavegotchi Verbetervoorstellen (AGIP's)
 
-Zie je die stemmen op Aragon? Dat zijn Aavegotchi verbetervoorstellen (AGIP's)!
-
-Bezoek de [Aavegotchi verbeteringsvoorstellen](/aavegotchi-improvement-proposals) pagina voor een lijst met historische stemmen. Als je op de hoogte wilt worden gebracht van toekomstige voorstellen, volg dan [Aavegotchi op social media](/socialmedia).
+Bezoek de [Aavegotchi verbeteringsvoorstellen](/aavegotchi-improvement-proposals) pagina voor een lijst met historische stemmen.
 
 Stem op AGIPs en krijg er[POAP badges](/poap) voor!
 
