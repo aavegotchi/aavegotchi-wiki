@@ -72,7 +72,7 @@ Kenmerken houden in:
 
 Er zijn twee soorten stemmen in de Cocoon-fase: (1) Signaal-voorstel en (2) Core-voorstel.
 
-Een signaalvoorstel kan door iedereen op het tabblad [Snapshot](https://snapshot.page/#/aavegotchi.eth) worden geplaatst. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Voordat je met een Signal Voorstel komt, is het verplicht om het te bespreken met de gemeenschap op Discord en/of [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). De redenering is om verder te gaan en te ontdekken of er de nodige steun is om verder te gaan met het Signaal-voorstel. Volg het sjabloon gevonden in de [Signaal Voorstellen sectie](/dao#creating-signal-proposals).
+Een signaalvoorstel kan door iedereen op het tabblad [Snapshot](https://snapshot.org/#/aavegotchi.eth) worden geplaatst. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Voordat je met een Signal Voorstel komt, is het verplicht om het te bespreken met de gemeenschap op Discord en/of [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). De redenering is om verder te gaan en te ontdekken of er de nodige steun is om verder te gaan met het Signaal-voorstel. Volg het sjabloon gevonden in de [Signaal Voorstellen sectie](/dao#creating-signal-proposals).
 
 Het Signaalvoorstel zal worden opgewaardeerd tot een kernvoorstel, zodra dit met een quorum van 20 procent van het aantal circulerende GHST dat in aanmerking komt om te stemmen op Polygon op het moment dat het voorstel wordt ingediend.
 
@@ -135,7 +135,7 @@ Het Forum kan gevonden worden [hier](https://dao.aavegotchi.com/).
 
 Er zijn 2 soorten voorstellen in de *Cocoon* fase:
 
-* **Signaal Voorstel** - Een voorstel dat door iedereen kan worden geplaatst. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Deel je voorstel en bespreek het met andere leden van de gemeenschap via het #🌱dao-discussie kanaal op Discord of in het [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Zodra je de details van je voorstel hebt afgerond, maak een officiële thread voor het op het AavegotchiDAO forum met behulp van het framework beschreven in het [Signaal Voorstellen](/dao#creating-signal-proposals) gedeelte hieronder. Daarna kun je een stem voor het maken op [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **Signaal Voorstel** - Een voorstel dat door iedereen kan worden geplaatst. Deze stemmingen zijn niet bindend, maar als het quorum is bereikt, zal het voorstel automatisch worden opgewaardeerd tot een bindend kernvoorstel. Deel je voorstel en bespreek het met andere leden van de gemeenschap via het #🌱dao-discussie kanaal op Discord of in het [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Zodra je de details van je voorstel hebt afgerond, maak een officiële thread voor het op het AavegotchiDAO forum met behulp van het framework beschreven in het [Signaal Voorstellen](/dao#creating-signal-proposals) gedeelte hieronder. Daarna kun je een stem voor het maken op [Snapshot](https://snapshot.org/#/aavegotchi.eth).
 
 * **Kernvoorstel** - Als een signaalvoorstel 20% of groter quorum bereikt (hoeveelheid circulerende GHST in aanmerking om te stemmen op Polygon), Pixelcraf introduceert het voorstel opnieuw als een kernvoorstel. Deze stemmen zijn bindend en komen in aanmerking voor [XP](/traits#experience) beloningen voor deelnemers.
 
@@ -196,7 +196,7 @@ Er zijn twee manieren om te stemmen: (1) Snapshot Stemming en/of (2) Aragon.
 
 ### Snapshot Stemming
 
-Snapshot is een stem-DApp op Ethereum. Stemmen op Snapshot vereisen geen gas en zijn niet on-chain. Aavegotchi's Snapshot pagina kan je [hier](https://snapshot.page/#/aavegotchi.eth) vinden.
+Snapshot is een stem-DApp op Ethereum. Stemmen op Snapshot vereisen geen gas en zijn niet on-chain. Aavegotchi's Snapshot pagina kan je [hier](https://snapshot.org/#/aavegotchi.eth) vinden.
 
 Om te stemmen op Snapshot, volg de onderstaande stappen:
 
