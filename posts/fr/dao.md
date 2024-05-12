@@ -8,6 +8,7 @@ contributors:
   - "vanilladelphia"
   - "cinnabarhorse"
   - "hackingmoneyph"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -29,7 +30,6 @@ Aavegotchi suit les traces de protocoles DeFi réussis tels que Compound et Synt
 <li><a href=#metamorphosis>Métamorphose</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Participer à la gouvernance</a></li>
-<li><a href=#aavegotchidao-forum>Forum AavegotchiDAO</a></li>
 <li><a href=#type-of-proposals>Type de propositions</a></li>
 <li><a href=#vote-differentials>Différences de vote</a></li>
 <li><a href=#creating-signal-proposals>Création de propositions Signal</a></li>
@@ -72,7 +72,7 @@ Ses caractéristiques principales sont les suivantes :
 
 Il y a deux types de votes à l'étape Cocoon: (1) Proposition de signal, et (2) Proposition fondamentale (Core).
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Avant de présenter une proposition Signal, il est obligatoire d'en discuter avec la communauté sur Discord et/ou [Discours/AavegotchiDAO Forum](https://dao.aavegotchi.com/). Le raisonnement est de continuer à s'organiser et de découvrir s'il y a un soutien digne à faire avancer la proposition de signal. Veuillez suivre le modèle trouvé dans la section [Créer des propositions de Signal](/dao#creating-signal-proposals).
+A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Le raisonnement est de continuer à s'organiser et de découvrir s'il y a un soutien digne à faire avancer la proposition de signal. Veuillez suivre le modèle trouvé dans la section [Créer des propositions de Signal](/dao#creating-signal-proposals).
 
 La proposition Signal sera mise à niveau vers une proposition de base dès que la première aura atteint un quorum atteignant 20 % de la circulation de GHST pouvant voter sur Polygon au moment de la création de la proposition.
 
@@ -117,25 +117,17 @@ Ses caractéristiques principales sont les suivantes :
 ## Participer à la gouvernance
 Je suis excité ! Alors, comment puis-je participer à l'AavegotchiDAO? Nous sommes là pour vous guider !
 
-* Vous pouvez participer aux discussions sur le forum [AavegotchiDAO](https://dao.aavegotchi.com/) ou sur le canal #🌱dao-discussion sur Discord. Nous souhaitons la bienvenue à tout le monde!
+* You can participate in the discussions in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Nous souhaitons la bienvenue à tout le monde!
 
 * Participer aux votes AavegotchiDAO (quand ils sont disponibles!)
 
 * Les [Docs Aavegotchi](https://docs.aavegotchi.com/overview/governance) détaillent la liste des fonctions DAO que les membres peuvent appeler/utiliser afin d'implémenter les changements qui ont été votés. Par exemple, disons que asUSD a été voté comme un [type de garantie](/posts/atokens). AavegotchiDAO pourrait implémenter le changement en utilisant la fonction `addCollateralTypes()` et en spécifiant asUSD dans la fonction.
 
-## Forum AavegotchiDAO
-
-Le Forum de Gouvernance AavegotchiDAO est alimenté par le Discours. Avoir ce forum aidera à centraliser la discussion sur des sujets importants liés aux mécanismes de jeu Aavegotchi, aux demandes de financement et à d'autres propositions.
-
-Nous espérons que #GotchiGang pourra devenir un modèle pour les jeux DAO dans le futur, alors impliquez-vous et n'oubliez pas d'être aimable envers vos amis.
-
-Vous pouvez trouver le Forum [ici](https://dao.aavegotchi.com/).
-
 ## Type de propositions
 
 Il y a 2 types de propositions à l'étape *Cocoon*:
 
-* **Proposition Signal** - Une proposition qui peut être postée par n'importe qui. Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Partagez votre idée de proposition et discutez-la avec d'autres membres de la communauté sur le canal #🌱dao-discussion sur Discord ou sur le [Forum AavegotchiDAO](https://dao.aavegotchi.com/). Une fois que vous avez finalisé les détails de votre proposition, créer un fil de discussion officiel sur le forum AavegotchiDAO en utilisant le cadre décrit dans la section [Créer des propositions de signaux](/dao#creating-signal-proposals) ci-dessous. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
+* **Proposition Signal** - Une proposition qui peut être postée par n'importe qui. Ces votes ne sont pas contraignants, mais si le quorum est atteint, la proposition sera automatiquement mise à jour en une proposition de base contraignante (Core). Share your proposal idea and discuss it with other community members in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Once you have finalized the details of your proposal, create an official thread for it on the DAO channel using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
 
 * **Proposition de base** – Si une proposition de signal atteint 20% ou plus de quorum (quantité de GHST circulante éligible au vote sur Polygon), Pixelcraft réintroduira la proposition en tant que proposition principale. Ces votes sont liés et sont éligibles aux récompenses [XP](/traits#experience) pour les participants.
 
@@ -180,7 +172,7 @@ For COCOON, we will begin with the following Vote Differential parameters, and c
 To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
 
 * Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
+* Link to the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) thread on Discord (Proposals without significant discussion will be automatically removed from Snapshot)
 * Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
 * Effect
 * Highlight end goal and benefits
@@ -191,10 +183,6 @@ To create signal proposals for the #GotchiGang to vote on, please adhere to the 
 More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
 ## Vote
-
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
-
-### Snapshot Voting
 
 Snapshot is a voting DApp on Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.org/#/aavegotchi.eth).
 
@@ -216,36 +204,9 @@ To vote on Snapshot, follow the steps below:
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting" />
 
-### Aragon Voting
-
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain.
-
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
-
-To vote on Aragon, follow the steps below:
-
-1). Go to an open proposal.
-
-2). Connect your wallet.
-
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
-
-3). Choose to vote "Yes" or "No."
-
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
-
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
-
-5). Once your transaction is mined, your vote will be reflected accordingly.
-
-
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
-
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)!
-
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes.
 
 Vote on AGIPs and get [POAP badges](/poap) for it!
 
