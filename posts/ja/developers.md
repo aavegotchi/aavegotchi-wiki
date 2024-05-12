@@ -67,23 +67,15 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 [Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
-* [Aavegotchistats](https://aavegotchistats.com/) - ウェアラブル・レコメンデーション・エンジン / リーダーボード / 特性の分配
-
 * [Aavegotchi.land](https://aavegotchi.land/) - Aavegotchi用API / オープンポータル / ラッフルチケットリスティング
 
 * [GHST_GG](https://fireball.gg/) - ゴッチマーケットエクスプローラー / ラッフル計算機 / ギルド
-
-* [Haaunt.com](https://haaunt.com/) - Aavegotchiリーダーボード / ウェアラブルプライス
-
-* [Haunt.gg](https://haunt.gg/) - リスティング・オーガナイザー
 
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Aavegotchi をペットするための Chrome 拡張機能。
 
 * [GotchiCare](https://gotchicare.com/) - Aavegotchi のデイケア、ペットサービス。
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - コミュニティが作る無料のペットサービス
-
-* [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - 地区、フロア価格、価格推定などのデータ可視化ツール。
 
 * [Aadventure.io](https://www.aadventure.io) - REALM価格 / 土地オークションデータ / ウェアラブルセット / ゴッチポケットデータ
 
