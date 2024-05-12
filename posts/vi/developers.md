@@ -67,23 +67,15 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 [Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
-* [Aavegotchistats](https://aavegotchistats.com/) - Công cụ Khuyến Nghị Trang Phục / Bảng Xếp Hạng / Phân Phối Điểm
-
 * [Aavegotchi.land](https://aavegotchi.land/) - API dành cho Aavegotchi / Open Portals / Niêm yết Raffle Tickets
 
 * [GHST_GG](https://fireball.gg/) - Gotchi Market Explorer / Công Cụ Tính Toán Dành cho Raffle
-
-* [Haaunt.com](https://haaunt.com/) - Bảng xếp hạng Aavegotchi / Giá trang phục
-
-* [Haunt.gg](https://haunt.gg/) - Công cụ quản lý bán hàng
 
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension để pet Aavegotchi
 
 * [GotchiCare](https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - Dịch vụ autopet miễn phí dành cho cộng đồng
-
-* [Ứng Dụng Hiển Thị Gotchiverse](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - Một công cụ hiển thị dữ liệu cho thấy được quận, giá sàn, ước lượng giá, v. v.
 
 * [Aadventure.io](https://www.aadventure.io) - Xem giá REALM / Dữ liệu Đấu Giá Đất / Bộ Trang Bị / Dữ liệu Ví Gotchi
 
