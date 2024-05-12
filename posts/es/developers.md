@@ -67,23 +67,15 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 [Aarchitects](/aarchitect), our community developers, have come up with some cool web applications. Check them out!
 
-* [Aavegotchistats](https://aavegotchistats.com/) - Motor de recomendaciones / Leaderboards / Distribución de rasgos
-
 * [Aavegotchi.land](https://aavegotchi.land/) - API para Aavegotchi /Portales Abiertos / listado de Tickets
 
 * [GHST_GG](https://fireball.gg/) - Explorador de mercado de Gotchis / Calculador de sorteos/ Clanes
-
-* [Haaunt.com](https://haaunt.com/) - Leaderboard Aavegotchi / Precios de los equipables
-
-* [Haunt.gg](https://haunt.gg/) - Organizador de listados
 
 * [Extensión de Aavegotchi](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Extensión de Chrome para dar caricias a los Aavegotchis
 
 * [GotchiCare](https://gotchicare.com/) - Cuidado de Aavegotchi / Servicio de cariños
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - La comunidad ha hecho un servicio gratuito de cariños
-
-* [Gotchiverse Visualization App](https://share.streamlit.io/lavel0rz/aavegotchiproject/main/main.py) - Una herramienta de visualización de datos que incluye distritos, precios del suelo, estimadores de precios, etc.
 
 * [Aadventure.io](https://www.aadventure.io) - REALM pricing /Información de las subastas de tierra / Sets de complementos / información de los bolsillos de un jugador
 
