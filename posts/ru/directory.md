@@ -15,8 +15,6 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Разработчики (Aarchitect).](/aarchitect)
 
-* [Aarena](/aarena)
-
 * [Артисты (Aartist).](/aartist)
 
 * [Aauction](/aauction)
@@ -130,6 +128,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Социальные медиа](/socialmedia)
 
 * [Spirit Force](/spirit-force)
+
+* [Spirit Force Arena](/spirit-force-arena)
 
 * [Spirit Force History](/spirit-force-history)
 
