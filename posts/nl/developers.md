@@ -22,6 +22,7 @@ De Aavegotchi Docs kunnen [hier](https://docs.aavegotchi.com/) gevonden worden.
 <li><a href=#building-aavegotchi-com>Aavegotchi.com bouwen</a></li>
 <li><a href=#gotchiverse-analytics>Gotchiverse Analytics</a></li>
 <li><a href=#dao-treasury>DAO Treasury</a></li>
+<li><a href=#unity-sdk>Unity SDK</a></li>
 <li><a href=#building-the-wiki>Building the Wiki</a></li>
 <li><a href=#building-mini-games>Building Mini-Games</a></li>
 <li><a href=#aarchitect-creations>Aarchitect Creations</a></li>
@@ -44,6 +45,16 @@ The official Gotchiverse Analytics page can be found [here](https://gotchiverse-
 ## DAO Treasury
 
 DAO Treasury Dashboard ([AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard)) by MikeyJay and Eitri can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
+
+## Unity SDK
+
+The Aavegotchi Unity SDK is packed with everything you need to get started building your own gotchi experiences! All Aavegotchi pixelart NFTs (including both the avatars and wearables) are now available as 3D assets for you to build in Unity and beyond. Pixelcraft Studios will be continually adding more animations, characters, and world building infrastructure.
+
+The pixelart versions of each Aavegotchi are also just a smart-contract call away thanks to all Gotchi traits and artwork being 100% stored on-chain. Everything you need for 2D pixel gotchis is right here: [https://docs.aavegotchi.com/overview/onchain-svgs](https://docs.aavegotchi.com/overview/onchain-svgs)
+
+Now is the time to begin creating games for the upcoming Aavegotchi Gaming Console. Join our thriving ecosystem of on-chain assets, cryptocurrencies, and passionate players.
+
+Access the Unity SDK [here](https://dapp.aavegotchi.com/sdk).
 
 ## Building the Wiki
 
