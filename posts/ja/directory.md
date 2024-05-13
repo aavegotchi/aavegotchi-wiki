@@ -15,8 +15,6 @@ Avegotchi Wikiのページ一覧です：
 
 * [アーキテクト](/aarchitect)
 
-* [Aarena](/aarena)
-
 * [アーティスト](/aartist)
 
 * [Aauction](/aauction)
@@ -130,6 +128,8 @@ Avegotchi Wikiのページ一覧です：
 * [ソーシャルメディア](/socialmedia)
 
 * [スピリットフォース](/spirit-force)
+
+* [Spirit Force Arena](/spirit-force-arena)
 
 * [Spirit Force History](/spirit-force-history)
 
