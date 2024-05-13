@@ -15,8 +15,6 @@ contributors:
 
 * [Aarchitect](/aarchitect)
 
-* [Aarena](/aarena)
-
 * [Aartists](/aartist)
 
 * [Aauction](/aauction)
@@ -130,6 +128,8 @@ contributors:
 * [Social Media (Phương Tiện Truyền Thông)](/socialmedia)
 
 * [Linh Lực](/spirit-force)
+
+* [Spirit Force Arena](/spirit-force-arena)
 
 * [Spirit Force History](/spirit-force-history)
 
