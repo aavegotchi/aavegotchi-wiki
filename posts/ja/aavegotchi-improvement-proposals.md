@@ -33,6 +33,7 @@ contributors:
 <li><a href=#custom-irl-aavegotchi-physical-arcade-machine>Custom IRL Aavegotchi Physical Arcade Machine</a></li>
 <li><a href=#proposal-to-add-liquidity-on-aerodrome-and-earn-aero>Proposal to Add Liquidity on Aerodrome and earn AERO</a></li>
 <li><a href=#convert-all-dao-owned--dai--adai-----usdc--ausdc>Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC</a></li>
+<li><a href=#allocation-of-aerodrome-pol-rewards>Allocation of Aerodrome POL Rewards</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -1101,6 +1102,39 @@ Option 2: NO. Do not convert DAI to USDC
 table_agip119
 
 [スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x2d8df1e8ad91c9b928e9d0c319e8cabfef103e48fbc7a8933d889b1389a17873)
+
+<hr />
+
+### Allocation of Aerodrome POL Rewards
+**Aavegotchi Improvement Proposal #120**
+
+**提案の要約**
+
+This proposal is a followup on the successful passing of AGIP 118 - Proposal to Add Liquidity on Aerodrome and earn AERO. This proposal applies retroactively to the rewards we are currently accruing.
+
+Currently, any AERO that is earned by the DAO via the Aerodrome liquidity flywheel cannot be allocated because the terms were not in the original proposal.
+
+This prop proposes to allocate any AERO earned by our POL (protocol-owned liquidity) on Aerodrome in the following way:
+
+20% converted to ETH 80% added to the GHST/WETH liquidity pool incentives for the next epoch
+
+These transactions should be carried out within seven (7) days of receiving the AERO, unless extenuating circumstances cause delays.
+
+The proposed length for this allocation is three months. After three months, a new proposal will be drafted and submitted to AavegotchiDAO to either continue the allocation as is, or make changes.
+
+Thank you for your consideration frens!
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1224594975673684018).
+
+Option 1: Yes, allocate the AERO like this
+
+Option 2: No, another way
+
+**Voting Period:** 17 - 24 May 2024
+
+**結果:**
+
+[スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xbb7e75512a55d15a6233e13a83af5ce5638c36b5a96e3dde8c4560acf904038a)
 
 <hr />
 
