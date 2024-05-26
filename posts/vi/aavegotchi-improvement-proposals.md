@@ -1134,6 +1134,8 @@ Option 2: No, another way
 
 **Kết quả:**
 
+table_agip120
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbb7e75512a55d15a6233e13a83af5ce5638c36b5a96e3dde8c4560acf904038a)
 
 <hr />
