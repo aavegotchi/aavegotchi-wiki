@@ -22,6 +22,11 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2024
 
+## [New Release! What Happens When Pirates Meet Aliens?](https://blog.aavegotchi.com/new-update-pirates-vs-aliens/)
+* The latest Gotchi Guardians build is here!
+* Let's welcome the Pirate, a cunning and strategic Economy Guardian known for resource accumulation and daring exploits on the high seas. With his trusty Treasure Map and Glittering Blunderbuss, the Pirate navigates the battlefield with finesse and flair.
+<p></p>
+
 ## [Aavegotchi Dev Update - April 2024](https://blog.aavegotchi.com/aavegotchi-dev-update-april-2024/)
 * Gotchichain chose to settle on Base, Spirit Force Arena has gotten EBIC updates, Gotchi Guardians leveled up with a whole new progression system, and moar in this April 2024 Update!
 <p></p>
