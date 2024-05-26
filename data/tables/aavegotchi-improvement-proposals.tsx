@@ -218,5 +218,17 @@ export const tables
 					["NO. Do not convert DAI to USDC", "732,000 GHST (8.23%)"]
 				]
             }
-        }
+        },
+		
+		{
+            tableName: "agip120",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, allocate the AERO like this", "9,000,000 GHST (97.07%)"],
+					["No, another way", "272,000 GHST (2.93%)"]
+				]
+            }
+        },
     ]

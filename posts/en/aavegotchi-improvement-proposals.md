@@ -1141,6 +1141,8 @@ Option 2: No, another way
 
 **Results:**
 
+table_agip120
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbb7e75512a55d15a6233e13a83af5ce5638c36b5a96e3dde8c4560acf904038a)
 
 <hr>
