@@ -65,6 +65,8 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Gotchi Battler](/gotchi-battler)
 
+* [Gotchi Heroes](/gotchi-heroes)
+
 * [Gotchi Lending](/gotchi-lending)
 
 * [Gotchichain](/gotchichain)
