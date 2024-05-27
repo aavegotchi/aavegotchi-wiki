@@ -65,6 +65,8 @@ contributors:
 
 * [Gotchi Battler](/gotchi-battler)
 
+* [Gotchi Heroes](/gotchi-heroes)
+
 * [Gotchi Lending](/gotchi-lending)
 
 * [Gotchichain](/gotchichain)
