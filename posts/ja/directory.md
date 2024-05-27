@@ -65,6 +65,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [Gotchi Battler](/gotchi-battler)
 
+* [Gotchi Heroes](/gotchi-heroes)
+
 * [ゴッチ・レンディング](/gotchi-lending)
 
 * [Gotchichain](/gotchichain)
