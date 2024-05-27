@@ -65,6 +65,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Gotchi Battler](/gotchi-battler)
 
+* [Gotchi Heroes](/gotchi-heroes)
+
 * [Alquiler de Gotchi](/gotchi-lending)
 
 * [Gotchichain](/gotchichain)
