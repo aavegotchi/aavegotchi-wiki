@@ -119,23 +119,6 @@ export const tables
 				["98", "99", "480200", "9750", ""]
                 ]
             }
-        },
-		
-		{
-            tableName: "xpRequirementForGuilds",
-            tableCaption: "",
-            tableData: {
-                headers: ["Level", "No. of Guilds your Gotchi can join"],
-                data: [
-                    ["Level 1-2", "1 Guild"],
-					["Level 3-5", "2 Guilds"],
-					["Level 6-9", "3 Guilds"],
-					["Level 10-14", "4 Guilds"],
-					["Level 15-20", "5 Guilds"],
-					["Level 21-30", "6 Guilds"],
-					["Level 31+", "7 Guilds"]
-                ]
-            }
         }
     ]
 
