@@ -19,7 +19,6 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 <li><a href=#experience-table>Experience Table</a></li>
 <li><a href=#claiming-xp>Claiming XP</a></li>
 <li><a href=#tracking-xp-received>Tracking XP received</a></li>
-<li><a href=#xp-requirements-for-joining-guilds>XP Requirements for joining Guilds</a></li>
 </ol>
 
 </div>
@@ -53,22 +52,14 @@ table_XP
 
 ## Claiming XP
 
-XP has to be manually claimed at https://dapp.aavegotchi.com/u/[XXXXX]/xp.
+XP has to be claimed manually at the airdrop page here: https://dapp.aavegotchi.com/u/[XXXXX]/airdrops.
 
-Replace XXXXX with your wallet address in the url above.
+Replace the [XXXXX] with your wallet address in the URL above.
+
+After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvement-proposals), all Aavegotchis you owned at the block the AGIP was created are eligible for the XP claim. There is a bulk claim ("CLAIM ALL") function that allows you to claim the XP for all AGIPs you have voted on. If the CLAIM ALL function fails, you can claim the XP for each AGIP individually.
 
 ## Tracking XP received
 
 Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
 His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
-
-## XP Requirements for joining Guilds
-
-Gotchis are social creatures who love to hang with their frens, but much like starry-eyed college freshmen trying to attend every campus club activity, they get burned out with too much social activity.
-
-As they gain more experience and become more worldly, their work-life balance improves, allowing them to take on more [Guild](/guild) responsibilities.
-
-Thus, how many Guilds a Gotchi can join depends on its XP Level.
-
-table_xpRequirementForGuilds
