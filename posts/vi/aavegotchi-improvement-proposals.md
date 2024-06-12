@@ -34,6 +34,9 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#proposal-to-add-liquidity-on-aerodrome-and-earn-aero>Proposal to Add Liquidity on Aerodrome and earn AERO</a></li>
 <li><a href=#convert-all-dao-owned--dai--adai-----usdc--ausdc>Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC</a></li>
 <li><a href=#allocation-of-aerodrome-pol-rewards>Allocation of Aerodrome POL Rewards</a></li>
+<li><a href=#aavegotchidao-mcon-iii-sponsorship-package>AavegotchiDAO MCON III Sponsorship Package</a></li>
+<li><a href=#allocation-of-quickswap-pol-rewards>Allocation of Quickswap POL Rewards</a></li>
+<li><a href=#community-wearable-schematics-release>Community Wearable Schematics Release</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -1137,6 +1140,259 @@ Option 2: No, another way
 table_agip120
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbb7e75512a55d15a6233e13a83af5ce5638c36b5a96e3dde8c4560acf904038a)
+
+<hr />
+
+### AavegotchiDAO MCON III Sponsorship Package
+**Aavegotchi Improvement Proposal #121**
+
+**Tóm Tắt Đề Xuất:**
+
+This proposal is to form a partnership with the MetaCartel and promote the Aavegotchi DAO at MCON3 in Detroit, MI. This intimate event with ~800 people who are deep into the onchain ecosystem, including creators, developers, and investors, will expose Aavegotchi to a new audience and strengthen connections with influential builders in the community.
+
+*GOALS*
+
+* Arcade Machine with WHTRANG3R/LITEPIGLET
+
+* Side Event at Off-World Arcade ( GAME JAM HACK and/or TOURNAMENTS)
+
+* Inform and Incentivize builders to come and collaborate alongside the Aavegotchi DAO
+
+The ethos of MetaCartel is “IF YOU WANT TO GO FAST, GO ALONE. IF YOU WANT TO GO FAR, GO TOGETHER” Members of the Aavegotchi DAO have attended previous MCONs, engaging with dedicated and innovative builders in governance, public goods, coordination, and onchain innovation.
+
+This proposal seeks to invest in an event that has historically provided significant value to the Aavegotchi community. The MetaCartel is known for being an OG grants DAO in the Ethereum ecosystem, giving away $2mm+ in grants over 5 years of operation. They are also architects and incubators of some of the most well known projects in Web3.
+
+*SPECIFICATIONS*
+
+This proposal solicits support for a Mid-Tier Sponsorship of MCON3. Whereby the funds will go towards executing the main event, as well as supporting a dedicated side event for Aavegotchi.
+
+This 10k ticket covers staff/organizers, food, AV/ furnishings, tickets for the whole team as well as $2500 allocated to a Gotchi exclusive side event that the MCON organizers will help organize and promote amongst locals and OGs.
+
+As a part of this experience Aavegotchi would be able to co-create the gaming track, pick topics of discussion, invite speakers to share their perspectives, and have a dedicated side event, social media spotlight, as well as all of our branding on the events marketing and media + logistical support from the MetaCartel to bring it all together.
+
+The DAO arcade machine is needed to coordinate a successful side event where we can set up and interact with people playing it at Off-World Arcade. After sponsorship is approved by the DAO, more details can be laid out as we co-create a gaming track, tournament or game jam.
+
+We’d need a paid team of at least 3 GotchiGang/Greetors (setup, breakdown, BD, media) and would prefer a PC representative and/or a DAO funded game dev to attend as well. Stickers, merch and other physical goods for marketing/signage and rewards for email captures for mailing lists would also need to be discussed, funded and produced.
+
+IF we do a game jam/hack focused side-event we need to consider qualified judges, discuss prizes for winners as well as rewards for any tournaments. Or just showcase Aavegotchi games and the arcade machine, run a few tournaments and onboard new DAO members, artists, and devs.
+
+Final costs could range from 13-15K total (likely less), but we’d be saving funds by collaborating alongside MetaCartel to produce and market a successfully spicy Aavegotchi DAO side-event.
+
+*MILESTONES*
+
+* Email signups, Social Media Spotlight
+
+* Games Developed
+
+* Dapps built for DAO governance and tooling
+
+* GotchiPill community governerds, investors, gamers and game devs.
+
+* Live discussions featuring Aavegotchi DAO members
+
+*RISKS*
+
+Gotchichain not ready, readiness of playable Aavegotchi web3 connected games, Arcade machine progress, overspending budget. Not being a sponsoring partner and missing out on the spicy fun.
+
+*CONCLUSION*
+
+Members from Aavegotchi DAO with personal connections and history with the MetaCartel have already proven to be valuable. Through these bonds we were given an opportunity for a last minute free booth at ETH Denver 2023 and are getting the top tier(20k) perks for sponsorship at the mid-tier(10K) cost for MCON3.
+
+The proposed $10K sponsorship will leverage existing relationships with MetaCartel to achieve top-tier sponsorship benefits at a mid-tier cost. The additional estimated available budget from GotchiGreetors (3-5k) ensures logistical support for a successful event. This collaboration is expected to strengthen long-term relationships and create significant impact at MCON III!
+
+$10K paid for in USDC or EVM-Native Token on MAINNET sent to MetaCartel Safe eth: 0xc70c7090b91e0d9861d734Eb613761e8b35224D2
+
+Details on the AGIP can be found [here](https://www.discord.com/channels/732491344970383370/1235789442321616897).
+
+Option 1: Yes, Fund 10K Sponsorship
+
+Option 2: No, Don't Fund
+
+**Voting Period:** 7 - 20 June 2024
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xb5441817ecff8a693937ff1c16562c9d1d43c4bbf76490220d7d34da181bb43d)
+
+<hr />
+
+### Allocation of Quickswap POL Rewards
+**Aavegotchi Improvement Proposal #122**
+
+**Tóm Tắt Đề Xuất:**
+
+We have significant Protocol Owned Liquidity (POL) on Quickswap (Polygon network), which is accumulating over $250k in fees (GHST and USDC). Unlike Balancer POL, these fees do not compound automatically and need to be claimed manually.
+
+This proposal seeks to determine the best course of action for these accumulated fees. Below are the options we have identified:
+
+* Do Nothing: Leave the fees unclaimed and unutilized.
+
+* Compound Monthly: Allow the directors to claim and compound the fees every month by re-adding the rewards to the QuickSwap pool on the Polygon network.
+
+* Bridge and Add to Liquidity on Base Network: Bridge the rewards to the Base network and add them to the GHST-WETH liquidity pool on Aerodrome.
+
+* Bridge and Use as Incentives on Base Network: Bridge the rewards to the Base network and use them as incentives for bribing the GHST-WETH pool on Aerodrome. These incentives will be distributed over a period of two months (8 epochs) with equal allocation for each epoch.
+
+*Implementation Timeline:*
+
+These transactions should be carried out within seven (7) days of reaching a decision, unless extenuating circumstances cause delays.
+
+*Voting Options*
+
+* Do Nothing
+
+* Compound Monthly on Quickswap (Polygon network)
+
+* Bridge to Base and Add to GHST-WETH Liquidity Pool on Aerodrome
+
+* Bridge to Base and Use as Incentives for GHST-WETH Pool on Aerodrome (2 Months, 8 Epochs with Equal Allocation Each Epoch)
+
+Thank you for your consideration frens!
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1241028017699033099).
+
+Option 1: Voting option 1
+
+Option 2: Voting option 2
+
+Option 3: Voting option 3
+
+Option 4: Voting option 4
+
+**Voting Period:** 8 - 18 June 2024
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd7de27500ffa8d360848e7655a32a7b7a00ac46fc13ab156ef51dfebb4101d4a)
+
+<hr />
+
+### Community Wearable Schematics Release
+**Aavegotchi Improvement Proposal #123**
+
+**Tóm Tắt Đề Xuất:**
+
+* Frens and Accessories Wearables Launch
+
+* Theme is community-designed
+
+* 14 new designs ranging from common to mythical
+
+* Eyes, face, and pets only
+
+* No new cores to be minted/released
+
+* Aimed to balance the trait meta and freshen up the wearables pool
+
+* 12 unique designs. The common, uncommon, and rare pet would be evolutions of each other
+
+* Target release: end of September 2024 (sooner if PC has bandwidth for the push)
+
+*Community Competition*
+
+Anyone can design a wearable and submit their artwork in any format. The winners will be chosen during a hangout in traditional emoji-response fashion
+
+I will work with the winners to make sure the pieces are in proper pixel-perfect format
+
+Prize money ranges from 100 ghst to 500 ghst
+
+Bonus GHST prizes for whoever makes the best use of old wearables in set creation. The sets should strive to pick up older wearables as well as fill the gaps as shown here: [https://wearables.report/trait-selection.html](https://wearables.report/trait-selection.html)
+
+Bonus GHST for the #1 favourite wearable
+
+*Partnerships*
+
+Partnerships are always a great idea and welcomed. However they take quite a bit of time and coordination. Therefore, I propose we open this aspect with a bounty. Anyone who can successfully bridge our community with another favourable gang can grab a nice 500 GHST bounty. Keep in mind it's important in a partnership for reciprocity. Partnering goes beyond simply doing something for another community while receiving nothing in return.
+
+Partnership connections must be established by 15th June. The deal may not need to be closed, but we need to be 80% committed to it. This is because partnership-specific wearables are limited in their design scope (we don't want to have people designing a wearable for a slot that gets filled with a partnership!)
+
+*Timeline*
+
+* Proposal raised and voting period 29th May - 15th June
+
+* Partnership bounty deadline 15th June
+
+* Design submissions deadline 28th June
+
+* Competition voting 29th June
+
+* Artwork refinement 30th June - 20th July
+
+* Handoff all completed pieces to PC 20th July
+
+* PC does their magic 20th July - release ???
+
+*Distribution & Mint*
+
+No new cores will be minted.
+
+The traits are pulled from here: [https://wearables.report/trait-selection.html](https://wearables.report/trait-selection.html)
+
+The bigger the standard deviation, the further from balance that particular slot/rarity is. There are clear winners in every slot. For uncommon eye, there is no imbalance, so we propose two items which counter-balance each other.
+
+The DAO will buy a basket of cores from the market and forge a number of pieces to use as giveaways or sales
+
+I propose a budget of 8,000 GHST to buy/forge as many pieces as possible. The goal is the following quantities:
+
+* Common eye & face: 50 ea
+
+* Common pet: 25
+
+* Uncommon eye & face: 25 ea
+
+* Uncommon pet: 15
+
+* Rare faces: 10 ea
+
+* Rare pet: 5
+
+* no legendary or mythical
+
+The total maximum alloy required is 72k which will be provided by the DAO stock. Any remaining alloy / ghst from this allotment will be returned. Any schematics obtained through smelting will be added to the geode pool.
+
+All remaining schematics from the mint will be added to the geode pool.
+
+Forged wearables will be sent to the DAO.
+
+*Total Costs*
+
+* Core buying: 8000 GHST
+
+* Prize pool: 2650 GHST
+
+* Oliver for coordination, communication, and wearable rigging: 2600 GHST
+
+* Partnership bounties: 500ea (to be distributed later upon success)
+
+Total: 13,250 GHST + successful partnership bounties (as this number is unknown, we will send this separately)
+
+Upon successful passing of prop, send 13,250 GHST and 72,000 alloy to: 0x4a478E4593A5D557dB640642c34Ae52800084451
+
+This is a clean wallet which can be tracked for all buying / smelting.
+
+As mentioned, all unspent GHST and alloy will be returned to the DAO.
+
+*Closing*
+
+Overall, my hope is to have a fun event which brings the community together. The last design competition was a hit and there were so many great wearables designed. By opening up the design to more possibilities, we will have more winners. I also would love to see some old wearables freshened up in new creative ways with the addition of one or two new items :smile:
+
+With more games on the horizon, RF, and the Battler, players are going to need different wearables to win the meta.
+
+More option = more alloy burning = floors rising.
+
+Thanks everyone and let's have some fun!
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1126256051528937624/1238889414911066274).
+
+Option 1: YES
+
+Option 2: NO
+
+**Voting Period:** 8 - 19 June 2024
+
+**Kết quả:**
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xff8daa93be9021f9f0a49cb8394ef49f868261bd9828faa351611c9854bbf0db)
 
 <hr />
 
