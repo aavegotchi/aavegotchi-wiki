@@ -22,6 +22,15 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2024
 
+## [Aavegotchi May Highlights](https://blog.aavegotchi.com/aavegotchi-may-highlights/)
+* Spirit Force Arena Duels, Pirates and Aliens in Gotchi Guardians, and Walter...Who, and more in this May update!
+<p></p>
+
+## [Come At Me Fren!](https://blog.aavegotchi.com/spirit-force-arena-duels-a-new-mode-exclusively-on-base/)
+* Starting on May 29th, you can stake GHST and face off in one-on-one battles in the Spirit Force Arena
+* For a limited time only, play a duel in the first week of launch to unlock the Spirit Force Week 1 Badge and prove you were there before Aavegotchi scaled from smol GHST wagers all the way up to millions of GHST wagered daily. 
+<p></p>
+
 ## [New Release! What Happens When Pirates Meet Aliens?](https://blog.aavegotchi.com/new-update-pirates-vs-aliens/)
 * The latest Gotchi Guardians build is here!
 * Let's welcome the Pirate, a cunning and strategic Economy Guardian known for resource accumulation and daring exploits on the high seas. With his trusty Treasure Map and Glittering Blunderbuss, the Pirate navigates the battlefield with finesse and flair.
