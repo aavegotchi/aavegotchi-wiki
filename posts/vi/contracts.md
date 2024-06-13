@@ -18,6 +18,7 @@ Chào mấy fen. Chào mừng đến kho lưu trữ Địa Chỉ Hợp Đồng T
 <ol>
 <li><a href=#contract-addresses-on-mainnet>Địa chỉ hợp đồng trên Mainnet</a></li>
 <li><a href=#contract-addresses-on-polygon>Địa chỉ hợp đồng trên Polygon</a></li>
+<li><a href=#contract-addresses-on-base>Contract Addresses on Base</a></li>
 <li><a href=#contract-addresses-on-mumbai-testnet>Contract Addresses on Mumbai Testnet</a></li>
 </ol>
 
@@ -80,6 +81,10 @@ Chào mấy fen. Chào mừng đến kho lưu trữ Địa Chỉ Hợp Đồng T
 * Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://polygonscan.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)
 
 * Tickets Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://polygonscan.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
+
+## Contract Addresses on Base
+
+* GHST Token Address: [0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb)
 
 ## Contract Addresses on Mumbai Testnet
 
