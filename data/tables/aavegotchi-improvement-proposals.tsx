@@ -231,4 +231,42 @@ export const tables
 				]
             }
         },
+		
+		{
+            tableName: "agip121",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, Fund 10K Sponsorship", "7,700,000 GHST (80.44%)"],
+					["No, Don't Fund", "1,900,000 GHST (19.56%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip122",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Voting option 4", "6,100,000 GHST (65.85%)"],
+					["Voting option 2", "1,300,000 GHST (14.00%)"],
+					["Voting option 3", "1,200,000 GHST (13.06%)"],
+					["Voting option 1", "661,000 GHST (7.08%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip123",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["YES", "8,300,000 GHST (88.24%)"],
+					["NO", "1,100,000 GHST (11.76%)"]
+				]
+            }
+        },
     ]

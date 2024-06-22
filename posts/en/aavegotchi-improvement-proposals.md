@@ -1219,6 +1219,8 @@ Option 2: No, Don't Fund
 
 **Results:**
 
+table_agip121
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xb5441817ecff8a693937ff1c16562c9d1d43c4bbf76490220d7d34da181bb43d)
 
 <hr>
@@ -1269,6 +1271,8 @@ Option 4: Voting option 4
 **Voting Period:** 8 - 18 June 2024
 
 **Results:**
+
+table_agip122
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd7de27500ffa8d360848e7655a32a7b7a00ac46fc13ab156ef51dfebb4101d4a)
 
@@ -1398,6 +1402,8 @@ Option 2: NO
 **Voting Period:** 8 - 19 June 2024
 
 **Results:**
+
+table_agip123
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xff8daa93be9021f9f0a49cb8394ef49f868261bd9828faa351611c9854bbf0db)
 
