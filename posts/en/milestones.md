@@ -22,6 +22,15 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2024
 
+## [Alchemica Tokens are Now Live on Base!](https://blog.aavegotchi.com/alchemica-is-now-live-on-base/)
+* As of today, it is now possible to transfer your Alchemica (and GLTR!) from Polygon to Base via our new chain abstraction tech, powered by Socket Protocol.
+<p></p>
+
+## [Get Ready Gotchi Battlers - Rarity Farming Season 8 Tournaments are upon us!](https://blog.aavegotchi.com/get-ready-gotchi-battlers-rarity-farming-season-8-tournaments-are-upon-us/)
+* We're excited to announce the upcoming tournaments for Rarity Farming Season 8, featuring a massive 150,000 GHST prize pool, as well as new updates to give you even more ways to strategize and compete with your ghostly besties.
+* This season introduces double-elimination tournaments, the ability to have two substitutes per team, and a preparation phase between each round for strategic adjustments. Whether you're a seasoned battler or a fresh contender, this season offers the perfect stage to showcase your skills and claim your share of the epic prize pools.
+<p></p>
+
 ## [Aavegotchi May Highlights](https://blog.aavegotchi.com/aavegotchi-may-highlights/)
 * Spirit Force Arena Duels, Pirates and Aliens in Gotchi Guardians, and Walter...Who, and more in this May update!
 <p></p>
