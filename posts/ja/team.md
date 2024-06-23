@@ -32,7 +32,6 @@ contributors:
 <p><a href=#les>Les（レス）</a></p>
 <p><a href=#mauvis>Mauvis（モーヴィス）</a></p>
 <li><a href=#team>Team - チーム</a></li>
-<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
 <p><a href=#jason-slama---game-director>Jason Slama - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
@@ -80,7 +79,7 @@ XibotことXavier Iturraldeは、クリプト・アート・シーンで最も�
 ### Nick Mudge（ニック・マッジ）
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge（ニック・マッジ）">
+<img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
 <p class="leftImageText"><a href="https://twitter.com/mudgen" target="_blank">@mudgen</a></p>
 </div>
 
@@ -118,17 +117,6 @@ Les Borsai（レス・ボルサイ）（1968年生まれ）は、ロサンゼル
 モーヴィスは、過去15年間テック系スタートアップで働き、立ち上げてきたビルダーです。 コインマーケットキャップの元CTOとして知られ、プラットフォームをアレクサ（Alexa）サイトのトップ100までに成長させました。 現在、妻とフレンチブルドッグのルーフィーとシンガポールに住んでいます。
 
 ## チーム紹介
-
-### Nigel - Chief Marketing Officer
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
-<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
-</div>
-
-With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
-
-Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
 
 ### Jason Slama - Game Director
 
