@@ -32,7 +32,6 @@ contributors:
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>Equipo</a></li>
-<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
 <p><a href=#jason-slama---game-director>Jason Slama - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
@@ -118,17 +117,6 @@ A finales de la década de 2000, Borsai se involucró en otras industrias, como 
 Mauvis es un constructor & y un aprendiz de profesión que ha estado trabajando y lanzando empresas tecnológicas durante los últimos 15 años. Se especializa en la arquitectura de sistemas altamente escalables y es más conocido por ser el antiguo CTO de CoinMarketCap, donde escaló la plataforma hasta convertirla en un sitio top 100 de Alexa. Actualmente reside en Singapur con su mujer y su bulldog francés Loofy.
 
 ## Equipo
-
-### Nigel - Chief Marketing Officer
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
-<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
-</div>
-
-With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
-
-Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
 
 ### Jason Slama - Game Director
 
