@@ -125,8 +125,6 @@ An additional 100,000 GHST is going to players of Gotchi Battler.
 
 [Spreadsheet of Rarity Farming Season 7 Rewards](https://docs.google.com/spreadsheets/d/1TncwLzWN2HMwEzpAHXNBvTSkWX3kBGXXzpOd2hpb8Ow/)
 
-
-
 ## Season 8
 
 Rarity Farming Season 8 was held from Saturday, 16 March 2024 - Saturday, 11 May 2024. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 8.
@@ -140,6 +138,10 @@ Rarity Farming Season 8 was held from Saturday, 16 March 2024 - Saturday, 11 May
 * Gotchi Battler (10% of the rewards pool / 150,000 GHST)
 
 [Spreadsheet of Rarity Farming Season 8 Rewards](https://docs.google.com/spreadsheets/d/1JXUbhiGBvj69cHMxkDiRcLvdeyHAZdcZVYpFmcIpPls/)
+
+The following table shows the breakdown of the GHST prizes for the Gotchi Battler category by tournament and rank:
+
+table_gotchiBattlerSeason8
 
 ## GHST Distribution by Season
 
