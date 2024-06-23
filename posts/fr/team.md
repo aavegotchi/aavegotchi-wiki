@@ -32,7 +32,6 @@ Vous voulez savoir qui est derrière les mignons gotchis ? Nous allons vous mont
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>L'équipe</a></li>
-<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
 <p><a href=#jason-slama---game-director>Jason Slama - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
@@ -118,17 +117,6 @@ In the later 2000s, Borsai became involved in other industries, including digita
 Mauvis is a Builder & Life-long learner that has been working in and launching tech startups for the past 15 years. He specializes in architecting highly-scalable systems and is best known for being the former CTO of CoinMarketCap where he scaled the platform to a top 100 Alexa site. He currently resides in Singapore with his wife and french bulldog Loofy.
 
 ## L'équipe
-
-### Nigel - Chief Marketing Officer
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
-<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
-</div>
-
-With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
-
-Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
 
 ### Jason Slama - Game Director
 
