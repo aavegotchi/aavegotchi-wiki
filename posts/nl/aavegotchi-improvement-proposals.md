@@ -37,6 +37,7 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#aavegotchidao-mcon-iii-sponsorship-package>AavegotchiDAO MCON III Sponsorship Package</a></li>
 <li><a href=#allocation-of-quickswap-pol-rewards>Allocation of Quickswap POL Rewards</a></li>
 <li><a href=#community-wearable-schematics-release>Community Wearable Schematics Release</a></li>
+<li><a href=#fund-creation-of-ghostly-gladiator-mvp>Fund Creation of Ghostly Gladiator MVP</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -1399,6 +1400,129 @@ Option 2: NO
 table_agip123
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xff8daa93be9021f9f0a49cb8394ef49f868261bd9828faa351611c9854bbf0db)
+
+<hr />
+
+### Fund Creation of Ghostly Gladiator MVP
+**Aavegotchi Improvement Proposal #124**
+
+**Voorstel Samenvatting:**
+
+This proposal is for funding an MVP of Ghostly Gladiator, a roguelike deck-building grid-based battler based on the assets & lore of the Gotchiverse. The long-term goals of the project are:
+
+# 1 Create a great roguelike deck-builder, in order to
+
+# 2 increase the exposure of crypto-agnostic & crypto-ignorant gamers to the Aavegotchi ecosystem and
+
+# 3 provide a long-term income stream to the DAO through a community meta-progression system (see the Monetization section of the design doc for details on this part: [https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit?usp=sharing](https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit?usp=sharing))
+
+Ghostly Gladiator is targeted towards people who don’t know about Aavegotchi yet and maybe don’t even have a crypto wallet. Rather than try to monetize the (currently) small number of people that both own Aavegotchi assets and want to play minigames with them, this project is designed to appeal to the wider gaming audience and expose them to the Aavegotchi ecosystem and community. For those who like to ask ‘wen marketing’, my answer is ‘right now’. In marketing speak this game is targeted towards the top of the marketing funnel rather than the very bottom like many of the minigames so far have been.
+
+I am asking for $6500 worth of DAI or GHST to fund the creation of the MVP over 6 weeks, with plans for a larger proposal later if the project is successful with the community. At the end of the 6-week period I would run a small XP event for the community to try out the MVP.
+
+Ghostly Gladiator (title not final) is a roguelike deck-building grid-based battler. For a game in the same genre, see Fights in Tight Spaces (or Knights in Tight Spaces). Fisht Fight ([https://zygoth.itch.io/fisht-fight](https://zygoth.itch.io/fisht-fight)) is a simple example of this genre that I made for a 7-day game jam, and it’s the concept and code that I will be building from. Fisht Fight placed 11th out of 564 entries in the ‘Fun’ category in the Fish Fest game jam (top 2%). I highly recommend that you play Fisht Fight if you want an idea of how Ghostly Gladiator will play.
+
+*Basic Gameplay*
+
+The game is divided into 10 separate battles, each with different types of monsters. Each turn, the player draws 5 cards from their deck and receives 3 energy. They can use the energy to play cards from their hand in order to move around the battlefield, attack enemies, defend, summon allies, etc. Battles end when all enemies are defeated. After each battle, the player gets to pick a new card from 3 options to add to their deck. The game ends when the player completes all battles (victory) or loses all their HP.
+
+*Timeline (6 weeks)*
+
+Programming (Zygo)
+
+* Refactor code from Fisht Fight (3 days)
+
+* Save/load system (5 days)
+
+* Basic CMP system, accept user donations to unlock new features (5 days)
+
+* 10 new cards to unlock with the CMP system (3 days)
+
+* Integrate new art (3 days)
+
+* Title screen (1 day)
+
+* UI improvements for increased clarity (3 days)
+
+* Tutorial (3 days)
+
+* Bug fixing (3 days)
+
+* System to record player crypto address for an XP event (2 days)
+
+Total: 31 days of work
+
+Art (Admurin)
+
+* New battle background
+
+* Beta art for all cards
+
+* Title screen art
+
+* Reskin main character as Aavegotchi and enemies as different types of Lickuidators
+
+* New Battle tile sprites
+
+* Card sprite
+
+* Various UI icons like draw/discard pile, card energy icon, block icon, etc.
+
+Music (Mario Sello)
+
+* Title theme
+
+* Battle music
+
+* Win & lose fanfares
+
+SFX (Zygo)
+
+* Use sounds from Zygo’s sound library & tools like LabChirp/SFXR
+
+*Key performance indicators*
+
+The game will be hosted on Itch.io, so to begin with the KPIs will be the analytics that they offer. (daily views and plays) In addition, during the XP event the amount of unique crypto addresses that users submit will be a KPI for this proposal. Eventually tracking unique users, time played, and donations would be useful but these are out of scope for the MVP.
+
+*Effect*
+
+Send $6500 in DAI to address 0xF0Bc763e0A6AF4784a36fa102220FF60eC651f9e to fund the development of the MVP, including programming, pixel art, and music. This should be sent soon after the completion of the core prop so I can pay the pixel artist & composer up front.
+
+Schedule an XP event for the week of August 21-28. Since the game won’t be interfacing with the blockchain directly, XP credit tracking would be via an in-game form that shows up after a successful run. Players would submit their wallet address and a list of these addresses would be submitted to the DAO at the conclusion of the event. I chose this method because successful runs last about an hour, which would make farming XP for many gotchis individually take a prohibitive amount of time.
+
+*Completing this proposal will provide the following benefits:*
+
+* Create the MVP for a free-to-play game in a popular genre that can appeal to non-crypto gamers and thus bring new players to the Aavegotchi ecosystem.
+
+* Host an XP event to give Aavegotchi holders an opportunity to try out the game and give feedback
+
+* Create a base from which I can build mechanisms that will eventually self-fund the game and bring income to the DAO. (see the Monetization section in the design doc for more details on this: [https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit](https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit))
+
+*Erkennen van potentiële risico's of onbedoelde gevolgen*
+
+* Risk: the game is not finished or is completed poorly
+
+* Mitigations: I have a record of completing jam games and also projects much larger than 1 month; I also have a strong incentive to finish the MVP so I can continue working on the project in the future. Even if this were to occur, the amount of DAI committed to this MVP is small, so the risk of wasting funds is low.
+
+*Alle alternatieve paden (Plan B, Plan C, etc)*
+
+Not sure what to put here, I always have ideas for other games but this is the one I feel most confident about.
+
+*About Me*
+
+Hi! I’m Zygo, a game developer that has been involved with Aavegotchi since Haunt 1. I’ve always been interested in making games, and in the last 2 years I’ve been doing it full time. In February of 2024 I released Spellstrife on Steam after 14 months of work ([https://store.steampowered.com/app/2385240/Spellstrife/](https://store.steampowered.com/app/2385240/Spellstrife/)). Since then, I’ve been doing game jams to practice quick development and test out some of my ideas. See my Itch.io page for my game jam games: [https://zygoth.itch.io/](https://zygoth.itch.io/) . I’m most familiar with the Phaser3 engine.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1247253990320898162).
+
+Option 1: Yes, fund Ghostly Gladiator MVP
+
+Option 2: No, don't fund it
+
+**Voting Period:** 27 June - 7 July 2024
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xcf83de78265ceb5d891bb83e7774962bdb6a320871474b4e6e3e05fece458f54)
 
 <hr />
 
