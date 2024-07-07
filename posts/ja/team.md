@@ -40,7 +40,6 @@ contributors:
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
-<p><a href=#jc---business-development>JC - Business Development</a></p>
 <li><a href=#origins>Origins - 起源</a></li>
 </ol>
 
@@ -67,16 +66,16 @@ Dan（ダン）又はCoder Dan（コーダー・ダン） はフルスタック�
 
 GldnXrossことJesseは、製品中心の創業者で、現在イーサリアムとZilliqaブロックチェーンの両方で利用可能な最初のNFT造幣プラットフォーム、Mintableを含む今日まで最も有名なNFTプラットフォームの開発を主導してきた人物です。 また、Bullionix.ioのクリエーターとして、上記のValue-Staked NFTsのコンセプトの生みの親でもあり、金の安定したコインを張った3D高解像度デジタルコレクティブルを初めて提供しました。 Ethereum dappsに携わる前は、ZB Groupの国際開発責任者としてデジタル資産取引所に深く関わり、それ以前はLenovo Mobile UnitでMotorola製品の改善と合併の専門家として中国に駐在していたことがあります。
 
-### Xibot（ジボット）
+### Xibot
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot（ジボット）">
+<img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
 <p class="leftImageText"><a href="https://twitter.com/xavieriturralde" target="_blank">@xavieriturralde</a></p>
 </div>
 
 XibotことXavier Iturraldeは、クリプト・アート・シーンで最も優れたアーティストであり起業家の一人です。 彼の独特なピクセルアート作品は、OpenSeaとRaribleのNFTトレーダーの注目（と販売量）を集めました。 彼の革新的な$PIXELトークンは、ソーシャルトークンの中で最も早く定着し、ソーシャルトークンと結びついたNFTが脚のあるモデルであることを証明しました。 彼の熱狂的なフォロワーは、Aavegotchiのオールスターチームを取り巻くFOMOのもう一つの原因となっています。
 
-### Nick Mudge（ニック・マッジ）
+### Nick Mudge
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
@@ -195,15 +194,6 @@ Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media con
 </div>
 
 Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
-
-### JC - Business Development
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
-</div>
-
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
 ## Origins - 原点
 
