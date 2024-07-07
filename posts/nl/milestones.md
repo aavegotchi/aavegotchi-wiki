@@ -23,6 +23,15 @@ contributors:
 
 ## Year 2024
 
+## [New map in Gotchi Guardians](https://blog.aavegotchi.com/new-map-mount-oomf/)
+* Mount Oomf, the fiery source of all FOMO within our spectral world, will feature as the second map in Gotchi Guardians!
+<p></p>
+
+## [Aavegotchi June Highlights](https://blog.aavegotchi.com/aavegotchi-june-highlights/)
+* Did you know that Alchemica is now live on Base? What about Gotchi Battler Rarity Farming Season 8?
+* Find out the latest alpha in this Aavegotchi June Highlights blog post!
+<p></p>
+
 ## [Alchemica Tokens are Now Live on Base!](https://blog.aavegotchi.com/alchemica-is-now-live-on-base/)
 * As of today, it is now possible to transfer your Alchemica (and GLTR!) from Polygon to Base via our new chain abstraction tech, powered by Socket Protocol.
 <p></p>
