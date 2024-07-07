@@ -40,7 +40,6 @@ contributors:
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
-<p><a href=#jc---business-development>JC - Business Development</a></p>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
@@ -195,15 +194,6 @@ Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media con
 </div>
 
 Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
-
-### JC - Business Development
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
-</div>
-
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
 ## Origins
 
