@@ -23,6 +23,11 @@ contributors:
 
 ## Year 2024
 
+## [Earn GHST playing Spirit Force Arena](https://blog.aavegotchi.com/now-you-can-earn-ghst-playing-sfa-battle-royale/)
+* You can now stake GHST in Battle Royale Matches in the Spirit Force Arena!
+* Earn Badges when you stake GHST, win, or lose!
+<p></p>
+
 ## [New map in Gotchi Guardians](https://blog.aavegotchi.com/new-map-mount-oomf/)
 * Mount Oomf, the fiery source of all FOMO within our spectral world, will feature as the second map in Gotchi Guardians!
 <p></p>
