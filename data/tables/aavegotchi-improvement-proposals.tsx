@@ -269,4 +269,16 @@ export const tables
 				]
             }
         },
+		
+		{
+            tableName: "agip124",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, fund Ghostly Gladiator MVP", "7,800,000 GHST (86.12%)"],
+					["No, don't fund it", "1,300,000 GHST (13.88%)"]
+				]
+            }
+        },
     ]

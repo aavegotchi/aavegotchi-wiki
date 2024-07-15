@@ -1529,6 +1529,8 @@ Option 2: No, don't fund it
 
 **Results:**
 
+table_agip124
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xcf83de78265ceb5d891bb83e7774962bdb6a320871474b4e6e3e05fece458f54)
 
 <hr>
