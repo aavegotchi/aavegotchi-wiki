@@ -1522,6 +1522,8 @@ Option 2: No, don't fund it
 
 **Kết quả:**
 
+table_agip124
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xcf83de78265ceb5d891bb83e7774962bdb6a320871474b4e6e3e05fece458f54)
 
 <hr />
