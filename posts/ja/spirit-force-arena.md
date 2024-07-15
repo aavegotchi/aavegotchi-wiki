@@ -21,6 +21,7 @@ Compete to win in the ultimate Aavegotchi Battle Royale! Survive and defeat your
 <ol>
 <li><a href=#how-to-play>How to Play</a></li>
 <li><a href=#features>Features</a></li>
+<li><a href=#battle-royale>Battle Royale</a></li>
 <li><a href=#controls>Controls</a></li>
 <li><a href=#download-the-game>Download the Game</a></li>
 <li><a href=#links>Links</a></li>
@@ -67,6 +68,24 @@ Purchase a Gotchi to create your own playable character that can be used in any 
 ### CROSS-PLAY
 
 Play SPIRIT FORCE ARENA on Windows, MacOS, or Linux! Play a game on PC, earn rewards, then go use or view them on another device or platform.
+
+## Battle Royale
+
+Players can stake and earn GHST in Battle Royale Matches with up to ten players.
+
+- Navigate to the Available Games screen at SPIRIT FORCE ARENA
+
+- Choose the Battle Royale tab at the top
+
+- Stake your GHST using the slider at the bottom of the pop-up screen
+
+<img class="bodyImage" src="/spirit-force-arena/sfa-ghst-staking.png">
+
+- Confirm your stake and the amount will be deducted from your wallet and held securely until the end of the match. Remember, **each participant in the match must stake the same amount of GHST to ensure a fair and competitive environment.**
+
+- The match will automatically begin once the maximum number of players has been reached or the timer runs out.
+
+- Use your skills, strategies, potions, and Protolicks to outsmart and outlast your opponents.
 
 ## Controls
 
