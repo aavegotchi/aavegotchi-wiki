@@ -87,8 +87,8 @@ export const items: Category[] = [
                 href: "rarity-farming"
             },
 			{
-				name: "Mini-Games",
-				href: "minigames"
+				name: "Games",
+				href: "games"
 			},
             {
                 name: "Gotchiverse",
