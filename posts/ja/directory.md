@@ -57,6 +57,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [Forge](/forge)
 
+* [Games](/games)
+
 * [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
