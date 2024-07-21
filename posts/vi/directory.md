@@ -57,6 +57,8 @@ contributors:
 
 * [Forge](/forge)
 
+* [Games](/games)
+
 * [Gaame Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)
