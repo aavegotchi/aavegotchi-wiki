@@ -57,6 +57,8 @@ Aquí está la lista de páginas en la Aavegotchi Wiki:
 
 * [Forge](/forge)
 
+* [Games](/games)
+
 * [Gaame Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)
