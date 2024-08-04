@@ -40,6 +40,7 @@ Psst! Claim your [POAP Badges](/poap) if you have voted on AGIPs before!
 <li><a href=#fund-creation-of-ghostly-gladiator-mvp>Fund Creation of Ghostly Gladiator MVP</a></li>
 <li><a href=#gotchichain-battleverse-demo---an-open-source-battleverse-built-with-godot>Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot</a></li>
 <li><a href=#rarity-farming-season-9>Rarity Farming Season 9</a></li>
+<li><a href=#increasing-xp-award-to-250-xp-for-successful-core-agips>Increasing XP Award to 250 XP for Successful CORE AGIPs</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -1695,6 +1696,35 @@ Option 2: No
 table_agip126
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xb46614973c1f9e244b037788fbb31bc1909ce4bb4a56b85f39c6554a53163c0a)
+
+<hr />
+
+### Increasing XP Award to 250 XP for Successful CORE AGIPs
+**Aavegotchi Improvement Proposal #127**
+
+**Proposal Summary:**
+
+We propose this model after nearly succesful attempt at raising the award to 500xp without certain limitations (that are now introduced) as well as certain boundaries, in order to strike the right balance between stimulating the creation of new and thoughtful props, while preventing abuse and exploit attempts on the XP award system.
+
+Note that this prop does not suggest changes to 'sigprop' awards.
+
+Note that all props under this framework would allow maximum one gotchi to be awarded per prop, per contributor.
+
+Maximum 5 gotchis/contributors can be awarded XP for any single prop.
+
+table_proposedXPAwards
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1255979420204924970).
+
+Option 1: Yes
+
+Option 2: No
+
+**Voting Period:** 29 July - 13 August 2024
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x307f6d8e39de3ce35886714e07586f838d42aa0556c66b19a142b1d8f2ba1703)
 
 <hr />
 
