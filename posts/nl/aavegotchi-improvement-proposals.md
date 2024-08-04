@@ -38,6 +38,8 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 <li><a href=#allocation-of-quickswap-pol-rewards>Allocation of Quickswap POL Rewards</a></li>
 <li><a href=#community-wearable-schematics-release>Community Wearable Schematics Release</a></li>
 <li><a href=#fund-creation-of-ghostly-gladiator-mvp>Fund Creation of Ghostly Gladiator MVP</a></li>
+<li><a href=#gotchichain-battleverse-demo---an-open-source-battleverse-built-with-godot>Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot</a></li>
+<li><a href=#rarity-farming-season-9>Rarity Farming Season 9</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -1525,6 +1527,174 @@ Option 2: No, don't fund it
 table_agip124
 
 [Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xcf83de78265ceb5d891bb83e7774962bdb6a320871474b4e6e3e05fece458f54)
+
+<hr />
+
+### Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot
+**Aavegotchi Improvement Proposal #125**
+
+**Voorstel Samenvatting:**
+
+Video: [https://drive.google.com/file/d/1UjmmC-Mfa0lxLQjzhIT6Rc0Dey-j_X2W](https://drive.google.com/file/d/1UjmmC-Mfa0lxLQjzhIT6Rc0Dey-j_X2W)
+
+We are excited to introduce the demo funding for the Gotchichain Battleverse, an open-source battleverse built using the Godot engine. This project aims to create an immersive, community-driven gaming experience, leveraging the strengths of blockchain technology and the collaborative power of open-source development.
+
+*Game Concept:*
+
+* Title: Gotchichain Battleverse
+
+* Engine: Godot
+
+* Description: Gotchichain Battleverse is an action-packed, multiplayer battle game set in a vibrant metaverse. Players will eventually engage in various PvP modes online or IRL, including classic brawls, racing, and more, all within the Aavegotchi-themed universe.
+
+*Key Future Features:*
+
+* Open-Source Development: The entire project is open-source, allowing community contributions and transparency in development.
+
+* Multiplayer Modes: Offers a variety of PvP modes, such as brawls, racing, and team battles, providing diverse gameplay experiences.
+
+* Blockchain Integration: Utilizes blockchain technology for asset ownership, in-game transactions, and secure matchmaking.
+
+* Community-Driven Content: Encourages community members to contribute to game design, features, and content, fostering a collaborative environment.
+
+* Educational Content: Creation of "How to X in Godot" content to attract and educate game developers, bringing them into the Aavegotchi ecosystem. Along with a bounty program to entice participation and onboarding.
+
+*Current Demo Development and Release:*
+
+Development Stages:
+
+* Community Feedback and Iteration (Months 1-2): Release the current prototype to the community for feedback and iterative improvements.
+
+* Feature Expansion (Months 3-4): Expand on the existing prototype by adding new core mechanics, additional multiplayer functionality, and other requested features.
+
+* Beta Testing (Month 5): Conduct extensive beta testing, incorporating community suggestions and finalizing features.
+
+* Polish and Optimization (Month 6): Focus on polishing the game, optimizing performance, and resolving any remaining issues.
+
+* Official Launch (Month 7): Launch the expanded demo with full features, marketing, and community events.
+
+*Open-Source Publication:*
+
+* The current game build will be published on Github after proposal approval.
+
+*Links to download and play the current build:*
+
+* Download for PC - https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-PC.zip
+
+* Download for Mac - https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-Mac.zip
+
+*Budget and Funding Allocation:*
+
+* Total Funding Requested: 25,000 USDC sent to: 0x4d6e3Ff00F77F6e746eBF7f6827800eB99e36910
+
+*Demo Budget Breakdown:*
+
+* Game Levels (10): $4,000
+
+* In-Game Items (15): $3,000
+
+* Web3 Wallet Integration and Address Registration: $2,500
+
+* Menus and UI: $1,500
+
+* Problems/Polish: $4,000
+
+* Netcode: $3,500
+
+* Music and Sound Effects: $1,000
+
+* Project Management and Coordination: $2,500
+
+* Bounty Program for Community Contributions: $3,000
+
+Project Lead: WhtRang3r
+
+Lead Developer: Yokcos
+
+Netcode: Zer0xtj
+
+Art: Kravitch
+
+*Eventual Revenue Generation Possibilities for the DAO:*
+
+* Gotchichain Battleverse presents multiple opportunities for generating revenue for the DAO:
+
+* Custom Builds: The open-source nature of the project allows for custom game builds to be created and sold on the Polycade AGS platform. These custom builds can be tailored for various use cases, such as unique game modes or special competitions, providing a continuous revenue stream.
+
+* Player-Funded Prize Pools: Competitions can be organized both online and in-person, with player-funded prize pools. The DAO will receive a portion of the funds from these prize pools for organizing and hosting the events, further increasing community engagement and generating additional revenue.
+
+*Conclusion:*
+
+Gotchichain Battleverse aims to revolutionize the gaming experience by combining the best of open-source development, blockchain technology, and community collaboration. By creating educational content and allowing for custom game builds, we can attract and engage a broader audience. We invite the Aavegotchi community to join us in creating an engaging, dynamic, and immersive battleverse. Together, we can build a game that reflects our collective creativity and passion for gaming.
+
+* Yokcos - https://store.steampowered.com/search/?developer=Yokcos
+
+* Zer0xtj - https://github.com/Zer0xTJ
+
+* Kravitch - https://www.fakegotchis.com/profile/0xe17b279d3891b48c36ef616a5f70a586e80b5b98?selected=published
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1255248894850502748).
+
+Option 1: Yes Fund!
+
+Option 2: No, don't fund
+
+**Voting Period:** 16 - 31 July 2024
+
+**Resultaten:**
+
+table_agip125
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xf8f9b32ce931aa8d3ae6279fb78f1de87737cdb64d2fb8dbc5adc19df2ebf722)
+
+<hr />
+
+### Rarity Farming Season 9
+**Aavegotchi Improvement Proposal #126**
+
+**Voorstel Samenvatting:**
+
+This proposal outlines the details for Rarity Farming Season 9.
+
+table_rarityFarmingSeason9Breakdown
+
+*Settings:*
+
+* Start Date: August 10th, 2024
+
+* Total Rewards: 1.5 Million GHST
+
+* Eligibility: Top 7500 Gotchis (for BRS, Kinship, and XP)
+
+* Duration: Four rounds, each lasting 2 weeks.
+
+* Snapshot Times:
+
+    * August 24th, 2024 at 02:00 PM UTC
+
+    * September 7th, 2024 at 02:00 PM UTC
+
+    * September 21st, 2024 at 02:00 PM UTC
+
+    * October 5th, 2024 at 02:00 PM UTC
+
+*Miscellaneous:*
+
+The Rewards Pool will be funded by the DAO Foundation Rewards wallet (0x8c8E076Cd7D2A17Ba2a5e5AF7036c2b2B7F790f6). Details concerning GotchiBattler are outside the scope of this proposal and will be confirmed separately.
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1247054332336013363/1247054332336013363).
+
+Option 1: Yes
+
+Option 2: No
+
+**Voting Period:** 22 - 31 July 2024
+
+**Resultaten:**
+
+table_agip126
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xb46614973c1f9e244b037788fbb31bc1909ce4bb4a56b85f39c6554a53163c0a)
 
 <hr />
 
