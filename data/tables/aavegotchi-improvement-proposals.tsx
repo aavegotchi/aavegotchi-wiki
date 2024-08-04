@@ -319,4 +319,18 @@ export const tables
 				]
             }
         },
+		
+		{
+            tableName: "proposedXPAwards",
+            tableCaption: "",
+            tableData: {
+                headers: ["No. of contributors", "XP award per contributor"],
+                data: [
+                    ["1", "250"],
+					["2", "125"],
+					["3-5", "75 xp per contributor. Only one gotchi per contributor"],
+					["6+", "Someone will have to pass. Max 5 gotchis can be awarded as per above"]
+				]
+            }
+        },
     ]
