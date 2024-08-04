@@ -281,4 +281,42 @@ export const tables
 				]
             }
         },
+		
+		{
+            tableName: "agip125",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes Fund!", "8,100,000 GHST (79.44%)"],
+					["No, don't fund", "2,100,000 GHST (20.56%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "rarityFarmingSeason9Breakdown",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Percentage"],
+                data: [
+                    ["BRS", "50%"],
+					["GotchiBattler", "20%"],
+					["Kinship", "20%"],
+					["XP", "10%"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip126",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "8,600,000 GHST (90.79%)"],
+					["No", "873,000 GHST (9.21%)"]
+				]
+            }
+        },
     ]
