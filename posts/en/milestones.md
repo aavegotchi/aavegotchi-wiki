@@ -22,6 +22,25 @@ contributors: ["unintelligent-nerd"]
 
 ## Year 2024
 
+## [Aavegotchi July Highlights](https://blog.aavegotchi.com/aavegotchi-july-highlights/)
+* Gotchi Guardians have a fiery new map, play and earn in Spirit Force Arena, 3D wearables and moar in this July update!
+<p></p>
+
+## [Rarity Farming Season 9](https://blog.aavegotchi.com/rarity-farming-season-9/)
+* Rarity Farming Season 9 will begin on August 10th, 2024 at 10AM EST/2PM UTC!
+* Dress your Gotchis up and farm dat GHST!
+<p></p>
+
+## [Two new ways to Play and Earn!](https://blog.aavegotchi.com/two-new-ways-to-play-and-earn/)
+* HyperPlay has just launched their Questing platform, featuring Gotchi Guardians and Spirit Force Arena
+* Play the games for at least 5 minutes a day for 2 days straight and get rewarded with GHST!
+* Apart from earning GHST over the next month, you can also earn Game7 Credits by diving into any of the quests happening on HyperPlay or the Game7 platform!
+<p></p>
+
+## [Aavegotchi Wearables in 3D!](https://blog.aavegotchi.com/finally-they-are-done/)
+* Aavegotchi wearables are now in 3D!
+<p></p>
+
 ## [Earn GHST playing Spirit Force Arena](https://blog.aavegotchi.com/now-you-can-earn-ghst-playing-sfa-battle-royale/)
 * You can now stake GHST in Battle Royale Matches in the Spirit Force Arena!
 * Earn Badges when you stake GHST, win, or lose!
