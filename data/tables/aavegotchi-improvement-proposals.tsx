@@ -333,4 +333,16 @@ export const tables
 				]
             }
         },
+		
+		{
+            tableName: "agip127",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes", "7,600,000 GHST (80.29%)"],
+					["No", "1,900,000 GHST (19.71%)"]
+				]
+            }
+        }
     ]

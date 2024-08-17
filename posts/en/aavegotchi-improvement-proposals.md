@@ -1731,6 +1731,8 @@ Option 2: No
 
 **Results:**
 
+table_agip127
+
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x307f6d8e39de3ce35886714e07586f838d42aa0556c66b19a142b1d8f2ba1703)
 
 <hr>
