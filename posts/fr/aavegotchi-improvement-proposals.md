@@ -41,6 +41,8 @@ Jusqu'où avons-nous progressé en tant que communauté ? Vous trouverez ici les
 <li><a href=#gotchichain-battleverse-demo---an-open-source-battleverse-built-with-godot>Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot</a></li>
 <li><a href=#rarity-farming-season-9>Rarity Farming Season 9</a></li>
 <li><a href=#increasing-xp-award-to-250-xp-for-successful-core-agips>Increasing XP Award to 250 XP for Successful CORE AGIPs</a></li>
+<li><a href=#replacement-dao-director-election>Replacement DAO Director Election</a></li>
+<li><a href=#tipping-for-aavegotchi-community-apps>Tipping for Aavegotchi community apps</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -1727,6 +1729,182 @@ Option 2: No
 table_agip127
 
 [Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x307f6d8e39de3ce35886714e07586f838d42aa0556c66b19a142b1d8f2ba1703)
+
+<hr />
+
+### Replacement DAO Director Election
+**Aavegotchi Improvement Proposal #128**
+
+**Proposal Summary:**
+
+This election will serve to replace Mori on the DAO multisig as the 9th signer, as he has stepped down. The salary for this position is 8000 ghst annually, paid quarterly (2000 ghst), as stated in AGIP 51. The elected person will also adhere to all principles and guidelines set forth in AGIP 51. The initial payment will be prorated at 2000 * (days left of term/91.25).
+
+The elected individual will be immune to any future (re)elections from a community initiated vote for 2 years following their inauguration into the DAO Foundation as a director, but may still be removed by the other directors if they are not fulfilling their duties. They will provide the necessary doxx information and a wallet address to be added to multsig after the election.
+
+*COMPETENCY*
+
+* Be an upstanding member of AavegotchiDAO with a good reputation
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have their name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* Be familiar with creating transactions and signing on (prev. Gnosis) Safe
+
+*RESPONSIBILITIES*
+
+The DAO Directors act as the executor of the DAO’s wishes. If an individual director disagrees with an action of the DAO, they can choose to resign, but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's multisig.
+
+*CANDIDATES*
+
+* aavegotch1.eth
+
+* tburd.eth
+
+* fifoooo
+
+* musashi13
+
+You can find each candidate's application here: [https://discord.com/channels/732491344970383370/1259200686994882660](https://discord.com/channels/732491344970383370/1259200686994882660)
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1256789997688848447).
+
+Option 1: aavegotch1.eth
+
+Option 2: tburd.eth
+
+Option 3: fifoooo
+
+Option 4: musashi13
+
+**Voting Period:** 7 - 21 August 2024
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x76a91e48a9a1b12852f055be07c2661d3d4a208091db9edbb16ba73b3cef3e55)
+
+<hr />
+
+### Tipping for Aavegotchi community apps
+**Aavegotchi Improvement Proposal #129**
+
+**Proposal Summary:**
+
+We would like to ask for a small funding from the Aavegotchi DAO, funding that will help run and improve community websites and services, which have been actively used and maintained. Our tools have been vetted multiple times and most of them are part of the official tools list from [https://dapp.aavegotchi.com/tools?type=apps](https://dapp.aavegotchi.com/tools?type=apps.).
+
+Each of the below projects will receive 600 GHST / each for the whole period of 6 months, as long as the website is active at the end of the payment period, according to the uptime links below (should show All systems operational).
+
+The payment period will be once every 2 months, 200 GHST to be paid to each maintainer address, on Polygon blockchain. If there are more than one maintainers, the split should be proportional to the number of maintainers (50/50 % if there are two maintainers).
+
+The total amount asked is 600 GHST x 5 = 3000 of GHST.
+
+Due to the nature of the funding and the small amount, in addition to the long history of involvement in the community, the maintainers will do a best effort maintenance of the website.
+
+If there are any issues or fixes to the functionality of the websites, the maintainers will do a best effort to fix the issues, issues that need to be created on their respective Github link issue page or Discord channel (if any), or sent directly to their DMs.
+
+We suggest creating a Discord thread in the Aavegotchi channel for support or issues related to the Aavegotchi community apps, as Github requires some knowledge.
+
+The 5 projects are:
+
+**Verse Analytics - https://verse-analytics.xyz/**
+
+Description : Collection of tools and reports, with a focus on lending operations and alchemicas.
+
+* Time since first deployment: September 2021
+
+* Uptime link: https://stats.uptimerobot.com/xMwwMImYG6
+
+* Discord ID: @fifoooo
+
+* Ethereum address: 0x49F2df1E567e588f3aa2CE63fcCA80a6a0f4C029
+
+* Issue tracker: https://discord[.]gg/fZVWHMaRqQ
+
+**The big brain API - https://aavegotchi.land**
+
+Description: Gotchiverse analytics, wallet asset tracking, rarity farming reward estimation.
+
+* Time since it was first deployed: March 2021
+
+* Uptime link: https://stats.uptimerobot.com/pAllDhQYl8/797188784
+
+* Discord ID: @aavegotch1.eth
+
+* Ethereum address: 0x47d6f96ba098816389db7c87cbf077de7181b853
+
+* Issue tracker: https://github.com/lazyprogrammerio/ghst-gg
+
+* GitHub URL: https://github.com/lazyprogrammerio/ghst-gg
+
+* Github commit id: https://github.com/lazyprogrammerio/ghst-gg/commit/d4c799e5f7c3c877a3748df68e971da9adf36231
+
+**Aadventure - https://www.aadventure.io**
+
+Description: realm explorer, historical auctions, historical rarity farming, lending tools, gotchi pockets, wearable sets by gotchi type.
+
+* Time since it was first deployed: December 2021
+
+* Uptime link: https://stats.uptimerobot.com/XHXsXlT1Ot
+
+* Discord ID: @_eitri_
+
+* Ethereum address: 0xaf4fe811ffa1bf1f7de8fdaa9f706487c882aed0
+
+* Issue tracker: https://github.com/mistaya/aavegotchi/issues
+
+* GitHub URL: https://github.com/mistaya/aavegotchi/tree/main/realm
+
+* Github commit id: https://github.com/mistaya/aavegotchi/commit/9b026d8f7f4c2c0096fbed4aa9e94f6e9247cf27
+
+**Aavegotchi Wearables Report - https://wearables.report**
+
+The wearables report dashboard supplies vital metrics regarding the Aavegotchi wearables market. It has been used as the basis for key DAO decisions on wearables emissions, schematic trait selection, and set balancing. The site is geared towards active DAO participants to inform economic decisions regarding the wearables market and how wearables are being utilized by players.
+
+* Time since it was first deployed: October 2022
+
+* Uptime link: https://stats.uptimerobot.com/vca707DLhl
+
+* Discord ID: @mikey.jay
+
+* Ethereum address: 0x755A89AC371eE91c1E0fC313Bc9efF5Fc150b993
+
+* Issue tracker: https://github.com/mikey-jay/aavegotchi-wearables-report/issues
+
+* GitHub URL: https://github.com/mikey-jay/aavegotchi-wearables-report
+
+* Github commit id: https://github.com/mikey-jay/aavegotchi-wearables-report/commit/a1048f4ecfbb6c0b466da9bde93ddaabe9d78604
+
+**GotchiSwap - https://gotchiswap.xyz/**
+
+Description : Aavegotchi assets trustless OTC solution
+
+* Time since first deployment: August 2023
+
+* Uptime link: https://stats.uptimerobot.com/xMwwMImYG6
+
+* Discord ID: @[GFA]fifoooo and @pg0811
+
+* Ethereum address: 0x43FF4C088df0A425d1a519D3030A1a3DFff05CfD (PG) and 0x49F2df1E567e588f3aa2CE63fcCA80a6a0f4C029 (@[GFA]fifoooo), 50%/50% split.
+
+* Issue tracker: https://github.com/pgendreau/gotchiswap-ui/issues
+
+Thank you, frens!
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1261984700885372988/1261985252629282846).
+
+Option 1: YES
+
+Option 2: NO
+
+**Voting Period:** 13 - 27 August 2024
+
+**Results:**
+
+[Link to vote on Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xef468935df62924bbf897d45a92da9876da20e30fdb6d7b7f18c2c847b198b86)
 
 <hr />
 
