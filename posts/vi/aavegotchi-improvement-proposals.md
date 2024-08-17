@@ -1724,6 +1724,8 @@ Phương án 2: Không thêm gói đất mới
 
 **Kết quả:**
 
+table_agip127
+
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x307f6d8e39de3ce35886714e07586f838d42aa0556c66b19a142b1d8f2ba1703)
 
 <hr />
