@@ -61,6 +61,8 @@ contributors:
 
 * [Gaame Jaam](/gaame-jaam)
 
+* [Geist](/geist)
+
 * [Token GHST](/ghst)
 
 * [Thuật Ngữ](/glossary)
@@ -70,8 +72,6 @@ contributors:
 * [Gotchi Heroes](/gotchi-heroes)
 
 * [Gotchi Lending](/gotchi-lending)
-
-* [Gotchichain](/gotchichain)
 
 * [Gotchiverse](/gotchiverse)
 
