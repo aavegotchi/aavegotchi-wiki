@@ -61,6 +61,8 @@ Avegotchi Wikiのページ一覧です：
 
 * [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
+* [Geist](/geist)
+
 * [GHSTトークン](/ghst)
 
 * [用語解説](/glossary)
@@ -70,8 +72,6 @@ Avegotchi Wikiのページ一覧です：
 * [Gotchi Heroes](/gotchi-heroes)
 
 * [ゴッチ・レンディング](/gotchi-lending)
-
-* [Gotchichain](/gotchichain)
 
 * [ゴッチバース](/gotchiverse)
 
