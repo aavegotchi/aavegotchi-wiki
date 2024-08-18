@@ -22,6 +22,7 @@ Rarity Farming is georganiseerd in verschillende seizoenen. Hier zijn de gegeven
 <li><a href=#season-6>Season 6</a></p>
 <li><a href=#season-7>Season 7</a></p>
 <li><a href=#season-8>Season 8</a></p>
+<li><a href=#season-9>Season 9</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -144,6 +145,20 @@ The following table shows the breakdown of the GHST prizes for the Gotchi Battle
 
 table_gotchiBattlerSeason8
 
+## Season 9
+
+Rarity Farming Season 9 was held from Saturday, 10 August 2024 - Saturday, 5 October 2024. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 9.
+
+* Rarity (50% of the rewards pool / 750,000 GHST)
+
+* Kinship (20% van de beloningen pool / 300.000 GHST)
+
+* XP (10% van de beloningen pool / 150,000 GHST)
+
+* Gotchi Battler (20% of the rewards pool / 300,000 GHST)
+
+[Spreadsheet of Rarity Farming Season 9 Rewards](https://docs.google.com/spreadsheets/d/1z0-duUZ8GqyQySzKInDstZkdgmHskbgw3U2PyxQFhuY/)
+
 ## GHST Distribution by Season
 
 table_rarityFarmingSeasons
@@ -165,3 +180,5 @@ table_rarityFarmingSeasons
 * [Rarity Farming Season 7 Blog post](https://blog.aavegotchi.com/farming-frenzy-announcing-a-new-season-of-rarity-farming/)
 
 * [Rarity Farming Season 8 Blog post](https://blog.aavegotchi.com/rarity-farming-season-8/)
+
+* [Rarity Farming Season 9 Blog post](https://blog.aavegotchi.com/rarity-farming-season-9/)
