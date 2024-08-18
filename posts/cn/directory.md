@@ -61,6 +61,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Gaame Jaam](/gaame-jaam)
 
+* [Geist](/geist)
+
 * [GHST 代币](/ghst)
 
 * [词汇表](/glossary)
@@ -70,8 +72,6 @@ Here is the list of pages in the Aavegotchi Wiki:
 * [Gotchi Heroes](/gotchi-heroes)
 
 * [Gotchi Lending](/gotchi-lending)
-
-* [Gotchichain](/gotchichain)
 
 * [Gotchiverse](/gotchiverse)
 
