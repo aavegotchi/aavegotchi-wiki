@@ -16,6 +16,8 @@ The GHST token is the eco-governance token that powers the whole Aavegotchi ecos
 
 Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
 
+GHST will become the gas token on the upcoming [Geist blockchain](/geist).
+
 GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
