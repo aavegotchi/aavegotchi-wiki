@@ -7,32 +7,45 @@ contributors:
   - unintelligent-nerd
 ---
 
-Geist will be the dedicated blockchain for all things Aavegotchi. Lower fees and faster confirmation times will make it the ultimate user experience for blockchain gamers, and the perfect building ground for developers and game studios.
+Geist is a new L3 powered by Base, Arbitrum, Alchemy, and Aavegotchi.
 
-Geist is designed to power the Aavegotchi Gaming Console, keeping everything — player profiles, game progression, and assets—safe on the chain.
+Geist is built to be the onchain home of Aavegotchi, the Aavegotchi Gaming Console, and all of our official and community-built games. Games or dapps that include Aavegotchi elements (tokens, NFTs, tooling, lore) will be prioritized for deployment.
 
 <div class="contentsBox">
 
 **Nội dung**
 
 <ol>
-<li><a href=#settlement-layer>Settlement Layer</a></li>
-<li><a href=#gas-token>Gas Token</a></li>
-<li><a href=#launch-date>Launch Date</a></li>
+<li><a href=#features>Features</a></li>
+<li><a href=#polter-testnet>Polter Testnet</a></li>
 </ol>
 
 </div>
 
-## Settlement Layer
+## Các tính năng
 
-Geist will use [Base](https://www.base.org/) as its settlement layer. Base is a leading EVM-compatible Layer 2 (L2) chain developed by Coinbase that offers a safe, low-cost, and developer-friendly way to develop onchain, while still remaining strongly aligned with Ethereum.
+Geist is built using the cutting-edge Arbitrum stack, the leading rollup chain stack for crypto gaming. Standard benefits of the Arbitrum stack such as <250ms block time, custom gas token ([GHST](/ghst)), and permissionless transacting all apply.
 
-Pixelcraft studios is leveraging this partnership with Base to explore the option of using the Optimism stack to enhance Geist further. The Optimism Stack, a gift to the open-source community, lays the groundwork for a "superchain" of L2s, offering shared interoperability, sequencing, and governance, creating a united ecosystem of scalability solutions.
+Here’s what sets Geist apart:
 
-## Gas Token
+- **A chain-wide membership program.** Geist Members will enjoy exclusive access to reward campaigns across all games on the chain. Non-members can still transact and play games on the chain, but will miss out on many of the benefits.
 
-On Geist, [GHST](/ghst) (Aavegotchi’s eco-governance token) will be the gas token for all transactions.
+- **World-class Uptime and the Complete Developer Platform.** Powered by Alchemy, the leader in blockchain infrastructure, Geist offers high uptime and familiar developer tools such as Token API, Transaction API, and Webhooks.
 
-## Launch Date
+- **Native NFT Marketplace.** Geist supports the Aavegotchi [Baazaar](/marketplace), a fully onchain NFT marketplace with royalties enabled.
 
-Geist is expected to drop in Q2 2024.
+- **CEX Onramps.** Geist is collaborating closely with Coinbase and other CEXes to allow for ETH and GHST onramps.
+
+- **Native VRF.** Geist supports a native onchain random number generator (VRF) developed by Pixelcraft Studios, allowing game developers to deliver provable randomness to their players.
+
+- **Account Abstraction and Gasless Relayers.** Geist supports the latest in account abstraction, smart wallets, and gasless transactions, powered by Thirdweb.
+
+- **Native Staking with revenue sharing.** Pending a future [AavegotchiDAO](/dao) proposal, Geist will support staking GHST to earn a portion of both marketplace and sequencer fees.
+
+- **Permissioned contract deployment.** To prevent network congestion and ensure quality control.
+
+## Polter Testnet
+
+The Polter Testnet, the official testnet of Geist, is the testing ground for all Aavegotchi asset migrations and features.
+
+Learn more about Polter Testnet and Geist Mainnet in the [Official docs](https://docs.aavegotchi.com/geist/overview).
