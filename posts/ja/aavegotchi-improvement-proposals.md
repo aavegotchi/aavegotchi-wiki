@@ -1785,6 +1785,8 @@ Option 4: musashi13
 
 **結果:**
 
+table_agip128
+
 [スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0x76a91e48a9a1b12852f055be07c2661d3d4a208091db9edbb16ba73b3cef3e55)
 
 <hr />
@@ -1903,6 +1905,8 @@ Option 2: NO
 **Voting Period:** 13 - 27 August 2024
 
 **結果:**
+
+table_agip129
 
 [スナップショットの投票にのリンク](https://snapshot.org/#/aavegotchi.eth/proposal/0xef468935df62924bbf897d45a92da9876da20e30fdb6d7b7f18c2c847b198b86)
 
