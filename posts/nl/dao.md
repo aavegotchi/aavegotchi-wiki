@@ -76,7 +76,7 @@ A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](htt
 
 Het Signaalvoorstel zal worden opgewaardeerd tot een kernvoorstel, zodra dit met een quorum van 20 procent van het aantal circulerende GHST dat in aanmerking komt om te stemmen op Polygon op het moment dat het voorstel wordt ingediend.
 
-Een kernvoorstel is een voorstel dat Pixelcraft presenteert, met opties op basis van Signaal voorstellen die bereikt zijn of bijna het quorum hebben bereikt. Deze stemmen zijn bindend en komen in aanmerking voor XP beloningen voor deelnemers.
+Een kernvoorstel is een voorstel dat Pixelcraft presenteert, met opties op basis van Signaal voorstellen die bereikt zijn of bijna het quorum hebben bereikt. Deze stemmen zijn bindend en komen in aanmerking voor XP beloningen voor deelnemers. Following the passing of [AGIP-127](/aavegotchi-improvement-proposals#increasing-xp-award-to-250-xp-for-successful-core-agips), the XP rewards have been increased to 250 XP and certain limitations and boundaries have been introduced for successful Core Proposals.
 
 Als uw signaalvoorstel met succes is opgewaardeerd naar een kernvoorstel, zal 150 [XP](/traits#experience)* worden gegeven aan de Aavegotchi die u hebt genoteerd in uw Signaal-voorstel.
 
