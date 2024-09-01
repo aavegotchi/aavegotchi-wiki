@@ -76,7 +76,7 @@ A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](htt
 
 Это значит, что за данное конкретное предложение должно проголосовать 20% держателей циркулирующих токенов GHST, имеющих право голоса на Polygon.
 
-Основное предложение — это идея, которую выдвигают разработчики Pixelcraft. Основное предложение может быть основано на Сигнальных предложениях, достигших или почти достигших кворума. Голосовать за Основное приложение нужно обязательно. За это положены очки опыта.
+Основное предложение — это идея, которую выдвигают разработчики Pixelcraft. Основное предложение может быть основано на Сигнальных предложениях, достигших или почти достигших кворума. Голосовать за Основное приложение нужно обязательно. За это положены очки опыта. Following the passing of [AGIP-127](/aavegotchi-improvement-proposals#increasing-xp-award-to-250-xp-for-successful-core-agips), the XP rewards have been increased to 250 XP and certain limitations and boundaries have been introduced for successful Core Proposals.
 
 Тому Aavegotchi, которого вы отметили при создании Сигнального предложения, будет положено 150 [XP](/traits#experience)*, если предложение наберет кворум и будет повышено до Основного.
 
