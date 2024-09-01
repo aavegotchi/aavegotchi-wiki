@@ -371,4 +371,16 @@ export const tables
 				]
             }
         },
+		
+		{
+            tableName: "agip131",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["Yes, LFG! 🔥", "8,100,000 GHST (89.18%)"],
+					["No", "983,000 GHST (10.82%)"]
+				]
+            }
+        },
     ]
