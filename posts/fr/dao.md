@@ -76,7 +76,7 @@ A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](htt
 
 La proposition Signal sera mise à niveau vers une proposition de base dès que la première aura atteint un quorum atteignant 20 % de la circulation de GHST pouvant voter sur Polygon au moment de la création de la proposition.
 
-Une proposition de base est une proposition que Pixelcraft soumet, avec des options basées sur des propositions Signal qui ont atteint ou presque atteint le quorum. Ces votes sont liés et sont admissibles aux récompenses XP pour les participants.
+Une proposition de base est une proposition que Pixelcraft soumet, avec des options basées sur des propositions Signal qui ont atteint ou presque atteint le quorum. Ces votes sont liés et sont admissibles aux récompenses XP pour les participants. Following the passing of [AGIP-127](/aavegotchi-improvement-proposals#increasing-xp-award-to-250-xp-for-successful-core-agips), the XP rewards have been increased to 250 XP and certain limitations and boundaries have been introduced for successful Core Proposals.
 
 Si votre proposition Signal est mise à jour avec succès vers une proposition de fondamentale, 150 [XP](/traits#experience)* sera donné aux Aavegotchi que vous avez notés dans votre proposition Signal.
 
