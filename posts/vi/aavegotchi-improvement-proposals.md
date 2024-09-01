@@ -43,6 +43,7 @@ Psst! Nhận [Huy Hiệu POAP](/poap) nếu bạn đã bỏ phiếu cho AGIP tr�
 <li><a href=#increasing-xp-award-to-250-xp-for-successful-core-agips>Increasing XP Award to 250 XP for Successful CORE AGIPs</a></li>
 <li><a href=#replacement-dao-director-election>Replacement DAO Director Election</a></li>
 <li><a href=#tipping-for-aavegotchi-community-apps>Tipping for Aavegotchi community apps</a></li>
+<li><a href=#forge-competition-pilot-season-1>Forge Competition Pilot Season 1</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
 <li><a href=#year-2021>Year 2021</a></li>
@@ -1909,6 +1910,97 @@ Option 2: NO
 table_agip129
 
 [Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xef468935df62924bbf897d45a92da9876da20e30fdb6d7b7f18c2c847b198b86)
+
+<hr />
+
+### Forge Competition Pilot Season 1
+**Aavegotchi Improvement Proposal #131**
+
+**Tóm Tắt Đề Xuất:**
+
+Today I present the first ever DAO Forge Competition. For the pilot season, we will keep it simple with a single snapshot capturing the Top 100 gotchis by smithing XP.
+
+The current leaderboard is here: [https://wearables.report/smithing-skill.html](https://wearables.report/smithing-skill.html)
+
+*The high level points:*
+
+* A single snapshot will capture the leaderboard
+
+* Top 100 gotchis by smithing xp will be awarded prizes
+
+* Prizes will be airdropped to the gotchi owner’s wallet (rented gotchis will also route prizes to their owners)
+
+* The snapshot date will be Saturday, September 7th during the hangout
+
+* Prizes will distribute 10% of the total supply from the new schematics release
+
+* The new schematics are from the community design competition which was held on July 6th, 2024
+
+*The Project*
+
+We will design a designated live-updating leaderboard (the link above is only daily) capable of handling the snapshot for the competition. The site will be designed future-ready to allow for more seasons should we choose to have them. The site will have an admin backend that will allow us to deploy the prize distribution script.
+
+*Prize Structure*
+
+Prizes are for individual gotchi smithing xp.
+
+Prize breakdown is as follows:
+
+* Top 100: all new common schematics
+
+* Top 50: all new uncommon and below schematics
+
+* Top 25: all new rare and below schematics
+
+* Top 10: all new legendary and below schematics
+
+* Top 5: all new mythical and below schematics
+
+* “And below” means all schematics below the mentioned rarity. Ie: Top 25 will receive all new rare, uncommon, and common schematics
+
+Ties: in the unlikely but nonzero chance of a tie that falls across two prize bands, the tie-breaking metric will be based on which gotchi reached that score first. For example, two gotchis each have 420 skill points. Gotchi A achieved that score at block height 50,000,000 and Gotchi B achieved the score at block 52,000,000. Gotchi A would be placed in front of Gotchi B and be the winner of the prizes.
+
+*Purpose of the competition:*
+
+* Award the biggest forge users with prizes relevant to their craft
+
+* Provide a healthy distribution for the upcoming schematics release. Without the competition, all new schematics will go into the geodes, making them very difficult to obtain.
+
+* Incentivise players to use the forge and burn alloy in the process
+
+* Provide a fun experience for the community
+
+If this season goes well, we can add this competition to our ecosystem as a means to distribute future wearables. For subsequent seasons, we could implement more mechanics like delta xp and so on.
+
+*Funding request:*
+
+The total cost of the competition is $5500 USD equivalent paid in stable coins.
+
+Competition planning and coordination, website design and graphics - $2,000
+
+* Oliver Spoon
+
+Web development, admin page for distribution, smart contract work, testing, and prize deployment - $3,500
+
+* Fifoooo & PG
+
+Upon successful passing of the proposal, the full sum is to be sent to 0xa2e3680A18aBAfEff813E8aA67AEfB49bf078C86
+
+Payment can be made in USDC, DAI, aUSDC, or aDAI on either Polygon or Ethereum network
+
+Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1110591248269582468).
+
+Option 1: Yes, LFG! 🔥
+
+Phương án 2: Không thêm gói đất mới
+
+**Voting Period:** 23 August - 1 September 2024
+
+**Kết quả:**
+
+table_agip131
+
+[Đường link vote trên Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x00942985e9dd86bfc0362e25a83611d9854a81f2d1d75392db185440f764c405)
 
 <hr />
 
