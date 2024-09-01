@@ -344,5 +344,31 @@ export const tables
 					["No", "1,900,000 GHST (19.71%)"]
 				]
             }
-        }
+        },
+		
+		{
+            tableName: "agip128",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["aavegotch1.eth", "5,400,000 GHST (52.72%)"],
+					["fifoooo", "2,200,000 GHST (21.54%)"],
+					["tburd.eth", "1,800,000 GHST (17.01%)"],
+					["musashi13", "900,000 GHST (8.73%)"]
+				]
+            }
+        },
+		
+		{
+            tableName: "agip129",
+            tableCaption: "",
+            tableData: {
+                headers: ["Option", "Votes"],
+                data: [
+                    ["YES", "9,800,000 GHST (92.22%)"],
+					["NO", "829,000 GHST (7.78%)"]
+				]
+            }
+        },
     ]
