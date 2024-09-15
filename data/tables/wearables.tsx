@@ -619,6 +619,30 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "gotchigangWearablesTable",
+            tableCaption: "Gotchigang Wearables",
+            tableData: {
+                headers: ["Image", "ID", "Name", "Rarity", "Stats", "Quantity", "Slot"],
+                data: [
+                    [`<img style="object-fit:contain" src="/wearables/gotchigang/404.svg" alt="aavegotchi Granny Glasses" title="Granny Glasses"/>`, `404`, `Granny Glasses`, `Common`, `NRG -1`, `1000`, `eyes`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/405.svg" alt="aavegotchi Freckles" title="Freckles"/>`, `405`, `Freckles`, `Common`, `AGG -1`, `1000`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/406.svg" alt="aavegotchi Common Stohn" title="Common Stohn"/>`, `406`, `Common Stohn`, `Common`, `BRN +1`, `1000`, `pet`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/407.svg" alt="aavegotchi Based Shades" title="Based Shades"/>`, `407`, `Based Shades`, `Uncommon`, `AGG +2`, `500`, `eyes`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/408.svg" alt="aavegotchi Rasta Glasses" title="Rasta Glasses"/>`, `408`, `Rasta Glasses`, `Uncommon`, `AGG -2`, `500`, `eyes`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/409.svg" alt="aavegotchi Braces" title="Braces"/>`, `409`, `Braces`, `Uncommon`, `NRG -1, AGG +1`, `500`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/410.svg" alt="aavegotchi Uncommon Stohn" title="Uncommon Stohn"/>`, `410`, `Uncommon Stohn`, `Uncommon`, `SPK +1, BRN +1`, `500`, `pet`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/411.svg" alt="aavegotchi Aloha Flower" title="Aloha Flower"/>`, `411`, `Aloha Flower`, `Rare`, `NRG -3`, `250`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/412.svg" alt="aavegotchi Baable Gum" title="Baable Gum"/>`, `412`, `Baable Gum`, `Rare`, `NRG +3`, `250`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/413.svg" alt="aavegotchi Rare Stohn" title="Rare Stohn"/>`, `413`, `Rare Stohn`, `Rare`, `SPK +2, BRN +1`, `250`, `pet`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/414.svg" alt="aavegotchi Cheap Mask" title="Cheap Mask"/>`, `414`, `Cheap Mask`, `Legendary`, `NRG +2, AGG +2`, `100`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/415.svg" alt="aavegotchi Wild Fungi" title="Wild Fungi"/>`, `415`, `Wild Fungi`, `Legendary`, `AGG -2, SPK -2`, `100`, `pet`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/416.svg" alt="aavegotchi Kawaii Mouth" title="Kawaii Mouth"/>`, `416`, `Kawaii Mouth`, `Mythical`, `BRN -5`, `50`, `face`],
+					[`<img style="object-fit:contain" src="/wearables/gotchigang/417.svg" alt="aavegotchi Baby Licky" title="Baby Licky"/>`, `417`, `Baby Licky`, `Mythical`, `NRG +2, BRN -3`, `50`, `pet`]
+                ]
+            }
+        },
 
         {
             tableName: "wearablesBRStable",
