@@ -23,6 +23,21 @@ contributors:
 
 ## Year 2024
 
+## [14 Ebic New Wearables Are Coming!](https://blog.aavegotchi.com/14-stunning-new-wearables/)
+* In July 2024, AavegotchiDAO hosted a community design competition where talented artists flexed their pixel-crafting skills to create fourteen new Wearable Schematics.
+* Now, these unique Wearables are about to hit the Gotchiverse, and to make things even more exciting, 10% of them will be distributed through the first-ever DAO Forge Competition!
+<p></p>
+
+## [A new partnership with Camelot](https://blog.aavegotchi.com/camelot-launching-on-geist/)
+* Aavegotchi is excited to announce a new partnership with Camelot, creators of the Orbital Liquidity Network, and the largest decentralized exchange (DEX) on Arbitrum.
+* This collaboration will power liquidity on Geist, our upcoming Layer 3 blockchain, allowing decentralized exchange of value to an ecosystem of curated games and dapps.
+<p></p>
+
+## [Introducing the Geist Blockchain!](https://blog.aavegotchi.com/introducing-geist/)
+* Previously codenamed “Gotchichain”, Geist is the first members-only blockchain, built for gaming.
+* It will be a new L3 powered by Base, Arbitrum, Alchemy, and of course, Aavegotchi.
+<p></p>
+
 ## [Aavegotchi July Highlights](https://blog.aavegotchi.com/aavegotchi-july-highlights/)
 * Gotchi Guardians have a fiery new map, play and earn in Spirit Force Arena, 3D wearables and moar in this July update!
 <p></p>
