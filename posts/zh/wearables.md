@@ -68,6 +68,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
 <li><a href=#forge-wearables>Forge Wearables</a></li>
 <li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
+<li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
 </ol>
 
 </div>
@@ -256,3 +257,7 @@ table_forgeWearablesTable
 ## Forge Wearables 2
 
 table_forgeWearables2Table
+
+## Gotchigang Wearables
+
+table_gotchigangWearablesTable
