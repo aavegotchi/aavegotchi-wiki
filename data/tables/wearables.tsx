@@ -60,11 +60,15 @@ interface TableData {
 }
 
 // Helper functions to reduce duplication
-function createWearableImage(src: string, alt: string, title: string): string {
+export function createWearableImage(
+  src: string,
+  alt: string,
+  title: string
+): string {
   return `<img src="${src}" alt="${alt}" title="${title}"/>`;
 }
 
-function createForgeWearableImage(
+export function createForgeWearableImage(
   src: string,
   alt: string,
   title: string
