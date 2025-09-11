@@ -1,10 +1,9 @@
 ---
 author: Unintelligent Nerd
-date: 2020-04-23T07:00:00.000Z
-title: Strategotchi
-description: Strategotchi
-contributors:
-  - unintelligent-nerd
+date: '2020-04-23T07:00:00.000Z'
+title: 'Strategotchi'
+description: 'Strategotchi'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="headerImageContainer">
