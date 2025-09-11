@@ -6,12 +6,12 @@
   "version": "0.1.0",
   "author": "@cinnabarhorse",
   "scripts": {
-    "dev": "next",
+    "dev": "node --openssl-legacy-provider ./node_modules/.bin/next",
     "nowDev": "env-cmd -f .env now dev",
     "develop": "yarn dev",
-    "build": "next build",
+    "build": "node --openssl-legacy-provider ./node_modules/.bin/next build",
     "start": "next start",
-    "export": "next export",
+    "export": "node --openssl-legacy-provider ./node_modules/.bin/next export",
     "deploy": "yarn build && yarn export"
   },
   "dependencies": {

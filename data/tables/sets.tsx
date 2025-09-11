@@ -1,190 +1,2975 @@
-
+// Enums for better type safety
+enum WearableRarity {
+  Common = "common",
+  Uncommon = "uncommon",
+  Rare = "rare",
+  Legendary = "legendary",
+  Mythical = "mythical",
+  Godlike = "godlike",
+}
 
 interface Table {
-    tableName: string
-    tableData: TableData[]
+  tableName: string;
+  tableCaption?: string;
+  tableData: TableData;
 }
 
 interface TableData {
-    headers: any
-    data: any
+  headers: string[];
+  data: string[][];
 }
 
-export const tables
-    = [
+// Helper functions to reduce duplication
+function createWearableImage(
+  tokenId: string,
+  name: string,
+  rarity: WearableRarity,
+  useForgeStyle: boolean = false
+): string {
+  const imagePath = `/wearables/${tokenId}.svg`;
+  const altText = `aavegotchi ${name}`;
+  const className = rarity;
+  const style = useForgeStyle ? ' style="object-fit:contain"' : "";
+
+  return `<img class="${className}"${style} src="${imagePath}" alt="${altText}" title="${name}" />`;
+}
+
+function createSetEntry(
+  setName: string,
+  items: Array<{
+    tokenId: string;
+    name: string;
+    rarity: WearableRarity;
+    useForgeStyle?: boolean;
+  }>,
+  setBonuses: string
+): string[] {
+  const itemImages = items.map((item) =>
+    createWearableImage(
+      item.tokenId,
+      item.name,
+      item.rarity,
+      item.useForgeStyle || false
+    )
+  );
+
+  // Pad with "-" to ensure we have exactly 5 item slots
+  while (itemImages.length < 5) {
+    itemImages.push("-");
+  }
+
+  return [setName, ...itemImages.slice(0, 5), setBonuses];
+}
+
+// Constants for headers
+const SETS_HEADERS = [
+  "Set",
+  "Item 1",
+  "Item 2",
+  "Item 3",
+  "Item 4",
+  "Item 5",
+  "Set Bonus",
+];
+
+// Factory function for creating the table
+function createSetsTable(
+  tableName: string,
+  tableCaption: string,
+  data: string[][],
+  headers: string[] = SETS_HEADERS
+): Table {
+  return {
+    tableName,
+    tableCaption,
+    tableData: {
+      headers,
+      data,
+    },
+  };
+}
+
+export const tables = [
+  createSetsTable("sets", "Sets", [
+    createSetEntry(
+      "Infantry",
+      [
+        { tokenId: "1", name: "Camo Hat", rarity: WearableRarity.Common },
+        { tokenId: "2", name: "Camo Pants", rarity: WearableRarity.Common },
+        { tokenId: "3", name: "MK2 Grenade", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, AGG +1"
+    ),
+    createSetEntry(
+      "Trooper",
+      [
         {
-            tableName: "sets",
-            tableCaption: "Sets",
-            tableData: {
-                headers: ["Set", "Item 1", "Item 2", "Item 3", "Item 4", "Item 5", "Set Bonus"],
-                data: [ 
-					["Infantry", `<img class="common" src="/wearables/link/camo-cap.svg" alt="aavegotchi chainlink camo cap" title="Camo Hat" />`, `<img class="common" src="/wearables/link/camo-pants.svg" alt="aavegotchi chainlink camo pants" title="Camo Pants" />`, `<img class="common" src="/wearables/link/mk2-grenade.svg" alt="aavegotchi chainlink mk2 grenade" title="MK2 Grenade" />`, "-", "-", "BRS +1, AGG +1"],
-					["Trooper", `<img class="uncommon" src="/wearables/link/snow-camo-cap.svg"  alt="aavegotchi chainlink snow camo cap" title="Snow Camo Hat" />`, `<img class="uncommon" src="/wearables/link/snow-camo-pants.svg" alt="aavegotchi chainlink snow camo pants" title="Snow Camo Pants" />`, `<img class="uncommon" src="/wearables/link/m67-grenade.svg" alt="aavegotchi chainlink m67 grenade" title="M67 Grenade" />`, "-", "-", "BRS +2, AGG +1"],
-					["Sergeant", `<img class="rare" src="/wearables/link/marine-cap.svg" alt="aavegotchi chainlink marine cap" title="Marine Cap" />`, `<img class="rare" src="/wearables/link/marine-suit.svg" alt="aavegotchi chainlink marine suit" title="Marine Jacket" />`, `<img class="rare" src="/wearables/link/walkie-talkie.svg" alt="aavegotchi chainlink walkie talkie" title="Walkie Talkie" />`, "-", "-", "BRS +3, AGG +2"],
-					["Link Marine", `<img class="legendary" src="/wearables/link/link-white-cap.svg" alt="aavegotchi chainlink white cap" title="Link White Hat" />`, `<img class="legendary" src="/wearables/link/link-mess-dress.svg" alt="aavegotchi chainlink mess dress" title="Link Mess Dress" />`, `<img class="legendary" src="/wearables/link/link-bubbly.svg" alt="aavegotchi chainlink bubbly" title="Link Bubbly" />`, "-", "-", "BRS +4, AGG +2, BRN +4"],
-					["Mythical Sergey", `<img class="mythical" src="/wearables/link/sergey-beard.svg" alt="aavegotchi chainlink sergey beard" title="Sergey Beard" />`, `<img class="mythical" src="/wearables/link/sergey-eyes.svg" alt="aavegotchi chainlink sergey eyes" title="Sergey Eyes" />`, `<img class="mythical" src="/wearables/link/sergey-red.svg" alt="aavegotchi chainlink red plaid" title="Red Plaid" />`, "-", "-", "BRS +5, AGG +3"],
-					["Godlike Sergey", `<img class="mythical" src="/wearables/link/sergey-beard.svg" alt="aavegotchi chainlink sergey beard" title="Sergey Beard" />`, `<img class="mythical" src="/wearables/link/sergey-eyes.svg" alt="aavegotchi chainlink sergey eyes" title="Sergey Eyes" />`, `<img class="godlike" src="/wearables/link/sergey-blue.svg" alt="aavegotchi chainlink blue plaid" title="Blue Plaid" />`, "-", "-", "BRS +6, NRG -3"],
-					["Apex Sergey", `<img class="mythical" src="/wearables/link/sergey-beard.svg" alt="aavegotchi chainlink sergey beard" title="Sergey Beard" />`, `<img class="mythical" src="/wearables/link/sergey-eyes.svg" alt="aavegotchi chainlink sergey eyes" title="Sergey Eyes" />`, `<img class="godlike" src="/wearables/link/sergey-blue.svg" alt="aavegotchi chainlink blue plaid" title="Blue Plaid" />`, `<img class="godlike" src="/wearables/link/link-cube.svg" alt="aavegotchi chainlink cube" title="LINK Cube" />`, "-", "BRS +6, NRG -4"],
-					["Aave Hero", `<img class="common" src="/wearables/aave/hero-mask.svg" alt="aavegotchi aave hero mask" title="Aave Hero Mask" />`, `<img class="common" src="/wearables/aave/hero-shirt.svg" alt="aavegotchi aave hero shirt" title="Aave Hero Shirt" />`, `<img class="common" src="/wearables/aave/aave-plush-toy.svg" alt="aavegotchi aave plush toy" title="Aave Plush Toy" />`, "-", "-", "BRS +1, SPK +1"],
-					["Captain Aave", `<img class="uncommon" src="/wearables/aave/captain-aave-mask.svg" alt="aavegotchi aave captain aave mask" title="Captain Aave Mask" />`, `<img class="uncommon" src="/wearables/aave/captain-aave-suit.svg" alt="aavegotchi aave captain aave suit" title="Captain Aave Suit" />`, `<img class="uncommon" src="/wearables/aave/captain-aave-shield.svg" alt="aavegotchi aave captain aave shield" title="Captain Aave Shield" />`, "-", "-", "BRS +2, SPK +1"],
-					["Thaave", `<img class="rare" src="/wearables/aave/thaave-helmet.svg" alt="aavegotchi aave thaave helmet" title="Thaave Helmet" />`, `<img class="rare" src="/wearables/aave/thaave-suit.svg" alt="aavegotchi aave thaave suit" title="Thaave Suit" />`, `<img class="rare" src="/wearables/aave/thaave-hammer.svg" alt="aavegotchi aave thaave hammer" title="Thaave Hammer" />`, "-", "-", "BRS +3, NRG +2"],
-					["Marc", `<img class="legendary" src="/wearables/aave/marc-hair.svg" alt="aavegotchi aave marc hair" title="Marc Hair" />`, `<img class="legendary" src="/wearables/aave/marc-outfit.svg" alt="aavegotchi aave marc outfit" title="Marc Outfit" />`, `<img class="legendary" src="/wearables/aave/rekt-sign.svg" alt="aavegotchi aave rekt sign" title="REKT Sign" />`, "-", "-", "BRS +4, NRG +2"],
-					["Jordan", `<img class="mythical" src="/wearables/aave/jordan-hair.svg" alt="aavegotchi aave jordan hair" title="Jordan Hair" />`, `<img class="mythical" src="/wearables/aave/jordan-suit.svg" alt="aavegotchi aave jordan suit" title="Jordan Suit" />`, `<img class="mythical" src="/wearables/aave/aave-flag.svg" alt="aavegotchi aave flag" title="Aave Flag" />`, "-", "-", "BRS +5, SPK +3"],
-					["Godlike Stani", `<img class="godlike" src="/wearables/aave/stani-hair.svg" alt="aavegotchi aave stani hair" title="Stani Hair" />`, `<img class="godlike" src="/wearables/aave/stani-lifejacket.svg" alt="aavegotchi aave stani lifejacket" title="Stani Lifejacket" />`, `<img class="godlike" src="/wearables/aave/aave-boat.svg" alt="aavegotchi aave boat" title="Aave Boat" />`, "-", "-", "BRS +6, AGG -3"],
-					["Apex Stani", `<img class="godlike" src="/wearables/aave/stani-hair.svg" alt="aavegotchi aave stani hair" title="Stani Hair" />`, `<img class="godlike" src="/wearables/aave/stani-lifejacket.svg" alt="aavegotchi aave stani lifejacket" title="Stani Lifejacket" />`, `<img class="godlike" src="/wearables/aave/aave-boat.svg" alt="aavegotchi aave boat" title="Aave Boat" />`, `<img class="mythical" src="/wearables/aave/aave-flag.svg" alt="aavegotchi aave flag" title="Aave Flag" />`, "-", "BRS +6, NRG +1, AGG -3"],
-					["ETH Maxi", `<img class="common" src="/wearables/ethereum/ETH LOGO GLASSES.svg" alt="aavegotchi ETH Logo Glasses" title="ETH Logo Glasses" />`, `<img class="common" src="/wearables/ethereum/ETH TSHIRT.svg" alt="aavegotchi ETH T-Shirt" title="ETH TShirt" />`, `<img class="common" src="/wearables/ethereum/32 ETH COIN.svg" alt="aavegotchi 32 ETH Coin" title="32 ETH Coin" />`, "-", "-", "BRS +1, BRN -1"],
-					["Foxy Meta", `<img class="uncommon" src="/wearables/ethereum/FOXY MASK.svg" alt="aavegotchi Foxy Mask" title="Foxy Mask" />`, `<img class="uncommon" src="/wearables/ethereum/FOXY TAIL.svg" alt="aavegotchi Foxy Tail" title="Foxy Tail" />`, `<img class="uncommon" src="/wearables/ethereum/TREZOR WALLET.svg" alt="aavegotchi Trezor Wallet" title="Trezor Wallet" />`, "-", "-", "BRS +2, AGG -1"],
-					["Nogara the Eagle", `<img class="rare" src="/wearables/ethereum/EAGLE MASK.svg" alt="aavegotchi Eagle Mask" title="Eagle Mask" />`, `<img class="rare" src="/wearables/ethereum/NOGARA ARMOR.svg" alt="aavegotchi Nogara Armor" title="Nogara Armor" />`, `<img class="rare" src="/wearables/ethereum/DAO EGG.svg" alt="aavegotchi DAO Egg" title="DAO Egg" />`, "-", "-", "BRS +3, NRG +2"],
-					["DeFi Degen", `<img class="legendary" src="/wearables/ethereum/APE MASK.svg" alt="aavegotchi Ape Mask" title="Ape Mask" />`, `<img class="legendary" src="/wearables/ethereum/HALF REKT SHIRT.svg" alt="aavegotchi Half Rekt Shirt" title="Half Rekt Shirt" />`, `<img class="legendary" src="/wearables/ethereum/WAIFU PILLOW.svg" alt="aavegotchi Waifu Pillow" title="Waifu Pillow" />`, "-", "-", "BRS +4, BRN -2"],
-					["DAO Summoner", `<img class="mythical" src="/wearables/ethereum/XIBOT MOHAWK.svg" alt="aavegotchi Xibot Mohawk" title="Xibot Mohawk" />`, `<img class="mythical" src="/wearables/ethereum/CODERDAN SHADES.svg" alt="aavegotchi Coderdan Shades" title="Coderdan Shades" />`, `<img class="mythical" src="/wearables/ethereum/GLDNXROSS ROBE.svg" alt="aavegotchi GldnXross Robe" title="GldnXross Robe" />`, `<img class="mythical" src="/wearables/ethereum/MUDGEN DIAMOND.svg" alt="aavegotchi Mudgen Diamond" title="Mudgen Diamond" />`, "-", "BRS +5, BRN +3"],
-					["Vitalik Visionary", `<img class="godlike" src="/wearables/ethereum/GALAXY BRAIN.svg" alt="aavegotchi Galaxy Brain" title="Galaxy Brain" />`, `<img class="godlike" src="/wearables/ethereum/ALL SEEING EYES.svg" alt="aavegotchi All Seeing Eyes" title="All Seeing Eyes" />`, `<img class="godlike" src="/wearables/ethereum/LLAMACORN SHIRT.svg" alt="aavegotchi Llamacorn Shirt" title="Llamacorn Shirt" />`, "-", "-", "BRS +6, NRG -3"],
-					["Apex Vitalik Visionary", `<img class="mythical" src="/wearables/ethereum/MUDGEN DIAMOND.svg" alt="aavegotchi Mudgen Diamond" title="Mudgen Diamond" />`, `<img class="godlike" src="/wearables/ethereum/GALAXY BRAIN.svg" alt="aavegotchi Galaxy Brain" title="Galaxy Brain" />`, `<img class="godlike" src="/wearables/ethereum/ALL SEEING EYES.svg" alt="aavegotchi All Seeing Eyes" title="All Seeing Eyes" />`, `<img class="godlike" src="/wearables/ethereum/LLAMACORN SHIRT.svg" alt="aavegotchi Llamacorn Shirt" title="Llamacorn Shirt" />`, "-", "BRS +7, NRG -3, BRN +1"],
-					["Super Aagent", `<img class="rare" src="/wearables/final wearables/55_AagentHeadset.svg" alt="aavegotchi Aagent Headset" title="Aagent Headset" />`, `<img class="rare" src="/wearables/final wearables/56_AagentShirtFull.svg" alt="aavegotchi Aagent Shirt" title="Aagent Shirt" />`, `<img class="rare" src="/wearables/final wearables/57_AagentShades.svg" alt="aavegotchi Aagent Shades" title="Aagent Shades" />`, `<img class="rare" src="/wearables/final wearables/58_AagentPistol.svg" alt="aavegotchi Aagent Pistol" title="Aagent Pistol" />`, `<img class="rare" src="/wearables/final wearables/59_AagentFedoraHat.svg" alt="aavegotchi Aagent Fedora Hat" title="Aagent Fedora Hat" />`, "BRS +4, NRG -1, SPK +2"],
-					["Aagent", `<img class="rare" src="/wearables/final wearables/55_AagentHeadset.svg" alt="aavegotchi Aagent Headset" title="Aagent Headset" />`, `<img class="rare" src="/wearables/final wearables/56_AagentShirtFull.svg" alt="aavegotchi Aagent Shirt" title="Aagent Shirt" />`, `<img class="rare" src="/wearables/final wearables/57_AagentShades.svg" alt="aavegotchi Aagent Shades" title="Aagent Shades" />`, "-", "-", "BRS +3, NRG -1, SPK +1"],
-					["Aagent", `<img class="rare" src="/wearables/final wearables/55_AagentHeadset.svg" alt="aavegotchi Aagent Headset" title="Aagent Headset" />`, `<img class="rare" src="/wearables/final wearables/56_AagentShirtFull.svg" alt="aavegotchi Aagent Shirt" title="Aagent Shirt" />`, `<img class="rare" src="/wearables/final wearables/57_AagentShades.svg" alt="aavegotchi Aagent Shades" title="Aagent Shades" />`, `<img class="rare" src="/wearables/final wearables/58_AagentPistol.svg" alt="aavegotchi Aagent Pistol" title="Aagent Pistol" />`, "-", "BRS +3, NRG -1, SPK +2"],
-					["Wizard", `<img class="common" src="/wearables/final wearables/60_WizardHat.svg" alt="aavegotchi Common Wizard Hat" title="Common Wizard Hat" />`, `<img class="common" src="/wearables/final wearables/64_WizardStaff.svg" alt="aavegotchi Common Wizard Staff" title="Common Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor" />`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img class="legendary" src="/wearables/final wearables/61_WizardHatLegendary.svg" alt="aavegotchi Legendary Wizard Hat" title="Legendary Wizard Hat" />`, `<img class="common" src="/wearables/final wearables/64_WizardStaff.svg" alt="aavegotchi Common Wizard Staff" title="Common Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor"/>`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img class="mythical" src="/wearables/final wearables/62_WizardHatMythical.svg" alt="aavegotchi Mythical Wizard Hat" title="Mythical Wizard Hat" />`, `<img class="common" src="/wearables/final wearables/64_WizardStaff.svg" alt="aavegotchi Common Wizard Staff" title="Common Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor" />`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img class="godlike" src="/wearables/final wearables/63_WizardHatGodlike.svg" alt="aavegotchi Godlike Wizard Hat" title="Godlike Wizard Hat" />`, `<img class="common" src="/wearables/final wearables/64_WizardStaff.svg" alt="aavegotchi Common Wizard Staff" title="Common Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor" />`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img class="common" src="/wearables/final wearables/60_WizardHat.svg" alt="aavegotchi Common Wizard Hat" title="Common Wizard Hat" />`, `<img class="legendary" src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt="aavegotchi Legendary Wizard Staff" title="Legendary Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor" />`, "-", "-", "BRS +1, NRG +1"],
-					["Legendary Wizard", `<img class="legendary" src="/wearables/final wearables/61_WizardHatLegendary.svg" alt="aavegotchi Legendary Wizard Hat" title="Legendary Wizard Hat" />`, `<img class="legendary" src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt="aavegotchi Legendary Wizard Staff" title="Legendary Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title=" Wizard Visor" />`, "-", "-", "BRS +4, NRG +1, BRN +1"],
-					["Mythical Wizard", `<img class="mythical" src="/wearables/final wearables/62_WizardHatMythical.svg" alt="aavegotchi Mythical Wizard Hat" title="Mythical Wizard Hat" />`, `<img class="legendary" src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt="aavegotchi Legendary Wizard Staff" title="Legendary Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor" />`, "-", "-", "BRS +5, NRG +1, BRN +2"],
-					["Godlike Wizard", `<img class="godlike" src="/wearables/final wearables/63_WizardHatGodlike.svg" alt="aavegotchi Godlike Wizard Hat" title="Godlike Wizard Hat" />`, `<img class="legendary" src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt="aavegotchi Legendary Wizard Staff" title="Legendary Wizard Staff" />`, `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor" />`, "-", "-", "BRS +6, NRG +1, BRN +2"],
-					["Farmer", `<img class="common" src="/wearables/final wearables/67_FarmerStrawHat.svg" alt="aavegotchi Farmer Straw Hat" title="Straw Hat" />`, `<img class="common" src="/wearables/final wearables/68_FarmerJeans.svg" alt="aavegotchi Farmer Jeans" title="Farmer Jeans" />`, `<img class="common" src="/wearables/final wearables/69_FarmerPitchfork.svg" alt="aavegotchi Farmer Pitchfork" title="Pitchfork" />`, "-", "-", "BRS +1, NRG -1"],
-					["Mythical Farmer", `<img class="common" src="/wearables/final wearables/67_FarmerStrawHat.svg" alt="aavegotchi Farmer Straw Hat" title="Straw Hat" />`, `<img class="common" src="/wearables/final wearables/68_FarmerJeans.svg" alt="aavegotchi Farmer Jeans" title="Farmer Jeans"/>`, `<img class="mythical" src="/wearables/final wearables/70_FarmerHandsaw.svg" alt="aavegotchi Farmer Handsaw" title="Handsaw"/>`, "-", "-", "BRS +5, NRG -2, BRN -1"],
-					["OKex Jaay", `<img class="mythical" src="/wearables/final wearables/72_JaayHairpiece.svg" alt="aavegotchi Jaay Hairpiece" title="Jaay Hairpiece" />`, `<img class="mythical" src="/wearables/final wearables/73_JaayGlasses.svg" alt="aavegotchi Jaay Glasses" title="Jaay Glasses" />`, `<img class="mythical" src="/wearables/final wearables/74_JaayHaoSuitFull.svg" alt="aavegotchi Jaay Suit" title="Jaay Suit" />`, "-", "-", "BRS +5, NRG -1, BRN -2"],
-					["OKex Jaay Hao", `<img class="mythical" src="/wearables/final wearables/72_JaayHairpiece.svg" alt="aavegotchi Jaay Hairpiece" title="Jaay Hairpiece" />`, `<img class="mythical" src="/wearables/final wearables/73_JaayGlasses.svg" alt="aavegotchi Jaay Glasses" title="Jaay Glasses" />`, `<img class="mythical" src="/wearables/final wearables/74_JaayHaoSuitFull.svg" alt="aavegotchi Jaay Suit" title="Jaay Suit" />`, `<img class="mythical" src="/wearables/final wearables/75_OKexSign.svg" alt="aavegotchi OKex Sign" title="OKex Sign" />`, "-", "BRS +5, NRG -1, BRN -2"],
-					["Skater", `<img class="uncommon" src="/wearables/final wearables/77_BitcoinBeanie.svg" alt="aavegotchi Bitcoin Beanie" title="Bitcoin Beanie" />`, `<img class="uncommon" src="/wearables/final wearables/78_SkaterJeans.svg" alt="aavegotchi Black Jeans" title="Black Jeans" />`, `<img class="rare" src="/wearables/final wearables/79_Skateboard.svg" alt="aavegotchi Skateboard" title="Skateboard" />`, "-", "-", "BRS +2, BRN -1"],
-					["Sushi Chef", `<img class="rare" src="/wearables/final wearables/80_SushiHeadband.svg" alt="aavegotchi Sushi Bandana" title="Sushi Bandana" />`, `<img class="rare" src="/wearables/final wearables/81_SushiRobe.svg" alt="aavegotchi Sushi Coat" title="Sushi Coat" />`, `<img class="rare" src="/wearables/final wearables/83_SushiKnife.svg" alt="aavegotchi Sushi Knife" title="Sushi Knife" />`, "-", "-", "BRS +3, AGG +2"],
-					["Sushi Chef", `<img class="rare" src="/wearables/final wearables/80_SushiHeadband.svg" alt="aavegotchi Sushi Bandana" title="Sushi Bandana" />`, `<img class="rare" src="/wearables/final wearables/81_SushiRobe.svg" alt="aavegotchi Sushi Coat" title="Sushi Coat" />`, `<img class="legendary" src="/wearables/final wearables/82_SushiRoll.svg" alt="aavegotchi Sushi Piece" title="Sushi Piece" />`, "-", "-", "BRS +4, AGG +2"],
-					["Master Sushi Chef", `<img class="rare" src="/wearables/final wearables/80_SushiHeadband.svg" alt="aavegotchi Sushi Bandana" title="Sushi Bandana" />`, `<img class="rare" src="/wearables/final wearables/81_SushiRobe.svg" alt="aavegotchi Sushi Coat" title="Sushi Coat" />`, `<img class="rare" src="/wearables/final wearables/83_SushiKnife.svg" alt="aavegotchi Sushi Knife" title="Sushi Knife" />`, `<img class="legendary" src="/wearables/final wearables/82_SushiRoll.svg" alt="aavegotchi Sushi Piece" title="Sushi Piece" />`, "-", "BRS +4, AGG +2, SPK -1"],
-					["Gentleman", `<img class="legendary" src="/wearables/final wearables/84_GentlemanHat.svg" alt="aavegotchi Gentleman Hat" title="Gentleman Hat" />`, `<img class="legendary" src="/wearables/final wearables/85_GentlemanSuitFull.svg" alt="aavegotchi Gentleman Coat" title="Gentleman Coat" />`, `<img class="mythical" src="/wearables/final wearables/86_GentlemanMonocle.svg" alt="aavegotchi Gentleman Monocle" title="Monocle" />`, "-", "-", "BRS +4, AGG -2"],
-					["Miner", `<img class="uncommon" src="/wearables/final wearables/87_MinerHelmet.svg" alt="aavegotchi Miner Helmet" title="Miner Helmet" />`, `<img class="uncommon" src="/wearables/final wearables/88_MinerJeans.svg" alt="aavegotchi Miner Jeans" title="Miner Jeans" />`, `<img class="rare" src="/wearables/final wearables/89_MinerPickaxe.svg" alt="aavegotchi Miner Pickaxe" title="Pickaxe" />`, "-", "-", "BRS +2, NRG +1"],
-					["Pajamas", `<img class="common" src="/wearables/final wearables/90_PajamaHat.svg" alt="aavegotchi Pajama Hat" title="Pajama Hat" />`, `<img class="uncommon" src="/wearables/final wearables/91_PajamaPantsFull.svg" alt="aavegotchi Pajama Shirt" title="Pajama Shirt" />`, `<img class="rare" src="/wearables/final wearables/92_BedtimeMilk.svg" alt="aavegotchi Bedtime Milk" title="Bedtime Milk" />`, "-", "-", "BRS +3, SPK -2"],
-					["Pajamas", `<img class="common" src="/wearables/final wearables/90_PajamaHat.svg" alt="aavegotchi Pajama Hat" title="Pajama Hat"/>`, `<img class="uncommon" src="/wearables/final wearables/91_PajamaPantsFull.svg" alt="aavegotchi Pajama Shirt" title="Pajama Shirt" />`, `<img class="legendary" src="/wearables/final wearables/93_FluffyBlanket.svg" alt="aavegotchi Fluffy Pillow" title="Fluffy Pillow" />`, "-", "-", "BRS +3, SPK -2"],
-					["Full Pajamas", `<img class="common" src="/wearables/final wearables/90_PajamaHat.svg" alt="aavegotchi Pajama Hat" title="Pajama Hat" />`, `<img class="uncommon" src="/wearables/final wearables/91_PajamaPantsFull.svg" alt="aavegotchi Pajama Shirt" title="Pajama Shirt" />`, `<img class="rare" src="/wearables/final wearables/92_BedtimeMilk.svg" alt="aavegotchi Bedtime Milk" title="Bedtime Milk" />`, `<img class="legendary" src="/wearables/final wearables/93_FluffyBlanket.svg" alt="aavegotchi Fluffy Pillow" title="Fluffy Pillow" />`, "-", "BRS +4, SPK -3"],
-					["Runner", `<img class="uncommon" src="/wearables/final wearables/94_RunnerSweatband.svg" alt="aavegotchi Sweatband" title="Sweatband" />`, `<img class="uncommon" src="/wearables/final wearables/95_RunnerShorts.svg" alt="aavegotchi Track Shorts" title="Track Shorts" />`, `<img class="uncommon" src="/wearables/final wearables/96_WaterBottle.svg" alt="aavegotchi Water Bottle" title="Water bottle" />`, "-", "-", "BRS +2, NRG +1"],
-					["Runner", `<img class="uncommon" src="/wearables/final wearables/94_RunnerSweatband.svg" alt="aavegotchi Sweatband" title="Sweatband" />`, `<img class="uncommon" src="/wearables/final wearables/95_RunnerShorts.svg" alt="aavegotchi Track Shorts" title="Track Shorts" />`, `<img class="legendary" src="/wearables/final wearables/118_WaterJug.svg" alt="aavegotchi Water Jug" title="Water Jug" />`, "-", "-", "BRS +2, NRG +1"],
-					["Runner", `<img class="uncommon" src="/wearables/final wearables/94_RunnerSweatband.svg" alt="aavegotchi Sweatband" title="Sweatband" />`, `<img class="legendary" src="/wearables/final wearables/125_TrackSuitFull.svg" alt="aavegotchi Track Suit" title="Track Suit" />`, `<img class="uncommon" src="/wearables/final wearables/96_WaterBottle.svg" alt="aavegotchi Water Bottle" title="Water bottle" />`, "-", "-", "BRS +2, NRG +1"],
-					["Long Distance Runner", `<img class="uncommon" src="/wearables/final wearables/94_RunnerSweatband.svg" alt="aavegotchi Sweatband" title="Sweatband" />`, `<img class="legendary" src="/wearables/final wearables/125_TrackSuitFull.svg" alt="aavegotchi Track Suit" title="Track Suit" />`, `<img class="legendary" src="/wearables/final wearables/118_WaterJug.svg" alt="aavegotchi Water Jug" title="Water Jug" />`, "-", "-", "BRS +4, NRG +2"],
-					["Lady", `<img class="legendary" src="/wearables/final wearables/97_PillboxHat.svg" alt="aavegotchi Pillbox Hat" title="Pillbox Hat" />`, `<img class="legendary" src="/wearables/final wearables/98_LadySkirt.svg" alt="aavegotchi Day Dress" title="Day Dress" />`, `<img class="legendary" src="/wearables/final wearables/100_LadyClutch.svg" alt="aavegotchi Clutch" title="Clutch" />`, "-", "-", "BRS +4, SPK -2"],
-					["Lady", `<img class="legendary" src="/wearables/final wearables/97_PillboxHat.svg" alt="aavegotchi Pillbox Hat" title="Pillbox Hat" />`, `<img class="legendary" src="/wearables/final wearables/98_LadySkirt.svg" alt="aavegotchi Day Dress" title="Day Dress" />`, `<img class="mythical" src="/wearables/final wearables/99_LadyParasol.svg" alt="aavegotchi Parasol" title="Parasol" />`, "-", "-", "BRS +4, SPK -2"],
-					["Socialite", `<img class="legendary" src="/wearables/final wearables/97_PillboxHat.svg" alt="aavegotchi Pillbox Hat" title="Pillbox Hat" />`, `<img class="legendary" src="/wearables/final wearables/98_LadySkirt.svg" alt="aavegotchi Day Dress" title="Day Dress" />`, `<img class="mythical" src="/wearables/final wearables/99_LadyParasol.svg" alt="aavegotchi Parasol" title="Parasol"/>`, `<img class="legendary" src="/wearables/final wearables/100_LadyClutch.svg" alt="aavegotchi Clutch" title="Clutch" />`, "-", "BRS +5, NRG +2, SPK -1"],
-					["Witchy", `<img class="legendary" src="/wearables/final wearables/101_WitchHat.svg" alt="aavegotchi Witchy Hat" title="Witchy Hat" />`, `<img class="legendary" src="/wearables/final wearables/102_WitchCapeFull.svg" alt="aavegotchi Witchy Cloak" title="Witchy Cloak" />`, `<img class="mythical" src="/wearables/final wearables/103_WitchWand.svg" alt="aavegotchi Witchy Wand" title="Witchy Wand" />`, "-", "-", "BRS +5, SPK +3"],
-					["Portal Mage", `<img class="legendary" src="/wearables/final wearables/104_PortalMageHelmet.svg" alt="aavegotchi Portal Mage Helmet" title="Portal Mage Helmet" />`, `<img class="legendary" src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt="aavegotchi Portal Mage Armor" title="Portal Mage Armor" />`, `<img class="legendary" src="/wearables/final wearables/106_PortalMageAxe.svg" alt="aavegotchi Portal Mage Axe" title="Portal Mage Axe" />`, "-", "-", "BRS +4, AGG +2"],
-					["Supreme Portal Mage", `<img class="legendary" src="/wearables/final wearables/104_PortalMageHelmet.svg" alt="aavegotchi Portal Mage Helmet" title="Portal Mage Helmet" />`, `<img class="legendary" src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt="aavegotchi Portal Mage Armor" title="Portal Mage Armor" />`, `<img class="godlike" src="/wearables/final wearables/107_PortalMageBlackAxe.svg" alt="aavegotchi Portal Mage Black Axe" title="Portal Mage Black Axe" />`, "-", "-", "BRS +6, AGG +3"],
-					["Rastafarian", `<img class="uncommon" src="/wearables/final wearables/108_RastaDreds.svg" alt="aavegotchi Rasta Hat" title="Rasta Hat" />`, `<img class="uncommon" src="/wearables/final wearables/109_RastaShirtFull.svg" alt="aavegotchi Rasta Shirt" title="Rasta Shirt" />`, `<img class="rare" src="/wearables/final wearables/110_JamaicanFlag.svg" alt="aavegotchi Jamaican Flag" title="Jamaican Flag" />`, "-", "-", "BRS +3, AGG -2"],
-					["Off Duty Hazmat", `<img class="legendary" src="/wearables/final wearables/111_HazmatHood.svg" alt="aavegotchi Hazmat Hood" title="Hazmat Hood" />`, `<img class="legendary" src="/wearables/final wearables/112_HazmatSuitFull.svg" alt="aavegotchi Hazmat Suit" title="Hazmat Suit" />`, `<img class="uncommon" src="/wearables/final wearables/123_AppleJuice.svg" alt="aavegotchi Apple Juice" title="Apple Juice" />`, "-", "-", "BRS +4, NRG +2, SPK +2"],
-					["On Duty Hazmat", `<img class="legendary" src="/wearables/final wearables/111_HazmatHood.svg" alt="aavegotchi Hazmat Hood" title="Hazmat Hood" />`, `<img class="legendary" src="/wearables/final wearables/112_HazmatSuitFull.svg" alt="aavegotchi Hazmat Suit" title="Hazmat Suit" />`, `<img class="godlike" src="/wearables/final wearables/113_UraniumRod.svg" alt="aavegotchi Uranium Rod" title="Uranium Rod" />`, "-", "-", "BRS +6, NRG +3"],
-					["Blue Vacationer", `<img class="legendary" src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt="aavegotchi Blue Hawaiian Shirt" title="Blue Hawaiian Shirt" />`, `<img class="rare" src="/wearables/final wearables/116_Coconut.svg" alt="aavegotchi Coconut" title="Coconut" />`, `<img class="common" src="/wearables/final wearables/117_DealWithItShades.svg" alt="aavegotchi Cool shades" title="Cool shades" />`, "-", "-", "BRS +4, NRG -2"],
-					["Red Vacationer", `<img class="mythical" src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt="aavegotchi Red Hawaiian Shirt" title="Red Hawaiian Shirt" />`, `<img class="rare" src="/wearables/final wearables/116_Coconut.svg" alt="aavegotchi Coconut" title="Coconut" />`, `<img class="common" src="/wearables/final wearables/117_DealWithItShades.svg" alt="aavegotchi Cool shades" title="Cool shades" />`, "-", "-", "BRS +5, NRG -2, SPK -1"],
-					["Crypto OG", `<img class="legendary" src="/wearables/link/link-bubbly.svg" alt="aavegotchi chainlink bubbly" title="Link Bubbly" />`, `<img class="common" src="/wearables/aave/hero-shirt.svg" alt="aavegotchi aave hero shirt" title="Aave Hero Shirt" />`, `<img class="common" src="/wearables/ethereum/ETH LOGO GLASSES.svg" alt="aavegotchi ETH Logo Glasses" title="ETH Logo Glasses" />`, `<img class="uncommon" src="/wearables/ethereum/FOXY TAIL.svg" alt="aavegotchi Foxy Tail" title="Foxy Tail" />`, `<img class="uncommon" src="/wearables/final wearables/77_BitcoinBeanie.svg" alt="aavegotchi Bitcoin Beanie" title="Bitcoin Beanie" />`, "BRS +4, BRN -2"],
-					["Rektboi", `<img class="legendary" src="/wearables/aave/rekt-sign.svg" alt="aavegotchi aave rekt sign" title="REKT Sign" />`, `<img class="legendary" src="/wearables/ethereum/APE MASK.svg" alt="aavegotchi Ape Mask" title="Ape Mask" />`, `<img class="legendary" src="/wearables/ethereum/HALF REKT SHIRT.svg" alt="aavegotchi Half Rekt Shirt" title="Half Rekt Shirt" />`, "-", "-", "BRS +4, BRN -2"],
-					["Man of Culture", `<img class="legendary" src="/wearables/ethereum/WAIFU PILLOW.svg" alt="aavegotchi Waifu Pillow" title="Waifu Pillow" />`, `<img class="rare" src="/wearables/final wearables/59_AagentFedoraHat.svg" alt="aavegotchi Aagent Fedora Hat" title="Aagent Fedora Hat" />`, `<img class="mythical" src="/wearables/final wearables/74_JaayHaoSuitFull.svg" alt="aavegotchi Jaay Suit" title="Jaay Suit" />`, "-", "-", "BRS +4, BRN -2"],
-					["Curve Surfer", `<img class="common" src="/wearables/final wearables/66_FutureWizardVisor.svg" alt="aavegotchi Wizard Visor" title="Wizard Visor" />`, `<img class="common" src="/wearables/final wearables/76_BigGHSTToken.svg" alt="aavegotchi Big GHST Token" title="Big GHST Token" />`, `<img class="legendary" src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt="aavegotchi Blue Hawaiian Shirt" title="Blue Hawaiian Shirt" />`, "-", "-", "BRS +4, BRN +2"],
-					["PoW Miner", `<img class="rare" src="/wearables/aave/thaave-suit.svg" alt="aavegotchi aave thaave suit" title="Thaave Suit" />`, `<img class="uncommon" src="/wearables/final wearables/77_BitcoinBeanie.svg" alt="aavegotchi Bitcoin Beanie" title="Bitcoin Beanie" />`, `<img class="rare" src="/wearables/final wearables/89_MinerPickaxe.svg" alt="aavegotchi Miner Pickaxe" title="Pickaxe" />`, "-", "-", "BRS +3, AGG +2"],
-					["Toddler", `<img class="common" src="/wearables/final wearables/90_PajamaHat.svg" alt="aavegotchi Pajama Hat" title="Pajama Hat" />`, `<img class="uncommon" src="/wearables/final wearables/91_PajamaPantsFull.svg" alt="aavegotchi Pajama Shirt" title="Pajama Shirt" />`, `<img class="legendary" src="/wearables/final wearables/119_BabyBottle.svg" alt="aavegotchi Baby Bottle" title="Baby Bottle" />`, "-", "-", "BRS +4, AGG -2"],
-					["FU Money", `<img class="godlike" src="/wearables/aave/aave-boat.svg" alt="aavegotchi aave boat" title="Aave Boat" />`, `<img class="mythical" src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt="aavegotchi Red Hawaiian Shirt" title="Red Hawaiian Shirt" />`, `<img class="common" src="/wearables/final wearables/117_DealWithItShades.svg" alt="aavegotchi Cool shades" title="Cool shades" />`, `<img class="legendary" src="/wearables/final wearables/120_Martini.svg" alt="aavegotchi Martini" title="Martini" />`, "-", "BRS +6, AGG -3"],
-					["Farmer Alf", `<img class="mythical" src="/wearables/link/sergey-beard.svg" alt="aavegotchi chainlink sergey beard" title="Sergey Beard" />`, `<img class="common" src="/wearables/final wearables/67_FarmerStrawHat.svg" alt="aavegotchi Farmer Straw Hat" title="Straw Hat" />`, `<img class="common" src="/wearables/final wearables/68_FarmerJeans.svg" alt="aavegotchi Farmer Jeans" title="Farmer Jeans" />`, `<img class="common" src="/wearables/final wearables/69_FarmerPitchfork.svg" alt="aavegotchi Farmer Pitchfork" title="Pitchfork" />`, "-", "BRS +5, NRG -3"],
-					["Battle Santa", `<img class="uncommon" src="/wearables/link/snow-camo-pants.svg" alt="aavegotchi chainlink snow camo pants" title="Snow Camo Pants" />`, `<img class="mythical" src="/wearables/link/sergey-beard.svg" alt="aavegotchi chainlink sergey beard" title="Sergey Beard" />`, `<img class="rare" src="/wearables/final wearables/71_SantagotchiHat.svg" alt="aavegotchi Santagotchi Hat" title="Red Santa Hat" />`, `<img class="legendary" src="/wearables/final wearables/106_PortalMageAxe.svg" alt="aavegotchi Portal Mage Axe" title="Portal Mage Axe" />`, "-", "BRS +5, AGG +3"],
-					["Party Animal", `<img class="uncommon" src="/wearables/final wearables/109_RastaShirtFull.svg" alt="aavegotchi Rasta Shirt" title="Rasta Shirt" />`, `<img class="uncommon" src="/wearables/ethereum/FOXY TAIL.svg" alt="aavegotchi Foxy Tail" title="Foxy Tail" />`, `<img class="mythical" src="/wearables/final wearables/124_BeerHelmet.svg" alt="aavegotchi Beer Helmet" title="Beer Helmet" />`, "-", "-", "BRS +5, BRN -3"],
-					["Snapshot Voter", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Vote-Sign.svg" alt="aavegotchi Vote Sign" title="Vote Sign" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Snapshot-Shirt.svg" alt="aavegotchi Snapshot Shirt" title="Snapshot Shirt" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Snapshot-Cap.svg" alt="aavegotchi Snapshot Cap" title="Snapshot Cap" />`, "-", "-", "BRS +3, AGG -2"],
-					["Polygonist", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-L2-Sign.svg" alt="aavegotchi L2 Sign" title="L2 Sign" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Polygon-Shirt.svg" alt="aavegotchi Polygon Shirt" title="Polygon Shirt" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Polygon-Cap.svg" alt="aavegotchi Polygon Cap" title="Polygon Cap" />`, "-", "-", "BRS +3, AGG -1, BRN +1"],
-					["Quickswap Dragon", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Fireball.svg" alt="aavegotchi Fireball" title="Fireball" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Dragon-Horns.svg" alt="aavegotchi Dragon Horns" title="Dragon Horns" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Dragon-Wings.svg" alt="aavegotchi Dragon Wings" title="Dragon Wings" />`, "-", "-", "BRS +3, AGG +1, SPK +1"],
-					["Swappy the Dragon", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Fireball.svg" alt="aavegotchi Fireball" title="Fireball" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Dragon-Wings.svg" alt="aavegotchi Dragon Wings" title="Dragon Wings" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Pointy-Horns.svg" alt="aavegotchi Pointy Horns" title="Pointy Horns" />`, "-", "-", "BRS +4, AGG +1, SPK +1"],
-					["Gotchi Elf", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Elf-Ears.svg" alt="aavegotchi Elf Ears" title="Elf Ears" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gemstone-Ring.svg" alt="aavegotchi Gemstone Ring" title="Gemstone Ring" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Princess-Tiara.svg" alt="aavegotchi Princess Tiara" title="Princess Tiara" />`, "-", "-", "BRS +3, SPK -1, BRN +1"],
-					["Gotchi Princess", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Elf-Ears.svg" alt="aavegotchi Elf Ears" title="Elf Ears" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gemstone-Ring.svg" alt="aavegotchi Gemstone Ring" title="Gemstone Ring" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Princess-Tiara.svg" alt="aavegotchi Princess Tiara" title="Princess Tiara" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gold-Necklace.svg" alt="aavegotchi Gold Necklace" title="Gold Necklace" />`, "-", "BRS +4, NRG +1, AGG +1"],
-					["Gotchi Queen", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Elf-Ears.svg" alt="aavegotchi Elf Ears" title="Elf Ears" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gemstone-Ring.svg" alt="aavegotchi Gemstone Ring" title="Gemstone Ring" />`, `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Princess-Locks.svg" alt="aavegotchi Princess Hair" title="Princess Hair" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gold-Necklace.svg" alt="aavegotchi Gold Necklace" title="Gold Necklace" />`, "-", "BRS +5, SPK -2, BRN +1"],
-					["Godli Locks", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Elf-Ears.svg" alt="aavegotchi Elf Ears" title="Elf Ears" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gemstone-Ring.svg" alt="aavegotchi Gemstone Ring" title="Gemstone Ring" />`, `<img class="godlike" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-godli-locks.svg" alt="aavegotchi Godli Locks" title="Godli Locks" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gold-Necklace.svg" alt="aavegotchi Gold Necklace" title="Gold Necklace" />`, "-", "BRS +6, SPK -2, BRN +2"],
-					["Gotchi Baron", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt="aavegotchi Imperial Moustache" title="Imperial Moustache" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Tiny-Crown.svg" alt="aavegotchi Tiny Crown" title="Tiny Crown" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Scepter.svg" alt="aavegotchi Royal Scepter" title="Royal Scepter" />`, "-", "-", "BRS +3, NRG -1, BRN -1"],
-					["Gotchi Lord", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt="aavegotchi Imperial Moustache" title="Imperial Moustache" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Tiny-Crown.svg" alt="aavegotchi Tiny Crown" title="Tiny Crown" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Scepter.svg" alt="aavegotchi Royal Scepter"/ title="Royal Scepter" >`, `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Robes.svg" alt="aavegotchi Royal Robes" title="Royal Robes" />`, "-", "BRS +5, NRG -1, BRN -2"],
-					["Gotchi King", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt="aavegotchi Imperial Moustache" title="Imperial Moustache" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Crown.svg" alt="aavegotchi Royal Crown" title="Royal Crown" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Scepter.svg" alt="aavegotchi Royal Scepter" title="Royal Scepter" />`, `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Robes.svg" alt="aavegotchi Royal Robes" title="Royal Robes" />`, "-", "BRS +5, NRG -2, BRN -1"],
-					["Gotchi Emperor", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt="aavegotchi Imperial Moustache" title="Imperial Moustache" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Crown.svg" alt="aavegotchi Royal Crown" title="Royal Crown" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Scepter.svg" alt="aavegotchi Royal Scepter" title="Royal Scepter" />`, `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Robes.svg" alt="aavegotchi Royal Robes" title="Royal Robes" />`, `<img class="godlike" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Godlike.svg" alt="aavegotchi Royal Rofl" title="Royal Rofl" />`, "BRS +6, NRG -2, BRN -2"],
-					["Lil Pumpagotchi", `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Goatee.svg" alt="aavegotchi Lil Pump Goatee" title="Lil Pump Goatee" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Drank.svg" alt="aavegotchi Lil Pump Drank" title="Lil Pump Drank" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Shades.svg" alt="aavegotchi Lil Pump Shades" title="Lil Pump Shades" />`, `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-threads.svg" alt="aavegotchi Lil Pump Threads" title="Lil Pump Threads" />`, `<img class="godlike" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Dreads.svg" alt="aavegotchi Lil Pump Dreads" title="Lil Pump Dreads" />`, "BRS +6, NRG +2, AGG +2"],
-					["Soundcloud Rapper", `<img class="uncommon" src="/wearables/final wearables/108_RastaDreds.svg" alt="aavegotchi Rasta Hat" title="Rasta Hat" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Goatee.svg" alt="aavegotchi Lil Pump Goatee" title="Lil Pump Goatee" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Drank.svg" alt="aavegotchi Lil Pump Drank" title="Lil Pump Drank" />`, `<img class="legendary" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-Shades.svg" alt="aavegotchi Lil Pump Shades" title="Lil Pump Shades" />`, `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen-0-Sets-Lil-Pump-threads.svg" alt="aavegotchi Lil Pump Threads" title="Lil Pump Threads" />`, "BRS +5, NRG +1, AGG +2"],
-					["REALM Tycoon", `<img class="legendary" src="/wearables/final wearables/84_GentlemanHat.svg" alt="aavegotchi Gentleman Hat" title="Gentleman Hat" />`, `<img class="legendary" src="/wearables/final wearables/85_GentlemanSuitFull.svg" alt="aavegotchi Gentleman Coat" title="Gentleman Coat" />`, `<img class="mythical" src="/wearables/final wearables/86_GentlemanMonocle.svg" alt="aavegotchi Gentleman Monocle" title="Monocle" />`, `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt="aavegotchi Imperial Moustache" title="Imperial Moustache" />`, "-", "BRS +4, NRG -1, AGG -1"],
-					["Yegres the Dragon", `<img class="mythical" src="/wearables/link/sergey-eyes.svg" alt="aavegotchi chainlink sergey eyes" title="Sergey Eyes" />`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Dragon-Horns.svg" alt="aavegotchi Dragon Horns" title="Dragon Horns" />`, `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Dragon-Wings.svg" alt="aavegotchi Dragon Wings" title="Dragon Wings" />`, `<img class="rare" src="/wearables/ethereum/DAO EGG.svg" alt="aavegotchi DAO Egg" title="DAO Egg" />`, "-", "BRS +5, SPK +1, BRN +2"],
-					["Vacation Santa", `<img class="rare" src="/wearables/final wearables/71_SantagotchiHat.svg" alt="aavegotchi Santagotchi Hat" title="Red Santa Hat" />`, `<img class="mythical" src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt="aavegotchi Red Hawaiian Shirt" title="Red Hawaiian Shirt" />`, `<img class="legendary" src="/wearables/final wearables/120_Martini.svg" alt="aavegotchi Martini" title="Martini" />`, `<img class="common" src="/wearables/final wearables/117_DealWithItShades.svg" alt="aavegotchi Cool Shades" title="Cool Shades" />`, "-", "BRS +5, NRG -1, AGG -1, SPK -1"],
-					["VR Gamer", `<img class="mythical" src="/wearables/auction/vrgoggles.svg" alt="aavegotchi VR Headset" title="VR Headset" />`, `<img class="rare" src="/wearables/auction/gamer_jacket.svg" alt="aavegotchi Gamer Jacket" title="Gamer Jacket" />`, `<img class="uncommon" src="/wearables/auction/game_controller.svg" alt="aavegotchi Game Controller" title="Game Controller"/>`, "-", "-", "BRS +5, NRG +2, AGG +1"],
-					["Steampunk", `<img class="rare" src="/wearables/auction/steampunk_mask.svg" alt="aavegotchi Steampunk Goggles" title="Steampunk Goggles" />`, `<img class="uncommon" src="/wearables/auction/steampunk_trousers.svg" alt="aavegotchi Steampunk Trousers" title="Steampunk Trousers" />`, `<img class="legendary" src="/wearables/auction/mechanical_arm.svg" alt="aavegotchi Mechanical Claw" title="Mechanical Claw" />`, "-", "-", "BRS +4, SPK +2"],
-					["Casual Gamer", `<img class="common" src="/wearables/final wearables/117_DealWithItShades.svg" alt="aavegotchi Cool shades" title="Cool Shades" />`, `<img class="rare" src="/wearables/auction/gamer_jacket.svg" alt="aavegotchi Gamer Jacket" title="Gamer Jacket" />`, `<img class="uncommon" src="/wearables/auction/game_controller.svg" alt="aavegotchi Game Controller" title="Game Controller"/>`, "-", "-", "BRS +3, NRG +1, AGG +1"],
-					["Gentleman Farmer", `<img class="common" src="/wearables/final wearables/69_FarmerPitchfork.svg" alt="aavegotchi Farmer Pitchfork" title="Pitchfork" />`, `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt="aavegotchi Imperial Moustache" title="Imperial Moustache" />`, `<img class="uncommon" src="/wearables/auction/steampunk_trousers.svg" alt="aavegotchi Steampunk Trousers" title="Steampunk Trousers" />`, "-", "-", "BRS +2, SPK +1"],
-					["Cyberpunk", `<img class="rare" src="/wearables/ethereum/NOGARA ARMOR.svg" alt="aavegotchi Nogara Armor" title="Nogara Armor"/>`, `<img class="mythical" src="/wearables/ethereum/XIBOT MOHAWK.svg" alt="aavegotchi Xibot Mohawk" title="Xibot Mohawk" />`, `<img class="mythical" src="/wearables/auction/vrgoggles.svg" alt="aavegotchi VR Headset" title="VR Headset" />`, "-", "-", "BRS +5, NRG +3"],
-					["Steampunk Grenadier", `<img class="common" src="/wearables/link/camo-cap.svg" alt="aavegotchi chainlink camo cap" title="Camo Hat"/>`, `<img class="common" src="/wearables/link/camo-pants.svg" alt="aavegotchi chainlink camo pants" title="Camo Pants"/>`, `<img class="uncommon" src="/wearables/link/m67-grenade.svg" alt="aavegotchi chainlink m67 grenade" title="M67 Grenade"/>`, `<img class="rare" src="/wearables/auction/steampunk_mask.svg" alt="aavegotchi Steampunk Goggles" title="Steampunk Goggles" />`, "-", "BRS +3, SPK +2"],
-					["Venly Biker Set", `<img class="rare" src="/wearables/venly/biker_helmet.svg" alt="aavegotchi Biker Helmet" title="Biker Helmet" />`, `<img class="uncommon" src="/wearables/venly/biker_jacket.svg" alt="aavegotchi Biker Jacket" title="Biker Jacket" />`, `<img class="uncommon" src="/wearables/venly/aaviators.svg" alt="aavegotchi Aviators" title="Aviators"/>`, `<img class="legendary" src="/wearables/venly/horseshoe_mustache.svg" alt="aavegotchi Horseshoe Mustache" title="Horseshoe Mustache" />`, "-", "BRS +4, NRG -1, AGG +1"],
-					["Hacker Aanon", `<img class="common" src="/wearables/haunt2/211_GuyFauwkesMask.svg" alt="aavegotchi Guy Fawkes Mask" title="Guy Fawkes Mask" />`, `<img class="mythical" src="/wearables/haunt2/212_1337Laptop.svg" alt="aavegotchi 1337 Laptop" title="1337 Laptop"/>`, `<img class="legendary" src="/wearables/haunt2/213_H4xx0rShirt.svg" alt="aavegotchi H4xx0r Shirt" title="H4xx0r Shirt"/>`, "-", "-", "BRS +5, NRG -2, BRN +1"],
-					["Shadowy Supercoder", `<img class="mythical" src="/wearables/haunt2/212_1337Laptop.svg" alt="aavegotchi 1337 Laptop" title="1337 Laptop"/>`, `<img class="legendary" src="/wearables/haunt2/213_H4xx0rShirt.svg" alt="aavegotchi H4xx0r Shirt" title="H4xx0r Shirt"/>`, `<img class="godlike" src="/wearables/haunt2/214_MatrixEyes.svg" alt="aavegotchi Matrix Eyes" title="Matrix Eyes" />`, "-", "-", "BRS +6, NRG -2, BRN +1"],
-					["Cyborg", `<img class="legendary" src="/wearables/haunt2/215_CyborgEye.svg" alt="aavegotchi Cyborg Eye" title="Cyborg Eye" />`, `<img class="mythical" src="/wearables/haunt2/216_RainbowVomit.svg" alt="aavegotchi Rainbow Vomit" title="Rainbow Vomit" />`, `<img class="mythical" src="/wearables/haunt2/217_CyborgGun.svg" alt="aavegotchi Energy Gun" title="Energy Gun"/>`, "-", "-", "BRS +5, AGG +3"],
-					["Punk Rocker", `<img class="uncommon" src="/wearables/haunt2/218_Mohawk.svg" alt="aavegotchi Mohawk" title="Mohawk" />`, `<img class="rare" src="/wearables/haunt2/219_MuttonChops.svg" alt="aavegotchi Mutton Chops" title="Mutton Chops" />`, `<img class="legendary" src="/wearables/haunt2/220_PunkShirt.svg" alt="aavegotchi Punk Shirt" title="Punk Shirt" />`, "-", "-", "BRS +4, AGG +2"],
-					["Piraate", `<img class="common" src="/wearables/haunt2/221_PirateHat.svg" alt="aavegotchi Pirate Hat" title="Pirate Hat" />`, `<img class="uncommon" src="/wearables/haunt2/222_PirateCoat.svg" alt="aavegotchi Pirate Coat" title="Pirate Coat" />`, `<img class="uncommon" src="/wearables/haunt2/223_Hook Hand.svg" alt="aavegotchi Hook Hand" title="Hook Hand" />`, `<img class="rare" src="/wearables/haunt2/224_PiratePatch.svg" alt="aavegotchi Pirate Patch" title="Pirate Patch" />`, "-", "BRS +3, BRN -2"],
-					["Aair Gotchi", `<img class="common" src="/wearables/haunt2/225_Basketball.svg" alt="aavegotchi Basketball" title="Basketball" />`, `<img class="rare" src="/wearables/haunt2/226_RedHeadband.svg" alt="aavegotchi Red Headband" title="Red Headband" />`, `<img class="rare" src="/wearables/haunt2/227_MJJersey.svg" alt="aavegotchi 23 Jersey" title="23 Jersey" />`, "-", "-", "BRS +3, NRG +2"],
-					["Wraangler", `<img class="common" src="/wearables/haunt2/228_10GallonHat.svg" alt="aavegotchi 10 Gallon Hat" title="10 Gallon Hat" />`, `<img class="uncommon" src="/wearables/haunt2/229_Lasso.svg" alt="aavegotchi Lasso" title="Lasso" />`, `<img class="common" src="/wearables/haunt2/230_WraanglerJeans.svg" alt="aavegotchi Wraangler Jeans" title="Wraangler Jeans" />`, "-", "-", "BRS +2, AGG +1"],
-					["Ranchero", `<img class="uncommon" src="/wearables/haunt2/231_ComfyPoncho.svg" alt="aavegotchi Comfy Poncho" title="Comfy Poncho" />`, `<img class="common" src="/wearables/haunt2/232_PonchoHoodie.svg" alt="aavegotchi Poncho Hoodie" title="Poncho Hoodie" />`, `<img class="uncommon" src="/wearables/haunt2/233_UncommonCacti.svg" alt="aavegotchi Uncommon Cacti" title="Uncommon Cacti" />`, "-", "-", "BRS +2, NRG -1"],
-					["Ranchero", `<img class="uncommon" src="/wearables/haunt2/231_ComfyPoncho.svg" alt="aavegotchi Comfy Poncho" title="Comfy Poncho" />`, `<img class="common" src="/wearables/haunt2/232_PonchoHoodie.svg" alt="aavegotchi Poncho Hoodie" title="Poncho Hoodie" />`, `<img class="rare" src="/wearables/haunt2/236_BlueCacti.svg" alt="aavegotchi Blue Cacti" title="Blue Cacti" />`, "-", "-", "BRS +2, NRG -1"],
-					["Ranchero", `<img class="uncommon" src="/wearables/haunt2/231_ComfyPoncho.svg" alt="aavegotchi Comfy Poncho" title="Comfy Poncho" />`, `<img class="common" src="/wearables/haunt2/232_PonchoHoodie.svg" alt="aavegotchi Poncho Hoodie" title="Poncho Hoodie" />`, `<img class="mythical" src="/wearables/haunt2/237_MythicalCacti.svg" alt="aavegotchi Mythical Cacti" title="Mythical Cacti" />`, "-", "-", "BRS +2, NRG -1"],
-					["Ranchero", `<img class="uncommon" src="/wearables/haunt2/231_ComfyPoncho.svg" alt="aavegotchi Comfy Poncho" title="Comfy Poncho" />`, `<img class="common" src="/wearables/haunt2/232_PonchoHoodie.svg" alt="aavegotchi Poncho Hoodie" title="Poncho Hoodie" />`, `<img class="godlike" src="/wearables/haunt2/238_GodlikeCacti.svg" alt="aavegotchi Godlike Cacti" title="Godlike Cacti" />`, "-", "-", "BRS +2, NRG -1"],
-					["Novice Shaaman", `<img class="uncommon" src="/wearables/haunt2/233_UncommonCacti.svg" alt="aavegotchi Uncommon Cacti" title="Uncommon Cacti" />`, `<img class="mythical" src="/wearables/haunt2/234_ShaamanPoncho.svg" alt="aavegotchi Shaaman Poncho" title="Shaaman Poncho" />`, `<img class="legendary" src="/wearables/haunt2/235_ShaamanHoodie.svg" alt="aavegotchi Shaaman Hoodie" title="Shaaman Hoodie"/>`, "-", "-", "BRS +5, NRG -3"],
-					["Shaaman Priest", `<img class="mythical" src="/wearables/haunt2/234_ShaamanPoncho.svg" alt="aavegotchi Shaaman Poncho" title="Shaaman Poncho" />`, `<img class="legendary" src="/wearables/haunt2/235_ShaamanHoodie.svg" alt="aavegotchi Shaaman Hoodie" title="Shaaman Hoodie"/>`, `<img class="rare" src="/wearables/haunt2/236_BlueCacti.svg" alt="aavegotchi Blue Cacti" title="Blue Cacti"/>`, "-", "-", "BRS +5, NRG -3"],
-					["Shaaman Mystic", `<img class="mythical" src="/wearables/haunt2/234_ShaamanPoncho.svg" alt="aavegotchi Shaaman Poncho" title="Shaaman Poncho" />`, `<img class="legendary" src="/wearables/haunt2/235_ShaamanHoodie.svg" alt="aavegotchi Shaaman Hoodie" title="Shaaman Hoodie"/>`, `<img class="mythical" src="/wearables/haunt2/237_MythicalCacti.svg" alt="aavegotchi Mythical Cacti" title="Mythical Cacti" />`, "-", "-", "BRS +5, NRG -3"],
-					["Master Shaaman", `<img class="mythical" src="/wearables/haunt2/234_ShaamanPoncho.svg" alt="aavegotchi Shaaman Poncho" title="Shaaman Poncho" />`, `<img class="legendary" src="/wearables/haunt2/235_ShaamanHoodie.svg" alt="aavegotchi Shaaman Hoodie" title="Shaaman Hoodie"/>`, `<img class="godlike" src="/wearables/haunt2/238_GodlikeCacti.svg" alt="aavegotchi Godlike Cacti" title="Godlike Cacti" />`, "-", "-", "BRS +6, NRG -3"],
-					["WGMI Wagie", `<img class="uncommon" src="/wearables/haunt2/239_WagieCap.svg" alt="aavegotchi Wagie Cap" title="Wagie Cap" />`, `<img class="uncommon" src="/wearables/haunt2/240_Headphones.svg" alt="aavegotchi Headphones" title="Headphones" />`, `<img class="rare" src="/wearables/haunt2/241_WGMIShirt.svg" alt="aavegotchi WGMI Shirt" title="WGMI Shirt" />`, "-", "-", "BRS +3, AGG -2"],
-					["YOLO Guy", `<img class="legendary" src="/wearables/haunt2/242_YellowManbun.svg" alt="aavegotchi Yellow Manbun" title="Yellow Manbun" />`, `<img class="rare" src="/wearables/haunt2/243_TintedShades.svg" alt="aavegotchi Tinted Shades" title="Tinted Shades" />`, `<img class="rare" src="/wearables/haunt2/244_VNeckShirt_Thumb.svg" alt="aavegotchi V-Neck Shirt" title="V-Neck Shirt" />`, "-", "-", "BRS +4, NRG -1, AGG -1"],
-					["Psychonaut", `<img class="mythical" src="/wearables/haunt2/234_ShaamanPoncho.svg" alt="aavegotchi Shaaman Poncho" title="Shaaman Poncho" />`, `<img class="legendary" src="/wearables/haunt2/235_ShaamanHoodie.svg" alt="aavegotchi Shaaman Hoodie" title="Shaaman Hoodie"/>`, `<img class="godlike" src="/wearables/haunt2/238_GodlikeCacti.svg" alt="aavegotchi Godlike Cacti" title="Godlike Cacti" />`, `<img class="godlike" src="/wearables/ethereum/ALL SEEING EYES.svg" alt="aavegotchi All Seeing Eyes" title="All Seeing Eyes" />`, "-", "BRS +7, NRG -3, BRN +1"],
-					["Tech Bro", `<img class="legendary" src="/wearables/haunt2/242_YellowManbun.svg" alt="aavegotchi Yellow Manbun" title="Yellow Manbun" />`, `<img class="rare" src="/wearables/haunt2/243_TintedShades.svg" alt="aavegotchi Tinted Shades" title="Tinted Shades" />`, `<img class="rare" src="/wearables/haunt2/244_VNeckShirt_Thumb.svg" alt="aavegotchi V-Neck Shirt" title="V-Neck Shirt" />`, `<img class="mythical" src="/wearables/haunt2/212_1337Laptop.svg" alt="aavegotchi 1337 Laptop" title="1337 Laptop"/>`, "-", "BRS +5, NRG -2, BRN +1"],
-					["Gunslinger", `<img class="uncommon" src="/wearables/haunt2/231_ComfyPoncho.svg" alt="aavegotchi Comfy Poncho" title="Comfy Poncho" />`, `<img class="common" src="/wearables/haunt2/228_10GallonHat.svg" alt="aavegotchi 10 Gallon Hat" title="10 Gallon Hat" />`, `<img class="rare" src="/wearables/final wearables/58_AagentPistol.svg" alt="aavegotchi Aagent Pistol" title="Aagent Pistol" />`, `<img class="rare" src="/wearables/final wearables/58_AagentPistol.svg" alt="aavegotchi Aagent Pistol" title="Aagent Pistol" />`, "-", "BRS +3, AGG +2"],
-					["We Are Legion", `<img class="legendary" src="/wearables/final wearables/85_GentlemanSuitFull.svg" alt="aavegotchi Gentleman Coat" title="Gentleman Coat" />`, `<img class="common" src="/wearables/haunt2/211_GuyFauwkesMask.svg" alt="aavegotchi Guy Fawkes Mask" title="Guy Fawkes Mask" />`, `<img class="mythical" src="/wearables/haunt2/212_1337Laptop.svg" alt="aavegotchi 1337 Laptop" title="1337 Laptop"/>`, "-", "-", "BRS +5, SPK +3"],
-					["Aastronaut", `<img class="common" src="/wearables/partnerships/252_AastronautHelmet.svg" alt="aavegotchi Aastronaut Helmet" title="Aastronaut Helmet" />`, `<img class="common" src="/wearables/partnerships/253_AastronautSuit.svg" alt="aavegotchi Aastronaut Suit" title="Aastronaut Suit" />`, `<img class="common" src="/wearables/partnerships/254_uGOTCHIToken.svg" alt="aavegotchi uGOTCHI Token" title ="uGOTCHI Token" />`, "-", "-", "BRS +1, SPK +1"],
-					["Geckogotchi", `<img class="rare" src="/wearables/partnerships/249_CoinGeckoEyes.svg" alt="aavegotchi Gecko Eyes" title="Gecko Eyes" />`, `<img class="rare" src="/wearables/partnerships/250_CoinGeckoTee.svg" alt="aavegotchi CoinGecko Tee" title="CoinGecko Tee" />`, `<img class="rare" src="/wearables/partnerships/251_CoinGeckoCandies.svg" alt="aavegotchi Candy Jaar" title="Candy Jaar" />`, "-", "-", "BRS +2, NRG +1"],
-					["Super Geckogotchi", `<img class="rare" src="/wearables/partnerships/245_GeckoHat.svg" alt="aavegotchi Gecko Hat" title="Gecko Hat" />`, `<img class="rare" src="/wearables/partnerships/249_CoinGeckoEyes.svg" alt="aavegotchi Gecko Eyes" title="Gecko Eyes" />`, `<img class="rare" src="/wearables/partnerships/250_CoinGeckoTee.svg" alt="aavegotchi CoinGecko Tee" title="CoinGecko Tee" />`, `<img class="rare" src="/wearables/partnerships/251_CoinGeckoCandies.svg" alt="aavegotchi Candy Jaar" title="Candy Jaar" />`, "-", "BRS +3, SPK -1, BRN -1"],
-					["Lil Bubble", `<img class="legendary" src="/wearables/partnerships/255_LilBubbleHelmet.svg" alt="aavegotchi Space Helmet" title="Space Helmet" />`, `<img class="legendary" src="/wearables/partnerships/256_LilBubbleSpaceSuit.svg" alt="aavegotchi Lil Bubble Space Suit" title="Lil Bubble Space Suit" />`, `<img class="legendary" src="/wearables/partnerships/257_BitcoinGuitar.svg" alt="aavegotchi Bitcoin Guitar" title="Bitcoin Guitar"/>`, "-", "-", "BRS +4, NRG +2, AGG -1"],
-					["Radar", `<img class="mythical" src="/wearables/partnerships/261_AantenaBot.svg" alt="aavegotchi Aantenna Bot" title="Aantenna Bot" />`, `<img class="mythical" src="/wearables/partnerships/262_RadarEyes.svg" alt="aavegotchi Radar Eyes" title="Radar Eyes" />`, `<img class="mythical" src="/wearables/partnerships/263_SignalHeadset.svg" alt="aavegotchi Signal Headset" title="Signal Headset" />`, "-", "-", "BRS +5, AGG -1, BRN +2"],
-					["Laozigotchi", `<img class="godlike" src="/wearables/partnerships/258_Hanfu.svg" alt="aavegotchi Taoist Robe" title="Taoist Robe" />`, `<img class="godlike" src="/wearables/partnerships/259_BushyEyebrows.svg" alt="aavegotchi Bushy Eyebrows" title="Bushy Eyebrows" />`, `<img class="godlike" src="/wearables/partnerships/260_AncientBeard.svg" alt="aavegotchi Beard of Wisdom" title="Beard of Wisdom" />`, "-", "-", "BRS +6, NRG -2, BRN +1"],
-					["Wandering Sage", `<img class="legendary" src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt="aavegotchi Legendary Wizard Staff" title="Legendary Wizard Staff" />`, `<img class="godlike" src="/wearables/partnerships/258_Hanfu.svg" alt="aavegotchi Taoist Robe" title="Taoist Robe" />`, `<img class="godlike" src="/wearables/partnerships/259_BushyEyebrows.svg" alt="aavegotchi Bushy Eyebrows" title="Bushy Eyebrows" />`, `<img class="godlike" src="/wearables/partnerships/260_AncientBeard.svg" alt="aavegotchi Beard of Wisdom" title="Beard of Wisdom" />`, "-", "BRS +7, NRG -2, BRN +2"],
-					["APY Visionary", `<img class="uncommon" src="/wearables/partnerships/246_APYShades.svg" alt="aavegotchi APY Shades" title="APY Shades"/>`, `<img class="uncommon" src="/wearables/partnerships/247_UpArrow.svg" alt="aavegotchi Up Arrow" title="Up Arrow"/>`, `<img class="uncommon" src="/wearables/partnerships/248_UpOnlyShirt.svg" alt="aavegotchi Up Only Shirt" title="Up Only Shirt" />`, "-", "-", "BRS +2, NRG +1"],
-					["Aarcher", `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Brunette-Ponytail.svg" alt="aavegotchi Brunette Ponytail" title="Brunette Ponytail" />`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Leather-Tunic.svg" alt="aavegotchi Leather Tunic" title="Leather Tunic"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Bow-Arrow.svg" alt="aavegotchi Bow and Arrow" title="Bow and Arrow"/>`, "-", "-", "BRS +1, AGG -1"],
-					["Baarbarian", `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Forked-Beard.svg" alt="aavegotchi Forked Beard" title="Forked Beard"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Double-sided-Axe.svg" alt="aavegotchi Double-sided Axe" title="Double-sided Axe"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Animal-Skins.svg" alt="aavegotchi Animal Skins" title="Animal Skins"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Horned-Helmet.svg" alt="aavegotchi Horned Helmet" title="Horned Helmet"/>`, "-", "BRS +2, AGG +1"],
-					["Raanger", `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Leather-Tunic.svg" alt="aavegotchi Leather Tunic" title="Leather Tunic"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Longbow.svg" alt="aavegotchi Longbow" title="Longbow"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Feathered-Cap.svg" alt="aavegotchi Feathered Cap" title="Feathered Cap"/>`, "-", "-", "BRS +2, NRG -1"],
-					["Geisha", `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Alluring-Eyes.svg" alt="aavegotchi Alluring Eyes" title="Alluring Eyes"/>`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Head-Piece.svg" alt="aavegotchi Geisha Headpiece" title="Geisha Headpiece"/>`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Kimono.svg" alt="aavegotchi Kimono" title="Kimono"/>`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Paper-Fan.svg" alt="aavegotchi Paper Fan" title="Paper Fan"/>`, "-", "BRS +3, AGG -2"],
-					["Fairy", `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Flower-Studs.svg" alt="aavegotchi Flower Studs" title="Flower Studs"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Fairy-Wings.svg" alt="aavegotchi Fairy Wings" title="Fairy Wings"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Red-Hair.svg" alt="aavegotchi Red Hair" title="Red Hair" />`, "-", "-", "BRS +4, NRG -1, SPK -1"],
-					["Sus Fairy", `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Sus-Butterfly.svg" alt="aavegotchi Sus Butterfly" title="Sus Butterfly"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Flower-Studs.svg" alt="aavegotchi Flower Studs" title="Flower Studs"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Fairy-Wings.svg" alt="aavegotchi Fairy Wings" title="Fairy Wings"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Red-Hair.svg" alt="aavegotchi Red Hair" title="Red Hair" />`, "-", "BRS +4, NRG -1, SPK -1"],
-					["Knight", `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Citaadel-Helm.svg" alt="aavegotchi Citaadel Helm" title="Citaadel Helm"/>`, `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Plate-Armor.svg" alt="aavegotchi Plate Armor" title="Plate Armor"/>`, `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Spirit-Sword.svg" alt="aavegotchi Spirit Sword" title="Spirit Sword"/>`, "-", "-", "BRS +5, NRG +2, AGG -1"],
-					["Citaadel Knight", `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Citaadel-Helm.svg" alt="aavegotchi Citaadel Helm" title="Citaadel Helm"/>`, `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Plate-Armor.svg" alt="aavegotchi Plate Armor" title="Plate Armor"/>`, `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Spirit-Sword.svg" alt="aavegotchi Spirit Sword" title="Spirit Sword"/>`, `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Plate-Shield.svg" alt="aavegotchi Plate Shield" title="Plate Shield"/>`, "-", "BRS +5, NRG +1, AGG -2"],
-					["Bushidogotchi", `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Kabuto-Helmet.svg" alt="aavegotchi Kabuto Helmet" title="Kabuto Helmet"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Yoroi-Armor.svg" alt="aavegotchi Yoroi Armor" title="Yoroi Armor"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Haanzo-Katana.svg" alt="aavegotchi Haanzo Katana" title="Haanzo Katana"/>`, "-", "-", "BRS +6, AGG +1, SPK +2"],
-					["Robin Hood", `<img class="common" src="/wearables/aave/hero-mask.svg" alt="aavegotchi aave hero mask" title="Aave Hero Mask"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Leather-Tunic.svg" alt="aavegotchi Leather Tunic" title="Leather Tunic"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Bow-Arrow.svg" alt="aavegotchi Bow and Arrow" title="Bow and Arrow"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Feathered-Cap.svg" alt="aavegotchi Feathered Cap" title="Feathered Cap"/>`, "-", "BRS +2, NRG -1"],
-					["Nure-onna", `<img class="rare" src="/wearables/partnerships/249_CoinGeckoEyes.svg" alt="aavegotchi Gecko Eyes" title="Gecko Eyes"/>`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Head-Piece.svg" alt="aavegotchi Geisha Headpiece" title="Geisha Headpiece"/>`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Kimono.svg" alt="aavegotchi Kimono" title="Kimono"/>`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Paper-Fan.svg" alt="aavegotchi Paper Fan" title="Paper Fan"/>`, "-", "BRS +3, AGG -2"],
-					["Tinkerbell", `<img class="rare" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Royal-Scepter.svg" alt="aavegotchi Royal Scepter" title="Royal Scepter"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Flower-Studs.svg" alt="aavegotchi Flower Studs" title="Flower Studs"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Fairy-Wings.svg" alt="aavegotchi Fairy Wings" title="Fairy Wings"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Red-Hair.svg" alt="aavegotchi Red Hair" title="Red Hair" />`, "-", "BRS +4, NRG -1, SPK -1"],
-					["Rave Gurl", `<img class="mythical" src="/wearables/haunt2/216_RainbowVomit.svg" alt="aavegotchi Rainbow Vomit" title="Rainbow Vomit"/>`, `<img class="legendary" src="/wearables/final wearables/120_Martini.svg" alt="aavegotchi Martini" title="Martini"/>`, `<img class="mythical" src="/wearables/ethereum/CODERDAN SHADES.svg" alt="aavegotchi Coderdan Shades" title="Coderdan Shades"/>`, `<img class="legendary" src="/wearables/haunt2/235_ShaamanHoodie.svg" alt="aavegotchi Shaaman Hoodie" title="Shaaman Hoodie"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Fairy-Wings.svg" alt="aavegotchi Fairy Wings" title="Fairy Wings"/>`, "BRS +5, NRG -1, AGG +1, SPK -1"],
-					["Off Duty Knight", `<img class="mythical" src="/wearables/final wearables/99_LadyParasol.svg" alt="aavegotchi Parasol" title="Parasol"/>`, `<img class="mythical" src="/wearables/final wearables/122_Milkshake.svg" alt="aavegotchi Milkshake" title="Milkshake"/>`, `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Princess-Locks.svg" alt="aavegotchi Princess Hair" title="Princess Hair" />`, `<img class="mythical" src="/wearables/DeFi-RPG/Aavegotchi-Citaadel-Knight-Gotchi-Plate-Armor.svg" alt="aavegotchi Plate Armor" title="Plate Armor"/>`, "-", "BRS +5, NRG +1, SPK -2"],
-					["Daimyogotchi", `<img class="mythical" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Mythical.svg" alt="aavegotchi Mythical Rofl" title="Mythical Rofl"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Kabuto-Helmet.svg" alt="aavegotchi Kabuto Helmet" title="Kabuto Helmet"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Yoroi-Armor.svg" alt="aavegotchi Yoroi Armor" title="Yoroi Armor"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Haanzo-Katana.svg" alt="aavegotchi Haanzo Katana" title="Haanzo Katana"/>`, "-", "BRS +7, AGG +1, SPK +2, BRN -1"],
-					["Shogungotchi", `<img class="godlike" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Godlike.svg" alt="aavegotchi Royal Rofl" title="Royal Rofl"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Kabuto-Helmet.svg" alt="aavegotchi Kabuto Helmet" title="Kabuto Helmet"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Yoroi-Armor.svg" alt="aavegotchi Yoroi Armor" title="Yoroi Armor"/>`, `<img class="godlike" src="/wearables/DeFi-RPG/Aavegotchi-Bushidogotchi-Gotchi-Haanzo-Katana.svg" alt="aavegotchi Haanzo Katana" title="Haanzo Katana"/>`, "-", "BRS +8, NRG -1, AGG +1, SPK +2, BRN -1"],
-					["Noble Savage", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-The-Imperial.svg" alt="aavegotchi Imperial Moustache" title="Imperial Moustache"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Double-sided-Axe.svg" alt="aavegotchi Double-sided Axe" title="Double-sided Axe"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Animal-Skins.svg" alt="aavegotchi Animal Skins" title="Animal Skins"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Baarbarian-Gotchi-Horned-Helmet.svg" alt="aavegotchi Horned Helmet" title="Horned Helmet"/>`, "-", "BRS +2, AGG +1"],
-					["Elven Aarcher", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Elf-Ears.svg" alt="aavegotchi Elf Ears" title="Elf Ears"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Brunette-Ponytail.svg" alt="aavegotchi Brunette Ponytail" title="Brunette Ponytail" />`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Leather-Tunic.svg" alt="aavegotchi Leather Tunic" title="Leather Tunic"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Bow-Arrow.svg" alt="aavegotchi Bow and Arrow" title="Bow and Arrow"/>`, "-", "BRS +1, AGG -1"],
-					["Elven Raanger", `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Elf-Ears.svg" alt="aavegotchi Elf Ears" title="Elf Ears"/>`, `<img class="uncommon" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Gemstone-Ring.svg" alt="aavegotchi Gemstone Ring" title="Gemstone Ring"/>`, `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Leather-Tunic.svg" alt="aavegotchi Leather Tunic" title="Leather Tunic"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Longbow.svg" alt="aavegotchi Longbow" title="Longbow"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Feathered-Cap.svg" alt="aavegotchi Feathered Cap" title="Feathered Cap"/>`, "BRS +2, SPK -1"],
-					["Woodland Critter", `<img class="common" src="/wearables/DeFi-RPG/Aavegotchi-Archer-Gotchi-Leather-Tunic.svg" alt="aavegotchi Leather Tunic" title="Leather Tunic"/>`, `<img class="uncommon" src="/wearables/DeFi-RPG/Aavegotchi-Ranger-Gotchi-Feathered-Cap.svg" alt="aavegotchi Feathered Cap" title="Feathered Cap"/>`, `<img class="common" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Elf-Ears.svg" alt="aavegotchi Elf Ears" title="Elf Ears"/>`, `<img class="uncommon" src="/wearables/ethereum/FOXY TAIL.svg" alt="aavegotchi Foxy Tail" title="Foxy Tail"/>`, "-", "BRS +2, SPK -1"],
-					["Vacation Geisha", `<img class="legendary" src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt="aavegotchi Blue Hawaiian Shirt" title="Blue Hawaiian Shirt"/>`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Paper-Fan.svg" alt="aavegotchi Paper Fan" title="Paper Fan"/>`, `<img class="rare" src="/wearables/haunt2/243_TintedShades.svg" alt="aavegotchi Tinted Shades" title="Tinted Shades" />`, `<img class="rare" src="/wearables/DeFi-RPG/Aavegotchi-Geisha-Gotchi-Head-Piece.svg" alt="aavegotchi Geisha Headpiece" title="Geisha Headpiece"/>`, "-", "BRS +4, AGG -2"],
-					["Tooth Fairy", `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Flower-Studs.svg" alt="aavegotchi Flower Studs" title="Flower Studs"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Fairy-Wings.svg" alt="aavegotchi Fairy Wings" title="Fairy Wings"/>`, `<img class="legendary" src="/wearables/DeFi-RPG/Aavegotchi-Fairy-Gotchi-Red-Hair.svg" alt="aavegotchi Red Hair" title="Red Hair" />`, `<img class="legendary" src="/wearables/final wearables/93_FluffyBlanket.svg" alt="aavegotchi Fluffy Pillow" title="Fluffy Pillow"/>`, "-", "BRS +4, SPK -2"],
-					["Master Creatooor", `<img class="godlike" style="object-fit:contain" src="/wearables/forge/369_StaffOfCreation.svg" alt="aavegotchi Staff of Creation" title="Staff of Creation"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge/367_EyesOfDevotion.svg" alt="aavegotchi Eyes of Devotion" title="Eyes of Devotion"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge/368_BeardOfDivinity.svg" alt="aavegotchi Beard of Divinity" title="Beard of Divinity"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge/366_HeavenlyRobes.svg" alt="aavegotchi Heavenly Robes" title="Heavenly Robes"/>`, "-", "BRS +8, NRG +1, SPK -2, BRN -2"],
-					["Master Creator", `<img class="godlike" style="object-fit:contain" src="/wearables/forge/367_EyesOfDevotion.svg" alt="aavegotchi Eyes of Devotion" title="Eyes of Devotion"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge/368_BeardOfDivinity.svg" alt="aavegotchi Beard of Divinity" title="Beard of Divinity"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge/369_StaffOfCreation.svg" alt="aavegotchi Staff of Creation" title="Staff of Creation"/>`, "-", "-", "BRS +6, SPK -2, BRN -1"],
-					["Master Creator", `<img class="godlike" style="object-fit:contain" src="/wearables/forge/366_HeavenlyRobes.svg" alt="aavegotchi Heavenly Robes" title="Heavenly Robes"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge/367_EyesOfDevotion.svg" alt="aavegotchi Eyes of Devotion" title="Eyes of Devotion"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge/369_StaffOfCreation.svg" alt="aavegotchi Staff of Creation" title="Staff of Creation"/>`, "-", "-", "BRS +6, SPK -2, BRN -1"],
-					["FAKE Artist", `<img class="mythical" style="object-fit:contain" src="/wearables/forge/365_Paint_Palette.svg" alt="aavegotchi Paint Palette" title="Paint Palette"/>`, `<img class="mythical" style="object-fit:contain" src="/wearables/forge/364_Paint_Brush.svg" alt="aavegotchi Paint Brush" title="Paint Brush"/>`, `<img class="mythical" style="object-fit:contain" src="/wearables/forge/363_FAKE_Beret.svg" alt="aavegotchi FAKE Beret" title="FAKE Beret"/>`, `<img class="mythical" style="object-fit:contain" src="/wearables/forge/362_FAKE_Shirt.svg" alt="aavegotchi FAKE Shirt" title="FAKE Shirt"/>`, "-", "BRS +5, NRG -1, SPK -1, BRN -1"],
-					["FAKE Artist", `<img class="mythical" style="object-fit:contain" src="/wearables/forge/365_Paint_Palette.svg" alt="aavegotchi Paint Palette" title="Paint Palette"/>`, `<img class="mythical" style="object-fit:contain" src="/wearables/forge/363_FAKE_Beret.svg" alt="aavegotchi FAKE Beret" title="FAKE Beret"/>`, `<img class="mythical" style="object-fit:contain" src="/wearables/forge/362_FAKE_Shirt.svg" alt="aavegotchi FAKE Shirt" title="FAKE Shirt"/>`, "-", "-", "BRS +5, NRG -1, SPK -1, BRN -1"],
-					["FAKE Artist", `<img class="mythical" style="object-fit:contain" src="/wearables/forge/364_Paint_Brush.svg" alt="aavegotchi Paint Brush" title="Paint Brush"/>`, `<img class="mythical" style="object-fit:contain" src="/wearables/forge/363_FAKE_Beret.svg" alt="aavegotchi FAKE Beret" title="FAKE Beret"/>`, `<img class="mythical" style="object-fit:contain" src="/wearables/forge/362_FAKE_Shirt.svg" alt="aavegotchi FAKE Shirt" title="FAKE Shirt"/>`, "-", "-", "BRS +5, NRG -1, SPK -1, BRN -1"],
-					["Smithooor", `<img class="legendary" style="object-fit:contain" src="/wearables/forge/358_FlamingApron.svg" alt="aavegotchi Flaming Apron" title="Flaming Apron"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge/359_ForgeGoggles.svg" alt="aavegotchi Forge Goggles" title="Forge Goggles"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge/360_GeodeSmasher.svg" alt="aavegotchi Geode Smasher" title="Geode Smasher"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge/361_Geo.svg" alt="aavegotchi Geo" title="Geo"/>`, "-", "BRS +4, NRG -1, AGG -1"],
-					["Smithor", `<img class="legendary" style="object-fit:contain" src="/wearables/forge/358_FlamingApron.svg" alt="aavegotchi Flaming Apron" title="Flaming Apron"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge/359_ForgeGoggles.svg" alt="aavegotchi Forge Goggles" title="Forge Goggles"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge/360_GeodeSmasher.svg" alt="aavegotchi Geode Smasher" title="Geode Smasher"/>`, "-", "-", "BRS +4, NRG -1, AGG -1"],
-					["Carpentooor", `<img class="uncommon" style="object-fit:contain" src="/wearables/forge/354_AlchemicaApron.svg" alt="aavegotchi Alchemica Apron" title="Alchemica Apron"/>`, `<img class="rare" style="object-fit:contain" src="/wearables/forge/355_SafetyGlasses.svg" alt="aavegotchi Safety Glasses" title="Safety Glasses"/>`, `<img class="uncommon" style="object-fit:contain" src="/wearables/forge/356_Bandage.svg" alt="aavegotchi Bandage" title="Bandage"/>`, `<img class="rare" style="object-fit:contain" src="/wearables/forge/357_NailGun.svg" alt="aavegotchi Nail Gun" title="Nail Gun"/>`, "-", "BRS +3, NRG +1, AGG +1"],
-					["Carpentor", `<img class="uncommon" style="object-fit:contain" src="/wearables/forge/354_AlchemicaApron.svg" alt="aavegotchi Alchemica Apron" title="Alchemica Apron"/>`, `<img class="rare" style="object-fit:contain" src="/wearables/forge/355_SafetyGlasses.svg" alt="aavegotchi Safety Glasses" title="Safety Glasses"/>`, `<img class="rare" style="object-fit:contain" src="/wearables/forge/357_NailGun.svg" alt="aavegotchi Nail Gun" title="Nail Gun"/>`, "-", "-", "BRS +3, NRG +1, AGG +1"],
-					["Pixelcraftooor", `<img class="common" style="object-fit:contain" src="/wearables/forge/350_Pixelcraft_Tee.svg" alt="aavegotchi Pixelcraft Tee" title="Pixelcraft Tee"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge/351_3D_Glasses.svg" alt="aavegotchi 3D Glasses" title="3D Glasses"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge/352_Pixelcraft_Square.svg" alt="aavegotchi Pixelcraft Square" title="Pixelcraft Square"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge/353_Nimbus.svg" alt="aavegotchi Nimbus" title="Nimbus"/>`, "-", "BRS +1, SPK -1"],
-					["Pixelcraftor", `<img class="common" style="object-fit:contain" src="/wearables/forge/350_Pixelcraft_Tee.svg" alt="aavegotchi Pixelcraft Tee" title="Pixelcraft Tee"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge/352_Pixelcraft_Square.svg" alt="aavegotchi Pixelcraft Square" title="Pixelcraft Square"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge/353_Nimbus.svg" alt="aavegotchi Nimbus" title="Nimbus"/>`, "-", "-", "BRS +1, SPK -1"],
-					["VRF Lord", `<img class="godlike" style="object-fit:contain" src="/wearables/ethereum/GALAXY BRAIN.svg" alt="aavegotchi Galaxy Brain" title="Galaxy Brain"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/link/link-cube.svg" alt="aavegotchi chainlink cube" title="LINK Cube"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/final wearables/113_UraniumRod.svg" alt="aavegotchi Uranium Rod" title="Uranium Rod"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge2/385_BlockScanners.svg" alt="aavegotchi Block Scanners" title="Block Scanners"/>`, "-", "BRS +8, NRG +3, BRN +2"],
-					["ROFL Tamer", `<img class="godlike" style="object-fit:contain" src="/wearables/ethereum/ALL SEEING EYES.svg" alt="aavegotchi All Seeing Eyes" title="All Seeing Eyes"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/layer2/Aavegotchi-Gen0-Sets-R4-Rofl-Godlike.svg" alt="aavegotchi Royal Rofl" title="Royal Rofl"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge2/387_Roflnoggin.svg" alt="aavegotchi Roflnoggin" title="Roflnoggin"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge2/386_StaffCharming.svg" alt="aavegotchi Staff of Charming" title="Staff of Charming"/>`, "-", "BRS +8, NRG -3, BRN -2"],
-					["Jacob Maarley", `<img class="godlike" style="object-fit:contain" src="/wearables/forge/366_HeavenlyRobes.svg" alt="aavegotchi Heavenly Robes" title="Heavenly Robes"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/final wearables/113_UraniumRod.svg" alt="aavegotchi Uranium Rod" title="Uranium Rod"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge2/385_BlockScanners.svg" alt="aavegotchi Block Scanners" title="Block Scanners"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/forge2/387_Roflnoggin.svg" alt="aavegotchi Roflnoggin" title="Roflnoggin"/>`, "-", "BRS +8, NRG +1, SPK +3, BRN -1"],
-					["Degen Gamblooor", `<img class="godlike" style="object-fit:contain" src="/wearables/partnerships/260_AncientBeard.svg" alt="aavegotchi Beard of Wisdom" title="Beard of Wisdom"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/ethereum/ALL SEEING EYES.svg" alt="aavegotchi All Seeing Eyes" title="All Seeing Eyes"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/link/link-cube.svg" alt="aavegotchi chainlink cube" title="LINK Cube"/>`, `<img class="godlike" style="object-fit:contain" src="/wearables/ethereum/GALAXY BRAIN.svg" alt="aavegotchi Galaxy Brain" title="Galaxy Brain"/>`, "-", "BRS +8, NRG -2, BRN +3"],
-					["Starlet", `<img class="common" style="object-fit:contain" src="/wearables/forge2/370_WavyHair.svg" alt="aavegotchi Wavy Hair" title="Wavy Hair"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge2/371_PlasticEarrings.svg" alt="aavegotchi Plastic Earrings" title="Plastic Earrings"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge2/372_PartyDress.svg" alt="aavegotchi Party Dress" title="Party Dress"/>`, "-", "-", "BRS +1, NRG +1"],
-					["Engagement Farmer", `<img class="uncommon" style="object-fit:contain" src="/wearables/forge2/373_Overalls.svg" alt="aavegotchi Overalls" title="Overalls"/>`, `<img class="rare" style="object-fit:contain" src="/wearables/forge2/374_LensFrensPlant.svg" alt="aavegotchi Lens n Frens Plant" title="Lens n Frens Plant"/>`, `<img class="common" style="object-fit:contain" src="/wearables/forge2/375_GMSeeds.svg" alt="aavegotchi GM Seeds" title="GM Seeds"/>`, "-", "-", "BRS +3, SPK -2"],
-					["Gotchidator", `<img class="rare" style="object-fit:contain" src="/wearables/forge2/376_LickBrain.svg" alt="aavegotchi Lick Brain" title="Lick Brain"/>`, `<img class="uncommon" style="object-fit:contain" src="/wearables/forge2/377_LickEyes.svg" alt="aavegotchi Lick Eyes" title="Lick Eyes"/>`, `<img class="rare" style="object-fit:contain" src="/wearables/forge2/378_LickTongue.svg" alt="aavegotchi Lick Tongue" title="Lick Tongue"/>`, "-", "-", "BRS +3, AGG +1, SPK -1"],
-					["Gotchidator", `<img class="rare" style="object-fit:contain" src="/wearables/forge2/376_LickBrain.svg" alt="aavegotchi Lick Brain" title="Lick Brain"/>`, `<img class="uncommon" style="object-fit:contain" src="/wearables/forge2/377_LickEyes.svg" alt="aavegotchi Lick Eyes" title="Lick Eyes"/>`, `<img class="rare" style="object-fit:contain" src="/wearables/forge2/379_LickTentacle.svg" alt="aavegotchi Lick Tentacle" title="Lick Tentacle"/>`, "-", "-", "BRS +3, AGG +1, SPK -1"],
-					["Sandbox Seb", `<img class="legendary" style="object-fit:contain" src="/wearables/forge2/380_SebastienHair.svg" alt="aavegotchi Sebastien Hair" title="Sebastien Hair"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge2/381_VoxelEyes.svg" alt="aavegotchi Voxel Eyes" title="Voxel Eyes"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge2/382_GOATee.svg" alt="aavegotchi GOAT-ee" title="GOAT-ee"/>`, `<img class="legendary" style="object-fit:contain" src="/wearables/forge2/383_SandboxHoodie.svg" alt="aavegotchi Sandbox Hoodie" title="Sandbox Hoodie"/>`, "-", "BRS +4, NRG +1, AGG -1"]
-                ]
-            }
-        }
-    ]
+          tokenId: "4",
+          name: "Snow Camo Hat",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "5",
+          name: "Snow Camo Pants",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "6", name: "M67 Grenade", rarity: WearableRarity.Uncommon },
+      ],
+      "BRS +2, AGG +1"
+    ),
+    createSetEntry(
+      "Sergeant",
+      [
+        { tokenId: "7", name: "Marine Cap", rarity: WearableRarity.Rare },
+        { tokenId: "8", name: "Marine Jacket", rarity: WearableRarity.Rare },
+        { tokenId: "9", name: "Walkie Talkie", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG +2"
+    ),
+    createSetEntry(
+      "Link Marine",
+      [
+        {
+          tokenId: "10",
+          name: "Link White Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "11",
+          name: "Link Mess Dress",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "12",
+          name: "Link Bubbly",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, AGG +2, BRN +4"
+    ),
+    createSetEntry(
+      "Mythical Sergey",
+      [
+        {
+          tokenId: "13",
+          name: "Sergey Beard",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "14", name: "Sergey Eyes", rarity: WearableRarity.Mythical },
+        { tokenId: "15", name: "Red Plaid", rarity: WearableRarity.Mythical },
+      ],
+      "BRS +5, AGG +3"
+    ),
+    createSetEntry(
+      "Godlike Sergey",
+      [
+        {
+          tokenId: "13",
+          name: "Sergey Beard",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "14", name: "Sergey Eyes", rarity: WearableRarity.Mythical },
+        { tokenId: "16", name: "Blue Plaid", rarity: WearableRarity.Godlike },
+      ],
+      "BRS +6, NRG -3"
+    ),
+    createSetEntry(
+      "Apex Sergey",
+      [
+        {
+          tokenId: "13",
+          name: "Sergey Beard",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "14", name: "Sergey Eyes", rarity: WearableRarity.Mythical },
+        { tokenId: "16", name: "Blue Plaid", rarity: WearableRarity.Godlike },
+        { tokenId: "17", name: "Link Cube", rarity: WearableRarity.Godlike },
+      ],
+      "BRS +6, NRG -4"
+    ),
+    createSetEntry(
+      "Aave Hero",
+      [
+        {
+          tokenId: "18",
+          name: "Aave Hero Mask",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "19",
+          name: "Aave Hero Shirt",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "20", name: "Aave Plush", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, SPK +1"
+    ),
+    createSetEntry(
+      "Captain Aave",
+      [
+        {
+          tokenId: "21",
+          name: "Captain Aave Mask",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "22",
+          name: "Captain Aave Suit",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "23",
+          name: "Captain Aave Shield",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +2, SPK +1"
+    ),
+    createSetEntry(
+      "Thaave",
+      [
+        { tokenId: "24", name: "Thaave Helmet", rarity: WearableRarity.Rare },
+        { tokenId: "25", name: "Thaave Suit", rarity: WearableRarity.Rare },
+        { tokenId: "26", name: "Thaave Hammer", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, NRG +2"
+    ),
+    createSetEntry(
+      "Marc",
+      [
+        { tokenId: "27", name: "Marc Hair", rarity: WearableRarity.Legendary },
+        {
+          tokenId: "28",
+          name: "Marc Outfit",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "29", name: "REKT Sign", rarity: WearableRarity.Legendary },
+      ],
+      "BRS +4, NRG +2"
+    ),
+    createSetEntry(
+      "Jordan",
+      [
+        { tokenId: "30", name: "Jordan Hair", rarity: WearableRarity.Mythical },
+        { tokenId: "31", name: "Jordan Suit", rarity: WearableRarity.Mythical },
+        { tokenId: "32", name: "Aave Flag", rarity: WearableRarity.Mythical },
+      ],
+      "BRS +5, SPK +3"
+    ),
+    createSetEntry(
+      "Godlike Stani",
+      [
+        { tokenId: "33", name: "Stani Hair", rarity: WearableRarity.Godlike },
+        { tokenId: "34", name: "Stani Vest", rarity: WearableRarity.Godlike },
+        { tokenId: "35", name: "Aave Boat", rarity: WearableRarity.Godlike },
+      ],
+      "BRS +6, AGG -3"
+    ),
+    createSetEntry(
+      "Apex Stani",
+      [
+        { tokenId: "32", name: "Aave Flag", rarity: WearableRarity.Mythical },
+        { tokenId: "33", name: "Stani Hair", rarity: WearableRarity.Godlike },
+        { tokenId: "34", name: "Stani Vest", rarity: WearableRarity.Godlike },
+        { tokenId: "35", name: "Aave Boat", rarity: WearableRarity.Godlike },
+      ],
+      "BRS +6, NRG +1, AGG -3"
+    ),
+    createSetEntry(
+      "ETH Maxi",
+      [
+        {
+          tokenId: "36",
+          name: "ETH Logo Glasses",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "37", name: "ETH Tshirt", rarity: WearableRarity.Common },
+        { tokenId: "38", name: "32 ETH Coin", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, BRN -1"
+    ),
+    createSetEntry(
+      "Foxy Meta",
+      [
+        { tokenId: "39", name: "Foxy Mask", rarity: WearableRarity.Uncommon },
+        { tokenId: "40", name: "Foxy Tail", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "41",
+          name: "Trezor Wallet",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +2, AGG -1"
+    ),
+    createSetEntry(
+      "Nogara the Eagle",
+      [
+        { tokenId: "42", name: "Eagle Mask", rarity: WearableRarity.Rare },
+        { tokenId: "43", name: "Eagle Armor", rarity: WearableRarity.Rare },
+        { tokenId: "44", name: "DAO Egg", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, NRG +2"
+    ),
+    createSetEntry(
+      "DeFi Degen",
+      [
+        { tokenId: "45", name: "Ape Mask", rarity: WearableRarity.Legendary },
+        {
+          tokenId: "46",
+          name: "Halfrekt Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "47",
+          name: "Waifu Pillow",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, BRN -2"
+    ),
+    createSetEntry(
+      "DAO Summoner",
+      [
+        {
+          tokenId: "48",
+          name: "Xibot Mohawk",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "49",
+          name: "Coderdan Shades",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "50",
+          name: "GldnXross Robe",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "51",
+          name: "Mudgen Diamond",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, BRN +3"
+    ),
+    createSetEntry(
+      "Vitalik Visionary",
+      [
+        { tokenId: "52", name: "Galaxy Brain", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "53",
+          name: "All-Seeing Eyes",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "54",
+          name: "Llamacorn Shirt",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +6, NRG -3"
+    ),
+    createSetEntry(
+      "Apex Vitalik Visionary",
+      [
+        {
+          tokenId: "51",
+          name: "Mudgen Diamond",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "52", name: "Galaxy Brain", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "53",
+          name: "All-Seeing Eyes",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "54",
+          name: "Llamacorn Shirt",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +7, NRG -3, BRN +1"
+    ),
+    createSetEntry(
+      "Super Aagent",
+      [
+        { tokenId: "55", name: "Aagent Headset", rarity: WearableRarity.Rare },
+        { tokenId: "56", name: "Aagent Shirt", rarity: WearableRarity.Rare },
+        { tokenId: "57", name: "Aagent Shades", rarity: WearableRarity.Rare },
+        { tokenId: "58", name: "Aagent Pistol", rarity: WearableRarity.Rare },
+        {
+          tokenId: "59",
+          name: "Aagent Fedora Hat",
+          rarity: WearableRarity.Rare,
+        },
+      ],
+      "BRS +4, NRG -1, SPK +2"
+    ),
+    createSetEntry(
+      "Aagent",
+      [
+        { tokenId: "55", name: "Aagent Headset", rarity: WearableRarity.Rare },
+        { tokenId: "56", name: "Aagent Shirt", rarity: WearableRarity.Rare },
+        { tokenId: "57", name: "Aagent Shades", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, NRG -1, SPK +2"
+    ),
+    createSetEntry(
+      "Aagent",
+      [
+        { tokenId: "55", name: "Aagent Headset", rarity: WearableRarity.Rare },
+        { tokenId: "56", name: "Aagent Shirt", rarity: WearableRarity.Rare },
+        { tokenId: "57", name: "Aagent Shades", rarity: WearableRarity.Rare },
+        { tokenId: "58", name: "Aagent Pistol", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, NRG -1, SPK +2"
+    ),
+    createSetEntry(
+      "Wizard",
+      [
+        {
+          tokenId: "60",
+          name: "Common Wizard Hat",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "64",
+          name: "Common Wizard Staff",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, NRG +1"
+    ),
+    createSetEntry(
+      "Wizard",
+      [
+        {
+          tokenId: "61",
+          name: "Legendary Wizard Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "64",
+          name: "Common Wizard Staff",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, NRG +1"
+    ),
+    createSetEntry(
+      "Wizard",
+      [
+        {
+          tokenId: "62",
+          name: "Mythical Wizard Hat",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "64",
+          name: "Common Wizard Staff",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, NRG +1"
+    ),
+    createSetEntry(
+      "Wizard",
+      [
+        {
+          tokenId: "63",
+          name: "Godlike Wizard Hat",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "64",
+          name: "Common Wizard Staff",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, NRG +1"
+    ),
+    createSetEntry(
+      "Wizard",
+      [
+        {
+          tokenId: "60",
+          name: "Common Wizard Hat",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "65",
+          name: "Legendary Wizard Staff",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, NRG +1"
+    ),
+    createSetEntry(
+      "Legendary Wizard",
+      [
+        {
+          tokenId: "61",
+          name: "Legendary Wizard Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "65",
+          name: "Legendary Wizard Staff",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +4, NRG +1, BRN +1"
+    ),
+    createSetEntry(
+      "Mythical Wizard",
+      [
+        {
+          tokenId: "62",
+          name: "Mythical Wizard Hat",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "65",
+          name: "Legendary Wizard Staff",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG +1, BRN +2"
+    ),
+    createSetEntry(
+      "Godlike Wizard",
+      [
+        {
+          tokenId: "63",
+          name: "Godlike Wizard Hat",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "65",
+          name: "Legendary Wizard Staff",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+      ],
+      "BRS +6, NRG +1, BRN +2"
+    ),
+    createSetEntry(
+      "Farmer",
+      [
+        { tokenId: "67", name: "Straw Hat", rarity: WearableRarity.Common },
+        { tokenId: "68", name: "Farmer Jeans", rarity: WearableRarity.Common },
+        { tokenId: "69", name: "Pitchfork", rarity: WearableRarity.Common },
+      ],
+      "BRS +1, NRG -1"
+    ),
+    createSetEntry(
+      "Mythical Farmer",
+      [
+        { tokenId: "67", name: "Straw Hat", rarity: WearableRarity.Common },
+        { tokenId: "68", name: "Farmer Jeans", rarity: WearableRarity.Common },
+        { tokenId: "70", name: "Handsaw", rarity: WearableRarity.Mythical },
+      ],
+      "BRS +5, NRG -2, BRN -1"
+    ),
+    createSetEntry(
+      "OKex Jaay",
+      [
+        {
+          tokenId: "72",
+          name: "Jaay Hairpiece",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "73", name: "Jaay Glasses", rarity: WearableRarity.Common },
+        { tokenId: "74", name: "Jaay Suit", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG -1, BRN -2"
+    ),
+    createSetEntry(
+      "OKex Jaay Hao",
+      [
+        {
+          tokenId: "72",
+          name: "Jaay Hairpiece",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "73", name: "Jaay Glasses", rarity: WearableRarity.Common },
+        { tokenId: "74", name: "Jaay Suit", rarity: WearableRarity.Common },
+        { tokenId: "75", name: "OKex Sign", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG -1, BRN -2"
+    ),
+    createSetEntry(
+      "Skater",
+      [
+        {
+          tokenId: "77",
+          name: "Bitcoin Beanie",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "78", name: "Black Jeans", rarity: WearableRarity.Uncommon },
+        { tokenId: "79", name: "Skateboard", rarity: WearableRarity.Rare },
+      ],
+      "BRS +2, BRN -1"
+    ),
+    createSetEntry(
+      "Sushi Chef",
+      [
+        { tokenId: "80", name: "Sushi Bandana", rarity: WearableRarity.Rare },
+        { tokenId: "81", name: "Sushi Coat", rarity: WearableRarity.Rare },
+        {
+          tokenId: "82",
+          name: "Sushi Piece",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +3, AGG +2"
+    ),
+    createSetEntry(
+      "Sushi Chef",
+      [
+        { tokenId: "80", name: "Sushi Bandana", rarity: WearableRarity.Rare },
+        { tokenId: "81", name: "Sushi Coat", rarity: WearableRarity.Rare },
+        { tokenId: "83", name: "Sushi Knife", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG +2"
+    ),
+    createSetEntry(
+      "Master Sushi Chef",
+      [
+        { tokenId: "80", name: "Sushi Bandana", rarity: WearableRarity.Rare },
+        { tokenId: "81", name: "Sushi Coat", rarity: WearableRarity.Rare },
+        {
+          tokenId: "82",
+          name: "Sushi Piece",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "83", name: "Sushi Knife", rarity: WearableRarity.Rare },
+      ],
+      "BRS +4, AGG +2, SPK -1"
+    ),
+    createSetEntry(
+      "Gentleman",
+      [
+        {
+          tokenId: "84",
+          name: "Gentleman Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "85",
+          name: "Gentleman Coat",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "86", name: "Monocle", rarity: WearableRarity.Mythical },
+      ],
+      "BRS +4, AGG -2"
+    ),
+    createSetEntry(
+      "Miner",
+      [
+        {
+          tokenId: "87",
+          name: "Miner Helmet",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "88", name: "Miner Jeans", rarity: WearableRarity.Uncommon },
+        { tokenId: "89", name: "Pickaxe", rarity: WearableRarity.Rare },
+      ],
+      "BRS +2, NRG +1"
+    ),
+    createSetEntry(
+      "Pajamas",
+      [
+        { tokenId: "90", name: "Pajama Hat", rarity: WearableRarity.Common },
+        {
+          tokenId: "91",
+          name: "Pajama Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "92", name: "Bedtime Milk", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, SPK -2"
+    ),
+    createSetEntry(
+      "Pajamas",
+      [
+        { tokenId: "90", name: "Pajama Hat", rarity: WearableRarity.Common },
+        {
+          tokenId: "91",
+          name: "Pajama Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "93",
+          name: "Fluffy Pillow",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +3, SPK -2"
+    ),
+    createSetEntry(
+      "Full Pajamas",
+      [
+        { tokenId: "90", name: "Pajama Hat", rarity: WearableRarity.Common },
+        {
+          tokenId: "91",
+          name: "Pajama Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "92", name: "Bedtime Milk", rarity: WearableRarity.Rare },
+        {
+          tokenId: "93",
+          name: "Fluffy Pillow",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, SPK -3"
+    ),
+    createSetEntry(
+      "Runner",
+      [
+        { tokenId: "94", name: "Sweatband", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "95",
+          name: "Track Shorts",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "96",
+          name: "Water bottle",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +2, NRG +1"
+    ),
+    createSetEntry(
+      "Runner",
+      [
+        { tokenId: "94", name: "Sweatband", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "95",
+          name: "Track Shorts",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "118", name: "Water Jug", rarity: WearableRarity.Legendary },
+      ],
+      "BRS +2, NRG +1"
+    ),
+    createSetEntry(
+      "Runner",
+      [
+        { tokenId: "94", name: "Sweatband", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "125",
+          name: "Track Suit",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "96",
+          name: "Water bottle",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +2, NRG +1"
+    ),
+    createSetEntry(
+      "Long Distance Runner",
+      [
+        { tokenId: "94", name: "Sweatband", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "125",
+          name: "Track Suit",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "118", name: "Water Jug", rarity: WearableRarity.Legendary },
+      ],
+      "BRS +4, NRG +2"
+    ),
+    createSetEntry(
+      "Lady",
+      [
+        {
+          tokenId: "97",
+          name: "Pillbox Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "98", name: "Day Dress", rarity: WearableRarity.Legendary },
+        { tokenId: "100", name: "Clutch", rarity: WearableRarity.Legendary },
+      ],
+      "BRS +4, SPK -2"
+    ),
+    createSetEntry(
+      "Lady",
+      [
+        {
+          tokenId: "97",
+          name: "Pillbox Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "98", name: "Day Dress", rarity: WearableRarity.Legendary },
+        { tokenId: "99", name: "Parasol", rarity: WearableRarity.Mythical },
+      ],
+      "BRS +4, SPK -2"
+    ),
+    createSetEntry(
+      "Socialite",
+      [
+        {
+          tokenId: "97",
+          name: "Pillbox Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "98", name: "Day Dress", rarity: WearableRarity.Legendary },
+        { tokenId: "99", name: "Parasol", rarity: WearableRarity.Mythical },
+        { tokenId: "100", name: "Clutch", rarity: WearableRarity.Legendary },
+      ],
+      "BRS +5, NRG +2, SPK -1"
+    ),
+    createSetEntry(
+      "Witchy",
+      [
+        {
+          tokenId: "101",
+          name: "Witchy Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "102",
+          name: "Witchy Cloak",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "103",
+          name: "Witchy Wand",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, SPK +3"
+    ),
+    createSetEntry(
+      "Portal Mage",
+      [
+        {
+          tokenId: "104",
+          name: "Portal Mage Helmet",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "105",
+          name: "Portal Mage Armor",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "106",
+          name: "Portal Mage Axe",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, AGG +2"
+    ),
+    createSetEntry(
+      "Supreme Portal Mage",
+      [
+        {
+          tokenId: "104",
+          name: "Portal Mage Helmet",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "105",
+          name: "Portal Mage Armor",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "107",
+          name: "Portal Mage Black Axe",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +6, AGG +3"
+    ),
+    createSetEntry(
+      "Rastafarian",
+      [
+        { tokenId: "108", name: "Rasta Hat", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "109",
+          name: "Rasta Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "110", name: "Jamaican Flag", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG -2"
+    ),
+    createSetEntry(
+      "Off Duty Hazmat",
+      [
+        {
+          tokenId: "111",
+          name: "Hazmat Hood",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "112",
+          name: "Hazmat Suit",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "123",
+          name: "Apple Juice",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +4, NRG +2, SPK +2"
+    ),
+    createSetEntry(
+      "On Duty Hazmat",
+      [
+        {
+          tokenId: "111",
+          name: "Hazmat Hood",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "112",
+          name: "Hazmat Suit",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "113", name: "Uranium Rod", rarity: WearableRarity.Godlike },
+      ],
+      "BRS +6, NRG +3"
+    ),
+    createSetEntry(
+      "Blue Vacationer",
+      [
+        {
+          tokenId: "115",
+          name: "Blue Hawaiian Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "116", name: "Coconut", rarity: WearableRarity.Rare },
+        { tokenId: "117", name: "Cool shades", rarity: WearableRarity.Common },
+      ],
+      "BRS +4, NRG -2"
+    ),
+    createSetEntry(
+      "Red Vacationer",
+      [
+        {
+          tokenId: "114",
+          name: "Red Hawaiian Shirt",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "116", name: "Coconut", rarity: WearableRarity.Rare },
+        { tokenId: "117", name: "Cool shades", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG -2, SPK -1"
+    ),
+    createSetEntry(
+      "Crypto OG",
+      [
+        {
+          tokenId: "12",
+          name: "Link Bubbly",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "19",
+          name: "Aave Hero Shirt",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "36",
+          name: "ETH Logo Glasses",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "40", name: "Foxy Tail", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "77",
+          name: "Bitcoin Beanie",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +4, BRN -2"
+    ),
+    createSetEntry(
+      "Rektboi",
+      [
+        { tokenId: "29", name: "REKT Sign", rarity: WearableRarity.Legendary },
+        { tokenId: "45", name: "Ape Mask", rarity: WearableRarity.Legendary },
+        {
+          tokenId: "46",
+          name: "Halfrekt Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, BRN -2"
+    ),
+    createSetEntry(
+      "Man of Culture",
+      [
+        {
+          tokenId: "47",
+          name: "Waifu Pillow",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "59",
+          name: "Aagent Fedora Hat",
+          rarity: WearableRarity.Rare,
+        },
+        { tokenId: "74", name: "Jaay Suit", rarity: WearableRarity.Common },
+      ],
+      "BRS +4, BRN -2"
+    ),
+    createSetEntry(
+      "Curve Surfer",
+      [
+        { tokenId: "66", name: "Wizard Visor", rarity: WearableRarity.Common },
+        {
+          tokenId: "76",
+          name: "Big GHST Token",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "115",
+          name: "Blue Hawaiian Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, BRN +2"
+    ),
+    createSetEntry(
+      "PoW Miner",
+      [
+        { tokenId: "25", name: "Thaave Suit", rarity: WearableRarity.Rare },
+        {
+          tokenId: "77",
+          name: "Bitcoin Beanie",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "89", name: "Pickaxe", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG +2"
+    ),
+    createSetEntry(
+      "Toddler",
+      [
+        { tokenId: "90", name: "Pajama Hat", rarity: WearableRarity.Common },
+        {
+          tokenId: "91",
+          name: "Pajama Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "119",
+          name: "Baby Bottle",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, AGG -2"
+    ),
+    createSetEntry(
+      "FU Money",
+      [
+        { tokenId: "35", name: "Aave Boat", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "114",
+          name: "Red Hawaiian Shirt",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "117", name: "Cool shades", rarity: WearableRarity.Common },
+        { tokenId: "120", name: "Martini", rarity: WearableRarity.Legendary },
+      ],
+      "BRS +6, AGG -3"
+    ),
+    createSetEntry(
+      "Farmer Alf",
+      [
+        {
+          tokenId: "13",
+          name: "Sergey Beard",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "67", name: "Straw Hat", rarity: WearableRarity.Common },
+        { tokenId: "68", name: "Farmer Jeans", rarity: WearableRarity.Common },
+        { tokenId: "69", name: "Pitchfork", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG -3"
+    ),
+    createSetEntry(
+      "Battle Santa",
+      [
+        {
+          tokenId: "5",
+          name: "Snow Camo Pants",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "13",
+          name: "Sergey Beard",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "71", name: "Red Santa Hat", rarity: WearableRarity.Common },
+        {
+          tokenId: "106",
+          name: "Portal Mage Axe",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +5, AGG +3"
+    ),
+    createSetEntry(
+      "Party Animal",
+      [
+        {
+          tokenId: "109",
+          name: "Rasta Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "40", name: "Foxy Tail", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "124",
+          name: "Beer Helmet",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, BRN -3"
+    ),
+    createSetEntry(
+      "Snapshot Voter",
+      [
+        { tokenId: "137", name: "Vote Sign", rarity: WearableRarity.Common },
+        {
+          tokenId: "138",
+          name: "Snapshot Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "139", name: "Snapshot Cap", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG -2"
+    ),
+    createSetEntry(
+      "Polygonist",
+      [
+        { tokenId: "134", name: "L2 Sign", rarity: WearableRarity.Common },
+        {
+          tokenId: "135",
+          name: "Polygon Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "136", name: "Polygon Cap", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG -1, BRN +1"
+    ),
+    createSetEntry(
+      "Quickswap Dragon",
+      [
+        { tokenId: "130", name: "Fireball", rarity: WearableRarity.Common },
+        {
+          tokenId: "131",
+          name: "Dragon Horns",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "132", name: "Dragon Wings", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG +1, SPK +1"
+    ),
+    createSetEntry(
+      "Swappy the Dragon",
+      [
+        { tokenId: "130", name: "Fireball", rarity: WearableRarity.Common },
+        { tokenId: "132", name: "Dragon Wings", rarity: WearableRarity.Rare },
+        {
+          tokenId: "133",
+          name: "Pointy Horns",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, AGG +1, SPK +1"
+    ),
+    createSetEntry(
+      "Gotchi Elf",
+      [
+        { tokenId: "140", name: "Elf Ears", rarity: WearableRarity.Common },
+        {
+          tokenId: "141",
+          name: "Gemstone Ring",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "142", name: "Princess Tiara", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, SPK -1, BRN +1"
+    ),
+    createSetEntry(
+      "Gotchi Princess",
+      [
+        { tokenId: "140", name: "Elf Ears", rarity: WearableRarity.Common },
+        {
+          tokenId: "141",
+          name: "Gemstone Ring",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "142", name: "Princess Tiara", rarity: WearableRarity.Rare },
+        {
+          tokenId: "143",
+          name: "Gold Necklace",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, NRG +1, AGG +1"
+    ),
+    createSetEntry(
+      "Gotchi Queen",
+      [
+        { tokenId: "140", name: "Elf Ears", rarity: WearableRarity.Common },
+        {
+          tokenId: "141",
+          name: "Gemstone Ring",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "144",
+          name: "Princess Hair",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "143",
+          name: "Gold Necklace",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +5, SPK -2, BRN +1"
+    ),
+    createSetEntry(
+      "Godli Locks",
+      [
+        { tokenId: "140", name: "Elf Ears", rarity: WearableRarity.Common },
+        {
+          tokenId: "141",
+          name: "Gemstone Ring",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "145", name: "Godli Locks", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "143",
+          name: "Gold Necklace",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +6, SPK -2, BRN +2"
+    ),
+    createSetEntry(
+      "Gotchi Baron",
+      [
+        {
+          tokenId: "146",
+          name: "Imperial Moustache",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "147", name: "Tiny Crown", rarity: WearableRarity.Uncommon },
+        { tokenId: "148", name: "Royal Scepter", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, NRG -1, BRN -1"
+    ),
+    createSetEntry(
+      "Gotchi Lord",
+      [
+        {
+          tokenId: "146",
+          name: "Imperial Moustache",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "147", name: "Tiny Crown", rarity: WearableRarity.Uncommon },
+        { tokenId: "148", name: "Royal Scepter", rarity: WearableRarity.Rare },
+        {
+          tokenId: "150",
+          name: "Royal Robes",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, NRG -1, BRN -2"
+    ),
+    createSetEntry(
+      "Gotchi King",
+      [
+        {
+          tokenId: "146",
+          name: "Imperial Moustache",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "149",
+          name: "Royal Crown",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "148", name: "Royal Scepter", rarity: WearableRarity.Rare },
+        {
+          tokenId: "150",
+          name: "Royal Robes",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, NRG -2, BRN -1"
+    ),
+    createSetEntry(
+      "Gotchi Emperor",
+      [
+        {
+          tokenId: "146",
+          name: "Imperial Moustache",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "149",
+          name: "Royal Crown",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "148", name: "Royal Scepter", rarity: WearableRarity.Rare },
+        {
+          tokenId: "150",
+          name: "Royal Robes",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "156",
+          name: "Godlike Rofl",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +6, NRG -2, BRN -2"
+    ),
+    createSetEntry(
+      "Lil Pumpagotchi",
+      [
+        {
+          tokenId: "157",
+          name: "Lil Pump Goatee",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "158", name: "Lil Pump Drank", rarity: WearableRarity.Rare },
+        {
+          tokenId: "159",
+          name: "Lil Pump Shades",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "160",
+          name: "Lil Pump Threads",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "161",
+          name: "Lil Pump Dreads",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +6, NRG +2, AGG +2"
+    ),
+    createSetEntry(
+      "Soundcloud Rapper",
+      [
+        { tokenId: "108", name: "Rasta Hat", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "157",
+          name: "Lil Pump Goatee",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "158", name: "Lil Pump Drank", rarity: WearableRarity.Rare },
+        {
+          tokenId: "159",
+          name: "Lil Pump Shades",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "160",
+          name: "Lil Pump Threads",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, NRG +1, AGG +2"
+    ),
+    createSetEntry(
+      "REALM Tycoon",
+      [
+        {
+          tokenId: "84",
+          name: "Gentleman Hat",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "85",
+          name: "Gentleman Coat",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "86", name: "Monocle", rarity: WearableRarity.Mythical },
+        {
+          tokenId: "146",
+          name: "Imperial Moustache",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +4, NRG -1, AGG -1"
+    ),
+    createSetEntry(
+      "Yegres the Dragon",
+      [
+        { tokenId: "14", name: "Sergey Eyes", rarity: WearableRarity.Mythical },
+        {
+          tokenId: "131",
+          name: "Dragon Horns",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "132", name: "Dragon Wings", rarity: WearableRarity.Rare },
+        { tokenId: "44", name: "DAO Egg", rarity: WearableRarity.Rare },
+      ],
+      "BRS +5, SPK +1, BRN +2"
+    ),
+    createSetEntry(
+      "Vacation Santa",
+      [
+        { tokenId: "71", name: "Red Santa Hat", rarity: WearableRarity.Common },
+        {
+          tokenId: "114",
+          name: "Red Hawaiian Shirt",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "120", name: "Martini", rarity: WearableRarity.Legendary },
+        { tokenId: "117", name: "Cool shades", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG -1, AGG -1, SPK -1"
+    ),
+    createSetEntry(
+      "VR Gamer",
+      [
+        { tokenId: "202", name: "VR Headset", rarity: WearableRarity.Mythical },
+        { tokenId: "203", name: "Gamer Jacket", rarity: WearableRarity.Rare },
+        {
+          tokenId: "204",
+          name: "Game Controller",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +5, NRG +2, AGG +1"
+    ),
+    createSetEntry(
+      "Steampunk",
+      [
+        {
+          tokenId: "199",
+          name: "Steampunk Goggles",
+          rarity: WearableRarity.Rare,
+        },
+        {
+          tokenId: "200",
+          name: "Steampunk Trousers",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "201",
+          name: "Mechanical Claw",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, SPK +2"
+    ),
+    createSetEntry(
+      "Casual Gamer",
+      [
+        { tokenId: "117", name: "Cool shades", rarity: WearableRarity.Common },
+        { tokenId: "203", name: "Gamer Jacket", rarity: WearableRarity.Rare },
+        {
+          tokenId: "204",
+          name: "Game Controller",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +3, NRG +1, AGG +1"
+    ),
+    createSetEntry(
+      "Gentleman Farmer",
+      [
+        { tokenId: "69", name: "Pitchfork", rarity: WearableRarity.Common },
+        {
+          tokenId: "146",
+          name: "Imperial Moustache",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "200",
+          name: "Steampunk Trousers",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +2, SPK +1"
+    ),
+    createSetEntry(
+      "Cyberpunk",
+      [
+        { tokenId: "43", name: "Eagle Armor", rarity: WearableRarity.Rare },
+        {
+          tokenId: "48",
+          name: "Xibot Mohawk",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "202", name: "VR Headset", rarity: WearableRarity.Mythical },
+      ],
+      "BRS +5, NRG +3"
+    ),
+    createSetEntry(
+      "Steampunk Grenadier",
+      [
+        { tokenId: "1", name: "Camo Hat", rarity: WearableRarity.Common },
+        { tokenId: "2", name: "Camo Pants", rarity: WearableRarity.Common },
+        { tokenId: "6", name: "M67 Grenade", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "199",
+          name: "Steampunk Goggles",
+          rarity: WearableRarity.Rare,
+        },
+      ],
+      "BRS +3, SPK +2"
+    ),
+    createSetEntry(
+      "Venly Biker",
+      [
+        { tokenId: "206", name: "Biker Helmet", rarity: WearableRarity.Rare },
+        {
+          tokenId: "207",
+          name: "Biker Jacket",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "208", name: "Aviators", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "209",
+          name: "Horsehoe Mustache",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, NRG -1, AGG +1"
+    ),
+    createSetEntry(
+      "Hacker Aanon",
+      [
+        {
+          tokenId: "211",
+          name: "Guy Fawkes Mask",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "212",
+          name: "1337 Laptop",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "213",
+          name: "H4xx0r Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +5, NRG -2, BRN +1"
+    ),
+    createSetEntry(
+      "Shadowy Supercoder",
+      [
+        {
+          tokenId: "212",
+          name: "1337 Laptop",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "213",
+          name: "H4xx0r Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "214", name: "Matrix Eyes", rarity: WearableRarity.Godlike },
+      ],
+      "BRS +6, NRG -2, BRN +1"
+    ),
+    createSetEntry(
+      "Cyborg",
+      [
+        {
+          tokenId: "215",
+          name: "Cyborg Eye",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "216",
+          name: "Rainbow Vomit",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "217", name: "Energy Gun", rarity: WearableRarity.Mythical },
+      ],
+      "BRS +5, AGG +3"
+    ),
+    createSetEntry(
+      "Punk Rocker",
+      [
+        { tokenId: "218", name: "Mohawk", rarity: WearableRarity.Uncommon },
+        { tokenId: "219", name: "Mutton Chops", rarity: WearableRarity.Rare },
+        {
+          tokenId: "220",
+          name: "Punk Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, AGG +2"
+    ),
+    createSetEntry(
+      "Piraate",
+      [
+        { tokenId: "221", name: "Pirate Hat", rarity: WearableRarity.Common },
+        {
+          tokenId: "222",
+          name: "Pirate Coat",
+          rarity: WearableRarity.Uncommon,
+        },
+        { tokenId: "223", name: "Hook Hand", rarity: WearableRarity.Uncommon },
+        { tokenId: "224", name: "Pirate Patch", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, BRN -2"
+    ),
+    createSetEntry(
+      "Aair Gotchi",
+      [
+        { tokenId: "225", name: "Basketball", rarity: WearableRarity.Common },
+        { tokenId: "226", name: "Red Headband", rarity: WearableRarity.Rare },
+        { tokenId: "227", name: "23 Jersey", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, NRG +2"
+    ),
+    createSetEntry(
+      "Wraangler",
+      [
+        {
+          tokenId: "228",
+          name: "10 Gallon Hat",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "229", name: "Lasso", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "230",
+          name: "Wraangler Jeans",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +2, AGG +1"
+    ),
+    createSetEntry(
+      "Ranchero",
+      [
+        {
+          tokenId: "231",
+          name: "Comfy Poncho",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "232",
+          name: "Poncho Hoodie",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "233",
+          name: "Uncommon Cacti",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +2, NRG -1"
+    ),
+    createSetEntry(
+      "Ranchero",
+      [
+        {
+          tokenId: "231",
+          name: "Comfy Poncho",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "232",
+          name: "Poncho Hoodie",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "236", name: "Rare Cacti", rarity: WearableRarity.Rare },
+      ],
+      "BRS +2, NRG -1"
+    ),
+    createSetEntry(
+      "Ranchero",
+      [
+        {
+          tokenId: "231",
+          name: "Comfy Poncho",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "232",
+          name: "Poncho Hoodie",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "237",
+          name: "Mythical Cacti",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +2, NRG -1"
+    ),
+    createSetEntry(
+      "Ranchero",
+      [
+        {
+          tokenId: "231",
+          name: "Comfy Poncho",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "232",
+          name: "Poncho Hoodie",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "238",
+          name: "Godlike Cacti",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +2, NRG -1"
+    ),
+    createSetEntry(
+      "Novice Shaaman",
+      [
+        {
+          tokenId: "233",
+          name: "Uncommon Cacti",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "234",
+          name: "Shaaman Poncho",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "235",
+          name: "Shaaman Hoodie",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +5, NRG -3"
+    ),
+    createSetEntry(
+      "Shaaman Priest",
+      [
+        {
+          tokenId: "234",
+          name: "Shaaman Poncho",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "235",
+          name: "Shaaman Hoodie",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "236", name: "Rare Cacti", rarity: WearableRarity.Rare },
+      ],
+      "BRS +5, NRG -3"
+    ),
+    createSetEntry(
+      "Shaaman Mystic",
+      [
+        {
+          tokenId: "234",
+          name: "Shaaman Poncho",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "235",
+          name: "Shaaman Hoodie",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "237",
+          name: "Mythical Cacti",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, NRG -3"
+    ),
+    createSetEntry(
+      "Master Shaaman",
+      [
+        {
+          tokenId: "234",
+          name: "Shaaman Poncho",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "235",
+          name: "Shaaman Hoodie",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "238",
+          name: "Godlike Cacti",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +6, NRG -3"
+    ),
+    createSetEntry(
+      "WGMI Wagie",
+      [
+        { tokenId: "239", name: "Wagie Cap", rarity: WearableRarity.Uncommon },
+        { tokenId: "240", name: "Headphones", rarity: WearableRarity.Uncommon },
+        { tokenId: "241", name: "WGMI Shirt", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG -2"
+    ),
+    createSetEntry(
+      "YOLO Guy",
+      [
+        { tokenId: "242", name: "Maan Bun", rarity: WearableRarity.Legendary },
+        { tokenId: "243", name: "Tinted Shades", rarity: WearableRarity.Rare },
+        { tokenId: "244", name: "V-Neck Shirt", rarity: WearableRarity.Rare },
+      ],
+      "BRS +4, NRG -1, AGG -1"
+    ),
+    createSetEntry(
+      "Psychonaut",
+      [
+        {
+          tokenId: "234",
+          name: "Shaaman Poncho",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "235",
+          name: "Shaaman Hoodie",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "238",
+          name: "Godlike Cacti",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "53",
+          name: "All-Seeing Eyes",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +7, NRG -3, BRN +1"
+    ),
+    createSetEntry(
+      "Tech Bro",
+      [
+        { tokenId: "242", name: "Maan Bun", rarity: WearableRarity.Legendary },
+        { tokenId: "243", name: "Tinted Shades", rarity: WearableRarity.Rare },
+        { tokenId: "244", name: "V-Neck Shirt", rarity: WearableRarity.Rare },
+        {
+          tokenId: "212",
+          name: "1337 Laptop",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, NRG -2, BRN +1"
+    ),
+    createSetEntry(
+      "Gunslinger",
+      [
+        {
+          tokenId: "231",
+          name: "Comfy Poncho",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "228",
+          name: "10 Gallon Hat",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "58", name: "Aagent Pistol", rarity: WearableRarity.Rare },
+        { tokenId: "58", name: "Aagent Pistol", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, AGG +2"
+    ),
+    createSetEntry(
+      "We Are Legion",
+      [
+        {
+          tokenId: "85",
+          name: "Gentleman Coat",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "211",
+          name: "Guy Fawkes Mask",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "212",
+          name: "1337 Laptop",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, SPK +3"
+    ),
+    createSetEntry(
+      "Aastronaut",
+      [
+        {
+          tokenId: "252",
+          name: "Aastronaut Helmet",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "253",
+          name: "Aastronaut Suit",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "254",
+          name: "uGOTCHI Token",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +1, SPK +1"
+    ),
+    createSetEntry(
+      "Geckogotchi",
+      [
+        { tokenId: "249", name: "Gecko Eyes", rarity: WearableRarity.Rare },
+        { tokenId: "250", name: "CoinGecko Tee", rarity: WearableRarity.Rare },
+        { tokenId: "251", name: "Candy Jaar", rarity: WearableRarity.Rare },
+      ],
+      "BRS +2, NRG +1"
+    ),
+    createSetEntry(
+      "Super Geckogotchi",
+      [
+        { tokenId: "245", name: "Gecko Hat", rarity: WearableRarity.Rare },
+        { tokenId: "249", name: "Gecko Eyes", rarity: WearableRarity.Rare },
+        { tokenId: "250", name: "CoinGecko Tee", rarity: WearableRarity.Rare },
+        { tokenId: "251", name: "Candy Jaar", rarity: WearableRarity.Rare },
+      ],
+      "BRS +3, SPK -1, BRN -1"
+    ),
+    createSetEntry(
+      "Lil Bubble",
+      [
+        {
+          tokenId: "255",
+          name: "Space Helmet",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "256",
+          name: "Lil Bubble Space Suit",
+          rarity: WearableRarity.Legendary,
+        },
+        {
+          tokenId: "257",
+          name: "Bitcoin Guitar",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, NRG +2, AGG -1"
+    ),
+    createSetEntry(
+      "Radar",
+      [
+        {
+          tokenId: "261",
+          name: "Aantenna Bot",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "262", name: "Radar Eyes", rarity: WearableRarity.Mythical },
+        {
+          tokenId: "263",
+          name: "Signal Headset",
+          rarity: WearableRarity.Mythical,
+        },
+      ],
+      "BRS +5, AGG -1, BRN +2"
+    ),
+    createSetEntry(
+      "Laozigotchi",
+      [
+        { tokenId: "258", name: "Taoist Robe", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "259",
+          name: "Bushy Eyebrows",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "260",
+          name: "Beard of Wisdom",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +6, NRG -2, BRN +1"
+    ),
+    createSetEntry(
+      "Wandering Sage",
+      [
+        {
+          tokenId: "65",
+          name: "Legendary Wizard Staff",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "258", name: "Taoist Robe", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "259",
+          name: "Bushy Eyebrows",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "260",
+          name: "Beard of Wisdom",
+          rarity: WearableRarity.Godlike,
+        },
+      ],
+      "BRS +7, NRG -2, BRN +2"
+    ),
+    createSetEntry(
+      "APY Visionary",
+      [
+        { tokenId: "246", name: "APY Shades", rarity: WearableRarity.Uncommon },
+        { tokenId: "247", name: "Up Arrow", rarity: WearableRarity.Uncommon },
+        {
+          tokenId: "248",
+          name: "Up Only Shirt",
+          rarity: WearableRarity.Uncommon,
+        },
+      ],
+      "BRS +2, NRG +1"
+    ),
+    createSetEntry(
+      "Aarcher",
+      [
+        {
+          tokenId: "292",
+          name: "Brunette Ponytail",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "293",
+          name: "Leather Tunic",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "294",
+          name: "Bow and Arrow",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +1, AGG -1"
+    ),
+    createSetEntry(
+      "Baarbarian",
+      [
+        { tokenId: "295", name: "Forked Beard", rarity: WearableRarity.Common },
+        {
+          tokenId: "296",
+          name: "Doublesided Axe",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "297", name: "Animal Skins", rarity: WearableRarity.Common },
+        {
+          tokenId: "298",
+          name: "Horned Helmet",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +2, AGG +1"
+    ),
+    createSetEntry(
+      "Raanger",
+      [
+        {
+          tokenId: "293",
+          name: "Leather Tunic",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "299", name: "Longbow", rarity: WearableRarity.Common },
+        {
+          tokenId: "300",
+          name: "Feathered Cap",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +2, NRG -1"
+    ),
+    createSetEntry(
+      "Geisha",
+      [
+        {
+          tokenId: "301",
+          name: "Alluring Eyes",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "302",
+          name: "Geisha Headpiece",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "303", name: "Kimono", rarity: WearableRarity.Common },
+        { tokenId: "304", name: "Paper Fan", rarity: WearableRarity.Common },
+      ],
+      "BRS +3, AGG -2"
+    ),
+    createSetEntry(
+      "Fairy",
+      [
+        { tokenId: "306", name: "Flower Studs", rarity: WearableRarity.Common },
+        { tokenId: "307", name: "Fairy Wings", rarity: WearableRarity.Common },
+        { tokenId: "308", name: "Red Hair", rarity: WearableRarity.Common },
+      ],
+      "BRS +4, NRG -1, SPK -1"
+    ),
+    createSetEntry(
+      "Sus Fairy",
+      [
+        {
+          tokenId: "305",
+          name: "Sus Butterfly",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "306", name: "Flower Studs", rarity: WearableRarity.Common },
+        { tokenId: "307", name: "Fairy Wings", rarity: WearableRarity.Common },
+        { tokenId: "308", name: "Red Hair", rarity: WearableRarity.Common },
+      ],
+      "BRS +4, NRG -1, SPK -1"
+    ),
+    createSetEntry(
+      "Knight",
+      [
+        {
+          tokenId: "309",
+          name: "Citaadel Helm",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "310", name: "Plate Armor", rarity: WearableRarity.Common },
+        { tokenId: "311", name: "Spirit Sword", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG +2, AGG -1"
+    ),
+    createSetEntry(
+      "Citaadel Knight",
+      [
+        {
+          tokenId: "309",
+          name: "Citaadel Helm",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "310", name: "Plate Armor", rarity: WearableRarity.Common },
+        { tokenId: "311", name: "Spirit Sword", rarity: WearableRarity.Common },
+        { tokenId: "312", name: "Plate Shield", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG +1, AGG -2"
+    ),
+    createSetEntry(
+      "Bushidogotchi",
+      [
+        {
+          tokenId: "313",
+          name: "Kabuto Helmet",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "314", name: "Yoroi Armor", rarity: WearableRarity.Common },
+        {
+          tokenId: "315",
+          name: "Haanzo Katana",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +6, AGG +1, SPK +2"
+    ),
+    createSetEntry(
+      "Robin Hood",
+      [
+        {
+          tokenId: "18",
+          name: "Aave Hero Mask",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "293",
+          name: "Leather Tunic",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "294",
+          name: "Bow and Arrow",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "300",
+          name: "Feathered Cap",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +2, NRG -1"
+    ),
+    createSetEntry(
+      "Nure-onna",
+      [
+        { tokenId: "249", name: "Gecko Eyes", rarity: WearableRarity.Rare },
+        {
+          tokenId: "302",
+          name: "Geisha Headpiece",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "303", name: "Kimono", rarity: WearableRarity.Common },
+        { tokenId: "304", name: "Paper Fan", rarity: WearableRarity.Common },
+      ],
+      "BRS +3, AGG -2"
+    ),
+    createSetEntry(
+      "Tinkerbell",
+      [
+        { tokenId: "148", name: "Royal Scepter", rarity: WearableRarity.Rare },
+        { tokenId: "306", name: "Flower Studs", rarity: WearableRarity.Common },
+        { tokenId: "307", name: "Fairy Wings", rarity: WearableRarity.Common },
+        { tokenId: "308", name: "Red Hair", rarity: WearableRarity.Common },
+      ],
+      "BRS +4, NRG -1, SPK -1"
+    ),
+    createSetEntry(
+      "Rave Gurl",
+      [
+        {
+          tokenId: "216",
+          name: "Rainbow Vomit",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "120", name: "Martini", rarity: WearableRarity.Legendary },
+        {
+          tokenId: "49",
+          name: "Coderdan Shades",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "235",
+          name: "Shaaman Hoodie",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "307", name: "Fairy Wings", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG -1, AGG +1, SPK -1"
+    ),
+    createSetEntry(
+      "Off Duty Knight",
+      [
+        { tokenId: "99", name: "Parasol", rarity: WearableRarity.Mythical },
+        { tokenId: "122", name: "Milkshake", rarity: WearableRarity.Mythical },
+        {
+          tokenId: "144",
+          name: "Princess Hair",
+          rarity: WearableRarity.Mythical,
+        },
+        { tokenId: "310", name: "Plate Armor", rarity: WearableRarity.Common },
+      ],
+      "BRS +5, NRG +1, SPK -2"
+    ),
+    createSetEntry(
+      "Daimyogotchi",
+      [
+        {
+          tokenId: "155",
+          name: "Mythical Rofl",
+          rarity: WearableRarity.Mythical,
+        },
+        {
+          tokenId: "313",
+          name: "Kabuto Helmet",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "314", name: "Yoroi Armor", rarity: WearableRarity.Common },
+        {
+          tokenId: "315",
+          name: "Haanzo Katana",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +7, AGG +1, SPK +2, BRN -1"
+    ),
+    createSetEntry(
+      "Shogungotchi",
+      [
+        {
+          tokenId: "156",
+          name: "Godlike Rofl",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "313",
+          name: "Kabuto Helmet",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "314", name: "Yoroi Armor", rarity: WearableRarity.Common },
+        {
+          tokenId: "315",
+          name: "Haanzo Katana",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +8, NRG -1, AGG +1, SPK +2, BRN -1"
+    ),
+    createSetEntry(
+      "Noble Savage",
+      [
+        {
+          tokenId: "146",
+          name: "Imperial Moustache",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "296",
+          name: "Doublesided Axe",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "297", name: "Animal Skins", rarity: WearableRarity.Common },
+        {
+          tokenId: "298",
+          name: "Horned Helmet",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +2, AGG +1"
+    ),
+    createSetEntry(
+      "Elven Aarcher",
+      [
+        { tokenId: "140", name: "Elf Ears", rarity: WearableRarity.Common },
+        {
+          tokenId: "292",
+          name: "Brunette Ponytail",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "293",
+          name: "Leather Tunic",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "294",
+          name: "Bow and Arrow",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +1, AGG -1"
+    ),
+    createSetEntry(
+      "Elven Raanger",
+      [
+        { tokenId: "140", name: "Elf Ears", rarity: WearableRarity.Common },
+        {
+          tokenId: "141",
+          name: "Gemstone Ring",
+          rarity: WearableRarity.Uncommon,
+        },
+        {
+          tokenId: "293",
+          name: "Leather Tunic",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "299", name: "Longbow", rarity: WearableRarity.Common },
+        {
+          tokenId: "300",
+          name: "Feathered Cap",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +2, SPK -1"
+    ),
+    createSetEntry(
+      "Woodland Critter",
+      [
+        {
+          tokenId: "293",
+          name: "Leather Tunic",
+          rarity: WearableRarity.Common,
+        },
+        {
+          tokenId: "300",
+          name: "Feathered Cap",
+          rarity: WearableRarity.Common,
+        },
+        { tokenId: "140", name: "Elf Ears", rarity: WearableRarity.Common },
+        { tokenId: "40", name: "Foxy Tail", rarity: WearableRarity.Uncommon },
+      ],
+      "BRS +2, SPK -1"
+    ),
+    createSetEntry(
+      "Vacation Geisha",
+      [
+        {
+          tokenId: "115",
+          name: "Blue Hawaiian Shirt",
+          rarity: WearableRarity.Legendary,
+        },
+        { tokenId: "304", name: "Paper Fan", rarity: WearableRarity.Common },
+        { tokenId: "243", name: "Tinted Shades", rarity: WearableRarity.Rare },
+        {
+          tokenId: "302",
+          name: "Geisha Headpiece",
+          rarity: WearableRarity.Common,
+        },
+      ],
+      "BRS +4, AGG -2"
+    ),
+    createSetEntry(
+      "Tooth Fairy",
+      [
+        { tokenId: "306", name: "Flower Studs", rarity: WearableRarity.Common },
+        { tokenId: "307", name: "Fairy Wings", rarity: WearableRarity.Common },
+        { tokenId: "308", name: "Red Hair", rarity: WearableRarity.Common },
+        {
+          tokenId: "93",
+          name: "Fluffy Pillow",
+          rarity: WearableRarity.Legendary,
+        },
+      ],
+      "BRS +4, SPK -2"
+    ),
+    createSetEntry(
+      "Master Creatooor",
+      [
+        {
+          tokenId: "369",
+          name: "Staff of Creation",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "367",
+          name: "Eyes of Devotion",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "368",
+          name: "Beard of Divinity",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "366",
+          name: "Heavenly Robes",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +8, NRG +1, SPK -2, BRN -2"
+    ),
+    createSetEntry(
+      "Master Creator",
+      [
+        {
+          tokenId: "367",
+          name: "Eyes of Devotion",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "368",
+          name: "Beard of Divinity",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "369",
+          name: "Staff of Creation",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +6, SPK -2, BRN -1"
+    ),
+    createSetEntry(
+      "Master Creator",
+      [
+        {
+          tokenId: "366",
+          name: "Heavenly Robes",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "367",
+          name: "Eyes of Devotion",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "369",
+          name: "Staff of Creation",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +6, SPK -2, BRN -1"
+    ),
+    createSetEntry(
+      "FAKE Artist",
+      [
+        {
+          tokenId: "365",
+          name: "Paint Palette",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "364",
+          name: "Paint Brush",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "363",
+          name: "FAKE Beret",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "362",
+          name: "FAKE Shirt",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +5, NRG -1, SPK -1, BRN -1"
+    ),
+    createSetEntry(
+      "FAKE Artist",
+      [
+        {
+          tokenId: "365",
+          name: "Paint Palette",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "363",
+          name: "FAKE Beret",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "362",
+          name: "FAKE Shirt",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +5, NRG -1, SPK -1, BRN -1"
+    ),
+    createSetEntry(
+      "FAKE Artist",
+      [
+        {
+          tokenId: "364",
+          name: "Paint Brush",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "363",
+          name: "FAKE Beret",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "362",
+          name: "FAKE Shirt",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +5, NRG -1, SPK -1, BRN -1"
+    ),
+    createSetEntry(
+      "Smithooor",
+      [
+        {
+          tokenId: "358",
+          name: "Flaming Apron",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "359",
+          name: "Forge Goggles",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "360",
+          name: "Geode Smasher",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "361",
+          name: "Geo",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +4, NRG -1, AGG -1"
+    ),
+    createSetEntry(
+      "Smithor",
+      [
+        {
+          tokenId: "358",
+          name: "Flaming Apron",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "359",
+          name: "Forge Goggles",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "360",
+          name: "Geode Smasher",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +4, NRG -1, AGG -1"
+    ),
+    createSetEntry(
+      "Carpentooor",
+      [
+        {
+          tokenId: "354",
+          name: "Alchemica Apron",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "355",
+          name: "Safety Glasses",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "356",
+          name: "Bandage",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "357",
+          name: "Nail Gun",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +3, NRG +1, AGG +1"
+    ),
+    createSetEntry(
+      "Carpentor",
+      [
+        {
+          tokenId: "354",
+          name: "Alchemica Apron",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "355",
+          name: "Safety Glasses",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "357",
+          name: "Nail Gun",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +3, NRG +1, AGG +1"
+    ),
+    createSetEntry(
+      "Pixelcraftooor",
+      [
+        {
+          tokenId: "350",
+          name: "Pixelcraft Tee",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "351",
+          name: "3D Glasses",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "352",
+          name: "Pixelcraft Square",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "353",
+          name: "Nimbus",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +1, SPK -1"
+    ),
+    createSetEntry(
+      "Pixelcraftor",
+      [
+        {
+          tokenId: "350",
+          name: "Pixelcraft Tee",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "352",
+          name: "Pixelcraft Square",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "353",
+          name: "Nimbus",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +1, SPK -1"
+    ),
+    createSetEntry(
+      "VRF Lord",
+      [
+        { tokenId: "52", name: "Galaxy Brain", rarity: WearableRarity.Godlike },
+        { tokenId: "17", name: "Link Cube", rarity: WearableRarity.Godlike },
+        { tokenId: "113", name: "Uranium Rod", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "385",
+          name: "Block Scanners",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +8, NRG +3, BRN +2"
+    ),
+    createSetEntry(
+      "ROFL Tamer",
+      [
+        {
+          tokenId: "53",
+          name: "All-Seeing Eyes",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "156",
+          name: "Godlike Rofl",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "387",
+          name: "Roflnoggin",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "386",
+          name: "Staff of Charming",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +8, NRG -3, BRN -2"
+    ),
+    createSetEntry(
+      "Jacob Maarley",
+      [
+        {
+          tokenId: "366",
+          name: "Heavenly Robes",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        { tokenId: "113", name: "Uranium Rod", rarity: WearableRarity.Godlike },
+        {
+          tokenId: "385",
+          name: "Block Scanners",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "387",
+          name: "Roflnoggin",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +8, NRG +1, SPK +3, BRN -1"
+    ),
+    createSetEntry(
+      "Degen Gamblooor",
+      [
+        {
+          tokenId: "260",
+          name: "Beard of Wisdom",
+          rarity: WearableRarity.Godlike,
+        },
+        {
+          tokenId: "53",
+          name: "All-Seeing Eyes",
+          rarity: WearableRarity.Godlike,
+        },
+        { tokenId: "17", name: "Link Cube", rarity: WearableRarity.Godlike },
+        { tokenId: "52", name: "Galaxy Brain", rarity: WearableRarity.Godlike },
+      ],
+      "BRS +8, NRG -2, BRN +3"
+    ),
+    createSetEntry(
+      "Starlet",
+      [
+        {
+          tokenId: "370",
+          name: "Wavy Hair",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "371",
+          name: "Plastic Earrings",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "372",
+          name: "Party Dress",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +1, NRG +1"
+    ),
+    createSetEntry(
+      "Engagement Farmer",
+      [
+        {
+          tokenId: "373",
+          name: "Overalls",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "374",
+          name: "Lens Frens Plant",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "375",
+          name: "GM Seeds",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +3, SPK -2"
+    ),
+    createSetEntry(
+      "Gotchidator",
+      [
+        {
+          tokenId: "376",
+          name: "Lick Brain",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "377",
+          name: "Lick Eyes",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "378",
+          name: "Lick Tongue",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +3, AGG +1, SPK -1"
+    ),
+    createSetEntry(
+      "Gotchidator",
+      [
+        {
+          tokenId: "376",
+          name: "Lick Brain",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "377",
+          name: "Lick Eyes",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "379",
+          name: "Lick Tentacle",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +3, AGG +1, SPK -1"
+    ),
+    createSetEntry(
+      "Sandbox Seb",
+      [
+        {
+          tokenId: "380",
+          name: "Sebastien Hair",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "381",
+          name: "Voxel Eyes",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "382",
+          name: "GOATee",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+        {
+          tokenId: "383",
+          name: "Sandbox Hoodie",
+          rarity: WearableRarity.Common,
+          useForgeStyle: true,
+        },
+      ],
+      "BRS +4, NRG +1, AGG -1"
+    ),
+  ]),
+];
