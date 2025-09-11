@@ -1,10 +1,9 @@
 ---
 author: Unintelligent Nerd
-date: 2020-04-23
-title: Marketplace
-description: Aavegotchi Marketplace
-contributors:
-  - unintelligent-nerd
+date: '2020-04-23'
+title: 'Marketplace'
+description: 'Aavegotchi Marketplace'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="headerImageContainer">
@@ -85,3 +84,4 @@ The Marketplace comes equipped with filter functions to help buyers narrow down 
 Besides the official Aavegotchi Marketplace, there are other secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
 
 Comme Aavegotchis réside nativement sur Polygon, ils doivent être reliés au réseau principal Ethereum avant de pouvoir être achetés/vendus sur Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Consultez la FAQ de ce guide pour les questions courantes.
+
