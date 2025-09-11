@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Equipables'
-description: 'Todo sobre los sets de ropa de Aavegotchi'
+date: "2020-04-23T07:00:00.000Z"
+title: "Equipables"
+description: "Todo sobre los sets de ropa de Aavegotchi"
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -26,7 +26,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 
 Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets)!
 
-*Nota: Hay algunos objetos (IDs 162-198, 210) que no se reflejan en esta página ya que no son equipables. Estos objetos son [Insignias](/baadge) y el fondos del Ritual 1.*
+_Nota: Hay algunos objetos (IDs 162-198, 210) que no se reflejan en esta página ya que no son equipables. Estos objetos son [Insignias](/baadge) y el fondos del Ritual 1._
 
 <div class="contentsBox">
 
@@ -69,6 +69,7 @@ Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets
 <li><a href=#forge-wearables>Forge Wearables</a></li>
 <li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 <li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -77,14 +78,14 @@ Para obtener información sobre **Sets**, echa un vistazo a esta [página](/sets
 
 Los avegotchis tienen cuatro rasgos que pueden ser modificados por los equipables.
 
-* AGG = Agresividad
-* NRG = Energía
-* SPK = Espanto
-* BRN = Inteligencia
+- AGG = Agresividad
+- NRG = Energía
+- SPK = Espanto
+- BRN = Inteligencia
 
 Los rasgos de "Color de Ojos" y "Forma de Ojos" no pueden ser modificados por equipables.
 
-*Nota: Los valores negativos no significan que el rasgo sea "más débil". Los rasgos de Aavegotchi se distribuyen en una curva de campana, así que los extremos (0,1) y (98,99) son en realidad los mejores!*
+_Nota: Los valores negativos no significan que el rasgo sea "más débil". Los rasgos de Aavegotchi se distribuyen en una curva de campana, así que los extremos (0,1) y (98,99) son en realidad los mejores!_
 
 Mira [rasgos](/traits) para más información sobre este tema.
 
@@ -261,3 +262,7 @@ table_forgeWearables2Table
 ## Gotchigang Wearables
 
 table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable
