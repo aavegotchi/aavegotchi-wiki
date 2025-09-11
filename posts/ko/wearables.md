@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+date: "2020-04-23T07:00:00.000Z"
+title: "Wearables"
+description: "All about Aavegotchi Wearables"
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -26,7 +26,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 
 For information on **Wearable Sets**, check out this [page](/sets)!
 
-*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
+_Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background._
 
 <div class="contentsBox">
 
@@ -69,6 +69,7 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#forge-wearables>Forge Wearables</a></li>
 <li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 <li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -77,14 +78,14 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 
 Aavegotchis have four traits that can be modified by wearables.
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+- AGG = Aggressiveness
+- NRG = Energy
+- SPK = Spookiness
+- BRN = Brain Size
 
 The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+_Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!_
 
 See [Traits](/traits) for more about this topic.
 
@@ -261,3 +262,7 @@ table_forgeWearables2Table
 ## Gotchigang Wearables
 
 table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable
