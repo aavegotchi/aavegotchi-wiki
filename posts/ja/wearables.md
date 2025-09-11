@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'ウェアラブル'
-description: 'Aavegotchiウェアラブルについて'
+date: "2020-04-23T07:00:00.000Z"
+title: "ウェアラブル"
+description: "Aavegotchiウェアラブルについて"
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -26,7 +26,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 
 **ウェアラブルセット**に関する情報は、[こちらのページ](/sets)をご覧ください。
 
-*注：一部のオブジェクト（IDナンバー162-198、210）はウェアラブルではないため、このページには反映されていません。 これらのオブジェクトは、[バッジ](/baadge)とハウント1の背景です。*
+_注：一部のオブジェクト（IDナンバー162-198、210）はウェアラブルではないため、このページには反映されていません。 これらのオブジェクトは、[バッジ](/baadge)とハウント1の背景です。_
 
 <div class="contentsBox">
 
@@ -69,6 +69,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 <li><a href=#forge-wearables>Forge Wearables</a></li>
 <li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 <li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -77,14 +78,14 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 
 Aavegotchiは4つの特性を持っており、ウェアラブルによって変更することができます。
 
-* AGG＝攻撃性
-* NRG＝エネルギー
-* SPK = 不気味さ（おどろおどろしさ）
-* BRN = 脳の大きさ
+- AGG＝攻撃性
+- NRG＝エネルギー
+- SPK = 不気味さ（おどろおどろしさ）
+- BRN = 脳の大きさ
 
 「目の色（Eye Color）」と「目の形（Eye Shape）」の特性はウェアラブルで変更することはできません。
 
-*注意：マイナスの数値は、特性が「弱くなる」ことを意味するものではありません。 Aavegotchiの特性はベル曲線で分布しているので、極端な(0,1)と(99,100)が実は一番良いのです！*
+_注意：マイナスの数値は、特性が「弱くなる」ことを意味するものではありません。 Aavegotchiの特性はベル曲線で分布しているので、極端な(0,1)と(99,100)が実は一番良いのです！_
 
 詳しくは、[特性](/traits)を参照してください。
 
@@ -261,3 +262,7 @@ table_forgeWearables2Table
 ## Gotchigang Wearables
 
 table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable
