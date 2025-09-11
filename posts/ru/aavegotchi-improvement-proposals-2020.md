@@ -1,10 +1,9 @@
 ---
 author: Coder Dan
-date: 2014-04-26T22:00:00.000Z
-title: Предложения по улучшению игры (AGIP)
-description: A list of Aavegotchi Improvement Proposals (AGIPs) in Year 2020
-contributors:
-  - unintelligent-nerd
+date: '2014-04-26T22:00:00.000Z'
+title: 'Предложения по улучшению игры (AGIP)'
+description: 'A list of Aavegotchi Improvement Proposals (AGIPs) in Year 2020'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="contentsBox">
