@@ -1,10 +1,9 @@
 ---
 author: Unintelligent Nerd
-date: 2020-04-23
-title: Lickys Escape
-description: Lickys Escape
-contributors:
-  - unintelligent-nerd
+date: '2020-04-23'
+title: 'Lickys Escape'
+description: 'Lickys Escape'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="headerImageContainer">
