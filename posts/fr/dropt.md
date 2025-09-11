@@ -1,10 +1,9 @@
 ---
 author: Unintelligent Nerd
-date: 2020-04-23
-title: DROPT - The Fallen Gotchi
-description: DROPT - The Fallen Gotchi
-contributors:
-  - unintelligent-nerd
+date: '2020-04-23'
+title: 'DROPT - The Fallen Gotchi'
+description: 'DROPT - The Fallen Gotchi'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="headerImageContainer">
