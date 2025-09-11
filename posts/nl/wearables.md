@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'Alles over Aavegotchi Wearables'
+date: "2020-04-23T07:00:00.000Z"
+title: "Wearables"
+description: "Alles over Aavegotchi Wearables"
 image: "wearabelen/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -26,7 +26,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 
 Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 
-*Opmerking: Er zijn sommige objecten (IDs 162-198, 210) die niet op deze pagina worden weergegeven, omdat ze geen wearabels zijn. Deze objecten zijn [Baadges](/baadge) en de Haunt 1 achtergrond.*
+_Opmerking: Er zijn sommige objecten (IDs 162-198, 210) die niet op deze pagina worden weergegeven, omdat ze geen wearabels zijn. Deze objecten zijn [Baadges](/baadge) en de Haunt 1 achtergrond._
 
 <div class="contentsBox">
 
@@ -69,6 +69,7 @@ Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 <li><a href=#forge-wearables>Forge Wearables</a></li>
 <li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 <li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -77,14 +78,14 @@ Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 
 Aavegotchis hebben vier eigenschappen die door wearabels kunnen worden gewijzigd.
 
-* AGG = Agressiviteit
-* NRG = Energie
-* SPK = Spookiness
-* BRN = Hersengrootte
+- AGG = Agressiviteit
+- NRG = Energie
+- SPK = Spookiness
+- BRN = Hersengrootte
 
 De eigenschappen van "Oog Kleur" en "Oog Shape" kunnen niet worden gewijzigd door wearables.
 
-*Opmerking: Negatieve waarden betekenen niet dat de eigenschap "zwakker" wordt. Aavegotchi eigenschappen worden verdeeld op een bell curve, dus de extremen (0,1) en (99,100) zijn eigenlijk de beste!*
+_Opmerking: Negatieve waarden betekenen niet dat de eigenschap "zwakker" wordt. Aavegotchi eigenschappen worden verdeeld op een bell curve, dus de extremen (0,1) en (99,100) zijn eigenlijk de beste!_
 
 Zie [Eigenschappen](/traits) voor meer over dit onderwerp.
 
@@ -261,3 +262,7 @@ table_forgeWearables2Table
 ## Gotchigang Wearables
 
 table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable
