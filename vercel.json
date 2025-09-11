@@ -3,10 +3,5 @@
     "env": {
       "NODE_OPTIONS": "--openssl-legacy-provider"
     }
-  },
-  "functions": {
-    "pages/api/**/*.js": {
-      "runtime": "nodejs18.x"
-    }
   }
 }
