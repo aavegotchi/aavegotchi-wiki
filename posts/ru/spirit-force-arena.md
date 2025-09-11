@@ -1,10 +1,9 @@
 ---
 author: Unintelligent Nerd
-date: 2014-04-26T22:00:00.000Z
-title: Spirit Force Arena
-description: Test your mettle in the Spirit Force Arena!
-contributors:
-  - unintelligent-nerd
+date: '2014-04-26T22:00:00.000Z'
+title: 'Spirit Force Arena'
+description: 'Test your mettle in the Spirit Force Arena!'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="headerImageContainer">
