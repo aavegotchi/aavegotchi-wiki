@@ -1,10 +1,9 @@
 ---
 author: Unintelligent Nerd
-date: 2014-04-26T22:00:00.000Z
-title: DROPT - The Fallen Gotchi
-description: DROPT - The Fallen Gotchi
-contributors:
-  - unintelligent-nerd
+date: '2014-04-26T22:00:00.000Z'
+title: 'DROPT - The Fallen Gotchi'
+description: 'DROPT - The Fallen Gotchi'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="headerImageContainer">
