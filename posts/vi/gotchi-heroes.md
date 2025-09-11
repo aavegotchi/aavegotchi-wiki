@@ -1,10 +1,9 @@
 ---
 author: Unintelligent Nerd
-date: 2020-04-23T07:00:00.000Z
-title: Gotchi Heroes
-description: Gotchi Heroes
-contributors:
-  - unintelligent-nerd
+date: '2020-04-23T07:00:00.000Z'
+title: 'Gotchi Heroes'
+description: 'Gotchi Heroes'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 Gotchi Heroes is a play-to-earn NFT based idle game where your Aavegotchi is your Hero that will fight endless waves of monsters! Your Aavegotchi's traits will directly influence how well you do and how far up the leaderboard you can climb. Earn GHST and GHERO tokens just by being on the leaderboard so make sure to check in each season!
