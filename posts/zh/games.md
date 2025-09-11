@@ -1,10 +1,9 @@
 ---
 author: Unintelligent-nerd
-date: 2020-04-23T07:00:00.000Z
-title: Game Center
-description: Aavegotchi Game Center
-contributors:
-  - chinyh
+date: '2020-04-23T07:00:00.000Z'
+title: 'Game Center'
+description: 'Aavegotchi Game Center'
+contributors: [ "chinyh" ]
 ---
 
 <div class="headerImageContainer">
