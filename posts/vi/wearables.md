@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'Tất tần tật về Wearables trong Aavegotchi'
+date: "2020-04-23T07:00:00.000Z"
+title: "Wearables"
+description: "Tất tần tật về Wearables trong Aavegotchi"
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -26,7 +26,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 
 Để có thêm thông tin về **Set Đồ Wearable**, hãy xem qua [trang này nhé](/sets)!
 
-*Chú ý: Có một số vật phẩm (IDs 162-198, 210) không được thể hiện trên trang này do chúng không phải là trang phục. Chúng là [Baadges](/baadge) và Ảnh Nền Haunt 1.*
+_Chú ý: Có một số vật phẩm (IDs 162-198, 210) không được thể hiện trên trang này do chúng không phải là trang phục. Chúng là [Baadges](/baadge) và Ảnh Nền Haunt 1._
 
 <div class="contentsBox">
 
@@ -69,6 +69,7 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 <li><a href=#forge-wearables>Forge Wearables</a></li>
 <li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
 <li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -77,14 +78,14 @@ Design of the wearables are done by [Xibot](/team#xibot), our team of [community
 
 Aavegotchi có bốn đặc điểm và có thể được điều chỉnh bằng wearables.
 
-* AGG = Aggressiveness (Hiếu Chiến)
-* NRG = Energy (Năng Lượng)
-* SPK = Spookiness (Đáng Sợ)
-* BRN = Brain Size (Kích Thước Não)
+- AGG = Aggressiveness (Hiếu Chiến)
+- NRG = Energy (Năng Lượng)
+- SPK = Spookiness (Đáng Sợ)
+- BRN = Brain Size (Kích Thước Não)
 
 Đặc điểm của "Màu Mắt" và "Hình Dạng Mắt" không thể nào điều chỉnh bằng wearables được.
 
-*Chú ý: Giá trị âm không có nghĩa là những đặc điểm này sẽ "yếu hơn". Các đặc điểm của Aavegotchi được phân bố theo một bell curve, vậy nên thực ra cực (0,1) và (99,100) là mạnh nhất!*
+_Chú ý: Giá trị âm không có nghĩa là những đặc điểm này sẽ "yếu hơn". Các đặc điểm của Aavegotchi được phân bố theo một bell curve, vậy nên thực ra cực (0,1) và (99,100) là mạnh nhất!_
 
 Xem [Đặc điểm](/traits) để hiểu thêm về chủ đề này.
 
@@ -261,3 +262,7 @@ table_forgeWearables2Table
 ## Gotchigang Wearables
 
 table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable
