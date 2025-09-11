@@ -1,10 +1,9 @@
 ---
 author: Unintelligent-nerd
-date: 2020-04-23T07:00:00.000Z
-title: Gotchi Battler
-description: Gotchi Battler
-contributors:
-  - chinyh
+date: '2020-04-23T07:00:00.000Z'
+title: 'Gotchi Battler'
+description: 'Gotchi Battler'
+contributors: [ "chinyh" ]
 ---
 
 Gotchi Battler is a captivating auto-battler game where two teams of five Gotchis each face off until one emerges victorious. The strength and special moves of each Gotchi are defined by their unique traits, opening the door to a multitude of strategic combinations.
