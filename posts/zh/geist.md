@@ -1,10 +1,9 @@
 ---
 author: Unintelligent-nerd
-date: 2020-04-23T07:00:00.000Z
-title: Geist
-description: Geist
-contributors:
-  - chinyh
+date: '2020-04-23T07:00:00.000Z'
+title: 'Geist'
+description: 'Geist'
+contributors: [ "chinyh" ]
 ---
 
 Geist is a new L3 powered by Base, Arbitrum, Alchemy, and Aavegotchi.
