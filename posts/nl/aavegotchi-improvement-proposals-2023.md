@@ -1,10 +1,9 @@
 ---
 author: Coder Dan
-date: 2020-04-23T07:00:00.000Z
-title: Aavegotchi Verbetervoorstellen (AGIP's)
-description: A list of Aavegotchi Improvement Proposals (AGIPs) in Year 2023
-contributors:
-  - unintelligent-nerd
+date: '2020-04-23T07:00:00.000Z'
+title: 'Aavegotchi Verbetervoorstellen (AGIP''s)'
+description: 'A list of Aavegotchi Improvement Proposals (AGIPs) in Year 2023'
+contributors: [ "unintelligent-nerd" ]
 ---
 
 <div class="contentsBox">
@@ -1147,7 +1146,7 @@ Having guilds makes pvp, farming and development much more interesting! The fire
 
 2. Integration with STRATEGOTCHI will help with guilds registrations and leaderboards data.
 
-Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/fireball-on-chain-guilds/4678?u=yanik\&ref=the-curve)
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/fireball-on-chain-guilds/4678?u=yanik&ref=the-curve)
 
 Option 1: Yes, Fund 27,500 DAI
 
