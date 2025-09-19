@@ -139,6 +139,7 @@ contributors:
 
 ## よくある質問
 
+
 ### Aavegotchiとは何ですか？
 
 Aavegotchiは、コミュニティが所有する NFT オープンソース・ゲームプロトコルであり、ゲーマーの真の資産所有権を可能にします。 Aavegotchi NFTは、Aaveの利子の貯まるaTokenが備わっているオンチェーン・コレクティブル・ゴーストです。
@@ -611,7 +612,7 @@ You could still access Polygon using the Trezor One. For all others, it is not p
 
 ### Why can't I see my Polygon GHST on Metamask?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: {{GHST_POLYGON_ADDRESS}}
 
 ### Why can't I see my LP Tokens on QuickSwap?
 
