@@ -1,8 +1,8 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
-title: 'トークノミックス'
-description: 'Aavegotchi GHSTトークンのトークノミックス'
+date: "2025-09-18T00:00:00.000Z"
+title: "トークノミックス"
+description: "Aavegotchi GHSTトークンのトークノミックス"
 image: "ここに画像"
 contributors:
   - "appellants"
@@ -45,6 +45,7 @@ This part of the wiki will first take you through [GHST's token](/ghst) distribu
 </div>
 
 ## トークン配布
+
 
 GHSTは3段階に分けて配布されました。 プライベートセール、プリセール、パブリックボンディングカーブセールです。
 
@@ -91,23 +92,26 @@ At approximately 2 years after the project's inception, the community voted for 
 ## レベニューシェアの概要
 
 ポータルやウェアラブルに使われたGHSTはどうなるのでしょうか？
+
+We've made a handy diagram explaining Revenue Sharing V2:
+
 <div class="centerImageContainer">
-<img class="centerImage" src="" alt = "">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
 各カテゴリーの詳細については、こちらをご覧ください。
 
 ## EARN IT（アーン・イット＝稼いで）
 
-Aavegotchiの体験の中核は、ゴッチ達と一緒に時間を過ごし、[レアリティファーミング](/rarity-farming)でウェアラブルを装備させることです。 ゲームのエコシステムに継続的かつ積極的に参加するインセンティブを与えるため、ポータル販売とウェアラブルから得られる収益の一部は、上位レアリティファーマーへの報酬に充てられる予定です。
+A core part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). ゲームのエコシステムに継続的かつ積極的に参加するインセンティブを与えるため、ポータル販売とウェアラブルから得られる収益の一部は、上位レアリティファーマーへの報酬に充てられる予定です。
 
 そのため、獲得したGHSTの**40%**はプレイヤーへの報酬として還元される予定です。
 
 当初、プレイヤーリワードは3つのカテゴリーに分けられる予定です：
 
-* トップ100 レアAavegotchi ([BRS](/rarity-farming#base-rarity-score)順)
-* トップ100 [キンシップ](/kinship)スコア
-* トップ100 [経験値(XP)](/traits#experience)
+- トップ100 レアAavegotchi ([BRS](/rarity-farming#base-rarity-score)順)
+- トップ100 [キンシップ](/kinship)スコア
+- トップ100 [経験値(XP)](/traits#experience)
 
 3つのカテゴリーは、合計で全GHSTの**40％**を獲得します。 各カテゴリーの正確なパーセンテージは、各シーズンのレアリティファームの開始前に確認されます。
 
@@ -115,13 +119,11 @@ Aavegotchiの体験の中核は、ゴッチ達と一緒に時間を過ごし、[
 
 レアリティファーミングのシーズンが始まると、これらの報酬は**2週間ごと**にオンチェーン・スナップショットで配布されます。
 
-
 ## DAO IT（ダオ・イット＝ダオって）
 
 コミュニティガバナンスもAavegotchi体験の中核となる考え方です。 [AavegotchiDAO](/dao)の責任の一部には金庫の管理が含まれ、価値があると判断された取り組みに使用されます。 (ワイフの写真とか？)
 
 最初は収益の**15%**が[DAOの金庫](https://aavegotchi.com/treasury)に分配されます。 DAOが成熟し続けるにつれて、この割合は最終的に増加する可能性があります。 もちろん、最終的な目標は、DAOがプロトコルを管理し、アップグレードすることさえ十分に可能な存在に成長することです。 それはまだ数年先のことかもしれませんが（Aavegotchiは2020年半ばに始まったばかりです）、それでも楽しみなことです。
-
 
 ## BURN IT（バーン・イット＝燃やして）
 
@@ -129,12 +131,9 @@ Aavegotchiの体験の中核は、ゴッチ達と一緒に時間を過ごし、[
 
 ポータルやアイテムの販売で得たGHSTの**5％**が燃やされるのです。 永遠に。 そうです、その通りです。
 
-GHSTはダイナミックな供給量を持つトークンです。 その供給量は需要に応じて増加するため、バーン（焼失）率はトークンの急激なデフレを伴わないことを意味します。 これは、供給が固定されているトークンの問題です。
-
 GHSTの燃焼は、GHSTのゲーム報酬をGHSTの形で提供することによって起こりうるGHSTの価格下落圧力に対するデフレの対抗策となるものです。
 
-GHSTを燃焼アドレスに直接送信することで、DAIはボンディングカーブの中に閉じ込められ、GHSTの価格上昇の下限が形成されます。 これは、カーブ上の買い手と売り手の流動性を高め（つまりスリッページを減らし）、流通量を減らし、[DAICOタップメカニズム](/curve#aavegotchi-daico)に安定性をもたらすため、すべての関係者にとって正にプラスとなります。
-
+Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
 
 ## BUIDL IT（ビルド・イット＝作って）
 
@@ -166,4 +165,4 @@ V1からV2への変更の根拠は、[こちら](https://aavegotchi.medium.com/a
 
 ## Token Supply
 
-Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).
