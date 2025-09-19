@@ -1,8 +1,8 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
-title: 'Tokenomics'
-description: 'Die Tokenomics des Aavegotchi GHST Tokens'
+date: "2025-09-18T00:00:00.000Z"
+title: "Tokenomics"
+description: "Die Tokenomics des Aavegotchi GHST Tokens"
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -45,6 +45,7 @@ This part of the wiki will first take you through [GHST's token](/ghst) distribu
 </div>
 
 ## Token Distribution
+
 
 GHST wurde in drei Stufen verteilt. Dies waren der Private Sale, der Presale und der Public Bonding Curve Sale.
 
@@ -91,23 +92,26 @@ Die Teamgelder werden in erster Linie verwendet, um die Kernmitglieder des Aaveg
 ## Revenue Sharing Übersicht
 
 Was passiert mit den ganzen GHST, die für Portale und Kleidungsstücke ausgegeben werden?
+
+We've made a handy diagram explaining Revenue Sharing V2:
+
 <div class="centerImageContainer">
-<img class="centerImage" src="" alt = "">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
 Read on to learn about the various categories in more detail.
 
 ## EARN IT
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). Um einen Anreiz für ein kontinuierliches und aktives Engagement im Ökosystem des Spiels zu schaffen, wird ein Teil der Einnahmen aus Portalverkäufen und Kleidungsstücken in die Belohnung der Top-Rarity-Farmer fliessen.
+A core part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). Um einen Anreiz für ein kontinuierliches und aktives Engagement im Ökosystem des Spiels zu schaffen, wird ein Teil der Einnahmen aus Portalverkäufen und Kleidungsstücken in die Belohnung der Top-Rarity-Farmer fliessen.
 
 Dazu werden **40%** aller verdienten GHST über Spielerbelohnungen an die Spieler zurückgegeben.
 
 Zu Beginn wird es drei Kategorien von Spielerbelohnungen geben:
 
-* Top 100 seltenste Aavegotchis (nach [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/kinship) Scores
-* Top 100 [Erfahrungspunkte (EXP)](/traits#experience)
+- Top 100 seltenste Aavegotchis (nach [BRS](/rarity-farming#base-rarity-score))
+- Top 100 [Kinship](/kinship) Scores
+- Top 100 [Erfahrungspunkte (EXP)](/traits#experience)
 
 Die drei Kategorien summieren sich auf die **40%** aller verdienten GHST. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
@@ -115,13 +119,11 @@ Weitere Kategorien werden hinzugefügt, wenn sich das Spiel weiter entwickelt.
 
 When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
-
 ## DAO IT
 
 Community Governance ist auch ein Kernpunkt der Aavegotchi-Erfahrung. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics vielleicht?)
 
 **15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). Wenn der DAO weiter reift, kann sich dieser Prozentsatz noch erhöhen. Das Endziel ist natürlich, dass der DAO zu einer Einheit heranwächst, die in der Lage ist, das Protokoll zu verwalten und sogar zu upzugraden. Auch wenn das noch ein paar Jahre entfernt ist (Aavegotchi ist schliesslich erst Mitte 2020 gestartet), ist es doch etwas, worauf man sich freuen kann.
-
 
 ## BURN IT
 
@@ -129,12 +131,9 @@ Als Auftakt wäre es gut, sich mit der [Bonding Curve](/curve) von GHST und ihre
 
 **5%** of all GHST earned via portal and item sales will be burned. Für immer. Ja, das hast du richtig gelesen.
 
-GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. Das ist ein Problem für Token mit einem festem Angebot.
-
 Das Verbrennen von GHST ist ein deflationäres Gegengewicht zum Abwärtsdruck auf den Preis von GHST, wie er möglicherweise durch die Ausgabe von GHST-Spielbelohnungen in Form von GHST verursacht wird.
 
-Das Senden von GHST direkt an die Burn Adresse sperrt auch DAI innerhalb der Bonding Curve, was eine steigende Preisuntergrenze für GHST schafft. Dies ist für alle Parteien positiv, da es eine bessere Liquidität für Käufer und Verkäufer auf der Curve ermöglicht (aka weniger Slippage), das zirkulierende Angebot senkt und Stabilität für den [DAICO Tap Mechanismus](/curve#aavegotchi-daico) bietet.
-
+Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
 
 ## BUIDL IT
 
@@ -166,4 +165,4 @@ The rationale for the changes from V1 to V2 can be found [here](https://aavegotc
 
 ## Token Supply
 
-Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).
