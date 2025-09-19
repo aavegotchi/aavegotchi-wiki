@@ -1,13 +1,9 @@
 ---
 author: wagyuchicken
-date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming'
-description: 'Mọi thứ bạn cần biết về Rarity Farming!'
-contributors:
-  - "cinnabarhorse"
-  - "wagyuchicken"
-  - "appellants"
-  - "unintelligent-nerd"
+date: "2025-09-18T00:00:00.000Z"
+title: "Rarity Farming"
+description: "Mọi thứ bạn cần biết về Rarity Farming!"
+contributors: '["cinnabarhorse", "wagyuchicken", "appellants", "unintelligent-nerd"] ---'
 ---
 
 <div class="headerImageContainer">
@@ -35,11 +31,13 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 </div>
 
 ## Làm thế nào để có thể Farm Rarity?
+
+
 Có nhiều cách để bạn có thể tham gia vào hoạt động rarity farming. Bao gồm:
 
-* **Hãy cẩn thận khi chọn một Aavegotchi với đặc điểm hiếm trong quá trình triệu hồi**
+- **Hãy cẩn thận khi chọn một Aavegotchi với đặc điểm hiếm trong quá trình triệu hồi**
 
-* **Trang bị [wearables](/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
+- **Trang bị [wearables](/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
 
 Để có nhiều thông tin hơn, hãy theo dõi đường link dẫn ở phần sidebar.
 
@@ -60,9 +58,9 @@ if (number < 50) return 100 - number;
     else return number + 1;
 ```
 
-*Nếu giá trị đặc tính **thấp hơn** 50, thì BRS = 100 - giá trị đặc tính*
+_Nếu giá trị đặc tính **thấp hơn** 50, thì BRS = 100 - giá trị đặc tính_
 
-*Nếu giá trị đặc tính **cao hơn** 50, thì BRS = giá trị đặc tính + 1*
+_Nếu giá trị đặc tính **cao hơn** 50, thì BRS = giá trị đặc tính + 1_
 
 #### Wearables BRS
 
@@ -80,13 +78,13 @@ table_RarityScoreCalculationTable
 
 ## Phần thưởng
 
-Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hết nhất với <b>Final Rarity Score cao nhất</b> sẽ nhận được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
+In each season of Rarity Farming, the rarest Aavegotchis receive GHST rewards that can be claimed by their owners. Recent seasons (e.g., Season 10/11) have run on Base.
 
 Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
 
-* Aavegotchi Rarity Scores (tính bằng BRS, ARS sẽ được thêm trong mùa sau)
-* Top [Điểm Kinship](/traits#kinship) Cao Nhất
-* [Kinh nghiệm](/traits#experience)
+- Aavegotchi Rarity Scores (tính bằng BRS, ARS sẽ được thêm trong mùa sau)
+- Top [Điểm Kinship](/traits#kinship) Cao Nhất
+- [Kinh nghiệm](/traits#experience)
 
 Với mỗi hạng mục, giải thưởng dành cho rarity farming sẽ được phân phối dựa trên đường cong giảm dần, trong đó chỉ một số Aavegotchi trên đỉnh có thể kiếm được nhiều hơn những Gotchi nằm ở phần dưới của đường cong. Sẽ có những điểm cắt mà ở Gotchi nào ở dưới điểm đó sẽ không nhận được phần thưởng. Vậy nên hãy cố gắng hết sức để nằm ở trên điểm cắt đó. Thế nào rồi bạn cũng thắng được chút ít mà thôi!
 
@@ -94,9 +92,9 @@ Lượng phần thưởng phân bổ cho từng hạng mục sẽ được quy�
 
 Sẽ có nhiều hạng mục được thêm vào, khi trò chơi tiếp tục phát triển. Some of these new one-off categories include:
 
-* Rookie Kinship
-* Rookie Experience/XP
-* Gotchi Battler
+- Rookie Kinship
+- Rookie Experience/XP
+- Gotchi Battler
 
 Phần thưởng sẽ được phân phát mỗi hai tuần thông qua snapshot trên snapshot. Ban đầu, quá trình này sẽ được team Pixelcraft tự quản lý, những về sau nó sẽ được tự động giải quyết bởi DAO. Sau mỗi lần snapshot, giải thưởng có thể được nhận bởi tất cả những người nông dân thành công trong việc cày độ hiếm và vòng đua top kế tiếp sẽ bắt đầu ngay lập tức.
 
@@ -110,7 +108,7 @@ Hiện tại thì không có giới hạn đối với số lần tương tác m
 
 Rarity Farming được chia thành các mùa khác nhau. Mỗi mùa có các hạng mục riêng, kích thước quỹ giải thưởng và đường cong phân bố giải thưởng.
 
-Để xem dữ liệu phần thưởng Rarity Farming của các mùa, hãy xem qua [trang](/rarity-farming-seasons) này.
+For data pertaining to the Rarity Farming Seasons (including Base-era seasons), check out this [page](/rarity-farming-seasons) and the official blog.
 
 ### Thu Thập Phần Thưởng Từ Rarity Farming
 
