@@ -1,13 +1,9 @@
 ---
 author: wagyuchicken
-date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming'
-description: 'Everything you need to know about Rarity Farming!'
-contributors:
-  - "cinnabarhorse"
-  - "wagyuchicken"
-  - "appellants"
-  - "unintelligent-nerd"
+date: "2025-09-18T00:00:00.000Z"
+title: "Rarity Farming"
+description: "Everything you need to know about Rarity Farming!"
+contributors: '["cinnabarhorse", "wagyuchicken", "appellants", "unintelligent-nerd"] ---'
 ---
 
 <div class="headerImageContainer">
@@ -35,11 +31,13 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 </div>
 
 ## How Do I Rarity Farm?
+
+
 There are several ways you can engage in the rarity farming exercise. These include:
 
-* **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
+- **Carefully selecting an Aavegotchi with rare traits during the [summoning process](/portals)**
 
-* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
+- **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
 
 For more information on each process, just follow the links to the respective pages on the sidebar.
 
@@ -60,9 +58,9 @@ if (number < 50) return 100 - number;
     else return number + 1;
 ```
 
-*If trait value is **less than** 50, BRS = 100 - trait value*
+_If trait value is **less than** 50, BRS = 100 - trait value_
 
-*If trait value is **equal to or greater than** 50, BRS = trait value + 1*
+_If trait value is **equal to or greater than** 50, BRS = trait value + 1_
 
 #### Wearables BRS
 
@@ -80,13 +78,13 @@ table_RarityScoreCalculationTable
 
 ## Rewards
 
-In each season of Rarity Farming, the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
+In each season of Rarity Farming, the rarest Aavegotchis receive GHST rewards that can be claimed by their owners. Recent seasons (e.g., Season 10/11) have run on Base.
 
 Initially, there were 3 categories of rarity farming rewards:
 
-* Aavegotchi Rarity Scores (by BRS, ARS coming later)
-* [Kinship](/traits#kinship) Scores
-* [Expérience](/traits#experience)
+- Aavegotchi Rarity Scores (by BRS, ARS coming later)
+- [Kinship](/traits#kinship) Scores
+- [Expérience](/traits#experience)
 
 For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something!
 
@@ -94,9 +92,9 @@ The proportion of rewards allocated to each of the categories will be decided by
 
 More categories will be added later as the Aavegotchi game continues to develop. Some of these new one-off categories include:
 
-* Rookie Kinship
-* Rookie Experience/XP
-* Gotchi Battler
+- Rookie Kinship
+- Rookie Experience/XP
+- Gotchi Battler
 
 Player Rewards will be distributed every two weeks via onchain snapshots. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
 
@@ -110,7 +108,7 @@ There is currently no limit to how many interactions an Aavegotchi can perform e
 
 Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
 
-For data pertaining to the Rarity Farming Seasons, check out this [page](/rarity-farming-seasons).
+For data pertaining to the Rarity Farming Seasons (including Base-era seasons), check out this [page](/rarity-farming-seasons) and the official blog.
 
 ### Collecting Rarity Farming Rewards
 
