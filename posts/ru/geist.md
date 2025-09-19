@@ -1,10 +1,14 @@
 ---
 author: Unintelligent Nerd
-date: '2014-04-26T22:00:00.000Z'
-title: 'Geist'
-description: 'Geist'
+date: "2025-09-18T00:00:00.000Z"
+title: "Geist"
+description: "Geist"
 contributors: [ "unintelligent-nerd" ]
 ---
+
+**Deprecated notice**
+
+Gotchichain (Geist) was not launched. Aavegotchi has migrated to Base, and this page is kept for historical reference only. For current information, see the [GHST Token](/ghst) page and recent posts on the official blog.
 
 Geist is a new L3 powered by Base, Arbitrum, Alchemy, and Aavegotchi.
 
