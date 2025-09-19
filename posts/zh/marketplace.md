@@ -1,8 +1,8 @@
 ---
 author: Unintelligent-nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Marketplace'
-description: 'Aavegotchi Marketplace'
+date: "2025-09-18T00:00:00.000Z"
+title: "Marketplace"
+description: "Aavegotchi Marketplace"
 contributors: [ "chinyh" ]
 ---
 
@@ -45,7 +45,7 @@ This, my Frens, is the Aavegotchi Marketplace. 究竟夠唔夠睇光找到及搶
 
 ## Aavegotchi Marketplace
 
-The Aavegotchi Marketplace is the official secondary marketplace for Aavegotchi. 賣家可以擺上自己的物品轉售獲利。 There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Marketplace. 此費用是用來防止Polygon 上的濫用貨品擺架情況。 This 0.1 GHST neither goes to Pixelcraft Studios nor to [AavegotchiDAO](/dao). Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) on Polygon when a listing is created or updated.
+The Aavegotchi Marketplace (Baazaar) is the official secondary marketplace for Aavegotchi. 賣家可以擺上自己的物品轉售獲利。 There is a listing fee of 0.1 GHST for every new listing on the Aavegotchi Marketplace to prevent spam; the fee is burned.
 
 When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
 
@@ -59,7 +59,7 @@ Buyers may buy 1, some, or all of a multiple item listing.
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-marketplace.png" alt = "Aavegotchi Marketplace">
 
-The Aavegotchi Marketplace can be found [here](https://dapp.aavegotchi.com/baazaar/aavegotchis).
+The Aavegotchi Marketplace can be found [here](https://dapp.aavegotchi.com/baazaar/aavegotchis). If you see a “not functional on Base” banner, use aavegotchi.com as the entry point while Base migration completes.
 
 ## 特色
 
@@ -81,7 +81,4 @@ The Marketplace comes equipped with filter functions to help buyers narrow down 
 
 ## Secondary Marketplaces
 
-Besides the official Aavegotchi Marketplace, there are other secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
-
-As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
-
+Besides the official Aavegotchi Marketplace, secondary marketplaces include Magic Eden and OnePlanet on Polygon, and Rarible on Ethereum. As network support evolves with the Base migration, verify marketplace support and bridging requirements before listing or purchasing.
