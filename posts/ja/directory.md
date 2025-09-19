@@ -1,67 +1,66 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki一覧'
-description: 'Aavegotchi Wiki一覧'
+date: "2020-04-23T07:00:00.000Z"
+title: "Aavegotchi Wiki一覧"
+description: "Aavegotchi Wiki一覧"
 contributors:
   - "unintelligent-nerd"
 ---
 
+
 Avegotchi Wikiのページ一覧です：
 
-* [アーンバサダー（Aambassador）](/aambassador)
+- [アーンバサダー（Aambassador）](/aambassador)
 
-* [Aarcade Taask Force](/aarcade-taask-force)
+- [Aarcade Taask Force](/aarcade-taask-force)
 
-* [アーキテクト](/aarchitect)
+- [アーキテクト](/aarchitect)
 
-* [アーティスト](/aartist)
+- [アーティスト](/aartist)
 
-* [Aauction](/aauction)
+- [Aauction](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+- [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+- [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [エステティカ（Aesthetica）](/aesthetica)
+- [エステティカ（Aesthetica）](/aesthetica)
 
-* [Aging Mechanic](/aging-mechanic)
+- [Aging Mechanic](/aging-mechanic)
 
-* [Alchemical Channeling](/alchemical-channeling)
+- [Alchemical Channeling](/alchemical-channeling)
 
-* [バッジ](/baadge)
+- [バッジ](/baadge)
 
-* [Baard (ミュージシャン)](/baard)
+- [Baard (ミュージシャン)](/baard)
 
-* [Bridge](/bridge)
+- [Bridge](/bridge)
 
-* [コンテスト](/contests)
+- [コンテスト](/contests)
 
-* [Contracts](/contracts)
+- [Contracts](/contracts)
 
-* [ボンディング・カーブ](/curve)
+- [ボンディング・カーブ](/curve)
 
-* [AavegotchiDAO](/dao)
+- [AavegotchiDAO](/dao)
 
-* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+- [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
-* [Developers](/developers)
+- [Developers](/developers)
 
-* [DROPT - The Fallen Gotchi](/dropt)
+- [DROPT - The Fallen Gotchi](/dropt)
 
-* [Estaates（エステート）](/estaates)
+- [Estaates（エステート）](/estaates)
 
-* [Eye Shape](/eye-shape)
+- [Eye Shape](/eye-shape)
 
-* [FAQ（よくある質問）](/faq)
+- [FAQ（よくある質問）](/faq)
 
-* [Forge](/forge)
+- [Forge](/forge)
 
-* [Games](/games)
+- [Games](/games)
 
-* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
-
-* [Geist](/geist)
+- [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
