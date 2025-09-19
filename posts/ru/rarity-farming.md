@@ -1,13 +1,9 @@
 ---
 author: wagyuchicken
-date: '2014-04-26T22:00:00.000Z'
-title: 'Фарминг редкости Готчи'
-description: 'Все что Вам нужно знать о Фарминге редкости Готчи'
-contributors:
-  - "cinnabarhorse"
-  - "wagyuchicken"
-  - "appellants"
-  - "unintelligent-nerd"
+date: "2025-09-18T00:00:00.000Z"
+title: "Фарминг редкости Готчи"
+description: "Все что Вам нужно знать о Фарминге редкости Готчи"
+contributors: '["cinnabarhorse", "wagyuchicken", "appellants", "unintelligent-nerd"] ---'
 ---
 
 <div class="headerImageContainer">
@@ -36,11 +32,13 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 </div>
 
 ## Как я могу заниматься Фармингом Раритетов?
+
+
 Существует несколько способов, с помощью которых вы можете заняться фармингом раритетов. К ним относятся:
 
-* **Призывать Гочти с самыми редкими чертами во время [вызова](/portals) его из портала.**
+- **Призывать Гочти с самыми редкими чертами во время [вызова](/portals) его из портала.**
 
-* **Экипировать Готчи за счет покупки [носимых предметов](/wearables).**
+- **Экипировать Готчи за счет покупки [носимых предметов](/wearables).**
 
 Подробную информацию об этом вы можете получить, перейдя по вышеуказанным страницам.
 
@@ -61,9 +59,9 @@ Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotch
     Если больше или равно, то показатель плюс 1.
 ```
 
-*Если характеристика **меньше** 50 очков, BRS будет равен — 100 очков минус значение характеристики.*
+_Если характеристика **меньше** 50 очков, BRS будет равен — 100 очков минус значение характеристики._
 
-*Если характеристика **равна или больше** 50 очков, BRS будет равен значению характеристики + 1 очко.*
+_Если характеристика **равна или больше** 50 очков, BRS будет равен значению характеристики + 1 очко._
 
 #### Расчет экипировки BRS
 
@@ -81,13 +79,13 @@ table_RarityScoreCalculationTable
 
 ## Вознаграждение
 
-In each season of Rarity Farming, the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
+In each season of Rarity Farming, the rarest Aavegotchis receive GHST rewards that can be claimed by their owners. Recent seasons (e.g., Season 10/11) have run on Base.
 
 Initially, there were 3 categories of rarity farming rewards:
 
-* BRS Готчи, а награда за ARS появится позже.
-* [Очки родства](/traits#kinship) (Kinship) с игроком.
-* [Очки опыта.](/traits#experience)
+- BRS Готчи, а награда за ARS появится позже.
+- [Очки родства](/traits#kinship) (Kinship) с игроком.
+- [Очки опыта.](/traits#experience)
 
 For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something!
 
@@ -95,9 +93,9 @@ The proportion of rewards allocated to each of the categories will be decided by
 
 More categories will be added later as the Aavegotchi game continues to develop. Some of these new one-off categories include:
 
-* Rookie Kinship
-* Rookie Experience/XP
-* Gotchi Battler
+- Rookie Kinship
+- Rookie Experience/XP
+- Gotchi Battler
 
 Player Rewards will be distributed every two weeks via onchain snapshots. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
 
@@ -111,7 +109,7 @@ There is currently no limit to how many interactions an Aavegotchi can perform e
 
 Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
 
-For data pertaining to the Rarity Farming Seasons, check out this [page](/rarity-farming-seasons).
+For data pertaining to the Rarity Farming Seasons (including Base-era seasons), check out this [page](/rarity-farming-seasons) and the official blog.
 
 ### Collecting Rarity Farming Rewards
 
