@@ -26,6 +26,7 @@ The Aambassadors are a team of Pixelcraft-incentivized volunteers with influence
 
 ## Getting involved
 
+
 Do you have any questions about the Aambassador program? Interested to become an Aambassador? Check out the [Aambassador FAQ](/faq#aambassador-faq) or contact Webb, the Aambassador Lead, on [Discord](https://discord.com/invite/NPwnWB6).
 
 ## List of Aambassadors

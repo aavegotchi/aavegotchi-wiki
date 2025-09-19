@@ -34,6 +34,7 @@ The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 
 ## Building Aavegotchi.com
 
+
 Have a suggestion for the Aavegotchi.com DApp? Want to help translate it?
 
 Contact coderdan#8904 on [Discord](https://discord.com/invite/NPwnWB6)

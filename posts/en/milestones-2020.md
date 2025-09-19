@@ -7,6 +7,7 @@ contributors: ["unintelligent-nerd"]
 ---
 
 ## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
+
 * Ready up frens! This 29 December 2020 announcement is biiigg!
 * Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
 * Yessss, there's another party on New Year's Eve!

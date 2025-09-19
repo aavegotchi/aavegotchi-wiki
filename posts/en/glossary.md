@@ -95,6 +95,7 @@ When you're done reading this and hopefully have a better understanding of these
 
 ## Aavegotchi-related
 
+
 ### Aarchitect
 Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
 

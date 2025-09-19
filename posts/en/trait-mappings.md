@@ -37,6 +37,7 @@ How exactly do these traits map out to actual gameplay in the [Gotchiverse](/got
 
 ## Gotchiverse Trait Definitions
 
+
 * **HP Capacity:** A gotchi’s base level of hit points (HP). A powerful trait to specialize in, as moar HP also means moar stamina for sprinting through the battlefield.
 
 * **AP Capacity:** A gotchi’s base level of action points (AP). Every physical attack, spell and ability (including teleportation) in the Gotchiverse will require the consumption of AP. The moar AP a gotchi has, the moar consecutive abilities they can unleash. Uber abilities will also require moar AP to execute so if you don’t know any high NRG gotchis yet, we suggest you start networking!

@@ -35,6 +35,7 @@ Aavegotchi is governed by [AavegotchiDAO](/dao) that manages all funds generated
 </div>
 
 ## About Aavegotchis
+
 Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe: **collateral stake, traits, and wearables.**
 
 *  **Collateral stake:**

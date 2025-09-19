@@ -47,6 +47,7 @@ Building [Installations](/gotchiverse#building-on-realm-parcels) and upgrading t
 
 ## Building Duration
 
+
 Installations and their upgrades also have a “Build Time”, which is measured in blocks on the Polygon network. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a build time of “Instant”, which means they are built immediately, while those with build times longer than “Instant” will enter into a building queue and get sent to their owner upon completion.
 
 This building/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).

@@ -30,6 +30,7 @@ Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they
 
 ## Benefits of Estaates
 
+
 Creating an Estaate gives:
 
 * Visibility - Everyone to see the link(s).

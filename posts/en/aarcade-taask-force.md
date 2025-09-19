@@ -27,6 +27,7 @@ The Aarcade Taask Force (ATF) is a group of [aarchitects](/aarchitect) that are 
 
 ## Origins
 
+
 In Aug 2021, Gotchinomics proposed the idea of an Aarcade DAO on a [forum post](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128).
 
 The first [Aavegotchi Gaame Jaam](https://jam.aavegotchi.com/) was held on 1 - 5 September 2021. Many of the current ATF members (Shah, Gotchinomics, SlickBB, PG) participated in it.

@@ -32,6 +32,7 @@ In a typical TBC, the price increases as the supply of the token increases, and 
 
 ## Mechanics
 
+
 ### Minting / Burning on demand
 
 Bonding Curves use a pricing algorithm to serve as an automated market maker and provide an always available source of liquidity. Users can interact with a bonding curve by staking tokens into the bonding curve’s reserve pool. When they do so, the bonding curve mints the corresponding tokens for the user based on the pricing algorithm. The newly minted tokens can have specific utility and even be traded among users, but can always be exchanged back through the bonding curve for tokens in the bonding curve’s reserve pool.

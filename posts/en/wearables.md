@@ -74,6 +74,7 @@ _Note: There are some objects (IDs 162-198, 210) that are not reflected on this 
 
 ## Key
 
+
 Aavegotchis have four traits that can be modified by wearables.
 
 - AGG = Aggressiveness

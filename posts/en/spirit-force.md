@@ -36,6 +36,7 @@ Spirit Force are [Aave's](https://aave.com/) interest-bearing tokens embedded wi
 
 ## Supported Spirit Force
 
+
 table_supportedCollaterals
 
 ## Buying maTokens/amTokens

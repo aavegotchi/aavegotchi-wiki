@@ -30,6 +30,7 @@ Rarity Farming is organized into different seasons. Here's the data for each sea
 
 ## Season 1
 
+
 The inaugural Rarity Farming Season was held from Tuesday, 20 April 2021 - Tuesday, 15 June 2021. A total of 1.4 Million GHST will be disbursed across all 4 rounds in Season 1.
 
 There were 3 categories to compete on:

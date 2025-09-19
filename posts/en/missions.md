@@ -24,6 +24,7 @@ contributors: ["eris771", "unintelligent-nerd"]
 
 ## The Aagent Missions
 
+
 **THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
 
 Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These

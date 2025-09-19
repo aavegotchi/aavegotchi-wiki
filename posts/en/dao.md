@@ -40,6 +40,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 
 ## Genesis
 
+
 *See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
 The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.

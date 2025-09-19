@@ -1,0 +1,7 @@
+{
+  "guildId": "YOUR_GUILD_ID",
+  "channelIds": [],
+  "channelNameRegex": "announce|news|update|release|patch|dev|weekly",
+  "maxMessagesPerChannel": 500,
+  "daysBack": 365
+}

@@ -36,6 +36,7 @@ Light the furnace and grab your hammers. It’s time to craft some wearables!
 
 ## The Conundrum
 
+
 In legacy video games, releasing new gear happens all the time and is how games expand. Also in legacy games, the gear is non-custodial with no real-life value! The old gear becomes devalued as players progress.
 
 However, in the [Gotchiverse](/gotchiverse), our beloved wearables hold real monetary value and, therefore, we must rethink how new items are released.

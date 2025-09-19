@@ -26,6 +26,7 @@ Your mission is to assemble a formidable team, finding the perfect blend of Gotc
 
 ## Trait Mapping
 
+
 There are 9 core stats that are used in Gotchi Battler, these stats are mapped from the Aavegotchi's 6 on-chain [traits](/traits) (NRG, AGG, SPK, BRN, EYC, EYS) as follows:
 
 table_traitMapping

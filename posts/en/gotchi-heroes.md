@@ -24,6 +24,7 @@ Gotchi Heroes is a play-to-earn NFT based idle game where your Aavegotchi is you
 
 ## Gameplay
 
+
 Gotchi Heroes is an idle game where you fight waves and waves of monsters to progress to higher levels. Equip your items and let the game play itself, meaning after your Gotchi starts its journey and has some items equipped it will automatically start attacking. Sounds simple enough, right? Well, yes and no. The main thing to consider here is your Aavegotchi and its traits. It will have a huge impact on your gameplay strategy and the process of picking the right items to equip to get the most out of your Gotchi Hero. Your Aavegotchi's traits will ultimately decide how much progress you will make. 
 
 The main goal of Gotchi Heroes is to increase your DPS (Damage per Second), kill monsters, and reach higher levels. The higher your DPS/LEVEL, the higher your rank. The higher your rank, the more rewards you earn.

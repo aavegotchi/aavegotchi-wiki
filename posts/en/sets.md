@@ -33,6 +33,7 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 ## Key
 
+
 * BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
 * AGG = Aggressiveness
 * NRG = Energy

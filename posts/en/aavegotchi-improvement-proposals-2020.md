@@ -6,6 +6,7 @@ description: 'A list of Aavegotchi Improvement Proposals (AGIPs) in Year 2020'
 contributors: ["unintelligent-nerd"]
 ---
 
+
 <div class="contentsBox">
 
 **Contents**

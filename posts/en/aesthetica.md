@@ -25,6 +25,7 @@ Aesthetica are aesthetic NFTs that can be added to a Parcel, but do not affect i
 
 ## ROFL Gnome
 
+
 In real life, Gnomes watch over crops and livestock. In the Gotchiverse, ROFL Gnomes watch over Alchemica and Installations. They’re also said to bring good luck, so maybe try installing one to see if it helps your Alchemica reserves once it comes time to survey your parcel. Whether it does so or not, the ROFL Gnome is a must have for any serious Gotchi decoration connoisseur.
 
 table_roflGnome

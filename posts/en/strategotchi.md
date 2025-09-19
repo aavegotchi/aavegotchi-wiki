@@ -33,6 +33,7 @@ The objective of the game is to hit the harvest target before the end of the las
 
 ## Gameplay
 
+
 Strategotchi uses a turn-based structure that alternates between player and enemy turns. Each unit can move and take an action (e.g., attack or place a harvester). End your turn by pressing the "End Turn" button
 
 Note: if a character takes an action, it cannot move afterwards.

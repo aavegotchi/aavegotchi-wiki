@@ -45,6 +45,7 @@ The Gotchiverse began with only a handful of Aavegotchis, but as liquidations gr
 
 ## Zones
 
+
 The Gotchiverse occupies a vast expanse of land, with key landmarks distributed across its geography. It has three distinct zones:
 
 * The Citaadel

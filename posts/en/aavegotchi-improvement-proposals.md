@@ -6,6 +6,7 @@ description: 'A list of Aavegotchi Improvement Proposals (AGIPs)'
 contributors: ["unintelligent-nerd"]
 ---
 
+
 Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what responsible gotchis do! You need to vote and get your voices heard. 
 
 How far have we progressed as a community? Look at our archives of past votes here!

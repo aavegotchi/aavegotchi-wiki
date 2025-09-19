@@ -23,6 +23,7 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 </div>
 
 ## Gaining XP
+
 Aavegotchis receive experience (XP) for:
 * Voting in [AavegotchiDAO](/dao)
 * Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)

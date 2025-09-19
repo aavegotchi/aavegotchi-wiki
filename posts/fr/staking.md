@@ -1,8 +1,8 @@
 ---
 author: Nick Mudge
-date: '2020-04-23'
-title: 'Staking'
-description: 'Stake du GHST, gagne des FRENS'
+date: "2025-09-18T00:00:00.000Z"
+title: "Staking"
+description: "Stake du GHST, gagne des FRENS"
 contributors:
   - "mudgen"
   - "unintelligent-nerd"
@@ -13,7 +13,9 @@ contributors:
 <p class="headerImageText">Stake du GHST, gagne des FRENS!</p>
 </div>
 
-Le Staking se réfère au processus de verrouillage de votre cryptomonnaie en échange de récompenses. Il n'y a pas de différence dans le projet d'Aavegotchi. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+Note : FRENS est retiré. Utilisez des LP pour gagner du GLTR. Sur Base, passez par aavegotchi.com si l’app affiche « not functional on Base ».
+
+Le staking consiste à verrouiller votre crypto contre des récompenses. Dans Aavegotchi, le jeton natif [GHST](/posts/ghst) peut être déposé pour gagner du [GLTR](/gotchus-alchemica-exchange#gltr-token).
 
 <div class="contentsBox">
 
@@ -32,14 +34,14 @@ The primary utility of [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-ex
 
 GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
 
-## Staking for GLTR
+## Staking pour GLTR
 
 <img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
 
-* Step 1: Visit [app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr). There are 7 pools available: wapGHST, GHST-FUD, GHST-FOMO, GHST-ALPHA, GHST-KEK, GHST-USDC, and GHST-GLTR.
+- Étape 1 : Visitez [app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr). 7 pools : wapGHST, GHST‑FUD, GHST‑FOMO, GHST‑ALPHA, GHST‑KEK, GHST‑USDC, GHST‑GLTR. Si « not functional on Base », passez à Polygon ou via aavegotchi.com.
 
-* Step 2: Click on the pools you are interested to LP in. The given tab will expand, showing a *View Pool* button
+- Étape 2 : Cliquez le pool souhaité. L’onglet affiche _View Pool_.
 
-* Step 3: Upon clicking the *View Pool* button, you will be taken to an interface to deposit your tokens. Upon deposit, you will receive the corresponding LP tokens
+- Étape 3 : Dans _View Pool_, déposez vos tokens. Vous recevez les LP correspondants.
 
-* Step 4: Stake your LP tokens in the Aavegotchi DApp (in Step 1). Receive your GLTR rewards every block!
+- Étape 4 : Stakez vos LP dans la DApp (Étape 1). Recevez du GLTR par bloc.

@@ -20,4 +20,5 @@ Having fun with the [Mini-Games](/minigames) and the analytic tools? Come and ge
 
 ## Aarchitects
 
+
 table_aarchitect

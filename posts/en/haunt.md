@@ -29,6 +29,7 @@ Haunts are the different editions of Aavegotchis. Learn more about the different
 
 
 
+
 Haunt 1 was launched on 2 March 2021. 10,000 Aavegotchi [Portals](/portals) were released to the public on a first-come, first-serve basis.
 
 The first 10,000 portals were sold out in less than one minute. The launch was a huge success by all metrics except the fact that not everyone could have a Portal.

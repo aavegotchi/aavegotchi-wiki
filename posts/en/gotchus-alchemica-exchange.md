@@ -43,6 +43,7 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 ## Features
 
+
 The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
 
 * FUD

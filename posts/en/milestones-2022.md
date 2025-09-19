@@ -7,6 +7,7 @@ contributors: ["unintelligent-nerd"]
 ---
 
 ## [Aavegotchi Forge: SOON!](https://blog.aavegotchi.com/the-forge-is-coming-blacksmithing-skill-new-wearables-and-a-way-to-combat-inflation/)
+
 * The Aavegotchi Forge is coming soon!
 * Familiarize yourself with Alloys and Essences!
 * Learn how to forge and smelt too!

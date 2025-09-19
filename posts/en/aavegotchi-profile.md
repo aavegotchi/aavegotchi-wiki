@@ -34,6 +34,7 @@ This page will tell you what you can do with your new Gotchi frens! :D
 
 ## Accessing your Gotchi Profile
 
+
 First, you need to head over to [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any of your Gotchis and it will take you to his/her profile page.
 
 ## Gotchi Profile

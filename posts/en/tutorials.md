@@ -6,6 +6,7 @@ description: "Aavegotchi 101. Tutorials to get you started on all things blockch
 contributors: ["unintelligent-nerd"]
 ---
 
+
 Feeling overwhelmed fren? 
 
 There's Ethereum.

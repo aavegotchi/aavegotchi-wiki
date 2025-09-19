@@ -60,9 +60,9 @@ contributors:
 
 Перед покупкой убедитесь, что вы получили правильный адрес токена.
 
-Основная сеть Ethereum: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+Основная сеть Ethereum: [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
 
-Сеть Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+Сеть Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
 
 **Сверьтесь с другими источниками, где также опубликованы эти адреса. Осторожность никогда не бывает лишней.**
 

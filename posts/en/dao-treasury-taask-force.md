@@ -30,6 +30,7 @@ The initial mission and goals of the committee will be:
 
 ## Origins
 
+
 On Oct 2021, Dr Wagmi proposed the idea of a DTF on a [forum post](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460).
 
 This was formalized in a [DAO vote / AGIP 20](/aavegotchi-improvement-proposals#creating-the-dao-treasury-taask-force). The vote passed and the DTF was created with 8 members.

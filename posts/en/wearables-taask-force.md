@@ -25,6 +25,7 @@ This would both greatly expand the meta on a more even basis as well as guard ag
 
 ## Origins
 
+
 The idea for the committee came from Diddlypoo on a [forum post](https://dao.aavegotchi.com/t/wearables-taask-force/2350).
 
 This was formalized in a [DAO vote / AGIP 15](/aavegotchi-improvement-proposals#create-a-wearables-taask-force). The vote passed and the Wearables Taask Force was created.

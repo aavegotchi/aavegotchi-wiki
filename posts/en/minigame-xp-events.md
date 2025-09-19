@@ -37,6 +37,7 @@ This page details the past mini-game XP events.
 
 ## Gotchi the Gaatherer
 
+
 Event Duration: 13 - 19 May 2021
 
 table_gotchiTheGaatherer

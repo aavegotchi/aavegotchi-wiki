@@ -60,9 +60,9 @@ Maak uw portemonnees (bij voorkeur Metamask) klaar - er zijn een aantal manieren
 
 Zorg ervoor dat je ook het juiste token adres hebt.
 
-Op Ethereum Mainnet: [0x3F382Db960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+Op Ethereum Mainnet: [0x3F382Db960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
 
-Op Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+Op Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
 
 **Controleer deze links met andere officieel gepubliceerde Aavegotchi bronnen - het doet nooit pijn om extra voorzichtig te zijn.**
 

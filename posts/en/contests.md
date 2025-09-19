@@ -25,6 +25,7 @@ Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests 
 
 ## Aavegotchi Mission 8 Meme Contest Winners
 
+
 In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively. 
 
 ### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>

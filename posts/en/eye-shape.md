@@ -28,6 +28,7 @@ Check out the full list of Aavegotchi Eye Shapes (EYS) here!
 
 ## Non-Haunt-specific Eye Shapes
 
+
 table_eyeShape
 
 ## Haunt 1-specific Eye Shapes
