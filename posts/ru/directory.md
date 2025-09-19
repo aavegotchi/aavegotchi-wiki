@@ -1,67 +1,66 @@
 ---
 author: Unintelligent Nerd
-date: '2014-04-26T22:00:00.000Z'
-title: 'Aavegotchi Wiki Directory'
-description: 'Aavegotchi Wiki Directory'
+date: "2014-04-26T22:00:00.000Z"
+title: "Aavegotchi Wiki Directory"
+description: "Aavegotchi Wiki Directory"
 contributors:
   - "unintelligent-nerd"
 ---
 
+
 Here is the list of pages in the Aavegotchi Wiki:
 
-* [Aambassador](/aambassador)
+- [Aambassador](/aambassador)
 
-* [Aarcade Taask Force](/aarcade-taask-force)
+- [Aarcade Taask Force](/aarcade-taask-force)
 
-* [Разработчики (Aarchitect).](/aarchitect)
+- [Разработчики (Aarchitect).](/aarchitect)
 
-* [Артисты (Aartist).](/aartist)
+- [Артисты (Aartist).](/aartist)
 
-* [Aauction](/aauction)
+- [Aauction](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+- [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+- [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aesthetica](/aesthetica)
+- [Aesthetica](/aesthetica)
 
-* [Aging Mechanic](/aging-mechanic)
+- [Aging Mechanic](/aging-mechanic)
 
-* [Alchemical Channeling](/alchemical-channeling)
+- [Alchemical Channeling](/alchemical-channeling)
 
-* [Бааджи (Baadge).](/baadge)
+- [Бааджи (Baadge).](/baadge)
 
-* [Baard](/baard)
+- [Baard](/baard)
 
-* [Bridge](/bridge)
+- [Bridge](/bridge)
 
-* [Конкурсы](/contests)
+- [Конкурсы](/contests)
 
-* [Contracts](/contracts)
+- [Contracts](/contracts)
 
-* [Изогнутая кривая](/curve)
+- [Изогнутая кривая](/curve)
 
-* [AavegotchiDAO](/dao)
+- [AavegotchiDAO](/dao)
 
-* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+- [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
-* [Developers](/developers)
+- [Developers](/developers)
 
-* [DROPT - The Fallen Gotchi](/dropt)
+- [DROPT - The Fallen Gotchi](/dropt)
 
-* [Estaates](/estaates)
+- [Estaates](/estaates)
 
-* [Eye Shape](/eye-shape)
+- [Eye Shape](/eye-shape)
 
-* [Часто задаваемые вопросы](/faq)
+- [Часто задаваемые вопросы](/faq)
 
-* [Forge](/forge)
+- [Forge](/forge)
 
-* [Games](/games)
+- [Games](/games)
 
-* [Gaame Jaam](/gaame-jaam)
-
-* [Geist](/geist)
+- [Gaame Jaam](/gaame-jaam)
 
 * [Токен GHST](/ghst)
 
