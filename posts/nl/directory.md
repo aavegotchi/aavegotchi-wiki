@@ -1,67 +1,66 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki Folder'
-description: 'Aavegotchi Wiki Folder'
+date: "2020-04-23T07:00:00.000Z"
+title: "Aavegotchi Wiki Folder"
+description: "Aavegotchi Wiki Folder"
 contributors:
   - "unintelligent-nerd"
 ---
 
+
 Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
-* [Ambassadeurs](/aambassador)
+- [Ambassadeurs](/aambassador)
 
-* [Aarcade Taask Force](/aarcade-taask-force)
+- [Aarcade Taask Force](/aarcade-taask-force)
 
-* [Aarchitecten](/aarchitect)
+- [Aarchitecten](/aarchitect)
 
-* [Aartiesten](/aartist)
+- [Aartiesten](/aartist)
 
-* [Aauction](/aauction)
+- [Aauction](/aauction)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+- [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+- [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aesthetica](/aesthetica)
+- [Aesthetica](/aesthetica)
 
-* [Aging Mechanic](/aging-mechanic)
+- [Aging Mechanic](/aging-mechanic)
 
-* [Alchemical Channeling](/alchemical-channeling)
+- [Alchemical Channeling](/alchemical-channeling)
 
-* [Baadge](/baadge)
+- [Baadge](/baadge)
 
-* [Baards](/baard)
+- [Baards](/baard)
 
-* [Bridge](/bridge)
+- [Bridge](/bridge)
 
-* [Wedstrijden](/contests)
+- [Wedstrijden](/contests)
 
-* [Contracts](/contracts)
+- [Contracts](/contracts)
 
-* [Bonding Curve](/curve)
+- [Bonding Curve](/curve)
 
-* [AavegotchiDAO](/dao)
+- [AavegotchiDAO](/dao)
 
-* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+- [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
-* [Developers](/developers)
+- [Developers](/developers)
 
-* [DROPT - The Fallen Gotchi](/dropt)
+- [DROPT - The Fallen Gotchi](/dropt)
 
-* [Estaates](/estaates)
+- [Estaates](/estaates)
 
-* [Eye Shape](/eye-shape)
+- [Eye Shape](/eye-shape)
 
-* [Veelgestelde Vragen](/faq)
+- [Veelgestelde Vragen](/faq)
 
-* [Forge](/forge)
+- [Forge](/forge)
 
-* [Games](/games)
+- [Games](/games)
 
-* [Gaame Jaam](/gaame-jaam)
-
-* [Geist](/geist)
+- [Gaame Jaam](/gaame-jaam)
 
 * [GHST Token](/ghst)
 
