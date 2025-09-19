@@ -1,8 +1,8 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
-title: 'Tokenomics'
-description: 'Aavegotchi GHST 代币的经济模型'
+date: "2025-09-18T00:00:00.000Z"
+title: "Tokenomics"
+description: "Aavegotchi GHST 代币的经济模型"
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -45,6 +45,7 @@ This part of the wiki will first take you through [GHST's token](/ghst) distribu
 </div>
 
 ## 代币分配
+
 
 GHST分三个阶段分发。 这三个阶段分别是私募、预售和联合曲线销售。
 
@@ -91,23 +92,26 @@ At approximately 2 years after the project's inception, the community voted for 
 ## 收入分配概览
 
 在传送门和可穿戴设备获得的GHST会如何处理？
+
+We've made a handy diagram explaining Revenue Sharing V2:
+
 <div class="centerImageContainer">
-<img class="centerImage" src="" alt = "">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
 Read on to learn about the various categories in more detail.
 
 ## EARN IT
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). 为了激励玩家持续积极地参与到游戏的生态系统中，传送门和可穿戴设备所获得的部分收入将用于奖励顶级稀有度挖矿农民。
+A core part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). 为了激励玩家持续积极地参与到游戏的生态系统中，传送门和可穿戴设备所获得的部分收入将用于奖励顶级稀有度挖矿农民。
 
 为此，所有赚取的GHST的 **40%** 通过玩家奖励回馈给玩家。
 
 最初，玩家奖励将分为三类：
 
-* 前100名最稀有的Aavegotchis(由 [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/kinship) Scores
-* [经验值 (XP)](/traits#experience)前 100 名
+- 前100名最稀有的Aavegotchis(由 [BRS](/rarity-farming#base-rarity-score))
+- Top 100 [Kinship](/kinship) Scores
+- [经验值 (XP)](/traits#experience)前 100 名
 
 这三个类别总共将达到所有GHST收入的 **40%**。 Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
@@ -115,13 +119,11 @@ A core  part of the Aavegotchi experience is spending time with your Gotchis and
 
 When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
-
 ## DAO IT
 
 社区治理也是Aavegotchi经验的核心原则。 Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
 **15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). 随着DAO的不断成熟，该百分比最终可能会增加。 当然，最终目标是使DAO发展成为一个完全有能力管理甚至升级协议的实体。 虽然这可能仍然需要几年时间（Avegotchi只是在2020年中期开始），但仍然需要向前看。
-
 
 ## BURN IT
 
@@ -129,12 +131,9 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 **5%** of all GHST earned via portal and item sales will be burned. 永远销毁 是的，你没看错。
 
-GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. 这是一种固定供应的代币问题。
-
 销毁GHST是对GHST价格下行压力的一种通缩平衡，因为以GHST的形式发放游戏奖励的形式可能会造成这种压力。
 
-将GHST直接发送到销毁地址，并将DAI锁在联合曲线内，为GHST制造一个底部上涨的支撑。 这对各方来说都是一个净利好，因为它能让曲线上的买家和卖家有更好的流动性（更少的滑点），降低流通供应，并为 [DAICO水龙头机制](/curve#aavegotchi-daico)提供稳定性。
-
+Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
 
 ## BUIDL IT
 
@@ -166,4 +165,4 @@ The rationale for the changes from V1 to V2 can be found [here](https://aavegotc
 
 ## Token Supply
 
-Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).
