@@ -1,13 +1,9 @@
 ---
 author: wagyuchicken
-date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming（レアリティ・ファーミング）'
-description: '知っておきたい！レアリティ・ファーミングのすべて！'
-contributors:
-  - "cinnabarhorse"
-  - "wagyuchicken"
-  - "appellants"
-  - "unintelligent-nerd"
+date: "2025-09-18T00:00:00.000Z"
+title: "Rarity Farming（レアリティ・ファーミング）"
+description: "知っておきたい！レアリティ・ファーミングのすべて！"
+contributors: '["cinnabarhorse", "wagyuchicken", "appellants", "unintelligent-nerd"] ---'
 ---
 
 <div class="headerImageContainer">
@@ -35,11 +31,13 @@ This wiki page will explain how you can engage in rarity farming, and how the ra
 </div>
 
 ## レアリティファームの方法とは？
+
+
 レアリティファームを行うには、いくつかの方法があります。 次のような方法があります：
 
-* **[召喚時](/portals)にレアリティの高いAavegotchiを選択する**
+- **[召喚時](/portals)にレアリティの高いAavegotchiを選択する**
 
-* **[ウェアラブル](/wearables)を装着してAavegotchiの特性を変更する**
+- **[ウェアラブル](/wearables)を装着してAavegotchiの特性を変更する**
 
 各工程の詳細については、サイドバーの各ページにリンクがあります。
 
@@ -60,9 +58,9 @@ if (number < 50) return 100 - number;
     else return number + 1;
 ```
 
-*特性値が50**未満**の場合、BRS = 100 - 特性値*
+_特性値が50**未満**の場合、BRS = 100 - 特性値_
 
-*特性値が50**以上**の場合、BRS = 特性値 + 1*
+_特性値が50**以上**の場合、BRS = 特性値 + 1_
 
 #### ウェアラブルBRS
 
@@ -80,13 +78,13 @@ table_RarityScoreCalculationTable
 
 ## リワード
 
-レアリティファーミングの各シーズンにおいて、最もレアなアベゴッチはGHST報酬（GHSTを含むすべての販売から得られる）が配布され、オーナーはそれを請求することができます。
+In each season of Rarity Farming, the rarest Aavegotchis receive GHST rewards that can be claimed by their owners. Recent seasons (e.g., Season 10/11) have run on Base.
 
 当初、レアリティファーミングの報酬は3つのカテゴリーに分かれていました：
 
-* Aavegotchi レアリティスコア（BRSによる、ARSは後日公開予定）
-* [キンシップ](/traits#kinship)スコア
-* [経験値](/traits#experience)
+- Aavegotchi レアリティスコア（BRSによる、ARSは後日公開予定）
+- [キンシップ](/traits#kinship)スコア
+- [経験値](/traits#experience)
 
 各カテゴリーについて、レアリティファーミングの報酬は降下曲線に基づいて分配され、上位数名のAavegotchiは、曲線上の下位に位置する他のゴッチよりも多くのGHST報酬を獲得します。 また、上位数名のゴッチには、下位に位置する他のゴッチよりも多くのGHST報酬が与えられますが、それ以下のゴッチには報酬が与えられないカットオフポイントが存在します。 そのため、そのカットオフポイントより上になるように頑張ってください。 少なくとも何かは獲得することができます！
 
@@ -94,9 +92,9 @@ table_RarityScoreCalculationTable
 
 Aavegotchiのゲームの発展に伴い、より多くのカテゴリが後に追加される予定です。 Some of these new one-off categories include:
 
-* Rookie Kinship
-* Rookie Experience/XP
-* Gotchi Battler
+- Rookie Kinship
+- Rookie Experience/XP
+- Gotchi Battler
 
 プレイヤー報酬は、2週間ごとにオンチェーン・スナップショットで配布されます。 当初はPixelcraftによる手作業で行われますが、最終的にはDAOによって自動化される予定です。 各スナップショットの後、報酬は成功したレアリティファーマーが請求することができ、次のラウンドがすぐに開始されます。
 
@@ -110,7 +108,7 @@ Aavegotchiの世界全体のなかでのAavegotchiの最終的なレアリティ
 
 レアリティファーミングは様々な季節（シーズン）に分かれています。 各シーズンには独自の競技カテゴリー、報酬プールのサイズ、報酬分配曲線があります。
 
-シーズンに関する情報は[こちらのページ](/rarity-farming-seasons)をご覧ください。
+For data pertaining to the Rarity Farming Seasons (including Base-era seasons), check out this [page](/rarity-farming-seasons) and the official blog.
 
 ### レアリティファーミングの報酬を収集する
 
