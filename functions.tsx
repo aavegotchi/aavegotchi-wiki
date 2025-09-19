@@ -19,68 +19,65 @@ export function handleLanguageCode(code: string) {
 }
 
 export function addTablesToMarkdown(markdown, pageName) {
+  let finalMarkdown = markdown;
+
+  // Always attempt to replace global tokens like {{GHST_ETHEREUM_ADDRESS}}
+  try {
+    const globals = require("./data/globals.json");
+    const tokenMap = new Map<string, string>([
+      ["GHST_ETHEREUM_ADDRESS", globals.addresses.ghst.ethereum],
+      ["GHST_POLYGON_ADDRESS", globals.addresses.ghst.polygon],
+      ["GHST_BASE_ADDRESS", globals.addresses.ghst.base],
+      ["DAO_MAINNET_ADDRESS", globals.addresses.dao.mainnet],
+      ["DAO_POLYGON_ADDRESS", globals.addresses.dao.polygon],
+      ["REALM_DIAMOND_ADDRESS", globals.addresses.diamonds.realm],
+      [
+        "INSTALLATIONS_DIAMOND_ADDRESS",
+        globals.addresses.diamonds.installations,
+      ],
+      ["TILES_DIAMOND_ADDRESS", globals.addresses.diamonds.tiles],
+      [
+        "AAVEGOTCHI_WEARABLES_ADDRESS",
+        globals.addresses.diamonds.aavegotchiAndWearables,
+      ],
+      ["WAP_GHST_ADDRESS", globals.addresses.tokens.wapGHST],
+      ["FUD_ADDRESS", globals.addresses.tokens.FUD],
+      ["FOMO_ADDRESS", globals.addresses.tokens.FOMO],
+      ["ALPHA_ADDRESS", globals.addresses.tokens.ALPHA],
+      ["KEK_ADDRESS", globals.addresses.tokens.KEK],
+      ["GLTR_ADDRESS", globals.addresses.tokens.GLTR],
+      ["GLTR_STAKING_ADDRESS", globals.addresses.staking.GLTR_STAKING],
+      ["BURN_ADDRESS", globals.addresses.misc.burn],
+      ["BASESCAN_GHST_URL", globals.links.basescanGHST],
+      ["ETHERSCAN_GHST_URL", globals.links.etherscanGHST],
+      ["POLYGONSCAN_GHST_URL", globals.links.polygonscanGHST],
+      ["UNISWAP_BASE_GHST_URL", globals.links.uniswapBaseGHST],
+    ]);
+
+    tokenMap.forEach((value, key) => {
+      const re = new RegExp(`\\{\\{${key}\\}\\}`, "g");
+      finalMarkdown = finalMarkdown.replace(re, value);
+    });
+  } catch (e) {
+    console.log("no globals found");
+  }
+
+  // Then attempt to inject tables, if any exist for this page
   try {
     const tables = require(`./data/tables/${pageName}.tsx`).tables;
-
-    let finalMarkdown = markdown;
-
-    // Replace global tokens like {{GHST_ETHEREUM_ADDRESS}} using data/globals.json
-    try {
-      const globals = require("./data/globals.json");
-      const tokenMap = new Map<string, string>([
-        ["GHST_ETHEREUM_ADDRESS", globals.addresses.ghst.ethereum],
-        ["GHST_POLYGON_ADDRESS", globals.addresses.ghst.polygon],
-        ["GHST_BASE_ADDRESS", globals.addresses.ghst.base],
-        ["DAO_MAINNET_ADDRESS", globals.addresses.dao.mainnet],
-        ["DAO_POLYGON_ADDRESS", globals.addresses.dao.polygon],
-        ["REALM_DIAMOND_ADDRESS", globals.addresses.diamonds.realm],
-        [
-          "INSTALLATIONS_DIAMOND_ADDRESS",
-          globals.addresses.diamonds.installations,
-        ],
-        ["TILES_DIAMOND_ADDRESS", globals.addresses.diamonds.tiles],
-        [
-          "AAVEGOTCHI_WEARABLES_ADDRESS",
-          globals.addresses.diamonds.aavegotchiAndWearables,
-        ],
-        ["WAP_GHST_ADDRESS", globals.addresses.tokens.wapGHST],
-        ["FUD_ADDRESS", globals.addresses.tokens.FUD],
-        ["FOMO_ADDRESS", globals.addresses.tokens.FOMO],
-        ["ALPHA_ADDRESS", globals.addresses.tokens.ALPHA],
-        ["KEK_ADDRESS", globals.addresses.tokens.KEK],
-        ["GLTR_ADDRESS", globals.addresses.tokens.GLTR],
-        ["GLTR_STAKING_ADDRESS", globals.addresses.staking.GLTR_STAKING],
-        ["BURN_ADDRESS", globals.addresses.misc.burn],
-        ["BASESCAN_GHST_URL", globals.links.basescanGHST],
-        ["ETHERSCAN_GHST_URL", globals.links.etherscanGHST],
-        ["POLYGONSCAN_GHST_URL", globals.links.polygonscanGHST],
-        ["UNISWAP_BASE_GHST_URL", globals.links.uniswapBaseGHST],
-      ]);
-
-      tokenMap.forEach((value, key) => {
-        const re = new RegExp(`\\{\\{${key}\\}\\}`, "g");
-        finalMarkdown = finalMarkdown.replace(re, value);
-      });
-    } catch (e) {
-      console.log("no globals found");
-    }
-
     tables.forEach((table) => {
       console.log("table", table);
-
       const replaceMarkdown = generateMarkdownTableFromJson(table);
-      //  console.log('replace:', replaceMarkdown)
       finalMarkdown = finalMarkdown.replace(
         `table_${table.tableName}`,
         replaceMarkdown
       );
     });
-
-    return finalMarkdown;
   } catch (error) {
     console.log("no tables found");
-    return markdown;
   }
+
+  return finalMarkdown;
 }
 
 export function generateMarkdownTableFromJson(table) {
