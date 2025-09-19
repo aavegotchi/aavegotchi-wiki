@@ -1,8 +1,8 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
-title: '토큰 이코노미'
-description: '아베고치 GHST 토큰 이코노미'
+date: "2025-09-18T00:00:00.000Z"
+title: "토큰 이코노미"
+description: "아베고치 GHST 토큰 이코노미"
 image: "IMAGE HERE"
 contributors:
   - "appellants"
@@ -45,6 +45,7 @@ This part of the wiki will first take you through [GHST's token](/ghst) distribu
 </div>
 
 ## 토큰 배분
+
 
 GHST는 3단계에 걸쳐 배분되었습니다. 바로 한정판매(Private Sale), 특별 판매(pre-sale), 그리고 bonding curve에 따른 판매입니다.
 
@@ -91,23 +92,26 @@ At approximately 2 years after the project's inception, the community voted for 
 ## 수익 배분 개관
 
 Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
+
+We've made a handy diagram explaining Revenue Sharing V2:
+
 <div class="centerImageContainer">
-<img class="centerImage" src="" alt = "">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
 Read on to learn about the various categories in more detail.
 
 ## EARN IT
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). 게임 생태계에 지속적이고 적극적인 참여를 장려하기 위해 portal 판매와 wearable로 부터 얻는 수익의 일부는 top 희귀성 농부들(rarity farmers) 에게 주어집니다.
+A core part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). 게임 생태계에 지속적이고 적극적인 참여를 장려하기 위해 portal 판매와 wearable로 부터 얻는 수익의 일부는 top 희귀성 농부들(rarity farmers) 에게 주어집니다.
 
 이를 위해 전체 GHST 수입의 **40%**가 플레이어 보상의 차원으로 유저들에게 배분될 것입니다.
 
 초기엔 유저 보상에 3개의 차원으로 이루어질 것입니다.
 
-* BRS에 따라 가장 희귀한 아베고치 Top 100
-* Top 100 [Kinship](/kinship) Scores
-* 경험치(XP) Top 100
+- BRS에 따라 가장 희귀한 아베고치 Top 100
+- Top 100 [Kinship](/kinship) Scores
+- 경험치(XP) Top 100
 
 3개 차원에서의 보상을 모두 종합하게 되면 전체 GHST 수입의 40%가 됩니다. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
@@ -115,13 +119,11 @@ A core  part of the Aavegotchi experience is spending time with your Gotchis and
 
 When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
-
 ## DAO IT
 
 커뮤니티 거버넌스 역시 아베고치 경험에서 굉장히 핵심적인 요소입니다. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
 **15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). 그리고 DAO가 좀 더 성숙해지고 발전해 나간다면, 비율은 점진적으로 증가할 수 있습니다. 물론 최종적인 목표는, DAO가 아베고치의 프로토콜을 완전히 관리하고 개선할 수 있는  주체로 성장시키는 것입니다. 아베고치가 2020년 중반에야 시작된 것을 감안하면, 수년 뒤의 일일지도 모르지만 상당히 기대해볼 만한 목표입니다.
-
 
 ## BURN IT
 
@@ -129,12 +131,9 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 **5%** of all GHST earned via portal and item sales will be burned. 영원히! 맞아요, 잘 읽은 것이 맞습니다.
 
-GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. 그건 고정된 공급량을 지닌 토큰에게만 해당되는 문제입니다.
-
 GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적으로 발생할 수 있는 GHST의 가격 하락 압박에 대한 디플레이션(통화 수축)의 기능으로써 균형을 잡아줍니다.
 
-소각 주소로의 GHST 전송을 통해 bonding curve 내에 DAI가 락업되면 GHST의 가격 상승이 발생합니다. 이는 모든 당사자들에게 긍정적으로 작용하게 됩니다. 왜냐하면 구매자와 판매자에겐 더 나은 유동성을 제공함으로써 슬리피지를 감소시킬 수 있고, 유통량을 감소시키며, [DAICO 탭 메커니즘(Tap Mechanism)](/curve#aavegotchi-daico)이 안정적이게끔 하기 때문입니다.
-
+Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
 
 ## BUIDL IT
 
@@ -166,4 +165,4 @@ The rationale for the changes from V1 to V2 can be found [here](https://aavegotc
 
 ## Token Supply
 
-Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the dynamic supply of GHST has been fixed to ~53 million. As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).
