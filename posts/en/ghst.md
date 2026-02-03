@@ -94,11 +94,11 @@ Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.co
 
 Make sure you get the correct token address as well.
 
-On Ethereum Mainnet: {{GHST_ETHEREUM_ADDRESS}} ({{ETHERSCAN_GHST_URL}})
+On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}]({{ETHERSCAN_GHST_URL}})
 
-On Polygon: {{GHST_POLYGON_ADDRESS}} ({{POLYGONSCAN_GHST_URL}})
+On Polygon: [{{GHST_POLYGON_ADDRESS}}]({{POLYGONSCAN_GHST_URL}})
 
-On Base: {{GHST_BASE_ADDRESS}} ({{BASESCAN_GHST_URL}})
+On Base: [{{GHST_BASE_ADDRESS}}]({{BASESCAN_GHST_URL}})
 
 **Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 
