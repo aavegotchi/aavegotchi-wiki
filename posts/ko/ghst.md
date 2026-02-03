@@ -89,17 +89,17 @@ Access the Bridges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/
 - Crypto.com
 - Kraken
 
-> Note: Binance announced it will delist **GHST spot and perps**, with spot trading scheduled to end **2026-02-13 03:00 UTC**. - Source (Discord announcement, 2026-02-03): https://discord.com/channels/1466071512321753238/1468185291935187004/1468185677710495911 - Binance announcement: https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27
+> Note: Binance announced it will delist **GHST spot and perps**, with spot trading scheduled to end **2026-02-13 03:00 UTC**. - Source: [Discord announcement (2026-02-03)](https://discord.com/channels/1466071512321753238/1468185291935187004/1468185677710495911) - Source: [Binance announcement](https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27)
 
 Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=purchase).
 
 그리고 정확한 토큰 주소를 숙지하셔야 합니다!
 
-On Ethereum Mainnet: {{GHST_ETHEREUM_ADDRESS}} ({{ETHERSCAN_GHST_URL}})
+On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}]({{ETHERSCAN_GHST_URL}})
 
-On Polygon: {{GHST_POLYGON_ADDRESS}} ({{POLYGONSCAN_GHST_URL}})
+On Polygon: [{{GHST_POLYGON_ADDRESS}}]({{POLYGONSCAN_GHST_URL}})
 
-On Base: {{GHST_BASE_ADDRESS}} ({{BASESCAN_GHST_URL}})
+On Base: [{{GHST_BASE_ADDRESS}}]({{BASESCAN_GHST_URL}})
 
 **공식적으로 발표된 아베고치의 다른 주소들과는 별개로 이 주소를 꼭 확인하셔야 합니다! - 주의해서 나쁠 것 없으니까요! :)**
 
