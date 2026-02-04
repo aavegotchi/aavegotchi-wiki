@@ -133,7 +133,7 @@ A core part of the Aavegotchi experience is spending time with your Gotchis and 
 
 GHSTの燃焼は、GHSTのゲーム報酬をGHSTの形で提供することによって起こりうるGHSTの価格下落圧力に対するデフレの対抗策となるものです。
 
-Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
+Note: The bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”); GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 ## BUIDL IT（ビルド・イット＝作って）
 
