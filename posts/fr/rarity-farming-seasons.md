@@ -31,6 +31,7 @@ L'agriculture de rareté (Rarity Farming) est organisée en différentes saisons
 
 ## Saison 1
 
+
 La première saison agricole rareté (rarity farming) a eu lieu du mardi 20 avril 2021 au mardi 15 juin 2021. Un total de 1,4 million de GHST a été distribué pendant les 4 tours de la saison 1.
 
 Il y a eu 3 catégories pour rivaliser sur:
@@ -91,7 +92,7 @@ Il y a eu 3 catégories pour rivaliser sur:
 
 ## Season 5
 
-Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
+Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 million GHST was disbursed across all 4 rounds in Season 5. (Source: [Aavegotchi March 2023 Update — “Rarity Farming Season 5 Concludes”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 * Rareté (70% du pool de récompenses / 1,050,000 GHST)
 
