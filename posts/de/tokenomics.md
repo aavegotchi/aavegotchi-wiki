@@ -133,7 +133,7 @@ Als Auftakt wäre es gut, sich mit der [Bonding Curve](/curve) von GHST und ihre
 
 Das Verbrennen von GHST ist ein deflationäres Gegengewicht zum Abwärtsdruck auf den Preis von GHST, wie er möglicherweise durch die Ausgabe von GHST-Spielbelohnungen in Form von GHST verursacht wird.
 
-Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
+Note: The bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”); GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 ## BUIDL IT
 
