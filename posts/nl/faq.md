@@ -199,7 +199,7 @@ Kost: Variabel. Afhankelijk van de zeldzaamheid van de Gotchi, of het komt met w
 
 ### Kan ik gratis beginnen?
 
-Ja! Je kunt een Aavegotchi lenen en gratis spelen dankzij ons 100% on-chain [Gotchi Lending](/gotchi-lending) programma. Ga naar [app.aavegotchi.com/lending](https://app.aavegotchi.com/lending) om nu door de Lending listing te bladeren.
+Ja! Je kunt een Aavegotchi lenen en gratis spelen dankzij ons 100% on-chain [Gotchi Lending](/gotchi-lending) programma. Ga naar [app.aavegotchi.com/lending](https://aavegotchi.com/lending) om nu door de Lending listing te bladeren.
 
 ### Hoe kan ik geld verdienen?
 
