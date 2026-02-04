@@ -133,7 +133,7 @@ Như đã nói, việc bạn hiểu rõ về [bonding curve](/curve) và cách n
 
 Việc đốt GHST một cơ chế cân bằng có tính giảm phát nhằm giảm bớt áp lực đối với giá của GHST, bắt nguồn từ việc Aavegotchi sẽ trả thưởng cho người chơi bằng GHST.
 
-Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
+Note: The bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”); GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 ## BUIDL IT
 
