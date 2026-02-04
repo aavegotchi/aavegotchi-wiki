@@ -31,6 +31,7 @@ contributors:
 
 ## シーズン1
 
+
 2021年4月20日（火）～2021年6月15日（火）の期間、初回のレアリティファーミングシーズンが開催されました。 シーズン1では、全4ラウンドで合計140万GHSTが配布されます。
 
 3つのカテゴリーで競われました：
@@ -91,7 +92,7 @@ Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 Sept
 
 ## Season 5
 
-Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
+Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 million GHST was disbursed across all 4 rounds in Season 5. (Source: [Aavegotchi March 2023 Update — “Rarity Farming Season 5 Concludes”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 * レアリティ（賞金総額の70％／105万GHST）
 
