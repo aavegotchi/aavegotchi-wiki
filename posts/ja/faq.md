@@ -199,7 +199,7 @@ Aavegotchiを入手するには、いくつかの方法があります：
 
 ### 無料でプレイを始めることはできますか？
 
-はい！ Aavegotchiを借りて、100％オンチェーンの[ゴッチ・レンディング](/gotchi-lending)・プログラムのおかげで無料で遊ぶことができます。 [app.aavegotchi.com/lending](https://app.aavegotchi.com/lending)にアクセスし、今すぐ貸出リストを閲覧してみてください。
+はい！ Aavegotchiを借りて、100％オンチェーンの[ゴッチ・レンディング](/gotchi-lending)・プログラムのおかげで無料で遊ぶことができます。 [app.aavegotchi.com/lending](https://aavegotchi.com/lending)にアクセスし、今すぐ貸出リストを閲覧してみてください。
 
 ### どうすればお金を稼ぐことができますか？
 
