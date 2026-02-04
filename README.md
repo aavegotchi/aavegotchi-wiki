@@ -52,3 +52,4 @@ Once you're happy with your changes, submit a pull request and an Aarchiver will
 
 All localization will be done via the CrowdIn platform at https://crowdin.com/project/aavegotchi-wiki. 
 Currently we're testing the workflow with Chinese - Simplified but will soon add other languages!
+\n<!-- seed: trigger uiux-gate status check -->
