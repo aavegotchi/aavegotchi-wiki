@@ -121,6 +121,14 @@ The top 3 costumes won 100, 50, and 25 GHST, respectively.
 
 ## Mosaic Tiles Aart Contest
 
+The contest winners and prize distribution were announced in an official blog post on **October 1, 2022**: https://blog.aavegotchi.com/gotchiverse-mosaic-tiles-art-contest-winners-confirmed/
+
+**Prizes (as announced):**
+- 1st: **5,000 GHST**
+- 2nd: **3,500 GHST**
+- 3rd: **1,500 GHST**
+- 4th–10th: in-game wearables (see source for the full list)
+
 ### <span style="color:gold">1st place: Notorious BTC</span>
 
 <iframe border=0 frameborder=0 width="560" height="600"
