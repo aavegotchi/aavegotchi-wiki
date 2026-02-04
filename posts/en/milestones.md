@@ -418,7 +418,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi Forge 101](https://blog.aavegotchi.com/aavegotchi-forge-101/)
 
-- The Aavegotchi Forge will be launching soon!
+- In January 2023, the Forge team published Forge 101 ahead of the Forge launch on 2023-02-22.
 - Get the lowdown on how to forge and smelt here!
   <p></p>
 

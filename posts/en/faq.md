@@ -194,7 +194,7 @@ Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with weara
 
 ### Can I start playing for free?
 
-Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain [Gotchi Lending](/gotchi-lending) program. Head to [app.aavegotchi.com/lending](https://app.aavegotchi.com/lending) to browse the Lending listings now.
+Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain [Gotchi Lending](/gotchi-lending) program. Head to [app.aavegotchi.com/lending](https://aavegotchi.com/lending) to browse the Lending listings now.
 
 ### How can I earn money?
 
