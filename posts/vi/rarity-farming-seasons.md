@@ -31,6 +31,7 @@ Rarity Farming được chia thành các mùa khác nhau. Đây là dữ liệu 
 
 ## Mùa 1
 
+
 Mùa giải Rarity Farming đầu tiên đã được tổ chứ từ ngày thứ Ba, 20 tháng Tư 2021 đến thứ Ba, 15 tháng Sáu 2021. Tổng cộng 1tr4 GHST sẽ được phân phối trong 4 vòng của Mùa 1.
 
 Có 3 hạng mục để tranh đấu:
@@ -91,7 +92,7 @@ Có 3 hạng mục để tranh đấu:
 
 ## Season 5
 
-Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
+Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 million GHST was disbursed across all 4 rounds in Season 5. (Source: [Aavegotchi March 2023 Update — “Rarity Farming Season 5 Concludes”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 * Độ hiếm (70% quỹ giải thưởng / 980.000 GHST)
 
