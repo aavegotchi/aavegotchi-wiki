@@ -77,7 +77,9 @@ There were 3 categories to compete on:
 
 ## Season 4
 
-Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 September 2022. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 4.
+Rarity Farming Season 4 was held from Thursday, 28 July 2022 - Thursday, 22 September 2022. A total of 1.5 Million GHST was disbursed across all 4 rounds in Season 4.
+
+According to the [23 July 2022 Season 4 announcement](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-4-is-comng/), Season 4 rewards were funded by the AavegotchiDAO’s Gameplay Rewards Pool (which held roughly 5M GHST at the time), with 1.5M GHST distributed for Season 4.
 
 There were 3 categories to compete on:
 
