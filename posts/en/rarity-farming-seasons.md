@@ -91,7 +91,7 @@ There were 3 categories to compete on:
 
 ## Season 5
 
-Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 Million GHST will be disbursed across all 4 rounds in Season 5.
+Rarity Farming Season 5 was held from Tuesday, 31 January 2023 - Tuesday, 28 March 2023. A total of 1.5 million GHST was disbursed across all 4 rounds in Season 5. (Source: [Aavegotchi March 2023 Update — “Rarity Farming Season 5 Concludes”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 * Rarity (70% of the rewards pool / 1,050,000 GHST)
 
