@@ -133,7 +133,7 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적으로 발생할 수 있는 GHST의 가격 하락 압박에 대한 디플레이션(통화 수축)의 기능으로써 균형을 잡아줍니다.
 
-Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
+Note: The bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”); GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 ## BUIDL IT
 
