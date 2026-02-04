@@ -98,7 +98,6 @@ Durable historical details from that announcement:
 - Pixelcraft described an **XP bonus**: wallets participating in both Aragon votes would receive **100 XP per vote per Aavegotchi** in the wallet (conditional on the votes reaching quorum).
 
 Source: [“Let the Great GHST Migration Begin!” (2023-03-22)](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
-
 Following the passing of [AGIP-64](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve), the bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”), capping the supply of GHST. (Source: [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 The DAI in the bonding curve was allocated in equal proportions (25%) to liquidity provisioning, the DAO, Pixelcraft, and protocol rewards (see [AGIP-65](/aavegotchi-improvement-proposals-2023#25-25-25-25-split-for-curve-dai)).
