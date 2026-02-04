@@ -45,7 +45,7 @@ For more information, make sure to check out the [Tokenomics page](/tokenomics).
 
 ## Total supply
 
-GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, in 2023, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token.
+GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token; the curve was turned off on **2023-03-11**. (Source: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/))
 
 Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
 

@@ -133,7 +133,7 @@ As a prelude, it would be good to get yourself acquainted with GHST's [bonding c
 
 Burning GHST is a deflationary counterbalance to the downward pressure on GHST's price, as potentially caused by giving out GHST gaming rewards in the form of GHST.
 
-Note: The bonding curve was turned off in 2023; GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical.
+Note: The bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”); GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical. (Source: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/))
 
 ## BUIDL IT
 
