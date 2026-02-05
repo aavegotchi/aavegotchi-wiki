@@ -90,6 +90,8 @@ If you need help with anything you can join the Aavegotchi [Discord](https://dis
 
 The Narni bridge is a novel bridging solution created by Umbria Network, that uses a liquidity-bridge model, to reduce the cost of bridging by up to 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately \$40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Currently, only ERC-20 tokens are compatible with the Narni bridge; NFTs cannot be bridged.
 
+Historical governance announcement (2022-05-05): [[VOTE] AGIP 21, 22 & 23: GHST on Umbria & GoodGhosting + Rarity Farming SZN3](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
+
 To use the Umbria Narni Bridge, please refer to the following steps:
 
 1). Visit the [Umbria Narni Bridge](https://bridge.umbria.network/bridge). Select the originating and destination networks.
