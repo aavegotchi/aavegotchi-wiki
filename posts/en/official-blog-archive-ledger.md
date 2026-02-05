@@ -52,3 +52,25 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 - Status: **present**
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
+
+---
+
+## 2022-05-05 — [VOTE] AGIP 21, 22 & 23: GHST on Umbria & GoodGhosting + Rarity Farming SZN3
+
+- Blog URL: https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/
+
+### Durable claims → wiki mapping
+
+1) **2022-05-05: AGIP 21 (“Adding GHST to the Umbria Narni Bridge”) was live for vote on Snapshot**
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2022.md` → “Adding GHST to the Umbria Narni Bridge”
+- Status: **partial** (proposal details already present; added blog announcement citation)
+
+2) **2022-05-05: AGIP 22 (“Launch Rarity Farming SZN 3”) was live for vote on Snapshot**
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2022.md` → “Launch Rarity Farming SZN 3”
+- Status: **partial** (proposal details already present; added blog announcement citation)
+
+3) **2022-05-05: AGIP 23 (“Co-Sponsoring the GoodGhosting Pool”) was live for vote on Snapshot**
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2022.md` → “Co-Sponsoring the GoodGhosting Pool”
+- Status: **partial** (proposal details already present; added blog announcement citation)
+
+PR: (pending)
