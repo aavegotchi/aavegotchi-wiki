@@ -248,6 +248,8 @@ table_agip20
 ### Adding GHST to the Umbria Narni Bridge
 **Aavegotchi Improvement Proposal #21**
 
+Governance announcement (May 5, 2022): [[VOTE] AGIP 21, 22 & 23: GHST on Umbria & GoodGhosting + Rarity Farming SZN3](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
+
 **Proposal Summary:**
 
 The Umbria Narni Bridge has implemented the GHST token, and is facilitating cheaper migration of GHST between the Ethereum <--> Polygon networks, compared to the official Polygon bridge. The Umbria Narni bridging cost is about 1/2 of the official polygon bridge cost and is also much faster (4 minutes, as opposed to > 1 hour).
@@ -280,6 +282,8 @@ table_agip21
 
 ### Launch Rarity Farming SZN 3
 **Aavegotchi Improvement Proposal #22**
+
+Governance announcement (May 5, 2022): [[VOTE] AGIP 21, 22 & 23: GHST on Umbria & GoodGhosting + Rarity Farming SZN3](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
 
 **Proposal Summary:**
 
@@ -332,6 +336,8 @@ table_agip22
 
 ### Co-Sponsoring the GoodGhosting Pool
 **Aavegotchi Improvement Proposal #23**
+
+Governance announcement (May 5, 2022): [[VOTE] AGIP 21, 22 & 23: GHST on Umbria & GoodGhosting + Rarity Farming SZN3](https://blog.aavegotchi.com/vote-agip-21-22-23-ghst-on-umbria-goodghosting-rarity-farming-szn3/)
 
 **Proposal Summary:**
 
