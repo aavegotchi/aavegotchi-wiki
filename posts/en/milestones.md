@@ -11,6 +11,7 @@ contributors: ["unintelligent-nerd"]
 **Contents**
 
 <ol>
+<li><a href=#year-2026>Year 2026</a></li>
 <li><a href=#year-2024>Year 2024</a></li>
 <li><a href=#year-2023>Year 2023</a></li>
 <li><a href=#year-2022>Year 2022</a></li>
@@ -19,6 +20,13 @@ contributors: ["unintelligent-nerd"]
 </ol>
 
 </div>
+
+## Year 2026
+
+## [Aavegotchi 2026: What Pixelcraft Is Shipping Next](https://blog.aavegotchi.com/aavegotchi-2026-what-pixelcraft-is-shipping-next/)
+
+- On **2026-01-27**, Pixelcraft published a roadmap-style update outlining its 2026 priorities (including mobile-first, crypto-native games on Base; a live iteration phase for DeFi Dungeon; and a planned Q1 mobile launch for Rektless).
+  <p></p>
 
 ## Year 2024
 
