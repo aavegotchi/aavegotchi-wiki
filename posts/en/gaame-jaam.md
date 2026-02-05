@@ -29,6 +29,7 @@ The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game deve
 
 ## Rules
 
+
 * Game must use Web3 to be able to fetch and play as their Aavegotchis.
 * Be built in a web based framework (like Phaser) to allow for seamless Metamask integration
 * Max team size of 4

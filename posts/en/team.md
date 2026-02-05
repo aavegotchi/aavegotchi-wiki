@@ -45,6 +45,7 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 
 ## Summoners
 
+
 ### Coder Dan
 
 <div class="leftImageContainer">

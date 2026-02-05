@@ -60,9 +60,9 @@ GHST를 사용하는 추가적인 방법은 다음과 같습니다.
 
 그리고 정확한 토큰 주소를 숙지하셔야 합니다!
 
-이더리움 메인넷 : [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+이더리움 메인넷 : [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
 
-폴리곤 :  [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+폴리곤 :  [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
 
 **공식적으로 발표된 아베고치의 다른 주소들과는 별개로 이 주소를 꼭 확인하셔야 합니다! - 주의해서 나쁠 것 없으니까요! :)**
 

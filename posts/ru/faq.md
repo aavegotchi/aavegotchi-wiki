@@ -284,7 +284,7 @@ Stakers earn yield on their GHST deposits in Aave V3 in addition to FRENS.
 
 The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST).
 
-Vist [https://app.aavegotchi.com/stake-polygon](https://app.aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
+Vist [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
 
 ## Вопросы о розыгрыше в лотерее:
 
@@ -633,7 +633,7 @@ You could still access Polygon using the Trezor One. For all others, it is not p
 
 ### Why can't I see my Polygon GHST on Metamask?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: {{GHST_POLYGON_ADDRESS}}
 
 ### Why can't I see my LP Tokens on QuickSwap?
 

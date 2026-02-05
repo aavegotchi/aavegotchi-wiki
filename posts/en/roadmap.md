@@ -28,6 +28,7 @@ Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a 
 
 ## Incubation
 
+
 <img class = "bodyImage" src = "/roadmap/phase-1-incubation.png" alt = "Aavegotchi Roadmap Phase 1: Incubation">
 
 Incubation is the first phase of our multi-year journey. It spans from Q2 2021 to Q4 2021.

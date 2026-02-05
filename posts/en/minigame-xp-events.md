@@ -37,6 +37,7 @@ This page details the past mini-game XP events.
 
 ## Gotchi the Gaatherer
 
+
 Event Duration: 13 - 19 May 2021
 
 table_gotchiTheGaatherer
@@ -87,7 +88,7 @@ Read the [Gotchi Miner XP Event blog post](https://blog.aavegotchi.com/gotchi-mi
 
 ## Gotchi Heroes
 
-The Gotchi Heroes XP event is broken into 2 rounds, each with a separate leaderboard. The 2nd round will commence 24 hours after the conclusion of the first event.
+The Gotchi Heroes XP event was broken into 2 rounds, each with a separate leaderboard. The 2nd round commenced 24 hours after the conclusion of the first event.
 
 * Round 1: 17 - 24 June 2023
 

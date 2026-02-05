@@ -60,9 +60,9 @@ Get your wallets (preferably Metamask) ready - there are a couple of ways to buy
 
 Make sure you get the correct token address as well.
 
-On Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
 
-On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+On Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
 
 **Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 

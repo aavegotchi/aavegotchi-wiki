@@ -46,7 +46,7 @@ Esto, frens, es el Baazar Aavegotchi. ¿Eres lo suficientemente hábil para dete
 
 ## Aavegotchi Bazar
 
-El Aavegotchi Baazaar es el mercado secundario oficial para Aavegotchi. Los vendedores pueden listar sus artículos para la venta. Habrá una tasa de 0.1 GHST por cada nuevo anuncio en el Baazar Aavegotchi. Esto es para prevenir los anuncios de spam en Polygon. Esta 0.1 GHST no va ni a Pixelcraft Studios ni a AavegotchiDAO. En su lugar, se enviará directamente a la [dirección de quemado](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) en Polygon cuando un listado sea creado o actualizado.
+El Aavegotchi Baazaar es el mercado secundario oficial para Aavegotchi. Los vendedores pueden listar sus artículos para la venta. Habrá una tasa de 0.1 GHST por cada nuevo anuncio en el Baazar Aavegotchi. Esto es para prevenir los anuncios de spam en Polygon. Esta 0.1 GHST no va ni a Pixelcraft Studios ni a AavegotchiDAO. En su lugar, se enviará directamente a la [dirección de quemado](https://explorer-mainnet.maticvigil.com/address/{{BURN_ADDRESS}}/tokens) en Polygon cuando un listado sea creado o actualizado.
 
 Cuando se vende un artículo, el vendedor obtiene el 96,5% del precio de venta depositado en su cartera. El otro 3,5 % se asigna de la siguiente manera:
 * 2% a Pixelcraft Studios

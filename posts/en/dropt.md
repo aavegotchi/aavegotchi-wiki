@@ -29,6 +29,7 @@ The game is playable on PC at the [official website](https://www.playdropt.io).
 
 ## How to Play
 
+
 * Create or join a game with between 1-3 players
 
 * Smash Geodes and collect Glitter!

@@ -26,6 +26,7 @@ You now have proof that you voted!
 
 ## What are POAPs?
 
+
 The POAP (Proof of Attendance Protocol) is a system that event organizers can use to distribute crypto-badges (ERC-721 tokens) to people that show up to their event. It also provides an open standard for developers to build on.
 
 POAPs not only have cool designs and allow you to brag your badges with everyone, your collection acts as a digital proof of representation without providing any explicit personal data.

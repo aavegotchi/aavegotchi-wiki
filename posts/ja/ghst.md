@@ -60,9 +60,9 @@ GHSTを買って、wen moonと思う以外に何ができるのでしょうか�
 
 トークン・アドレスも正しく取得するようにしましょう。
 
-イーサリアムメインネットで：[0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+イーサリアムメインネットで：[{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
 
-ポリゴンで：[0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
+ポリゴンで：[{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
 
 **これらのリンクは、他の公式に発表されたAavegotchiの情報源とも照らし合わせてください - 注意に越したことはありません。**
 

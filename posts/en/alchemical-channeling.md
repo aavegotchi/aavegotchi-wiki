@@ -28,6 +28,7 @@ Alchemical Channeling (occasionally referred to as a “Gotchi UBI”) is a basi
 
 ## How to channel Alchemica
 
+
 Aavegotchis can participate in Alchemical Channeling by walking up to an Alchemical Aaltar on a REALM parcel owned by their owner (or for borrowed gotchis, by the original owner) and clicking the “Channel Alchemica” action button. This will initiate an onchain transaction that transfers a portion of Alchemica directly to the Gotchi owner (or into the Gotchi Pocket, for borrowed Gotchis), while another portion will spillover on the nearby map.
 
 **Note that channeled Alchemica is not taken from the REALM Parcel’s surveyed amount!**

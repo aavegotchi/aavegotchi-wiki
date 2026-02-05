@@ -24,6 +24,7 @@ REALM gameplay is coming soon! There will be plenty of activities in the Gotchiv
 
 ## Accessing a Guild
 
+
 Gotchi Lodges will be accessible to Gotchis with a "Guild Crest." A Guild Crest is a particular NFT that must be held or equipped by an Aavegotchi.
 
 By default, Gotchi Lodges will be accessible to any Gotchi with the proper Guild Crest in its Pocket (open access), but Guilds can also restrict access to certain Gotchi IDs by requiring Aavegotchis to apply for membership (restricted access) or even designating which Aavegotchis can apply for membership (whitelisting).

@@ -37,6 +37,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 ## Buying a Portal
 
+
 Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
 
 You can acquire portals in one of the following ways:

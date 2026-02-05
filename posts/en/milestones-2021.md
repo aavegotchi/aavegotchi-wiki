@@ -7,6 +7,7 @@ contributors: ["unintelligent-nerd"]
 ---
 
 ## [Not just 1, but 8 proposals to vote for!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
+
 * 2 new Core Props and 6 new SigProps to vote for!
 * Vote now and get a deluge of XP!
 <p></p>

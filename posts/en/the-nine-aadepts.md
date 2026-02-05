@@ -26,6 +26,7 @@ The legend foretells about the coming of The Nine Aadepts! — A blockbuster sto
 
 ## Cast
 
+
 * Narrator: Frenless Summer
 * First Aadept: Nofuturistic 
 * Second Aadept: Hefe

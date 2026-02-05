@@ -38,6 +38,7 @@ Total Number of Prizes in a given category / Total Number of Tickets submitted f
 
 ## Wearable Raffles
 
+
 ### Raffle 1 (Chainlink Theme)
 [10 - 13 November 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 table_wearableRaffle1

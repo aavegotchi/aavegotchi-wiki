@@ -28,6 +28,7 @@ Remember to celebrate your lil fren's birthday! They have one as well!
 
 ## Rationale
 
+
 [Aavegotchi Improvement Proposal 13](/aavegotchi-improvement-proposals#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores) introduced an aging mechanic for Aavegotchis.
 
 Gotchis would receive a small boost to their [BRS](/rarity-farming#base-rarity-score) as they age. This is to counteract statistical variance between haunts and reward long term engagement.

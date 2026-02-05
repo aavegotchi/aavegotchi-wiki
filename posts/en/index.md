@@ -18,6 +18,7 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 
 ## New to Aavegotchi?
 
+
 Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game. 
 
 ## Popular Pages

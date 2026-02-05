@@ -32,6 +32,7 @@ Navigate through over 100 puzzles across 5 stunning worlds in the Aavegotchi uni
 
 ## Gameplay
 
+
 Licky's Escape uses an innovative gameplay mechanic centered around physics and magnets. Experiment with different strategies, manipulate your environment and discover creative solutions to advance through levels.
 
 The game features boss battles and plot twists. As you progress, a captivating story unfolds. Immerse yourself in Licky's world, where each puzzle solved brings you closer to the next twist in an engaging narrative.

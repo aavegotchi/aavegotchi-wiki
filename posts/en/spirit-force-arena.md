@@ -30,6 +30,7 @@ Compete to win in the ultimate Aavegotchi Battle Royale! Survive and defeat your
 
 ## How to Play
 
+
 <img class="bodyImage" src="/spirit-force-arena/sfa-how-to-play.png">
 
 1. Choose a game, pay the [GHST](/ghst) entry

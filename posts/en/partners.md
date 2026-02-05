@@ -50,6 +50,7 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 
 ## Investors
 
+
 ### Aave
 
 <div class="leftImageContainer">

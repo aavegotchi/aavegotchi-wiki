@@ -30,6 +30,7 @@ The old dusty tome of Aavegotchi lore beckons to you...
 
 ## Summoning an Aavegotchi
 
+
 Between the Nether Realm and the world of humans lies a third space -- the Ether Realm. Powerful wizards known as [Summoners](/team#summoners) have built arcane magical [Portals](/portals) that allow humans to summon Aavegotchis from the Nether to the Ether. However, to complete the process, Aavegotchis must be staked with a certain amount of [Spirit Force](/spirit-force).
 
 If the owner of an Aavegotchi desires to completely remove the Spirit Force stake, the Aavegotchi will be ejected back to the Nether Realm forever and the collateral will be returned to the owner.

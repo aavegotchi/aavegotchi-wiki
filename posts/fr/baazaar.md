@@ -46,7 +46,7 @@ Venez et testez votre force de caractère ! Acheteurs comme vendeurs !
 
 ## Baazaar Aavegotchi
 
-Le Baazar Aavegotchi est le marché secondaire officiel d'Aavegotchi. Les vendeurs peuvent lister leurs articles à vendre. Il y aura une cotisation de 0,1 GHST pour chaque nouvelle annonce sur le Baazar Aavegotchi. Ceci est destiné à prévenir les annonces de spam sur Polygon. Ce 0.1 GHST ne va ni à Pixelcraft Studios ni à AavegotchiDAO. Au lieu de cela, il sera envoyé directement à [l'adresse de token brulés](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) sur Polygon lorsqu'une annonce est créée ou mise à jour.
+Le Baazar Aavegotchi est le marché secondaire officiel d'Aavegotchi. Les vendeurs peuvent lister leurs articles à vendre. Il y aura une cotisation de 0,1 GHST pour chaque nouvelle annonce sur le Baazar Aavegotchi. Ceci est destiné à prévenir les annonces de spam sur Polygon. Ce 0.1 GHST ne va ni à Pixelcraft Studios ni à AavegotchiDAO. Au lieu de cela, il sera envoyé directement à [l'adresse de token brulés](https://explorer-mainnet.maticvigil.com/address/{{BURN_ADDRESS}}/tokens) sur Polygon lorsqu'une annonce est créée ou mise à jour.
 
 Lorsqu'un article est vendu, le vendeur obtient 96,5 % du prix de vente déposé sur son portefeuille. Les 3,5 % restants sont alloués comme suit:
 * 2 % pour Pixelcraft Studios

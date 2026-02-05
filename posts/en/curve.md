@@ -32,6 +32,7 @@ In a typical TBC, the price increases as the supply of the token increases, and 
 
 ## Mechanics
 
+
 ### Minting / Burning on demand
 
 Bonding Curves use a pricing algorithm to serve as an automated market maker and provide an always available source of liquidity. Users can interact with a bonding curve by staking tokens into the bonding curve’s reserve pool. When they do so, the bonding curve mints the corresponding tokens for the user based on the pricing algorithm. The newly minted tokens can have specific utility and even be traded among users, but can always be exchanged back through the bonding curve for tokens in the bonding curve’s reserve pool.
@@ -82,9 +83,14 @@ The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST di
 
 ## Closure of the Bonding Curve
 
-In 2023, the DAO brought the closure of the bonding curve to a vote.
+In early 2023, the DAO brought the closure of the bonding curve to a vote.
 
-Following the passing of [AGIP-64](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve), the bonding curve was immediately closed, capping the supply of GHST. The DAI in the bonding curve was allocated in equal proportions (25%) to liquidity provisioning, the DAO, Pixelcraft, and protocol rewards (see [AGIP-65](/aavegotchi-improvement-proposals-2023#25-25-25-25-split-for-curve-dai)).
+- On **2023-02-20**, Pixelcraft published an announcement that **AGIP-64, AGIP-65, and AGIP-66** were live for voting. (Source: [“3 Major AavegotchiDAO Proposals Live: Vote Now on AGIP 64, 65, & 66”](https://blog.aavegotchi.com/agip-64-65-66/))
+- On **2023-02-24**, Pixelcraft published an announcement that **AGIP-67** was live for voting. (Source: [“AavegotchiDAO Assemble: Core Proposal AGIP 67 is Now Live”](https://blog.aavegotchi.com/agip-67-now-live/))
+
+Following the passing of [AGIP-64](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve), the bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”), capping the supply of GHST. (Source: [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
+
+The DAI in the bonding curve was allocated in equal proportions (25%) to liquidity provisioning, the DAO, Pixelcraft, and protocol rewards (see [AGIP-65](/aavegotchi-improvement-proposals-2023#25-25-25-25-split-for-curve-dai)).
 
 A Curve transition team (see [AGIP-66](/aavegotchi-improvement-proposals-2023#form-and-fund-the-curve-transition-team)) was formed and a Curve transition plan was devised to secure funds for liquidity (see [AGIP-67](/aavegotchi-improvement-proposals-2023#curve-transition-plan---securing-funds-for-liquidity)).
 

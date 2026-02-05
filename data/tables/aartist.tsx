@@ -36,12 +36,12 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-                    ["Rasta Hat", `<img src="/wearables/final wearables/108_RastaDreds.svg" alt = "aavegotchi Rasta Hat"/>`],
-					["Rasta Shirt", `<img src="/wearables/final wearables/109_RastaShirtFull.svg" alt = "aavegotchi Rasta Shirt"/>`],
-					["Jamaican Flag", `<img src="/wearables/final wearables/110_JamaicanFlag.svg" alt = "aavegotchi Jamaican Flag"/>`],
-					["Baby Bottle", `<img src="/wearables/final wearables/119_BabyBottle.svg" alt = "aavegotchi Baby Bottle"/>`],
-					["Martini", `<img src="/wearables/final wearables/120_Martini.svg" alt = "aavegotchi Martini"/>`],
-					["Wine", `<img src="/wearables/final wearables/121_WineBottle.svg" alt = "aavegotchi Wine"/>`]
+                    ["Rasta Hat", `<img src="/wearables/108.svg" alt = "aavegotchi Rasta Hat"/>`],
+					["Rasta Shirt", `<img src="/wearables/109.svg" alt = "aavegotchi Rasta Shirt"/>`],
+					["Jamaican Flag", `<img src="/wearables/110.svg" alt = "aavegotchi Jamaican Flag"/>`],
+					["Baby Bottle", `<img src="/wearables/119.svg" alt = "aavegotchi Baby Bottle"/>`],
+					["Martini", `<img src="/wearables/120.svg" alt = "aavegotchi Martini"/>`],
+					["Wine", `<img src="/wearables/121.svg" alt = "aavegotchi Wine"/>`]
                 ]
             }
         },
@@ -52,13 +52,13 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-				    ["Portal Mage Helmet", `<img src="/wearables/final wearables/104_PortalMageHelmet.svg" alt = "aavegotchi Portal Mage Helmet"/>`],
-					["Portal Mage Armor", `<img src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt = "aavegotchi Portal Mage Armor"/>`],
-					["Portal Mage Axe", `<img src="/wearables/final wearables/106_PortalMageAxe.svg" alt = "aavegotchi Portal Mage Axe"/>`],
-					["Portal Mage Black Axe", `<img src="/wearables/final wearables/107_PortalMageBlackAxe.svg" alt = "aavegotchi Portal Mage Black Axe"/>`],
-					["Yellow Manbun", `<img src="/wearables/haunt2/242_YellowManbun.svg" alt = "aavegotchi Yellow Manbun"/>`],
-					["Tinted Shades", `<img src="/wearables/haunt2/243_TintedShades.svg" alt = "aavegotchi Tinted Shades"/>`],
-					["V-Neck Shirt", `<img src="/wearables/haunt2/244_VNeckShirt_Thumb.svg" alt = "aavegotchi V-Neck Shirt"/>`]
+				    ["Portal Mage Helmet", `<img src="/wearables/104.svg" alt = "aavegotchi Portal Mage Helmet"/>`],
+					["Portal Mage Armor", `<img src="/wearables/105.svg" alt = "aavegotchi Portal Mage Armor"/>`],
+					["Portal Mage Axe", `<img src="/wearables/106.svg" alt = "aavegotchi Portal Mage Axe"/>`],
+					["Portal Mage Black Axe", `<img src="/wearables/107.svg" alt = "aavegotchi Portal Mage Black Axe"/>`],
+					["Yellow Manbun", `<img src="/wearables/242.svg" alt = "aavegotchi Yellow Manbun"/>`],
+					["Tinted Shades", `<img src="/wearables/243.svg" alt = "aavegotchi Tinted Shades"/>`],
+					["V-Neck Shirt", `<img src="/wearables/244.svg" alt = "aavegotchi V-Neck Shirt"/>`]
                 ]
             }
         },
@@ -69,8 +69,8 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-					["Handsaw", `<img src="/wearables/final wearables/70_FarmerHandsaw.svg" alt = "aavegotchi Farmer Handsaw"/>`],
-					["Track Suit", `<img src="/wearables/final wearables/125_TrackSuitFull.svg" alt = "aavegotchi Track Suit"/>`]
+					["Handsaw", `<img src="/wearables/70.svg" alt = "aavegotchi Farmer Handsaw"/>`],
+					["Track Suit", `<img src="/wearables/125.svg" alt = "aavegotchi Track Suit"/>`]
                 ]
             }
         },
@@ -81,7 +81,7 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-					["Water Jug", `<img src="/wearables/final wearables/118_WaterJug.svg" alt = "aavegotchi Water Jug"/>`]
+					["Water Jug", `<img src="/wearables/118.svg" alt = "aavegotchi Water Jug"/>`]
                 ]
             }
         },
@@ -92,10 +92,10 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-				    ["Red Hawaiian Shirt", `<img src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt = "aavegotchi Red Hawaiian Shirt"/>`],
-					["Blue Hawaiian Shirt", `<img src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`],
-					["Comfy Poncho", `<img src="/wearables/haunt2/231_ComfyPoncho.svg" alt = "aavegotchi Comfy Poncho"/>`],
-					["Poncho Hoodie", `<img src="/wearables/haunt2/232_PonchoHoodie.svg" alt = "aavegotchi Poncho Hoodie"/>`]
+				    ["Red Hawaiian Shirt", `<img src="/wearables/114.svg" alt = "aavegotchi Red Hawaiian Shirt"/>`],
+					["Blue Hawaiian Shirt", `<img src="/wearables/115.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`],
+					["Comfy Poncho", `<img src="/wearables/231.svg" alt = "aavegotchi Comfy Poncho"/>`],
+					["Poncho Hoodie", `<img src="/wearables/232.svg" alt = "aavegotchi Poncho Hoodie"/>`]
                 ]
             }
         },
@@ -106,9 +106,9 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-				    ["Hazmat Hood", `<img src="/wearables/final wearables/111_HazmatHood.svg" alt = "aavegotchi Hazmat Hood"/>`],
-					["Hazmat Suit", `<img src="/wearables/final wearables/112_HazmatSuitFull.svg" alt = "aavegotchi Hazmat Suit"/>`],
-					["Uranium Rod", `<img src="/wearables/final wearables/113_UraniumRod.svg" alt = "aavegotchi Uranium Rod"/>`]
+				    ["Hazmat Hood", `<img src="/wearables/111.svg" alt = "aavegotchi Hazmat Hood"/>`],
+					["Hazmat Suit", `<img src="/wearables/112.svg" alt = "aavegotchi Hazmat Suit"/>`],
+					["Uranium Rod", `<img src="/wearables/113.svg" alt = "aavegotchi Uranium Rod"/>`]
                 ]
             }
         },
@@ -119,10 +119,10 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-					["Coconut", `<img src="/wearables/final wearables/116_Coconut.svg" alt = "aavegotchi Coconut"/>`],
-					["Milkshake", `<img src="/wearables/final wearables/122_Milkshake.svg" alt = "aavegotchi Milkshake"/>`],
-					["Kinship Potion", `<img src="/wearables/final wearables/126_KinshipPotion.svg" alt = "aavegotchi Kinship Potion"/>`],
-					["Greater Kinship Potion", `<img src="/wearables/final wearables/127_GreaterKinshipPotion.svg" alt = "aavegotchi Greater Kinship Potion"/>`],
+					["Coconut", `<img src="/wearables/116.svg" alt = "aavegotchi Coconut"/>`],
+					["Milkshake", `<img src="/wearables/122.svg" alt = "aavegotchi Milkshake"/>`],
+					["Kinship Potion", `<img src="/wearables/126.svg" alt = "aavegotchi Kinship Potion"/>`],
+					["Greater Kinship Potion", `<img src="/wearables/127.svg" alt = "aavegotchi Greater Kinship Potion"/>`],
                 ]
             }
         },
@@ -133,7 +133,7 @@ export const tables
             tableData: {
                 headers: ["Name", "Image"],
                 data: [
-				    ["Beer Helmet", `<img src="/wearables/final wearables/124_BeerHelmet.svg" alt = "aavegotchi Beer Helmet"/>`]
+				    ["Beer Helmet", `<img src="/wearables/124.svg" alt = "aavegotchi Beer Helmet"/>`]
                 ]
             }
         },
