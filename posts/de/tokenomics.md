@@ -1,11 +1,12 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
-title: 'Tokenomics'
-description: 'Die Tokenomics des Aavegotchi GHST Tokens'
+date: "2025-09-18T00:00:00.000Z"
+title: "Tokenomics"
+description: "Die Tokenomics des Aavegotchi GHST Tokens"
 image: "IMAGE HERE"
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -24,7 +25,7 @@ Aavegotchis Ansatz für Revenue Sharing und Tokenomics zielt darauf ab, vier Zie
 <ul><p style="margin-left: 2.4em"><b><li>Aufbau einer Treasury für den AavegotchiDAO zur Verwendung für Ausgaben</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Fortlaufende finanzielle Belohnungen für die Entwickler von Aavegotchi</li></b></p></ul>
 
-Dieser Teil des Wikis wird dich zuerst durch die Distribution der GHST Tokens führen und dann näher darauf eingehen, wie diese Ziele erreicht werden.
+This part of the wiki will first take you through [GHST's token](/ghst) distribution, then elaborate on how these goals will be accomplished.
 
 <div class="contentsBox">
 
@@ -38,22 +39,21 @@ Dieser Teil des Wikis wird dich zuerst durch die Distribution der GHST Tokens f�
 <p><a href=#burn-it>BURN IT</a></p>
 <p><a href=#buidl-it>BUIDL IT</a></p>
 <li><a href=#historical-changes>Historical Changes</a></li>
+<li><a href=#token-supply>Token Supply</a></li>
 </ol>
 
 </div>
 
 ## Token Distribution
 
-GHST wurde in drei Stufen verteilt. Dies waren der Private Sale, der Presale und der Public Bonding Curve Sale.
 
+GHST wurde in drei Stufen verteilt. Dies waren der Private Sale, der Presale und der Public Bonding Curve Sale.
 
 **Der Private Sale**
 
 Umfang: 5,000,000 GHST Preis: 0.05 DAI / GHST
 
-
 Der Private Sale fand im August 2020 statt. Jeder, der KYC durchgeführt hat und ein DAI-Minimum von 20k erfüllte, konnte teilnehmen. Die in dieser Runde gesammelten Gelder wurden Pixelcraft Studios, dem Unternehmen hinter Aavegotchi, zur Verfügung gestellt, um die erfolgreiche Entwicklung des Aavegotchi-Spiels sicherzustellen.
-
 
 **Der Pre Sale**
 
@@ -69,22 +69,19 @@ Teilnehmer des Private Sale und Pre Sale erhalten ihre GHST Token über einen Ze
 
 For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
-
 **Public Bonding Curve Sale**
 
-The curve is forever! Für mehr Informationen über die Funktionsweise der Curve, schau dir unsere Seite über die [Bonding Curve](/curve) an.
+There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the [curve](/curve). There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
-Es gibt in dieser Runde kein Limit für die Gesamtmenge von GHST und auch kein Zeitlimit. Der Preis begann bei 0.2 DAI / GHST und schwankt entlang der Kurve. Auch in dieser Runde gibt es kein Lockup - Token können direkt aus der Curve heraus eingefordert werden.
+Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
 
-Jeder, der KYC durchgeführt hat und dessen Adresse vom Aavegotchi-Team whitelisted wurde, kann direkt aus der Curve heraus kaufen.
+Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
-Die Gelder aus der Curve werden Pixelcraft Studios über einen von den GHST Token-Inhabern kontrollierten Tap-Mechanismus zur Verfügung stehen. Weitere Informationen über den Mechanismus findest du [hier](https://fundrasing.aragon.black).
-
+At approximately 2 years after the project's inception, the community voted for the closure of the bonding curve in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve). Following the closure, the total supply of GHST became fixed from that point forth (however, GHST could still be burnt through various ecosystem mechanisms, dwindling the total supply further).
 
 **Ökosystem-Fonds**
 
 Der Ökosystem-Fonds besteht aus 1'000'000 GHST, die nach dem gleichen Zeitplan wie die Private und Pre Sale Runden gesperrt sind. Freigegebene Gelder können über Vorschläge an den [AavegotchiDAO](/dao) V2.0 und höher eingesetzt werden, für legitime Anwendungsfälle wie die Finanzierung der Entwicklung durch Nicht-Aavegotchi-Team-Mitglieder, Promotion und Marketing von Aavegotchi, sowie jeden anderen Anwendungsfall, den das AavegotchiDAO für sinnvoll hält.
-
 
 **Team-Fonds**
 
@@ -97,6 +94,7 @@ Die Teamgelder werden in erster Linie verwendet, um die Kernmitglieder des Aaveg
 Was passiert mit den ganzen GHST, die für Portale und Kleidungsstücke ausgegeben werden?
 
 We've made a handy diagram explaining Revenue Sharing V2:
+
 <div class="centerImageContainer">
 <img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
@@ -105,15 +103,15 @@ Read on to learn about the various categories in more detail.
 
 ## EARN IT
 
-A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). Um einen Anreiz für ein kontinuierliches und aktives Engagement im Ökosystem des Spiels zu schaffen, wird ein Teil der Einnahmen aus Portalverkäufen und Kleidungsstücken in die Belohnung der Top-Rarity-Farmer fliessen.
+A core part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). Um einen Anreiz für ein kontinuierliches und aktives Engagement im Ökosystem des Spiels zu schaffen, wird ein Teil der Einnahmen aus Portalverkäufen und Kleidungsstücken in die Belohnung der Top-Rarity-Farmer fliessen.
 
 Dazu werden **40%** aller verdienten GHST über Spielerbelohnungen an die Spieler zurückgegeben.
 
 Zu Beginn wird es drei Kategorien von Spielerbelohnungen geben:
 
-* Top 100 seltenste Aavegotchis (nach [BRS](/rarity-farming#base-rarity-score))
-* Top 100 [Kinship](/kinship) Scores
-* Top 100 [Erfahrungspunkte (EXP)](/traits#experience)
+- Top 100 seltenste Aavegotchis (nach [BRS](/rarity-farming#base-rarity-score))
+- Top 100 [Kinship](/kinship) Scores
+- Top 100 [Erfahrungspunkte (EXP)](/traits#experience)
 
 Die drei Kategorien summieren sich auf die **40%** aller verdienten GHST. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
@@ -121,13 +119,11 @@ Weitere Kategorien werden hinzugefügt, wenn sich das Spiel weiter entwickelt.
 
 When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
-
 ## DAO IT
 
 Community Governance ist auch ein Kernpunkt der Aavegotchi-Erfahrung. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics vielleicht?)
 
 **15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). Wenn der DAO weiter reift, kann sich dieser Prozentsatz noch erhöhen. Das Endziel ist natürlich, dass der DAO zu einer Einheit heranwächst, die in der Lage ist, das Protokoll zu verwalten und sogar zu upzugraden. Auch wenn das noch ein paar Jahre entfernt ist (Aavegotchi ist schliesslich erst Mitte 2020 gestartet), ist es doch etwas, worauf man sich freuen kann.
-
 
 ## BURN IT
 
@@ -135,12 +131,9 @@ Als Auftakt wäre es gut, sich mit der [Bonding Curve](/curve) von GHST und ihre
 
 **5%** of all GHST earned via portal and item sales will be burned. Für immer. Ja, das hast du richtig gelesen.
 
-GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. Das ist ein Problem für Token mit einem festem Angebot.
-
 Das Verbrennen von GHST ist ein deflationäres Gegengewicht zum Abwärtsdruck auf den Preis von GHST, wie er möglicherweise durch die Ausgabe von GHST-Spielbelohnungen in Form von GHST verursacht wird.
 
-Das Senden von GHST direkt an die Burn Adresse sperrt auch DAI innerhalb der Bonding Curve, was eine steigende Preisuntergrenze für GHST schafft. Dies ist für alle Parteien positiv, da es eine bessere Liquidität für Käufer und Verkäufer auf der Curve ermöglicht (aka weniger Slippage), das zirkulierende Angebot senkt und Stabilität für den [DAICO Tap Mechanismus](/curve#aavegotchi-daico) bietet.
-
+Note: The bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”); GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 ## BUIDL IT
 
@@ -169,3 +162,7 @@ The following table details the percentage changes in each category across Reven
 table_revenueSharing
 
 The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+
+## Token Supply
+
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).

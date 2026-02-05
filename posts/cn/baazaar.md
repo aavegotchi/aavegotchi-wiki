@@ -39,7 +39,7 @@ contributors:
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#features>Features</a></li>
-<li><a href=#rarible>Rarible</a></li>
+<li><a href=#secondary-marketplaces>Secondary Marketplaces</a></li>
 </ol>
 
 </div>
@@ -85,8 +85,9 @@ Other features included in the Baazaar are:
 * My Sales - Historical record of your sales on the Baazaar
 * My Purchases - Historical record of your purchases on the Baazaar
 
-## Rarible
+## Secondary Marketplaces
 
-Besides the Baazaar, another secondary marketplace that supports the buying and selling of Aavegotchis is the NFT platform [Rarible](https://rarible.com/) on Ethereum Mainnet.
+Besides the Baazaar, there are secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
 
 As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
+

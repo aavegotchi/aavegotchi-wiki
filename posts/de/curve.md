@@ -8,7 +8,6 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-
 <div class="headerImageContainer">
 <img class="headerImage" src="/curve/bonding-curve.png">
 <p class="headerImageText">Die Bonding Curve</p>
@@ -26,7 +25,7 @@ In einer typischen TBC steigt der Preis, wenn das Angebot des Tokens steigt, und
 <li><a href=#mechanics>Funktionsweise</a></li>
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
-<li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi Token Angebots-Dynamik</a></li>
+<li><a href=#closure-of-the-bonding-curve>Closure of the Bonding Curve</a></li>
 <li><a href=#learn-more>Learn More</a></li>
 </ol>
 
@@ -36,59 +35,59 @@ In einer typischen TBC steigt der Preis, wenn das Angebot des Tokens steigt, und
 
 ### Minting / Burning auf Nachfrage
 
-Bonding Curves nutzen einen Preisfindungsalgorithmus, um als automatischer Market Maker zu dienen und eine immer verfügbare Liquiditätsquelle zu bieten. Nutzer können mit einer Bonding Curve interagieren, indem sie Token in den Reservepool der Curve einzahlen. Wenn sie dies tun, erstellt/minted die Bonding Curve die entsprechenden Tokens für den Nutzer, basierend auf dem Preisalgorithmus. Die neu erstellten Tokens können einen bestimmten Nutzen haben und sogar unter den Spielern gehandelt werden. Sie können aber jederzeit über die Bonding Curve gegen Tokens aus dem Reservepool zurückgetauscht werden.
+Bonding Curves use a pricing algorithm to serve as an automated market maker and provide an always available source of liquidity. Users can interact with a bonding curve by staking tokens into the bonding curve’s reserve pool. When they do so, the bonding curve mints the corresponding tokens for the user based on the pricing algorithm. The newly minted tokens can have specific utility and even be traded among users, but can always be exchanged back through the bonding curve for tokens in the bonding curve’s reserve pool.
 
-Wenn ein Token über eine TBC gekauft wird, muss jeder nachfolgende Käufer einen etwas höheren Preis für den jeweiligen Token zahlen, wodurch ein potenzieller Gewinn für die früheren Investoren entsteht. Je mehr Menschen von dem Projekt erfahren und je mehr gekauft wird, desto mehr steigt der Wert der einzelnen Tokens entlang der Bonding Curve. Frühe Investoren, die vielversprechende Projekte finden, den an die Curve gebundenen Token kaufen und dann ihren Token wieder verkaufen, können später einen Gewinn erzielen.
+When a token is purchased via a TBC, each subsequent buyer will have to pay a slightly higher price for each token, generating a potential profit for the earliest investors. As more people find out about the project and the buying continues, the value of each token gradually increases along the bonding curve. Early investors who find promising projects early, buy the curve-bonded token, and then sell their token back can earn a profit in the future.
 
 ### Formel
 
-Bonding Curves gibt es in verschiedenen Formen und Grössen. Für das Aavegotchi-Projekt hat das Team die Bancor-Formel übernommen:
+Bonding curves come in different shapes and sizes. For the Aavegotchi project, the team adopted the Bancor Formula:
 
 <img style = "border: 1px solid; margin-bottom: 15px" src = "/curve/reserve-ratio.png" alt = "token bonding curve" width = "750" />
 
 ### Erklärung der Formel
 
-Der **Reserve Token** bezieht sich auf den Token, den Nutzer in die Bonding Curve einzahlen.
+The **Reserve Token** refers to the token that users stake into the bonding curve.
 
-Der **Continuous Token** bezieht sich auf den Token, den man von der Bonding Curve beim Einzahlen des Reserve Tokens erhält.
+The **Continuous Token** refers to the token that is received from the bonding curve upon staking the Reserve Token.
 
-Im Fall von Aavegotchi sind die Reserve und Continuous Tokens DAI bzw. GHST.
+In the case of Aavegotchi, the Reserve and Continuous Tokens are DAI and GHST, respectively.
 
-Das **Connecting Weight** (auch bekannt als Reserve Ratio) stellt ein festes Verhältnis (zwischen 0 und 100%) zwischen dem Gesamtwert des Continuous Token (Gesamtangebot × Stückpreis) und dem Wert seiner gesamten Reserve Tokens dar.  Dieses CW ist durch die Bancor-Formel konstant, da sowohl die Anzahl Reserve Tokens als auch der Gesamtwert des Continuous Token (aka. "Marktkapitalisierung") mit Käufen und Verkäufen schwanken.
+The **Connecting Weight** (also known as Reserve Ratio) represents a fixed ratio (between 0 and 100%) between the Continuous Token's total value (total supply × unit price) and the value of its Reserve Token balance.  This CW is constant by the Bancor Formula as both the Reserve Token balance and the Continuous Token’s total value (a.k.a. 'market cap') fluctuate with buys and sells.
 
-Jeder Kauf oder Verkauf des Continuous Tokens (GHST) löst eine Zunahme oder Abnahme von Reserve Tokens (DAI) aus. Der Preis des Continuous Tokens in Bezug auf seine Reserve Tokens muss dann kontinuierlich neu berechnet werden, um das konfigurierte Connecting Weight / Ratio zwischen ihnen aufrechtzuerhalten.
+Each purchase or sale of the Continuous Token (GHST) triggers an increase or decrease of Reserve Tokens (DAI). The price of the Continuous Token with respect to its Reserve Tokens must then continuously recalculate to maintain the configured Connecting Weight between them.
 
+The Connecting Weight determines how sharply a Continuous Token's price needs to adjust in order to be maintained with every transaction, or in other words, its price sensitivity.
 
-Das Connecting Weight bestimmt, wie stark sich der Preis eines Continuous Tokens anpassen muss, um das Ratio aufrechtzuerhalten. Mit anderen Worten: seine Preissensitivität.
+A higher reserve ratio between the Reserve Token balance and the Continuous Token will result in lower price sensitivity, meaning that each buy and sell will have a less than proportionate effect on the Continuous Token’s price movement. Conversely, a lower ratio between the Reserve Token balance and the Continuous Token will result in higher price sensitivity, meaning that each buy and sell will have a more than proportionate effect on the Continuous Token’s price movement.
 
-Ein höheres Reserveverhältnis zwischen dem Reserve Token und dem Continuous Token führt zu einer geringeren Preissensitivität. Das bedeutet, dass jeder Kauf und Verkauf einen unterproportionalen Einfluss auf die Preisbewegung des Continuous Tokens haben wird. Andererseits führt ein geringeres Verhältnis zwischen dem Reserve Token und dem Continuous Token zu einer höheren Preissensitivität. Das bedeutet, dass jeder Kauf und Verkauf einen überproportionalen Effekt auf die Preisbewegung des Continuous Tokens hat.
+**Aavegotchi's Reserve Ratio is 33% frens!** This means that whales can't pump & dump GHST as the bonding curve is hardened against their huuugge transactions!
 
-**Das Reserveverhältnis von Aavegotchi liegt bei 33%!** Das bedeutet, dass du keine Angst vor Whales haben musst. Sie können GHST nicht pump & dumpen, da die Bonding Curve gegen ihre riesigen Transaktionen geschützt ist!
-
-Wenn du es in Aktion sehen willst, schau dir dieses interaktive Modell der Bonding Curve an, das Coderdan [hier](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve) erstellt hat.
-
-THE CURVE IS FOREVER!
+If you wanna see it in action, check out this interactive model of the bonding curve Coderdan made [here](https://observablehq.com/@cinnabarhorse/aavegotchi-bonding-curve).
 
 ## Aavegotchi Bonding Curve
-Die Aavegotchi Bonding Curve wurde am 14. September 2020 über einen Bonding Curve Smart Contract erstellt, der von [Aragon Fundraising](https://fundraising.aragon.black/) bereitgestellt wird. Nach dem Abschluss des Presales für 500'000 GHST wurde die Bonding Curve sofort freigegeben. Die Bonding Curve ist in ihrer Grösse unbegrenzt, hat kein Zeitlimit und bietet einen Startkurs von 0.2 Dai pro GHST. Sie hat ein Connecting Weight von 33%.
+The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
 
-Du musst trotzdem KYC abschliessen, um direkt in der Curve kaufen/verkaufen zu können. Compliance ist wichtig - we live in a society, und wir wollen auch nicht, dass das Projekt von der Regierung zerstört wird. Einkäufe auf der Curve werden in DAI getätigt. Umgekehrt kannst du deine GHST für DAI zurück an die Curve verkaufen, aber warum solltest du das tun? :( :( :(
+You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
 
-Wenn du aufgrund deiner Staatsbürgerschaft nicht in der Lage bist, KYC durchzuführen, mach dir keine Sorgen! **Du wirst immer noch in der Lage sein, mit jedem anderen Teil des Aavegotchi Metaverse zu interagieren.** Du musst einfach deine GHST von einem DEX wie Uniswap / Balancer kaufen, oder stattdessen von einem CEX wie OKEx. [Hier](/ghst#get-ghst) erfährst du, wie man GHST Tokens bekommt.
+If you are unable to perform KYC because of your citizenship, don't worry! **You will still be able to interact with every other part of the Aavegotchi metaverse.** You simply have to purchase your GHST via other alternatives [here](/ghst#buying-ghst).
 
 ## Aavegotchi DAICO
-Ein Decentralized Autonomous Initial Coin Offering (DAICO) ist eine neue Fundraising-Methode, die versucht, die besten Eigenschaften einer Dezentralen Autonomen Organisation (DAO) mit denen eines Initial Coin Offering (ICO) zu verbinden. Dadurch soll eine Struktur geschaffen werden, die dem Token-Sale-Fundraising-Modell ein höheres Mass an Effektivität verleiht. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
+A Decentralized Autonomous Initial Coin Offering (DAICO) is a new fundraising method that seeks to incorporate the best features of a Decentralized Autonomous Organization (DAO) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. A DAICO is a model whereby investors have control over the funds collected once the fundraising is over. The investors could influence how developers have access to the funds and at what frequency through a "tap" mechanism. In addition, investors can also vote to do away with the project and have their funds returned.
 
-Das Aavegotchi Projekt hat die Token Bonding Curve durch einen DAICO auf Aragon gestartet.
+The Aavegotchi project launched the token bonding curve through a DAICO on Aragon.
 
-**Dies ist SAFU. Entferne. Niemals. Die. Bonding. Curve. ** Es verhindert, dass die Investoren ihre Gelder verlieren, da sie letztendlich die Kontrolle über die Finanzen innerhalb des DAICO / der Bonding Curve haben!
+The Bonding Curve prevents investors from getting rugged as they ultimately have control over the funds within the DAICO/bonding curve!
 
-Die erste Version des [AavegotchiDAO](/dao) startete im Tandem mit der GHST Distribution auf der Bonding Curve. GHST Nutzer hatten die Macht, über die Erhöhung / Beibehaltung der Mittel abzustimmen, die durch den Tap Mechanismus der Token Bonding Curve (TBC) Reserven an Pixelcraft Studios (dem Team hinter Aavegotchi) ausgeschüttet werden, um die Entwicklung zu unterstützen. Der erste Vorschlag des AavegotchiDAO, den Aavegotchi DAICO Tap von 50'000 DAI auf 100'000 DAI pro Monat zu erhöhen, wurde am 18. Oktober 2020 mit 99% Zustimmung angenommen.
+The first iteration of [AavegotchiDAO](/dao) launched in tandem with the GHST distribution on the bonding curve. GHST holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the token bonding curve (TBC) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. The first AavegotchiDAO proposal of increasing the Aavegotchi DAICO tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020.
 
-## Aavegotchi Token Angebots-Dynamik
-In unserer obigen Diskussion über die Token Bonding Curve / DAICO haben wir gelernt, dass das Gesamtangebot des GHST Tokens dynamisch ist. When investors purchase GHST using DAI from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
+## Closure of the Bonding Curve
 
-Die Inflation von GHST Tokens durch Nettokäufe auf der Bonding Curve ist positiv mit dem GHST Preis korreliert. **Die Bonding Curve wurde mathematisch so programmiert, dass der Preis von GHST steigt, wenn das zirkulierende Angebot an GHST zunimmt.**
+In 2023, the DAO brought the closure of the bonding curve to a vote.
+
+Following the passing of [AGIP-64](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve), the bonding curve was immediately closed, capping the supply of GHST. The DAI in the bonding curve was allocated in equal proportions (25%) to liquidity provisioning, the DAO, Pixelcraft, and protocol rewards (see [AGIP-65](/aavegotchi-improvement-proposals-2023#25-25-25-25-split-for-curve-dai)).
+
+A Curve transition team (see [AGIP-66](/aavegotchi-improvement-proposals-2023#form-and-fund-the-curve-transition-team)) was formed and a Curve transition plan was devised to secure funds for liquidity (see [AGIP-67](/aavegotchi-improvement-proposals-2023#curve-transition-plan---securing-funds-for-liquidity)).
 
 ## Learn More
 

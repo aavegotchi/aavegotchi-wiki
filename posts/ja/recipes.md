@@ -7,14 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-[インスタレーション](/gotchiverse#building-on-realm-parcels)をクラフトし、アップグレードしてより強力にすることは、ゴッチバースを体験する上で重要な要素です。 異なるインスタレーションをクラフト／アップグレードするのにそれぞれ“レシピ”があります。 このページでは、最新のレシピを紹介しています。
+Building [Installations](/gotchiverse#building-on-realm-parcels) and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to build and upgrade. このページでは、最新のレシピを紹介しています。
 
 <div class="contentsBox">
 
 **目次**
 
 <ol>
-<li><a href=#crafting-duration>クラフト時間</a></li>
+<li><a href=#building-duration>Building Duration</a></li>
 <li><a href=#aalchemical-aaltar>アルケミカル・アールター</a></li>
 <li><a href=#gotchi-lodge>ゴッチロッジ</a></li>
 <li><a href=#fud-haarvester>FUDハーベスター</a></li>
@@ -46,11 +46,11 @@ contributors:
 
 </div>
 
-## クラフト時間
+## Building Duration
 
-インスタレーションとそのアップグレードには「クラフト時間」があり、ポリゴンネットワークのブロック単位で計測されます。 1ブロックは人間時間で約2.2秒に相当します。 ほとんどのレベル1インスタレーションは、クラフトタイムが「Instant」（インスタント）になっており、すぐにクラフトされますが、クラフトタイムがインスタントよりも長いものは、時間が経ち完成するとオーナーに送信されます。
+Installations and their upgrades also have a “Build Time”, which is measured in blocks on the Polygon network. 1ブロックは人間時間で約2.2秒に相当します。 Most (but not all) Level 1 Installations have a build time of “Instant”, which means they are built immediately, while those with build times longer than “Instant” will enter into a building queue and get sent to their owner upon completion.
 
-このクラフト/アップグレードのプロセスは、現在「GLTR」と呼ばれるゲーム内通貨（ただし、発売前に名称が変更される可能性があります）を消費することで加速させることができます。 GLTRは、[ゴッチュスアルケミカ取引所](/gotchus-alchemica-exchange)でGHSTとゴッチュスアルケミカトークンの間の流動性を提供することで入手できます。
+This building/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTRは、[ゴッチュスアルケミカ取引所](/gotchus-alchemica-exchange)でGHSTとゴッチュスアルケミカトークンの間の流動性を提供することで入手できます。
 
 ## アルケミカル・アールター
 
@@ -174,7 +174,7 @@ table_greenTiles
 
 ## Halloween Decorations
 
-*Available for crafting up until 31 October 2022 only*
+*Available for building up until 31 October 2022 only*
 
 table_halloweenDecorations
 

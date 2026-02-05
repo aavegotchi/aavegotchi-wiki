@@ -43,6 +43,7 @@ Căn phòng trở nên yên lặng.
 <ol>
 <li><a href=#aauction-house>Nhà Đấu Giá</a></li>
 <li><a href=#aauction-mechanisms>Cơ Chế Đấu Giá</a></li>
+<li><a href=#other-features-of-the-aauction-house>Other Features of the Aauction House</a></li>
 <li><a href=#past-aauctions>Đấu Giá Nft</a></li>
 </ol>
 
@@ -50,14 +51,35 @@ Căn phòng trở nên yên lặng.
 
 ## Nhà Đấu Giá
 
-Nhà Đấu Giá là nơi mà mà các buổi đấu giá diễn ra. Bạn có thể tìm truy cập tại [here](https://aavegotchi.com/auction).
+Nhà Đấu Giá là nơi mà mà các buổi đấu giá diễn ra. It can be found [here](https://dapp.aavegotchi.com/auction?status=live&itemType=all).
 
-Nhà Đấu Giá có 4 tab để người dùng tương tác. Bạn có thể tìm chúng ở góc trái của trang:
+<img class="bodyImage" src="/aauction/aavegotchi-auction-house.png" alt="Aavegotchi Auction House" />
 
-* **Hướng Dẫn**: Miêu tả ngắn về cách hoạt động của mô hình đấu giá
-* **Đấu Giá Hiện Có**: Danh sách các vật phẩm mà bạn có thể tham gia đấu giá
-* **Các Lệnh Đặt Giá Của Tôi**: Danh sách các vật phẩm mà bạn đã đặt giá. Tại đây các lệnh trong quá khứ của sẽ được hiển thị. Khi các sự kiện đấu giá vật phẩm kết thúc và bạn giành được một vật nào đó, bạn có thể vào trang của món vật phẩm đó để claim
-* **Tiền Thưởng**: danh sách các vật phẩm mà bạn đã đặt giá nhưng bị người khác vượt mặt và phần thưởng bạn giành được. Phần thưởng sẽ được gửi thẳng về ví của bạn mà không cần phải tự tay claim
+At the top left corner of the page, users can switch between the display of live auctions or upcoming auctions.
+
+On the left corner of the page, users can select the type of Aavegotchi assets to display:
+
+* Aavegotchis
+
+* [Wearables](/wearables)
+
+* [Portals](/portals)
+
+* [Forge](/forge)
+
+* [Gotchiverse Parcels](/gotchiverse#realm-parcel-sizes)
+
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+
+Users could filter active auctions by their incentive level:
+
+* 2% Low
+
+* 5% Medium
+
+* 10% High
+
+For more information about what these incentive levels mean, read the next section on Aauction Mechanisms.
 
 ## Cơ Chế Đấu Giá
 
@@ -71,6 +93,20 @@ Bạn đặt lệnh, và nếu ai đó vượt mặt bạn, bạn sẽ lấy l�
 
 Khi bạn đặt một lệnh mới, một công thức sẽ tính toán số tiền mà mà người đặt lệnh kiếm được khi họ bị vượt mặt. Những con số này có thể được tuỳ chỉnh dựa trên khoản tiền mà bạn muốn người đặt giá có thể kiếm được. Bất kỳ ai đặt lệnh mà bị vượt mặt đều sẽ kiếm được phần thưởng, và người đặt giá cao nhất ở cuối buổi đấu giá sẽ nhận được phần thưởng, số tiền còn lại sẽ được trả cho người bán.
 
+## Other Features of the Aauction House
+
+### Buy It Now Feature
+
+Ever wished you could snag that must-have collectible without the wait? The “Buy It Now” option lets you do just that! As soon as an auction goes live, you can either place a bid traditionally or opt to purchase immediately at a set price. It's a straightforward, instant way to claim your desired item, and once someone hits "Buy It Now," the deal's done—there's no turning back.
+
+The fees? Just the usual GBM rates, making sure that every participant benefits fairly from the transaction.
+
+### Setting a Starting Bid Feature
+
+Tired of lowball opening bids? We've got you covered! Now, you can set a minimum starting bid to kick things off right.
+
+Remember, setting a realistic starting bid is key. A 4% listing fee applies, which is only refunded against the selling or cancellation fees if the auction attracts bids that meet the starting bid price. This ensures that the auctions begin with genuine interest, helping to maintain a vibrant marketplace.
+
 ## Đấu Giá Nft
 
 * 15 - 18 tháng Bảy 2021: [ Sự kiện Đấu Giá đầu tiên với sự góp mặt của bộ trang phục Gamer và Steampunk ](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
@@ -80,3 +116,5 @@ Khi bạn đặt một lệnh mới, một công thức sẽ tính toán số ti
 * 28 - 31 tháng Mười 2021: [Sự Kiến Đấu Giá Land đầu tiên với 16k gói đất trong Đô Thành Citaadel ](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
 * 2 - 5 tháng Mười Hai 2021: [Sự kiện Đấu Giá Lần 2 với 7,000 gói đất bên trong Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+
+* 25 April 2024: [Godlike Staff of Charming schematic](https://blog.aavegotchi.com/3-new-features-now-live-in-the-aavegotchi-auction-house/)

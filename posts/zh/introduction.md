@@ -57,7 +57,7 @@ The relationship between Collateral stake, Traits, Wearables, and Kinship is bes
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
 
 ## Aavegotchi Value
-The valuation of an Aavegotchi comes from both from its intrinsic value and from its rarity value.
+The valuation of an Aavegotchi comes from both its intrinsic value and from its rarity value.
 
 * **Intrinsic value** Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only [ERC20](/glossary#erc-20) tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
 

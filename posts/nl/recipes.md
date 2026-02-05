@@ -7,14 +7,14 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om krachtiger te worden is een belangrijk onderdeel van de Gotchivers-ervaring. Verschillende installaties vereisen verschillende "recepten" om te maken en te upgraden. U kunt het laatste Recepten hier vinden.
+Building [Installations](/gotchiverse#building-on-realm-parcels) and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to build and upgrade. U kunt het laatste Recepten hier vinden.
 
 <div class="contentsBox">
 
 **Inhoud**
 
 <ol>
-<li><a href=#crafting-duration>Fabricatie Duur</a></li>
+<li><a href=#building-duration>Building Duration</a></li>
 <li><a href=#aalchemical-aaltar>Aalchemisch Aaltar</a></li>
 <li><a href=#gotchi-lodge>Gotchi Lodge</a></li>
 <li><a href=#fud-haarvester>FUD Haarvester</a></li>
@@ -46,11 +46,11 @@ Maak [installaties](/gotchiverse#building-on-realm-parcels) en upgrade ze om kra
 
 </div>
 
-## Fabricatie Duur
+## Building Duration
 
-Installaties en hun upgrades hebben ook een "Craft Time", die wordt gemeten in blokken op het Polygon netwerk. Eén blok is ongeveer 2,2 seconden in menselijke tijd. De meeste (maar niet alle) niveaus 1 installaties hebben een ambachtelijke tijd van “Instant”, wat betekent dat ze onmiddellijk worden vervaardigd. wanneer degenen met vervaardigingstijden langer dan "Instant" een crafting wachtrij binnengaan en naar hun eigenaar worden gestuurd wanneer deze voltooid is.
+Installations and their upgrades also have a “Build Time”, which is measured in blocks on the Polygon network. Eén blok is ongeveer 2,2 seconden in menselijke tijd. Most (but not all) Level 1 Installations have a build time of “Instant”, which means they are built immediately, while those with build times longer than “Instant” will enter into a building queue and get sent to their owner upon completion.
 
-Dit proces van maak/upgraden kan worden versneld door een in-game valuta uit te geven die momenteel bekend staat als "GLTR" (maar die waarschijnlijk hernoemd zal worden voor de start). GLTR kan worden verkregen door het verstrekken van liquiditeit tussen GHST en Gotchus Alchemica tokens op de [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
+This building/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR kan worden verkregen door het verstrekken van liquiditeit tussen GHST en Gotchus Alchemica tokens op de [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
 
 ## Aalchemisch Aaltar
 
@@ -174,7 +174,7 @@ table_greenTiles
 
 ## Halloween Decorations
 
-*Available for crafting up until 31 October 2022 only*
+*Available for building up until 31 October 2022 only*
 
 table_halloweenDecorations
 

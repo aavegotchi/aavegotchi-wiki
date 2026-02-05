@@ -1,69 +1,74 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki Folder'
-description: 'Aavegotchi Wiki Folder'
+date: "2020-04-23T07:00:00.000Z"
+title: "Aavegotchi Wiki Folder"
+description: "Aavegotchi Wiki Folder"
 contributors:
   - "unintelligent-nerd"
 ---
 
+
 Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
-* [Ambassadeurs](/aambassador)
+- [Ambassadeurs](/aambassador)
 
-* [Aarcade Taask Force](/aarcade-taask-force)
+- [Aarcade Taask Force](/aarcade-taask-force)
 
-* [Aarchitecten](/aarchitect)
+- [Aarchitecten](/aarchitect)
 
-* [Aarena](/aarena)
+- [Aartiesten](/aartist)
 
-* [Aartiesten](/aartist)
+- [Aauction](/aauction)
 
-* [Aauction](/aauction)
+- [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+- [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+- [Aesthetica](/aesthetica)
 
-* [Aesthetica](/aesthetica)
+- [Aging Mechanic](/aging-mechanic)
 
-* [Aging Mechanic](/aging-mechanic)
+- [Alchemical Channeling](/alchemical-channeling)
 
-* [Alchemical Channeling](/alchemical-channeling)
+- [Baadge](/baadge)
 
-* [Baadge](/baadge)
+- [Baards](/baard)
 
-* [Baards](/baard)
+- [Bridge](/bridge)
 
-* [Baazaar](/baazaar)
+- [Wedstrijden](/contests)
 
-* [Bridge](/bridge)
+- [Contracts](/contracts)
 
-* [Wedstrijden](/contests)
+- [Bonding Curve](/curve)
 
-* [Contracts](/contracts)
+- [AavegotchiDAO](/dao)
 
-* [Bonding Curve](/curve)
+- [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
-* [AavegotchiDAO](/dao)
+- [Developers](/developers)
 
-* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+- [DROPT - The Fallen Gotchi](/dropt)
 
-* [Developers](/developers)
+- [Estaates](/estaates)
 
-* [Estaates](/estaates)
+- [Eye Shape](/eye-shape)
 
-* [Eye Shape](/eye-shape)
+- [Veelgestelde Vragen](/faq)
 
-* [Veelgestelde Vragen](/faq)
+- [Forge](/forge)
 
-* [Forge](/forge)
+- [Games](/games)
 
-* [Gaame Jaam](/gaame-jaam)
+- [Gaame Jaam](/gaame-jaam)
 
 * [GHST Token](/ghst)
 
 * [Woordenlijst](/glossary)
+
+* [Gotchi Battler](/gotchi-battler)
+
+* [Gotchi Heroes](/gotchi-heroes)
 
 * [Gotchi Lending](/gotchi-lending)
 
@@ -83,9 +88,11 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Kinship](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maTokens](/matokens)
+* [Lore](/lore)
+
+* [Marketplace](/marketplace)
 
 * [Media](/media)
 
@@ -125,9 +132,13 @@ Hier is de lijst van pagina's in de Aavegotchi Wiki:
 
 * [Spirit Force](/spirit-force)
 
+* [Spirit Force Arena](/spirit-force-arena)
+
 * [Spirit Force History](/spirit-force-history)
 
 * [Staken](/staking)
+
+* [Strategotchi](/strategotchi)
 
 * [Team](/team)
 
