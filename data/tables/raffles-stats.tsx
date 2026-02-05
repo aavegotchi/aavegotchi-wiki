@@ -151,4 +151,19 @@ export const tables
                 ]
             }
         },
+		
+		{
+            tableName: "forgeSchematicsRaffle",
+            tableCaption: "",
+            tableData: {
+                headers: ["Category", "Prizes", "Tickets submitted", "Probability"],
+                data: [
+                    ["Common", "1600", "809114", "0.001977472"],
+					["Uncommon", "400", "98614", "0.004056219"],
+					["Rare", "200", "71737", "0.002787962"],
+					["Mythical", "80", "17692", "0.004521818"],
+					["Godlike", "8", "6393", "0.001251369"]
+                ]
+            }
+        }
     ]

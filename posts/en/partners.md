@@ -22,7 +22,6 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 <p><a href=#cometh>Cometh</a></p>
-<p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
 <p><a href=#gbm-auction>GBM Auction</a></p>
@@ -33,11 +32,24 @@ Aavegotchi is a frenly project. Get to know our frenly frens here!
 <p><a href=#mao-dao>Mao DAO</a></p>
 <p><a href=#router-protocol>Router Protocol</a></p>
 <p><a href=#mandala-metaverse>Mandala Metaverse</a></p>
+<p><a href=#magic-eden>Magic Eden</a></p>
+<p><a href=#oneplanet>OnePlanet</a></p>
+<p><a href=#gameswift>GameSwift</a></p>
+<p><a href=#carv>CARV</a></p>
+<p><a href=#helika-analytics>Helika Analytics</a></p>
+<p><a href=#metacade>Metacade</a></p>
+<p><a href=#1kin-labs>1Kin Labs</a></p>
+<p><a href=#nitro-league>Nitro League</a></p>
+<p><a href=#base>Base</a></p>
+<p><a href=#dogami>Dogami</a></p>
+<p><a href=#aerodrome>Aerodrome</a></p>
+<p><a href=#hyperplay>HyperPlay</a></p>
 </ol>
 
 </div>
 
 ## Investors
+
 
 ### Aave
 
@@ -107,17 +119,6 @@ Cometh is a groundbreaking and evolving strategy game set in a persistent and su
 The Cometh game consists in players mining asteroids to get tokens as rewards.
 
 Cometh’s ecosystem leverages Ethereum-based DeFi (Decentralized Finance) in a fun and original way to enable players to collect, trade, and earn tokens from ERC-20 protocols, and also NFT’s unique to the Cometh Metaverse. 
-
-### DinoSwap
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap">
-<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
-</div>
-
-DinoSwap is a cross-chain infrastructure project that builds liquidity for layer-one blockchains, AMMs and partnering projects. Launching on Polygon, there is an exciting opportunity for farmers to earn DINO and other project tokens.
-
-DinoSwap benefits from velociraptor fast and prehistorically cheap transaction capabilities on Polygon.
 
 ### Unicly
 
@@ -214,3 +215,117 @@ Router Protocol is a modular infrastructure layer enabling blockchains to commun
 </div>
 
 Mandala is a cross-media story utilizing avatar NFTs in a geo-location AR mobile game + AAA Unreal Engine MMORPG, TV series, and graphic novel (Dark Horse).
+
+### Magic Eden
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/magic-eden.jpg" alt="Magic Eden">
+<p class="leftImageText"><a href="https://twitter.com/MagicEden" target="_blank">Magic Eden</a></p>
+</div>
+
+Magic Eden is the leading cross-chain NFT platform driving the next billion users to web3. Led by former crypto, tech, and hospitality leaders, Magic Eden is building a user-friendly platform powered by market-leading minting and trading solutions. Magic Eden brings dynamic cultural moments onto the blockchain, empowering users across thousands of digital communities to create, discover and collect unique NFTs.
+
+### OnePlanet
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/oneplanet.jpg" alt="OnePlanet">
+<p class="leftImageText"><a href="https://twitter.com/OnePlanet_NFT" target="_blank">OnePlanet</a></p>
+</div>
+
+OnePlanet is a Polygon-dedicated NFT launchpad and marketplace, offering a diverse range of NFT experiences for both creators and the community. Their comprehensive launchpad services and add-on utilities empower creators to bring their NFTs to life and monetize their work. Meanwhile, users can explore, evaluate, and interact with their NFTs in exciting new ways.
+
+### GameSwift
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/gameswift.jpg" alt="GameSwift">
+<p class="leftImageText"><a href="https://twitter.com/GameSwift_io" target="_blank">GameSwift</a></p>
+</div>
+
+GameSwift is a zkEVM modular blockchain for games that harnesses the shared security of its L1 infrastructure and provides the opportunity to scale and maximize revenue, thanks to zkEVM roll-ups.
+
+### CARV
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/carv.png" alt="CARV">
+<p class="leftImageText"><a href="https://twitter.com/carv_official" target="_blank">CARV</a></p>
+</div>
+
+CARV is building a credential and data infrastructure focused on gaming, enabling gamers with data sovereignty and games with intelligence. 
+
+With consumer facing gaming hub and studio facing CRM products, CARV enable gamers with seamless credential-based gaming experiences, and empowering games with data-driven growth & intelligence, starting with web3.
+
+The name CARV is derived from the verb "carve", which means to cut or shape something by removing material. The word "carve" has a strong association with craftsmanship, precision, and attention to detail, and so are we.
+
+### Helika Analytics
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/helika-analytics.png" alt="Helika Analytics">
+<p class="leftImageText"><a href="https://twitter.com/HelikaAnalytics" target="_blank">Helika Analytics</a></p>
+</div>
+
+Helika helps gaming studios make strategic decisions with no-code analytics.
+
+### Metacade
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/metacade.jpg" alt="Metacade">
+<p class="leftImageText"><a href="https://twitter.com/Metacade_" target="_blank">Metacade</a></p>
+</div>
+
+The premier gaming platform that empowers developers and players, providing unparalleled opportunities for growth and collaboration.
+
+Our Mission: To supercharge, reward and connect developers and players, providing an unfair advantage through plug-and-play community initiatives and testing, early access, dev-player collaboration, financial rewards, gigs, accolades and a thriving ecosystem, all in a seamless, enjoyable platform.
+
+### 1Kin Labs
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/1kin-labs.jpg" alt="1Kin Labs">
+<p class="leftImageText"><a href="https://twitter.com/1KinLabs" target="_blank">1Kin Labs</a></p>
+</div>
+
+1KIN is building the next generation platform for gamers to discover and connect with the world’s best community driven games. The 1KIN platform facilitates the discovery, distribution and true digital ownership of gaming assets with cutting edge technology.
+
+### Nitro League
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/nitro-league.jpg" alt="Nitro League">
+<p class="leftImageText"><a href="https://twitter.com/nitroleaguegame" target="_blank">Nitro League</a></p>
+</div>
+
+Nitro League is a racing metaverse that's perfect for both hardcore gamers and casual players alike. This immersive world combines the best of Game-Fi to create an unforgettable gaming experience.
+
+### Base
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/base.jpg" alt="Base">
+<p class="leftImageText"><a href="https://twitter.com/base" target="_blank">Base</a></p>
+</div>
+
+Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain. Base is powered by Optimism's OP Stack, making it one of the most secure, scalable EVM L2s out there. The OP Stack is an open-source public good that will serve as the foundation for a “superchain” of L2s that share interoperability, sequencing, and governance.
+
+### Dogami
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/dogami.jpg" alt="Dogami">
+<p class="leftImageText"><a href="https://twitter.com/Dogami" target="_blank">Dogami</a></p>
+</div>
+
+DOGAMI is an entertainment 3.0 company backed by renowned names in both the gaming and blockchain industry. Adopt your own Dogamí, Compete against the best and Earn $DOGA. The Web3 Mobile Game Backed by Ubisoft & AnimocaBrands.
+
+### Aerodrome
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/aerodrome.jpg" alt="Aerodrome">
+<p class="leftImageText"><a href="https://twitter.com/aerodromefi" target="_blank">Aerodrome</a></p>
+</div>
+
+Aerodrome Finance is a next-generation AMM designed to serve as Base's central liquidity hub, combining a powerful liquidity incentive engine, vote-lock governance model, and friendly user experience. Aerodrome inherits the latest features from Velodrome V2. Aerodrome NFTs vote to distribute token emissions and receive incentives and fees generated by the protocol.
+
+### HyperPlay
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/hyperplay.jpg" alt="HyperPlay">
+<p class="leftImageText"><a href="https://x.com/HyperPlayGaming" target="_blank">HyperPlay</a></p>
+</div>
+
+HyperPlay is the game store from the future where players discover great games, and developers find a censorship-resistant and developer-loyal distribution platform. 

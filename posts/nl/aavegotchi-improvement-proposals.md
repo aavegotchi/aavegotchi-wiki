@@ -18,1733 +18,2258 @@ Psst! Claim je [POAP Badges](/poap) als je eerder op AGIPs hebt gestemd!
 **Inhoud**
 
 <ol>
-<li><a href=#supply--3-5m-treasury-dai-to-aave>Supply ~3.5M Treasury DAI to Aave</a></li>
-<li><a href=#aavegotchi-x-sandbox-experience---expansion---maintenance>Aavegotchi x Sandbox Experience - Expansion & Maintenance</a></li>
-<li><a href=#gotchi-battler---prize-pool-funding>Gotchi Battler - Prize Pool Funding</a></li>
-<li><a href=#gotchi-battler-v1-5-funding>Gotchi Battler V1.5 funding</a></li>
-<li><a href=#rarity-farming-season-8>Rarity Farming Season 8</a></li>
-<li><a href=#lend-600k-ghst-to-improve-liquidity-and-orderbooks-on-major-cexs>Lend 600k GHST to improve liquidity and orderbooks on major CEXs</a></li>
-<li><a href=#staking-350-eth-with-lido-and-acquiring-reth>Staking 350 ETH with Lido and Acquiring rETH</a></li>
-<li><a href=#establishing-an-eth-sell-ladder>Establishing an ETH Sell Ladder</a></li>
-<li><a href=#gas-fee-reimbursement-for-dao-directors>Gas Fee Reimbursement for DAO Directors</a></li>
-<li><a href=#strategotchi-v2-0---voxel-unity-sdk-funding>Strategotchi V2.0 & Voxel Unity SDK funding</a></li>
-<li><a href=#fakewaar-continuing-development-fund>FAKEwaar Continuing Development Fund</a></li>
-<li><a href=#elected-facilitators-for-dao-meetings>Elected Facilitators for DAO Meetings</a></li>
-<li><a href=#custom-irl-aavegotchi-physical-arcade-machine>Custom IRL Aavegotchi Physical Arcade Machine</a></li>
-<li><a href=#proposal-to-add-liquidity-on-aerodrome-and-earn-aero>Proposal to Add Liquidity on Aerodrome and earn AERO</a></li>
-<li><a href=#convert-all-dao-owned--dai--adai-----usdc--ausdc>Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC</a></li>
-<li><a href=#allocation-of-aerodrome-pol-rewards>Allocation of Aerodrome POL Rewards</a></li>
-<li><a href=#aavegotchidao-mcon-iii-sponsorship-package>AavegotchiDAO MCON III Sponsorship Package</a></li>
-<li><a href=#allocation-of-quickswap-pol-rewards>Allocation of Quickswap POL Rewards</a></li>
-<li><a href=#community-wearable-schematics-release>Community Wearable Schematics Release</a></li>
-<li><a href=#fund-creation-of-ghostly-gladiator-mvp>Fund Creation of Ghostly Gladiator MVP</a></li>
-<li><a href=#gotchichain-battleverse-demo---an-open-source-battleverse-built-with-godot>Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot</a></li>
-<li><a href=#rarity-farming-season-9>Rarity Farming Season 9</a></li>
-<li><a href=#increasing-xp-award-to-250-xp-for-successful-core-agips>Increasing XP Award to 250 XP for Successful CORE AGIPs</a></li>
-<li><a href=#replacement-dao-director-election>Replacement DAO Director Election</a></li>
-<li><a href=#tipping-for-aavegotchi-community-apps>Tipping for Aavegotchi community apps</a></li>
-<li><a href=#forge-competition-pilot-season-1>Forge Competition Pilot Season 1</a></li>
-<li><a href=#year-2023>Year 2023</a></li>
-<li><a href=#year-2022>Year 2022</a></li>
-<li><a href=#year-2021>Year 2021</a></li>
-<li><a href=#year-2020>Year 2020</a></li>
+<li><a href=#tap-increase-for-scaling-sprint>Kraan verhoging voor Scaling Sprint</a></li>
+<li><a href=#add-fees-to-bonding-curve>Kosten toevoegen aan de Bonding Curve</a></li>
+<li><a href=#increase-daico-tap-for-ghst-purchases>Verhoog DAICO tik voor GHST aankopen</a></li>
+<li><a href=#proposal-for-haunt-2>Voorstel voor Haunt 2</a></li>
+<li><a href=#give-unique-non-transferable-background-to-haunt-1-aavegotchis>Geef unieke niet-overdraagbare achtergrond aan Haunt 1 Aavegotchis</a></li>
+<li><a href=#add-fee-on-baazaar-to-support-rarity-farming>Vergoeding toevoegen op Baazaar om Rarity Farming te ondersteunen</a></li>
+<li><a href=#earn-xp-for-successful-signal-proposals>Verdien XP voor succesvolle Signaal Voorstellen</a></li>
+<li><a href=#voting-power-based-on-brs>Stemkracht gebaseerd op BRS</a></li>
+<li><a href=#voting-power-based-on-wearables--maall-price>Stemkracht op basis van de Wearables' Maall Price</a></li>
+<li><a href=#partnership-between-aavegotchidao--pixelcraft--and-dinoswap>Partnerschap tussen AavegotchiDAO, Pixelcraft, en DinoSwap</a></li>
+<li><a href=#liquidity-manager---frens-committee>Liquidity Manager / FRENS commissie</a></li>
+<li><a href=#launch-haunt-2>Start Haunt 2</a></li>
+<li><a href=#add-an-aging-mechanic-to-affect-aavegotchi-rarity-scores>Voeg een Aging Mechanic toe om Aavegotchi rarity scores te beïnvloeden</a></li>
+<li><a href=#earn-frens-with-ghst-matic-lp-tokens>Verdien FRENS met GHST-MATIC LP Tokens</a></li>
+<li><a href=#create-a-wearables-taask-force>Maak een Wearables Taask Force</a></li>
+<li><a href=#stake-100k-ghst-to-generate-minigame-rewards>Stake 100k GHST om Minigame Beloningen te genereren</a></li>
+<li><a href=#adding-voting-power-to-realm-parcels>Toevoegen van Stemkracht aan REALM parcelen</a></li>
+<li><a href=#gotchiverse-patch-v0-1>Gotchiverse Patch v0.1</a></li>
+<li><a href=#providing-ghst-liquidity-on-synfutures>GST Liquidity aanbieden op SynFutures</a></li>
+<li><a href=#creating-the-dao-treasury-taask-force>Het creëren van de DAO schatkist Taask Force</a></li>
+<li><a href=#adding-ghst-to-the-umbria-narni-bridge>GHST toevoegen aan de Umbria Narni Bridge</a></li>
+<li><a href=#launch-rarity-farming-szn-3>Lancering Rarity Farming SZN 3</a></li>
+<li><a href=#co-sponsoring-the-goodghosting-pool>Co-Sponsoring van de GoodGhosting Pool</a></li>
+<li><a href=#deposit-3m-treasury-ghst-into-aave>Stort 3M GHST uit de Schatkist in Aave</a></li>
+<li><a href=#delay-gotchiverse-land-auction---raffle-3>Uitstellen Gotchiverse Land Veiling & Lotterij 3</a></li>
+<li><a href=#reducing-the-parcel-vrf-variance>Verminder de Parcel VRF variant</a></li>
+<li><a href=#alternative-gotchiverse-trait-mapping>Alternatieve Gotchiverse Trait Mapping</a></li>
+<li><a href=#extending-the-dao-treasury-task-force-multisig>Uitbreiden van de DAO Schat Task Force Multisig</a></li>
+<li><a href=#24h-windows-for-alchemical-channeling>24u Windows voor Alchemical Channeling</a></li>
+<li><a href=#scheduling-land-auction-raffle--3-for-june>Plannen Land Veiling/Raffel #3 voor juni</a></li>
+<li><a href=#launch-of-rf-szn-4>Launch of RF Szn 4</a></li>
+<li><a href=#use-dyst-voting-power-to-support-vqi-qi-on-dystopia>Use DYST voting Power to Support vQi-Qi on Dystopia</a></li>
+<li><a href=#change-harvester-recipes>Change Harvester Recipes</a></li>
+<li><a href=#aavegotchidao----pixelcraft-studios-1-75m-dai-token-swap>AavegotchiDAO <> Pixelcraft Studios 1.75M DAI Token Swap</a></li>
+<li><a href=#delay-the-3rd-land-auction>Delay the 3rd LAND Auction</a></li>
+<li><a href=#utilizing-the-channeling--hot-zone->Utilizing the Channeling “Hot Zone”</a></li>
+<li><a href=#configure-vp-for-amghst--wapghst--and-all-gltr-staking>Configure VP for amGHST, wapGHST, and all GLTR Staking</a></li>
+<li><a href=#stop-new-brs-wearable-emissions-until-further-notice>Stop new BRS Wearable Emissions until further notice</a></li>
+<li><a href=#modifying-the-channeling-window>Modifying the Channeling Window</a></li>
+<li><a href=#sunsetting-frens-immediately>Sunsetting FRENS Immediately</a></li>
+<li><a href=#update-gltr-emissions>Update GLTR Emissions</a></li>
+<li><a href=#setting-limits-on-the-number-of-borrowed-gotchis-allowed-per-wallet-address>Setting limits on the number of borrowed gotchis allowed per wallet address</a></li>
+<li><a href=#add-dao-liquidity-to-ghst-alchemica-pairs>Add DAO Liquidity to GHST-Alchemica Pairs</a></li>
+<li><a href=#mint-and-transfer-50-dao-parcels-and-4m-fud-eq--of-alchemica-to-the-dtf-for-contributor-compensation>Mint and Transfer 50 DAO Parcels and 4M FUD Eq. of Alchemica to the DTF for Contributor Compensation</a></li>
+<li><a href=#preventing-owners-from-channeling-gotchis-listed-for-lending>Preventing Owners From Channeling Gotchis Listed For Lending</a></li>
+<li><a href=#creating-new-wearable-sets>Creating New Wearable Sets</a></li>
+<li><a href=#enacting-a-bonding-curve-emergency-plan>Enacting a Bonding Curve Emergency Plan</a></li>
+<li><a href=#the-forge---request-for-funding-and-development>The Forge - Request for Funding and Development</a></li>
+<li><a href=#adjust-aaltar-spillover-rates>Adjust Aaltar Spillover Rates</a></li>
+<li><a href=#create-aavegotchidao-foundation>Create AavegotchiDAO Foundation</a></li>
+<li><a href=#election-for-dao-foundation-s-9-directors-multisig-signers>Election for DAO Foundation’s 9 Directors/Multisig-Signers</a></li>
+<li><a href=#election-for-dao-foundation-s-9-directors-multisig-signers--revote->Election for DAO Foundation’s 9 Directors/Multisig-Signers (Revote)</a></li>
+<li><a href=#rarity-farming-season-5>Rarity Farming Season 5</a></li>
+<li><a href=#channel-alchemica-by-burning-kinship>Channel Alchemica by Burning Kinship</a></li>
+<li><a href=#creating-the-aarcade-taask-force--atf->Creating the Aarcade Taask Force (ATF)</a></li>
+<li><a href=#update-the-template-to-require-the-use-of--weighted-voting->Update the Template to Require the Use of ‘Weighted Voting’</a></li>
+<li><a href=#fund-alchemica-spending-competition>Fund Alchemica Spending Competition</a></li>
+<li><a href=#establish-the--core-framework--guiding-wearable-release>Establish the “Core Framework” Guiding Wearable Release</a></li>
+<li><a href=#launch-round-2-parcel-vrf-rolls>Launch Round 2 Parcel VRF Rolls</a></li>
+<li><a href=#name-of-aavegotchi-marketplace>Name of Aavegotchi Marketplace</a></li>
+<li><a href=#eligibility-of-ghst-usdc-lp-tokens-to-earn-frens>Eligibility of GHST-USDC LP tokens to earn FRENS</a></li>
+<li><a href=#portals-purchased-in-one-transaction>Portals purchased in one transaction</a></li>
 </ol>
 
 </div>
 
-### Supply ~3.5M Treasury DAI to Aave
-**Aavegotchi Improvement Proposal #105**
+### Kraan verhoging voor Scaling Sprint
+**Aavegotchi Verbetering Voorstel #1**
 
-**Voorstel Samenvatting:**
+**Voorstel samenvatting:** De GHST Bonding Curve bestaat al bijna een maand en dat biedt de eerste gelegenheid voor GHST houders om het kraanmechanisme van DAICO aan te passen. AavegotchiDAO 1. is gebouwd op het Aragonplatform en functioneert als een eenvoudige DAICO waar GHST-houders één keer per maand kunnen stemmen om via de kraan de geldstroom naar het kernteam te verhogen of te verminderen. De kraan verschaft DAI rechtstreeks vanuit de GHST Bonding Curve waar momenteel meer dan 7,5 miljoen DAI is verzekerd.
 
-This proposal suggests allocating 3,549,809 DAI from the Aavegotchi DAO Treasury to the Aave V3 Ethereum Market. With an average supply APR of 4.34%, this move aims to generate an annual yield of approximately $154,061, enhancing the DAO's revenue through a stable, high-yield strategy. The proposal ensures over 500,000 DAI remains in the DAO's Polygon wallet for ongoing initiatives, while the rest of the DAI is strategically supplied to Aave. All supplied DAI comes from the 25% post curve closure Treasury Allocation.
+We verzoeken de Aavegotchi gemeenschap om de kraan van 50K DAI / 30 dagen naar 100K DAI / 30 dagen te verhogen. 50k DAI was niet genoeg om alle bereikte mijlpalen (communautaire groei, GHST token, spelontwikkeling) te beslaan, en de volgende sprint is nog ambitieuzer. De harde gecodeerde kaders van AavegotchiDAO 1. dit voorstel beperken tot een verhoging van 50K DAI voor de stemperiode van deze maand, en daarom hebben we onze strategie begroot met een totaal van 100K DAI in gedachten.
 
-*Proposed Porfolio Composition Assuming AGIP 103 Passes*
+In de begroting wordt de extra 50k DAI ingezet in vier verschillende categorieën:
+* Een fonds voor game makers zodat we de voorwaarden kunnen versterken met de belangrijkste spelontwikkelaars.
+* Extra contracten voor sleutelposities in marketing, ontwerp en ontwikkeling.
+* Een marketingboost om ervoor te zorgen dat de aanwezigheid van Aavegotchi wordt uitgebreid.
+* Community beloningen zodat we programma's kunnen blijven ontwikkelen (zoals de Aartiesten en Aapprentices teams) die de meest geïnspireerde in onze gemeenschap stimuleren.
 
-Proposed Portfolio USD Value
-
-* GHST (0.904) 15017760.91
-
-* USDC 3756276
-
-* Supplied DAI 3549809
-
-* Unsupplied DAI 2337064
-
-* ETH (not yet purchased) 3000000
-
-*Benefits:*
-
-1. Passive Income: Leverages a stable, high-yield avenue for revenue generation without active management.
-
-2. Flexibility: Easy entry and exit strategies for the supplied positions, offering liquidity management benefits.
-
-3. Market Optimism: Positions the DAO to capitalize on the anticipated increased demand for stablecoins in an upcoming bull market.
-
-4. Diversification: Broadens the DAO's investment portfolio and protects our stablecoins against inflation by generating yield.
-
-*Risks:*
-
-1. Platform Dependence: Relies heavily on the Aave ecosystem and the stability of its smart contracts, introducing platform-specific risks.
-
-2. Liquidity Constraints: Future proposals may require accessing funds from the supplied DAI if the Polygon treasury depletes, potentially affecting liquidity.
-
-3. Market Volatility: Exposure to market fluctuations could affect the APR and overall returns.
-
-4. Smart Contract Vulnerabilities: Despite Aave's track record, the risk of smart contract bugs or exploits remains inherent in DeFi protocols.
-
-The proposal represents a balanced approach to revenue generation and risk management, aiming to strengthen the Aavegotchi DAO's financial position while maintaining operational flexibility.
-
-Reference Material: [Aavegotchi DAO Treasury Report](https://docs.google.com/document/d/1u-hODswpYcLSJhCh4y6SNoR-17rClwenenmU71Ag9Og)
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1171582821010264095)
-
-Option 1: Yes. Supply DAI to Aave.
-
-Option 2: No. Do not supply DAI to Aave.
-
-**Voting Period:** 9 - 23 January 2024
+**Stemperiode:** van 15 tot 19 oktober 2020
 
 **Resultaten:**
 
-table_agip105
+tabel_agip1
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x7a2767fdecf22ff48fe0cc200c5a4018c8950ab7dbdee8b8f39135bd63733d5f)
+[Link om te stemmen op Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/0/)
 
 <hr />
 
-### Aavegotchi x Sandbox Experience - Expansion & Maintenance
-**Aavegotchi Improvement Proposal #106**
+### Kosten toevoegen aan de Bonding Curve
+**Aavegotchi Verbetering Voorstel #2**
 
-**Voorstel Samenvatting:**
+**Voorstel Samenvatting:** De band curve is de belangrijkste bron van liquiditeit voor GHST. Grote kopers en verkopers kunnen momenteel zonder kosten in- en uitkopen.
 
-This proposal of funding is to empower GFA to operate Pixelcraft lands and partnership for a limited and renewable 6 months duration with as follows duties :
+Onze marktmaker biedt de mogelijkheid om kosten toe te voegen aan koop- en verkooporders.
 
-1). Management of Project and Coordination
+Meerdere leden van de gemeenschap hebben voorgesteld om kosten toe te voegen tot 0,3% om op de curve te kopen en te verkopen.
 
-2). Partnership Management
+Dit is mogelijk door de `updateFees` functie aan onze bindingcurve aan te roepen, maar moeten we dat doen? Het is aan jullie, AavegotchiDAO.
 
-* Maintain channel of discussion with Sandbox officers like Sebastien Borget
+Alle kosten die worden verdiend worden automatisch overgebracht naar het Schatkist adres van de DAO op 0xffe6280ae4e864d9af836b562359fd828ece8020 en wordt beschouwd als activa van AavegotchiDAO.
 
-* Upgrades of Aavegotchi avatar collection in Sandbox
-
-* Aavegotchi Assets collection utility and highlight in game
-
-3). Experience Updates
-
-* Management of Aavegotchi Parcels in Sandbox + Collect & analysis of InGame and Traffic datas with TheSandbox
-
-* Upgrades and modifications of experiences due to Sandbox New GameMaker and GameClient release (Forecasted Bi-Monthly for 0.9 minor versions) and specific events
-
-* Interaction in the Slack Technical support with Sandbox Team and ticketing system
-
-4). Organisation and Strategy for future events
-
-* InGame contests / Social events
-
-* Maintain & highlight Aavegotchi in next mainstream Sandbox events like ie. alpha seasons / IRL events
-
-Please note: the single player experience has been migrated to the latest 0.9.10 Gameclient version and is fully operative as covered!
-
-The overall budget breakdown to achieve those tasks for the 6 months duration of this proposal is 29 460 DAI
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1188051581950759034)
-
-Option 1: Yes, fund
-
-Option 2: No, do not fund
-
-**Voting Period:** 6 - 20 February 2024
+**Stemperiode:** van 18 tot 21 januari 2021
 
 **Resultaten:**
 
-table_agip106
+tabel_agip2
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x4c05f8411850c2155c423417c6ce554e1750a04d31ec1b9bf85b716d46a50745)
+[Link om te stemmen op Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/1/)
 
 <hr />
 
-### Gotchi Battler - Prize Pool Funding
-**Aavegotchi Improvement Proposal #107**
+### Verhoog DAICO tik voor GHST aankopen
+**Aavegotchi Verbetering Voorstel #3**
 
-**Voorstel Samenvatting:**
+**Voorstel samenvatting:** Speler beloningen en liquiditeitsprikkels zijn cruciaal om het Aavegotchi ecosysteem op te starten naar een niveau waar het duurzaam wordt op handelsvolume en economische activiteit.
 
-*IMPORTANT CHANGES FROM SIGPROP*
+Wanneer GHST wordt uitgegeven in het Aavegotchi ecosysteem, wordt 33% automatisch verzonden naar een verbrand adres. In tegenstelling tot de meeste cryptocurrencies, verlaagt het verbranden van GHST (behalve via de bonding curve) de totale waarde van GHST, niet. omdat die waarde wordt opgeslagen als DAI in de verbindingscurve.
 
-Following lengthy discussions in the DAO, please note the following changes from the sigprop:
+Wat verbranden doet is DAI binnen de band vallen, door de reserveratio na verloop van tijd te verhogen, wat de prijs van GHT stabiliseert.
 
-* For Rarity Farming Season 8, Gotchi Battler will receive a 10% allocation of rewards, coming from the BRS leaderboard.
+Om de verbranding te compenseren (die GHST uiteindelijk in een stabiele munt kan veranderen), raden we de gemeenschap aan de kraan te verhogen tot 150.000 DAI per maand. Dit zal helpen om de reserve van de bondingscurve in evenwicht te brengen, terwijl het ook 50K DAI extra oplevert per maand die aan spelers beloningen en liquiditeit stimulansen worden gegeven.
 
-* For Rarity Farming Season 9 and onwards, Gotchi Battler will receive a 20% allocation of rewards, coming from the BRS leaderboard, unless a Coreprop is passed that changes this allocation up or down.
-
-Immaterial has also formally agreed to open-source the Gotchi Battler game logic after Season 8 completes so every battle can be verified after the fact but no advantages can be gained for Season 8 through building simulations. Then, from Season 9 onwards, more complexity/variations will be added so that simulations will be too computationally expensive to be worth it.
-
-Hello frens,
-
-We've been blown away and deeply humbled by all the enthusiasm and support for Gotchi Battler over the last few weeks. We're starting this proposal to deliver on the promise of evolving protocol rewards through the addition of Gotchi Battler as a staple of our Rarity Farming seasons going forward.
-
-The proposed changes to Rarity Farming Rewards are:
-
-Season 8
-
-table_gotchiBattlerSeason8
-
-Season 9 onwards
-
-table_gotchiBattlerSeason9
-
-In line with the original Gotchi Battler proposal [AGIP 86](/aavegotchi-improvement-proposals-2023#gotchi-battler-funding) to gamify protocol rewards, we wish to reallocate 10% from the BRS leaderboard to Gotchi Battler Tournaments for season 8 and 20% from the BRS leaderboard for Season 9 and onwards. Gotchi Battler was designed with this exact purpose in mind to carry on the meta of the BRS leaderboard as much as possible whilst also providing a more engaging and competitive experience for players.
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1201505887169286276)
-
-Option 1: Yes, reallocate rewards to GB
-
-Option 2: Do, don't include Gotchi Battler
-
-**Voting Period:** 15 - 29 February 2024
+**Stemperiode:** van 18 tot 21 januari 2021
 
 **Resultaten:**
 
-table_agip107
+tabel_agip3
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd80bddef82f5543ff581139ef060e9571fcf2825df15e7bda7f740cddc6c8459)
+[Link om te stemmen op Aragon UI](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/vote/2/)
 
 <hr />
 
-### Gotchi Battler V1.5 funding
-**Aavegotchi Improvement Proposal #108**
+### Voorstel voor Haunt 2
+**Aavegotchi Verbetering Voorstel #4**
 
-**Voorstel Samenvatting:**
+**Voorstel samenvatting:** 10.000 Portals is aantoonbaar niet genoeg om te voldoen aan de huidige vraag naar Aavegotchis. Daarom kan het nodig zijn om een nieuwe Haunt in te zetten om ervoor te zorgen dat iedereen die wil deelnemen een Aavegotchi kan bezitten. Dit voorstel biedt vier verschillende opties die door leden van de gemeenschap zijn voorgesteld, waaronder één optie om geen nieuwe Haunt te maken.
 
-Just wanted to say thanks to the community for all the support given to Gotchi Battler so far. It has been a real privilege to see such a high amount of engagement/interest in the game and we've received a load of invaluable feedback from the community on how to improve going forward. This proposal is to fund the next version of the game which will bring improvements to:
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
-* Gameplay balance
+Optie 1: Geen nieuwe Haunt, revisie in een maand
 
-* Tournaments
+Optie 2: 10K Portalen, 100 GHST elk, 1 per txn
 
-* Training
+Optie 3: 25K portalen, 100 GHST elk, 5 per txn (w/stricter ape belasting)
 
-* Lending
+Optie 4: Voorverkoop, waarin elke portemonnee kan abonneren voor 1 Portaal in ruil voor 100 GHST. Wanneer de periode voorafgaand aan de verkoop afloopt, worden alle portalen gemint en overgedragen aan hun eigenaars.
 
-* The Battle Replayer
-
-You can see the full detailed list of improvements [here](https://docs.google.com/document/d/17BV5ezSyw5JpzrY5Ic12B7bqM-DgwHYavQ8HX1ECtyM).
-
-The release schedule of this work will be April 2024, which will be in time to host a large Rarity Farming Tournament(s) for Season 8 at the beginning of May, if this gets confirmed by the DAO.
-
-The total cost for this next version will be $120k, broken down as follows:
-
-*Eitri*
-
-* Frontend development
-
-* 2 months @ $8k = $16k
-
-*Coinmandeer*
-
-* Design
-
-* 1 month @ $8k = $8k
-
-*DeadFolk (2 people)*
-
-* Unity development
-
-* 3 months @ $16k = $48k
-
-*Lavel*
-
-* Balancing and Data Analysis
-
-* 2 months @ $8k = $16k
-
-*Immaterial*
-
-*Backend, infrastructure, QA, management
-
-* 3 months @ $8k = $24k
-
-*Expenses*
-
-* Infrastructure, art, bounties
-
-* $8k
-
-Total = $120k payable as DAI from the DAO Treasury
-
-*Payments:*
-
-* 1st payment on passing of proposal: $68k
-
-* 2nd payment on completion of work: $52k
-
-If you have any questions, head over to the DAO forum post linked below, and thank you, as always, for your support frens.
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1201198282957922345/1201198282957922345)
-
-Option 1: Yes, fund
-
-Option 2: No, do not fund
-
-**Voting Period:** 26 February - 11 March 2024
+**Stemperiode:** van 17 tot 24 maart 2021
 
 **Resultaten:**
 
-table_agip108
+tabel_agip4
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5b328a78c8461910ec5cc9240eb9143efcfcc4a537304c30235d969ffab02ec3)
+**Stem Differentieel niet bereikt. Geen Haunt 2 voor nu!**
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmNqRry73rWXb9tdyHummihcK58ga83Ru15AJRF3beFJ35)
 
 <hr />
 
-### Rarity Farming Season 8
-**Aavegotchi Improvement Proposal #109**
+### Geef unieke niet-overdraagbare achtergrond aan Haunt 1 Aavegotchis
+**Aavegotchi Verbetering Voorstel #5**
 
-**Voorstel Samenvatting:**
+**Voorstel samenvatting:** Veel spelers zijn bang dat Haunt 2 te veel lijkt op Haunt 1 en dat de nieuw gecreëerde [Haunts](/haunt) de waarde van "Genesis" Haunt zal aantasten. Een van de suggesties is om elke Haunt speciale achtergronden te geven om ze gemakkelijk te identificeren. Dit voorstel heeft een uitstekende discussie en aanzienlijke steun voor de bijbehorende Snapshot gekend. Houd er rekening mee dat alle Aavegotchis, ongeacht het besluit van de DAO over deze kwestie, speciale niet-overdraagbare "Haunt" badges zullen krijgen die hun Haunt identificeren. Dit voorstel richt zich specifiek op het idee van een niet-overdraagbare achtergrond die kan worden uitgerust in de Aavegotchi's BG wearable slot.
 
-Per our three seasons a year schedule, it is now time to vote on Rarity Farming Season 8
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
-The timing, funding, and configuration of Rarity Farming Season 8 shall be -
+Optie 1: Alleen Haunt 1 heeft een speciale achtergrond
 
-* Start Date - March 16th 2:30 PM UTC
+Optie 2: Elke Haunt moet zijn eigen unieke achtergrond hebben
 
-* Total Rewards Allocated - 1.5 Million GHST from the player rewards wallet
+Optie 3: Nee, laat het zoals het is
 
-Pool allocations per category -
-
-* BRS 60%
-
-* KIN 20%
-
-* XP 10%
-
-* Battler 10%
-
-BRS/KIN/XP for top 7500 Gotchis (30% of total)
-
-Battler details and anything not specifically covered in this proposal are to be confirmed later.
-
-Option 1: YES - Make it so!
-
-Option 2: NO - Do not want!
-
-**Voting Period:** 6 - 12 March 2024
+**Stemperiode:** van 17 tot 24 maart 2021
 
 **Resultaten:**
 
-table_agip109
+tabel_agip5
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xe2536a75bf80798f65559eeb832312198d9a9c640b5660f432e1e71de60dd945)
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmfBrnUmfsX57vXWchr1mUNkqMWNeF6edEqdQq11MCvMHJ)
 
 <hr />
 
-### Lend 600k GHST to improve liquidity and orderbooks on major CEXs
-**Aavegotchi Improvement Proposal #110**
+### Vergoeding toevoegen op Baazaar om Rarity Farming te ondersteunen
+**Aavegotchi Verbetering Voorstel #6**
+
+**Voorstel samenvatting:** Met de aankondiging van SZN1 beloningen nu officiëel, verkennen we hoe de interesses en beloningen van de gemeenschap op elkaar kunnen afstemmen, aangezien het betrekking heeft op de Baazaar-kosten.
+
+Op dit moment is 2% aan Pixelcraft en 1% aan schatkist van de DAO. Hoewel niet exclusief tot het verstrekken van RF beloningen, de schatkistfondsen zijn op dit moment niet verplicht om elk seizoen in welke vorm dan ook toe te wijzen aan de RF pool. Het voorstel is erop gericht de Baazaar-vergoedingen te verhogen van 3 procent naar 3,5 procent, waarbij de extra 0,5 procent rechtstreeks naar de Rarity Farming Beloningen gaat.
+
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+
+Optie 1: Ja, verhoog kosten van 3 tot 3.5
+
+Optie 2: Nee, de kosten laten zoals ze zijn
+
+**Stemperiode:** van 7 tot 13 april 2021
+
+**Resultaten:**
+
+tabel_agip6
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmPUueFJwpCz6rBiucnBYPLxTv2tetzxXWwCi2gSQFMJMW)
+
+<hr />
+
+### Verdien XP voor succesvolle Signaal Voorstellen
+**Aavegotchi Verbetering Voorstel #7**
+
+**Voorstel samenvatting:** We hebben momenteel veel Signapshot / Gemeenschapsvoorstellen op Snapshot en dagelijks nieuwe berichten op ons forum. Tot nu toe kon geen van deze voorstellen zelfs maar het quorum van 20 procent bereiken. De populairste bij @JG over het toevoegen van extra kosten voor RF kreeg slechts 2 miljoen GHST in stemmen (~11%)-hoewel het team besloot om het als een kernvoorstel te beschouwen. Na een upgrade naar Core hebben we recht door het quorum gebroken in minder dan 24 uur.
+
+Ik denk dat daar twee voor de hand liggende redenen voor zijn. Aan de ene kant is onze Snapshot op dit moment een beetje chaotisch, waarbij sommige Signal Proposals het sjabloon helemaal niet volgen. Aan de andere hand denk ik aan het feit dat stemmen op een kernvoorstel nu 20 ervaring (XP) voor uw Gotchi geeft.
+
+Ik stel voor om een kleine afname van de ervaring (10 XP) toe te voegen voor mensen die op succesvolle Signal Voorstellen hebben gestemd, diegene die het quorum bereiken en worden opgewaardeerd tot Core Voorstellen. Het simpelweg laten vallen van XP voor alle Gemeenschapsvoorstellen kan leiden tot slechtere kwaliteitsinstellingen, wat niet het doel van dit voorstel zou moeten zijn.
+
+Zelfs als 10 XP misschien niet veel is, het geeft mensen stimulansen om daadwerkelijk door de Signalen te kijken en te stemmen op kwalitatieve voorstellen, met een grotere kans op het bereiken van het quorum. Als DAO is betrokkenheid van de gemeenschap buitengewoon belangrijk en ik denk dat dit een kleine, maar fatsoenlijke stap in de goede richting is.
+
+Als dit voorstel het quorum bereikt en doorgaat, zullen alle Aavegotchis die hun eigenaren aan het einde van de stemming 10 XP ontvangen!
+
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+
+Optie 1: Ja, succesvolle SigProps geven XP
+
+Optie 2: Nee, SigProps mag geen XP geven
+
+**Stemperiode:** van 12 tot 18 mei 2021
+
+**Resultaten:**
+
+tabel_agip7
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmctiApzKZHoVsSpzWVfMVL1abRTUNXsoipupNGS52gEuZ)
+
+<hr />
+
+### Stemkracht gebaseerd op BRS
+**Aavegotchi Verbetering Voorstel #8**
+
+**Voorstel samenvatting:**Stemkracht voor Aavegotchis in het adres van een kiezer toevoegen met een waarde van 1 GHST per BRS (basislaagscore, niet inclusief uitgeruste wearables).
+
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+
+Optie 1: Ja, geef Stemvermogen aan Aavegotchi gebaseerd op BRS
+
+Optie 2: Nee, Aavegotchis zou geen stemvermogen moeten hebben
+
+**Stemperiode:** van 11 tot 17 juni 2021
+
+**Resultaten:**
+
+tabel_agip8
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmZnzgvkEzHvwkYPGLFQLtVvvoMzBXPWhznux1udHzbUim)
+
+<hr />
+
+### Stemkracht op basis van de Wearables' Maall Price
+**Aavegotchi Verbetering Voorstel #9**
+
+**Voorstel Samenvatting:** Voeg Stemkracht toe voor Wearables welke beheerd worden door Aavegotchis en in het stemadres.
+
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+
+Optie 1: Ja, geef Stemkracht aan Wearables op basis van de maximale prijs
+
+Optie 2: Nee, Aavegotchis zou geen stemvermogen moeten hebben
+
+**Stemperiode:** van 11 tot 17 juni 2021
+
+**Resultaten:**
+
+tabel_agip9
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/Qmat7jeAS1W3BBq7yDi2jkHjNoywmUEfrF2FdPiS9CcGHa)
+
+<hr />
+
+### Partnerschap tussen AavegotchiDAO, Pixelcraft, en DinoSwap
+**Aavegotchi Verbetering Voorstel #10**
+
+**Voorstel Samenvatting:** Sommige leden van de gemeenschap maken zich zorgen over de afnemende liquiditeit van GHST op Quickswap en hun geleidelijk dalende LP beloningen. In plaats van simpelweg meer liquiditeit toe te wijzen aan de pool, overwegen we om samen te werken met een snelle liquiditeitsaggregator genaamd DinoSwap. De voorwaarden omvatten een totaal van 200k USD ter waarde van GHST tokens die moeten worden toegewezen aan hun aanmoedigde ‘extinction pools’, waarvan de details hieronder zijn uitgewerkt.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/ghst-liquidity-rewards-on-new-launch-pixelcraft-dao-collaboration/1804).
+
+Optie 1: Ja, laten we samenwerken met DinoSwap
+
+Optie 2: Nee, geen partner met Dinoswap
+
+**Stemperiode:** van 13 tot 20 juni 2021
+
+**Resultaten:**
+
+tabel_agip10
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmV3xdUskpTtd6JYyCgV7tjWeBGira2ZPFcdk2YDy3UPHE)
+
+<hr />
+
+### Liquidity Manager / FRENS Commissie
+**Aavegotchi Verbetering Voorstel #11**
 
 **Voorstel Samenvatting:**
 
-*New:*
+*Probleem*
 
-Please note the new specific KPIs and repayment strike prices documented in part 1 of the “Solution” section.
+Om liquiditeit in QuickSwap te stimuleren, kunt u extra GRATIS beloningen ontvangen voor het staken van de Liquidity Pool (LP) tokens op de Aavegotchi website. Afhankelijk van het risico op onpermanente verliezen (IL) kunnen deze getallen verschillen, oorspronkelijk was het +35% voor GHST-QUICK, +20% voor GHST-ETH en +10% voor GHST-USDC. Omdat de tarieven manueel moeten worden aangepast en de prijzen sinds de invoering nogal wat zijn veranderd. zijn de FRENS beloningen heel veel uitgezet; GHST-QUICK is ongeveer +90%, terwijl GHST-USDC -10% verdient.
 
-*BACKGROUND*
+*Oplossing*
 
-When the GHST Bonding Curve closed in early 2023, our governance token lost its deepest liquidity pool (paired with DAI). To prepare for the coming loss of this GHST/DAI pool, Pixelcraft Studios took it upon themselves to lend a total of 300k GHST to Skynet Trading, a liquidity solutions company, to bolster liquidity on major exchanges such as Binance and Coinbase.
+Geciteerd door [coderdan](/team#coder-dan): "Er is gesproken over het instellen van comités voor het beheer van bepaalde delen van Aavegotchi, Ik denk dat dit een interessante kandidaat zou kunnen zijn voor een dergelijke commissie. Op dit moment hebben we slechts twee [nu drie] paren die worden gestimuleerd door FRENS, maar dit kan in de toekomst veranderen.”
 
-Skynet Trading has successfully fulfilled its role as a market maker for GHST throughout 2023, consistently maintaining the most liquidity for GHST on Coinbase.
+Het "comité" zou een multisig kunnen zijn van ten minste negen (misschien wel vijftien leden) leden met een sterke reputatie in de gemeenschap en hoge betrouwbaarheidstegenhangers van Gotchi. In de kern zou deze Liquidity-commissie de FRENS-tarieven controleren en aanpassen om de vooraf vastgestelde tarief in te kunnen spelen door het uitvoeren van contractuele aanroepen naar de GHST Staking contracten alleen beschikbaar voor een nieuwe "rateManager" rol die voor de commissie is gecreëerd
 
-The loans that made this possible will soon expire but Skynet Trading is open to continuing to support GHST initiatives. I believe any future collaboration is something better suited to be executed by AavegotchiDAO.
+Voorlopig zou de commissie slechts één taak moeten hebben, namelijk het up-to-date houden van de FRENS-tarieven. In de toekomst zou dit kunnen worden uitgebreid tot partnerschappen, toezicht op de inflatie van de FRENS enz.
 
-*Proposal*
+*Kandidaten*
 
-With the first year viewed as a sort of due diligence, I am now proposing that AavegotchiDAO replace Pixelcraft Studios with new loans to Skynet Trading, beginning with 600k GHST for 12 months explicitly to improve GHST’s liquidity on more centralized exchanges.
+Twee weken geleden hebben we een Discourse thread gemaakt (gekoppeld hierboven) voor belanghebbende partijen om zich kandidaat te stellen. Sindsdien hebben elf mensen zich aangemeld. Alle kandidaten zijn al een tijdje lid van de gemeenschap en hebben goede redenen om voor te kiezen. Aangezien dit nog steeds binnen het bereik van 9-15 ligt, is het het gemakkelijkst om de commissie samen te stellen met alle kandidaten.
 
-Skynet Trading is dedicated to providing trading services that aim to reduce slippage by narrowing spreads, increase the accessibility of GHST by focusing on spread and depth key performance indicators, encourage organic trading through the development of attractive order books, and minimize the impact of large market orders. Whereas last year’s focus was primarily on Coinbase, a 600k-sized loan makes it possible for Skynet Trading to also provide liquidity on Binance, OKX, and HTX respectively.
+Het is aan jullie, AavegotchiDAO. Moeten we deze stap zetten door Aavegotchi verder te decentraliseren en de FRENS in handen te geven van:
 
-*The Problem: Poor liquidity on CEXs.*
+Angst, Jarrod, Kenymccornick, UnfitStone, Notorious_BTC, Doxy, Kokusho, Grip, Almond-Stew, Shanekoy en Moon
 
-The screenshot from coinmarketcap (Feb 9, 2024) illustrates the poor liquidity of GHST on exchanges. Most GHST pairs suffer from significantly thin books. This means GHST is inaccessible to people seeking medium to large allocations on most exchanges. Working with Skynet to improve liquidity across exchanges is a strategic move to foster a better trading environment for all participants interested in GHST tokens.
+[Conversatie (Ide/voorstel)](https://dao.aavegotchi.com/t/committee-idea-liquidity-managers-for-managing-the-frens-s-of-liquidity-pairs/1905)
+
+[Discourse Thread (Kandidaten)](https://dao.aavegotchi.com/t/frens-committee-applications/1944)
+
+Optie 1: Ja, creëer de FRENS commissie
+
+Optie 2: Nee, houd alles zoals het is
+
+**Stemperiode:** van 17 tot 25 augustus 2021
+
+**Resultaten:**
+
+tabel_agip11
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmdLouPY9ipn2ezC2RR5Fjcz8auhX1uLajk9QS8nrctfsY)
+
+<hr />
+
+### Start Haunt 2
+**Core Prop (Kernvoorstel)**
+
+**Voorstel Samenvatting:** Momenteel zijn Aavegotchis beperkt met een maximum van 10.000 omdat alleen Haunt 1 Portals bestaat. Dit maakt het verkrijgen van een eerste Aavegotchi onbetaalbaar. Met een tweede Haunt van nog 15.000 Portalen, willen we dit probleem aanpakken met inachtneming van unieke, verzamelbare aspecten van Haunt 1 Aavegotchis.
+
+Onze visie is op een veel breder gebruik van speelbare NFT's, en de eerste stap om dat te bereiken betekent dat de schaarste memes achter moeten blijven en dat we ons moeten richten op het bieden van betekenisvolle unieke ervaringen aan meer mensen.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/coreprop-launch-haunt-2/2034)
+
+Optie 1: Ja, start Haunt 2
+
+Optie 2: Nee, start nu geen Haunt 2
+
+**Stemperiode:** van 19 tot 26 juli 2021
+
+**Resultaten:**
+
+tabel_launchHaunt2
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmTuVnGnZSUC4uWRVQrd3HwmJATtvJVpjNikCkifChyJwY)
+
+<hr />
+
+### Voeg een Aging Mechanic toe om Aavegotchi rarity scores te beïnvloeden
+**Aavegotchi Verbetering Voorstel #13**
+
+**Voorstel Samenvatting:**
+
+*Probleem*
+
+Als nieuwe haunts worden vrijgegeven, of ze een bug fix bevatten die invloed heeft op de productie van gotchi eigenschappen, Er is een sterke verwatering van bestaande hoge BRS aan de gang. Vanwege de aard van RF en de beloningen, wordt deze verdunning uitsluitend gevoeld door degenen die veel in vorige Haunts hebben geïnvesteerd, en wie misschien niet de wens heeft om te verkopen vanwege emotionele bijstand, de middelen om meer te investeren, of de mogelijkheid om hun manier van ‘lip’ (door lokale belastingwetgevingen) te kunnen gebruiken in hogere BRS van de nieuwere haunts. Bovendien kan er in nieuwe haunts zeer grote statistische variatie optreden, het bijna onmogelijk maken om financiële langetermijnbesluiten te nemen, omdat de variatie eerdere haunt gewoon achterhaald kan maken. Dat laat veel te veel ruimte over aan "geluk".
+
+*Oplossing*
+
+De Aging Mechanic is een voorstel, dat oorspronkelijk door Tistou op discord is geïntroduceerd, en dat is bedoeld om alle bovengenoemde kwesties aan te pakken. Naast het creëren van een interessante nieuwe dynamiek van Aavegotchis waarop in de toekomst kan worden voortgebouwd (leeftijdsgrenzen voor activiteiten, wearables, nieuwe uiterlijkkwaliteiten, enz.). Het biedt een buffer van ongeveer zes maanden waarin oudere gotchis een BRS-boost hebben ten opzichte van nieuw opgewekte gotchis. Naarmate ze net naar gotchis kwamen, beginnen ze snel hun oudere tegenhangers in te halen.
+
+In de geest van het gebruik van getallen die in de natuur voorkomen, wordt de formule gemodelleerd na de Fibonacci nummers x 1 miljoen. maar de eerste 0 vervangen door een 1 om beter bij het gebruik te passen. Concreet zijn de eerste 10 Fibonacci nummers (vervanging van de eerste 0) 1 1, 1, 2, 3, 5, 8, 13, 21, 34, waarvan de som 89 is. Het volgen van deze formule zou betekenen dat +1 BRS na 1 miljoen blokken, dan nog een +1 BRS na 2 miljoen blokken, nog een +1 BRS na 3 miljoen blokken, nog een +1 BRS na 5 miljoen blokken, …, tot een eindsom van +10 BRS na 89 miljoen blokken (ca. 6. jaren gebruik makend van de gemiddelde bloktijd van 2,3 seconden - het gemiddelde sinds 1 mei).
+
+Deze oplossing zorgt voor een snellere boost in de eerste paar leeftijdsgroepen en vertraagt enorm na verloop van tijd veel om te voorkomen dat iets te OP is en laat meer recente gotchis uiteindelijk binnen een 1 BRS-punt van hun oudere en verstandigere broeder komen. Het stimuleert de opening en summoning van portalen in plaats van er op te gaan zitten, beiden verbeteren zowel de economie in het spel als de schaarste van portalen die nog steeds gesloten zijn. Bovenal is het een eerlijk systeem dat niemand ten goede komt op een ander gebied en betrokkenheid op de lange termijn beloont. terwijl we de effecten van plotselinge en agressieve verwatering tegengaan, zoals we nu zien.
+
+*Aanpassingen gemaakt op oplossing*
+
+* **De implementatie zal enigszins worden aangepast om de beschikbare datums van het geboorteblok te gebruiken in tegenstelling tot het bloknummer,** met epochtijden vooraf bepaald met dezelfde fibonacci intervallen voorgesteld in de sigprop en de huidige gemiddelde bloktijd. Dit maakt de implementatie veel eenvoudiger en maakt voorspelbare tijdlijnen mogelijk (omdat een bloktijd constante zou zijn, in tegenstelling tot variabele gebaseerd op onchain activiteit), daarnaast moet de functionaliteit van de mechanica worden gewaarborgd, indien zich in de toekomst eventuele veranderingen van het blockchainnetwerk of architectuur voordoen. De petting tijdsintervallen functioneren al in realtime en dus bestaat er een precedent hiervoor.
+
+* **De 10 BRS cap is verwijderd.** De fibonacci intervallen fungeren zelf als een natuurlijke cap, omdat de tijd om verdere epochs te bereiken een exponentiële functie nadert. Het zal bijvoorbeeld meer dan 4 jaar duren om een extra BRS-bonus te krijgen (+11 totaal), en 6.5 jaren voor een volgende 10,5 jaar, enzovoorts.
+
+* **De implementatie zou live gaan vóór het begin van Rarity Farming Seizoen 2.** Een van de doelen van aging is om een korte-termijnbuffer te bieden voor de effecten van statistische variatie wanneer er een nieuwe haunt wordt losgelaten. Om Haunt 1 al van dit voordeel te kunnen profiteren, moet de uitvoering zo snel mogelijk beginnen, zoals midden in seizoen 2 zou H2 ingelopen moeten zijn op de H1 bonus, met slechts een verschil van 1 tot 2 BRS.
+
+Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+
+Optie 1: Ja, implementeer aging stimulansen
+
+Optie 2: Nee, voer nu niet uit
+
+**Stemperiode:** van 2 tot 9 oktober 2021
+
+**Resultaten:**
+
+tabel_agip13
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmcAQLdAyS9n7LWDu9qvRtdNqJa7FBStadrHq3xqjW9kCT)
+
+<hr />
+
+### Verdien FRENS met GHST-MATIC LP Tokens
+**Aavegotchi Verbetering Voorstel #14**
+
+**Voorstel samenvatting:** Polygon is een enorme reden voor het succes van Aavegotchi. Super lage transactiekosten betaald in MATIC hebben het team in staat gesteld een spel te bouwen waar veel activiteit plaatsvindt in de on-chain zoals petting, bid to earn veilingen, Baazaar verkopen en opslag van de Aavegotchi spelkunst.
+
+Vanaf begin september begon Sushiswap met het bieden van 2x SUSHI beloningen voor het farmen van het GHST-MATIC LP paar op Sushiswap.
+
+De FRENS Taask Force raadt aan om een FRENS incentive te betalen voor het GHST-MATIC LP pair op hun AMM.
+
+We raden aan dat het doelpercentage van FRENS dat aan het GHST-MATIC LATIC LP paar wordt betaald hoger is dan de doelstimulans voor het GHST-ETH LP paar (120%) maar lager dan de doelstimulans voor het GHST-QUICK paar (135%).
+
+Dit komt omdat het inpermanente verlies (IL) voor GHST-MATIC hoger is dan GHST-ETH maar lager dan GHST-QUICK. We raden een streefpercentage aan van 130 procent voor het GHST-MATIC LP-paar.
+
+Momenteel bevindt het grootste deel van de liquiditeit van GHST zich op Quickswap.
+
+Zie: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+
+Dit biedt een geweldige kans om een deel van de liquiditeit over te hevelen naar de algemeen aangenomen Sushiswap AMM en onze afhankelijkheid van Quickswap te verminderen.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/frens-incentive-for-matic-ghst-lp-pair-on-sushiswap/2336)
+
+Optie 1: Ja, geef GRATIS aan GHHST-MATIC
+
+Optie 2: Nee, geef geen GRATIS niet
+
+**Stemperiode:** van 12 tot 19 november 2021
+
+**Resultaten:**
+
+tabel_agip14
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x42914b268d255efe0eea943d052e5dc7eab0cbbcde9d3cb809f027e3ea1f611f)
+
+<hr />
+
+### Maak een Wearables Taask Force
+**Aavegotchi Voorstel Verbetering #15**
+
+**Voorstel Samenvatting:**
+
+*Motivatie*
+
+Binnen het Aavegotchi ecosysteem spelen de wearables een vitale rol, of het nu BRS stimuleert voor rarity farming, het verbeteren van eigenschappen voor minigames, nut in de aankomende metaverse, of om ze gewoon te laten zien. Vanwege de complexiteit van de verschillende mogelijke assortimenten van gotchis, en de variëteit van mogelijke wearable statistieken, is het geen eenvoudige taak om tot een evenwichtige verdeling van de aan te dragen artikelen te komen. Het vrijgeven van nieuwe wearables zonder goede analyse kan leiden tot duplicatie (en verdunning) van bestaande items en een verdere scheuring van praktische sets voor gotchis met traits in een bepaalde richting.
+
+*Specificatie*
+
+Dit voorstel is gericht op de invoering van een Wearables Taask (WTF), waarvan het idee is voortgekomen uit discussies over bovengenoemde kwesties. Akin in the FRENS Taask Force, het doel van de WTO zou zijn om Pixelcraft te helpen bij het analyseren van de huidige verdeling van items binnen het ecosysteem vanvanuit een zeldzaamheid, en eigenaarschap modifiers perspectief, en in hoe deze analyse het best kan worden toegepast op toekomstige items. Deze Taask Force zou NIET de unilaterale mogelijkheid hebben om te bepalen wat en hoe nieuwe items worden vrijgegeven, maar zou volledig functioneren in een adviserende rol.
+
+*Genomineerde*
+
+Onder de genomineerden voor de Taask Force bevinden zich lange termijn gemeenschapsleden met een breed scala aan toepasselijke vaardigheden, inclusief statistische analyse, programmeer kennis, sterke ervaring in baazaar activiteit en voorafgaande DAO ervaring. Deze Taask Force zou veel baat hebben bij zoveel mogelijk stemmen en perspectieven, dus alle nominaties zijn opgenomen. De oprichting van deze Taask Force zou een grote stap voorwaarts zijn bij het creëren van een evenwichtiger ecosysteem en het helpen van de AavegotchiDAO.
+
+**Volledige lijst met genomineerders:** Kuwlness, JG1 (Fantasma#1777), Beared, Actaeon, Thunderfish, Letsgobankless Kokusho, Ader1990.eth, Machete, Aimo217 (AL#4105), Notorious_BTC, MonsterRNG, Goobz, Diddlypoo
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/wearables-taask-force/2350)
+
+Optie 1: Ja, creëer de WTF
+
+Optie 2: Nee, de WTF niet opzetten
+
+**Stemperiode:** van 12 tot 19 november 2021
+
+**Resultaten:**
+
+tabel_agip15
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xa1f06ffcdd5f5d51c5f82022e8a25ecc7672252f8a47d9ee484b9fe3b6cd5b3a)
+
+<hr />
+
+### Stake 100k GHST om Minigame Beloningen te genereren
+**Aavegotchi Verbetering Voorstel #16**
+
+**Voorstel samenvatting:** Sommige frens hebben hun bezorgdheid geuit over het gebrek aan beloningen voor deelname aan Minigame evenementen. Aangezien er momenteel geen Aarcade Taask Force bestaat met een aangewezen budget Gotchinomics hebben het idee geopperd om 100k GHST in de schatkist te steken om toekomstige initiatieven te ondersteunen.
+
+*Probleem*
+
+Aavegotchi streeft ernaar een van de top Play2Earn projecten in de crypto gaming ruimte te zijn de lancering van het Gotchiverse Rijk is de hoeksteen voor het bereiken van dit langetermijndoel. Er is echter ruimte voor het verbeteren van de mogelijkheden op korte termijn door middel van seizoens evenementen. Het grootste probleem is het gebrek aan structuur en middelen.
+
+*Oplossing*
+
+Voordat u een speciale DAO van Aarcade creëert, is de eerste stap om play2earn beloningen in te schakelen en het creëren van een duurzame stroom van fondsen. Een eenvoudige oplossing zou zijn om een deel van de belangrijkste DAO schatkist te staken, zoals 100k GHST, om FRENS te genereren. Die kunnen dan worden getransformeerd in raffle tickets en worden weggegeven aan minispelers, door periodieke gebeurtenissen.
+
+*Potentieel Risico*
+
+Het uitzetten van GHST zal indirect een verwatering van FRENS/tickets betekenen. Omdat ze echter zouden worden verdeeld via mini-games, zou het effect minimaal moeten zijn in vergelijking met de verhoging van het engagement en het beroep op nieuwe mensen.
+
+*Alternatieven*
+
+Wacht tot de Aarcade DAO van start is gegaan en laat het nieuwe comité beslissen hoe middelen moeten worden aangewezen. Deze alternatieve optie zou echter betekenen dat kostbare tijd verloren gaat om aantrekkelijkere beloningen te genereren.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128)
+
+Optie 1: Ja, stake 100k GHST
+
+Optie 2: Nee, wacht op Aarcade DAO
+
+**Stemperiode:** van 10 tot 17 december 2021
+
+**Resultaten:**
+
+tabel_agip16
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd654255f22e694369686e9791ff663f38a9f586bd4126831fc9d8ce384208964)
+
+<hr />
+
+### Toevoegen van Stemkracht aan REALM parcelen
+**Aavegotchi Verbetering Voorstel #17**
+
+**Voorstel Samenvatting:**
+
+*Probleem:*
+
+Met een nieuwe asset klasse toegevoegd aan de Aavegotchi familie in de vorm van realm percelen komt een nieuwe bron van GHST. Dit laat momenteel degenen die zwaar hebben geïnvesteerd in de nieuwe percelen met veel minder stemkracht in de Aavegotchi DAO.
 
 *Oplossing:*
 
-*PART I: Loan Terms and Goals*
+Omdat realmpercelen en de Gotchiverse zo'n integraal onderdeel zijn van het Aavegotchi ecosysteem, denk ik dat het alleen goed is dat realm-eigenaren een hoeveelheid stemrecht krijgen die evenredig is aan de grootte van hun Realm-plots. Dit zorgt ervoor dat hun stem kan worden gehoord, wat van bijzonder belang is wanneer toekomstige bestuursvoorstellen betrekking zullen hebben op de Gotchiverse.
 
-This proposal is for AavegotchiDAO to lend 600k GHST to Skynet Trading for a 12 month term. The loaned GHST shall be used as liquidity provisions across four exchanges: Coinbase, Binance, OKX, and Huobi.
+Omdat elke plot een ingestelde grootte in pixels heeft, wat ook een schaalfactor is voor de hoeveelheid alchemica binnen het plot, het gedane voorstel is:
 
-Skynet Trading’s terms impose no retainer fee, no setup fee, or trading fees.
+1 pixel = 1 GHST ter waarde van stemmen (64, 256, 2056) OF 1 pixel = 0.5 GHST waard van stemrecht (32, 128, 1028)
 
-Newly Published KPIs and Strike Price Formula:
+Een alternatief zou zijn om alle plot platte stemkracht te geven op basis van de veilingsverdieping. met een stem daarna, die het mogelijk maakt om de uiteindelijke stemverhoudingen te verfijnen, terwijl alle grondbezitters inspraak hebben.
 
-Tight spreads: No greater than 50 bps.
+Dit zou respectievelijk 100, 200 en 1300 GHST stemrecht geven aan humble, reasonable en spacious parcelen.
 
-Deep order books: Minimum of 25 orders on both sides of the book. 10k USDT across
+*CoreProp bewerkingen*
 
-Repayment strike price:
+Een optie voor "Veiling verdieping" is ook toegevoegd. Dit brengt het stemverschil tot 20%, wat betekent dat elke optie 20% hoger moet zijn dan de volgende optie.
 
--300k tokens @TWAP7 from start
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/voting-power-for-land-plots/2508)
 
--150k tokens @TWAP7 from 3 months into the agreement
+Optie 1: Stemkracht van 0.5 GHST/pixel
 
--150k tokens @TWAP7 from 6 months into the agreement
+Optie 2: Stemkracht van 1 GHST/pixel
 
-* The exact strike price formula was not included in the Sigprop but are now revealed per requests from DAO members and Skynet obliged. I can confirm the team has agreed to add the 3 and 6 month out terms in light of our concerns about frontloading all strike prices near the beginning of this potentially bullish year. At the end of the 12 month term, Skynet Trading will have the option to A) return the 600k GHST to AavegotchiDAO or B) purchase the GHST at the strike prices as defined in this proposal.
+Optie 3: Stemvermogen van veilingsvloer
 
-*PART II: Responsibilities*
+Optie 4: geen stemrecht voor REALM
 
-The second part of this proposal defines the relationship between AavegotchiDAO and Skynet Trading and who executes which responsibilities. The solution offered is the creation of a Liquidity Management Task Force (LMTF).
+**Stemperiode:** van 10 tot 17 december 2021
 
-The Signer shall be a current director from Aavegotchi DAO Foundation willing to sign the contract between Skynet Lending and the Aavegotchi DAO Foundation. The Signer must be willing to KYC by providing liveness check and passport scans.
+**Resultaten:**
 
-The Primary Point of Contact (PPC) shall be the leadership team at Pixelcraft Studios. They shall continue to maintain daily contact between the two main parties and always advocate for the best interests of AavegotchiDAO and the spirit of this proposal. There is an existing communication channel between Pixelcraft Studios and Skynet Lending that will continue to serve as the main comms channel throughout this contract’s term. The PPC shall attend weekly DAO meetings when summoned and answer any questions raised by DAO members at those meetings. The PPC role can be transferred from Pixelcraft leadership to another party at any time via a DAO Role Change Vote (DRCV).
+tabel_agip17
 
-The process is simple. Any DAO member can create a Motion to Change Roles and then make the case via a snapshot vote. If the voting power in favor of the motion exceeds 9 million, the role shall be changed. This threshold is high enough to discourage any practical attack vectors yet completely within the realm of possibility if the will to enact is widely supported by DAO participants.
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x28b630e088240ee4bb4e680b071767b98b962a4006c71e71f00c782b86adfbab)
 
-*PART III: Order of Operations*
+<hr />
 
-The 600,000 value of GHST will come from the DAO’s Liquidity Wallet (Polygon: 0x62DE034b1A69eF853c9d0D8a33D26DF5cF26682E). The Liquidity Wallet currently holds no GHST but still has roughly 2.3M USD of stablecoins, so we shall use the autoswappper contract developed in AGIP 69 to buy these 600,000 GHST.
+### Gotchiverse Patch v0.1
+**Aavegotchi Verbetering Voorstel #18**
 
-Steps:
+**Voorstel Samenvatting:**
 
-1: Directors shall send 700K USDC to the autoswapper contract.
+*Probleem:*
 
-2: Set the autoswapper’s buy amount to 6500 USDC and the buy interval to 2 Hours.
+Hoewel de Gotchiverse nog niet live is, hebben we enkele gebieden geïdentificeerd die naar onze mening moeten worden aangepast voordat het spel wordt vrijgelaten. en wil deze zaken graag onder de aandacht van de gemeenschap brengen voor discussie en een besluit over het al dan niet uitvaardigen.
 
-3: Execute the autoswapper. It shall accumulate 600k GHST in roughly 8 days.
+Om ervoor te zorgen dat geen enkele voorgestelde wijziging de hele partij kan terugdraaien, hebben we oorspronkelijk zes afzonderlijke momentopnames gemaakt. Deze CoreProp combineert de succesvolle SigProps met de eerste Gotchiverse Patch v0.1!
 
-3.1: IF 700k USDC is not enough to purchase 600k GHST, the Directors shall calculate how much additional USDC is required and send those funds to the autoswapper contract as well. Their discretion is enough for up to an additional 100k USDC required, but anything beyond that will require unanimous approval during a weekly DAO meeting. Even one dissenting vote (expressed by emojis in Discord) during that meeting would render additional funds unobtainable.
+*Oplossing:*
 
-3.2: Any GHST accumulated beyond the required 600k shall remain on the Liquidity Wallet’s balances until the DAO decides some further actions for those funds.
+Patch 0.1a
 
-4: Skynet Trading presents the final executable contract to the Signer for review.
+Op dit moment leggen we de belangrijkste details zoals bouwkosten en oogsttarieven voor de aanstaande Whitepaper, definitief vast. we ontdekten dat een van onze belangrijkste veronderstellingen de hoeveelheid Alchemica in elk pakje onderschat had ten opzichte van het totale aanbod. De patch zal de hoeveelheid Alchemica onder elk pakje verhogen zodat deze overeenkomt met de aanvankelijke voorraden en toewijzingen en emissietarieven.
 
-5: If both the Signer finds the contract agreeable, the Signer shall sign.
+De SigProp voor Patch 0.1a is doorgegeven aan de volgende nummers:
 
-5.1 If the Signer finds details in the contract not aligning with our CoreProp, the Signer shall not sign and instead the process will revert back to negotiations between all parties.
+Ja: 13.14M GHST
 
-6: After signing, the Directors shall transfer 600k GHST to a wallet provided by Skynet Trading.
+Nee: 41.85k GHST
 
-7: The Primary Point of Contact shall begin interfacing with Skynet Trading to confirm receipt of the 600k GHST and the beginning of executing liquidity support across four exchanges.
+Patch 0.1a
 
-8: Skynet Trading shall provide a monthly report to the Primary Point of Contact who shall, in turn, share this report during the next weekly DAO call.
+Het was oorspronkelijk onze bedoeling om alleen een eenmalige boost te maken. het is duidelijk dat velen in de gemeenschap het GEO-document hebben geïnterpreteerd als een opleving van de middelen. Deze patch maakt het mogelijk om ook het parceel aan te vullen na elke Grote Strijd.
 
-9: This process shall continue throughout the 12 month term of the contract.
+In tegenstelling tot parcelen is het aanvulleningspercentage echter een vast bedrag dat hetzelfde is per ronde. Bijvoorbeeld, een pakketje met "5" FUD boost ontvangt 5 porties FUD per boost ronde.
 
-10: Nearing the conclusion of the contract, Skynet Trading and the DAO can signal to each other whether or not each party wishes to re-engage for another agreement or not.
+De SigProp voor Patch 0.1b is ook redelijk overtuigend gegaan:
+
+Ja: 10.14M GHST
+
+Nee: 2.85k GHST
+
+Patch 0.1c
+
+Zelfs met patch 0.1b geslaagd, boosts zullen nog steeds ondergewaardeerd worden vergeleken met de waarde die de markt ze heeft toegewezen, in relatie tot een vergelijkbaar parceel zonder boosten. Patch 0.1c stelt een verhogende boost voor met 5x om de waarde van een verhoging dichter bij de koers te brengen waar de markt op dit moment op waardeert.
+
+De SigProp voor Patch 0.1c is niet geslaagd en ZAL NIET aanvaard worfden in Patch v0.1:
+
+Ja: 5.14M GHST
+
+Nee: 8.85k GHST
+
+Toekomstige SigProps kunnen worden gemaakt om dit probleem afzonderlijk aan te pakken.
+
+Patch 0.1a
+
+De Gotchiverse Litepaper vermeldt dat Kinship zal worden ingeruild voor een dienst van Alchemica, in wezen een ‘verbranding’ kinship. We willen zeker het idee behouden van een ‘kinship boost’ voor channeling, maar na een diepgaandere bezinning zijn wij van mening dat er nu een betere manier is om dit te bereiken.
+
+Een aanpak van “prestaties” vereist geen uitputting van de kinship van een Aavegotchi. In plaats daarvan zal hoge kinship Aavegotchis Alchemica Channelen tegen een iets hogere snelheid, afhankelijk van hun prestatieniveau.
+
+De SigProp voor Patch 0.1d is ook doorgegeven:
+
+Ja: 12.14M GHST
+
+Nee: 431.85k GHST
+
+Patch 0.1e & 0.1f
+
+Districten bestonden niet als Citaadel concept toen de Litepaper voor het eerst werd gepubliceerd. Dat gezegd hebbende, hebben we altijd een gebied of gebieden voor Pixelcraft bedacht om diepgaande ervaringen te ontwikkelen die waarde toevoegen aan het hele spel. Een van onze vroegste ideeën, (voorafgegaan aan de Citaadel zelf!) was het reserveren van een plein in de stad voor realtime voor het stemmen met de DAO. Het idee van een spelende governance ervaring was een van de allereerste ideeën die de behoefte van Aavegotchi aan zijn eigen virtuele wereld zaaiden.
+
+Patch 0.1e & 0.1f stelt voor om 1000 parcelen toe te wijzen aan Pixelcraft en de AavegotchiDAO in D27/D30. Beide patches kwamen overtuigend voorbij:
+
+Ja: 11.94M GHST / 12.14M GHST
+
+Nee: 615.78k GHST / 734.92K GHST
+
+Besluit
+
+En dat is het voor de eerste Gotchiverse Patch! Nu is het aan jullie, de AavegotchiDAO, om te beslissen of Patch v0.1 al dan niet moet worden toegepast.
+
+Optie 1: Ja, implementeer Patch v0.1
+
+Optie 2: Nee, voer nu niet uit
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/gotchiverse-paatch-v0-1-thread/2791)
+
+Optie 1: Ja, implementeer Patch v0.1
+
+Optie 2: Nee, voer nu niet uit
+
+**Stemperiode:** van 5 tot 12 januari 2022
+
+**Resultaten:**
+
+tabel_agip18
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x396844d504394f7f335f070d443c33455300ee21d90db6c4b089760a3e0469bf)
+
+<hr />
+
+### GST Liquidity aanbieden op SynFutures
+**Aavegotchi Verbetering Voorstel #19**
+
+**Voorstel Samenvatting:**
+
+Omdat Aavegotchi veel liquiditeit heeft verzameld op Spot DEXes, is het hoog tijd voor Aavegotchi om zijn Futures markt te creëren en te stimuleren. Derivatives markten vormen het grootste deel van de mondiale handelsactiviteit en geven gebruikers de mogelijkheid om hun investeringen te verhogen. Het toevoegen van GHST liquiditeit aan SynFutures zou mensen in staat stellen om longs (of shorts) te nemen op de toekomst van Aavegotchi. Maar waarom SynFutures?
+
+Geweldige investeerders en teamachtergrond SynFutures worden ondersteund door Polychain, Pantera, Dragonfly, Framework, Standaard Crypto, Woo, en meer. De achtergrond van het team is een geweldige combinatie van traditionele financiën en DeFi. SynFutures is het enige project van zijn soort dat de lijst van assets door iedereen op een toelatige manier (in minder dan 30s) kan ondersteunen.
+
+Beveiliging Ondersteunt door de solide ervaring in TradFi financial engineering and DeFi protocol security, heeft SynFutures veel risk management features (bijv.. anti-flashlening aanval, EMA vloeiende methode, enz.) en heeft externe codeaudits doorlopen.
+
+Eenvoudig te beheren en te starten SynFutures ondersteunt een enkel token model om liquiditeit toe te voegen, wat betekent dat de Aavegotchi Schat alleen GHST hoeft te storten in plaats van twee tokens aan te bieden met het risico van impermanent verlies. We vragen om 200K GHST-tokens om de pool te starten. De liquiditeit kan op elk moment worden ingetrokken.
+
+Groeipotentieel Handelsvolume en gebruikers groeien snel op SynFutures. De afgelopen 3 maanden sinds de SynFutures Alpha werd opgestart, bereikten we 47k-gebruikers van en $1bn+ in handelsvolume. Dit alles gebeurde zonder een autochtone SynFutures token, die nog meer gebruikers zou kunnen aantrekken.
+
+Volumeanalyse Quickswap vs. SynFutures: Totale LPs: 150k / 40K Totale Handelsvolume: 100k / 20k Dagelijks handelsvolume: $100M / $29M
+
+Het handelsvolume van de SynFutures bedraagt ~1/3e van QuickSwap, en de hoeveelheid handelaren is 1/5e zo groot als bij QuickSwap, Het handelsvolume van verschillende paren is echter meer geconcentreerd. SynFutures heeft 108 trading paren terwijl QuickSwap meer dan 22k paren heeft. Het dagelijkse handelsvolume van MATIC-USDC bij SynFutures sluit bijvoorbeeld op ongeveer $9 terwijl Quickswap $14 bereikt.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/provide-ghst-as-liquidity-on-the-derivatives-dex-synfutures/2664)
+
+Optie 1: Ja, stake 100k GHST
+
+Optie 2: Nee, voeg geen $200k aan GHST toe
+
+**Stemperiode:** van 2 - 9 februari 2022
+
+**Resultaten:**
+
+tabel_agip19
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x560e97ce27e9c99470a0a609e36d4c4cd20e948eae92691ea2ba2afb984e7e41)
+
+<hr />
+
+### Het creëren van de DAO Schatkist Taask Force
+**Aavegotchi Verbetering Voorstel #20**
+
+**Voorstel Samenvatting:**
+
+We stellen voor om de DAO Schatkist Taask Force (DTF) op te richten. Dit comité zal in eerste instantie bestaan uit acht ledenwaarvan we het lidmaatschap binnen zes maanden opnieuw zullen laten beoordelen door de DAO.
+
+Vanaf 12/07/2021 beschikt de DAO Schat (https://aavegotchi.com/treasury) over bijna ~$11,408,400 ter waarde in DAI en GHST. In zijn oorspronkelijke vorm zal de commissie voorstellen voor behandeling voorleggen aan de DAO, die vervolgens in stemming zal worden gebracht en, indien goedgekeurd, zal worden goedgekeurd.
+
+Voorgestelde Missie Verklaring
+
+De Aavegotchi DAO Schatkist Taask Force is een dynamisch comité dat is toegewezen aan DAO schatkistmanagementvoorstellen om ter overweging aan de gemeenschap en DAO voor te leggen. De eerste missie en doelstellingen van de commissie zijn: 1) de schatkist van de DAO ontwikkelen en optimaliseren met de nadruk op veiligheid, zekerheid en transparantie; 2) Partner met Pixelcraft om te helpen bij het ontwikkelen en identificeren van tools en infrastructuur voor het lopende Schatbeheer; en 3) bevorderen en aanmoedigen van de groei van de Aavegotchi gemeenschap door het vergroten van het bewustzijn, het actief bevorderen van adoptie en het behouden van huidige gebruikersbetrokkenheid.
+
+Initiële Financiering
+
+Na langdurige discussies met de taskforce, de gemeenschap en met coderdan zou de DTF een eerste 50.000 GHST-begroting willen vragen. Het 50.000 GHST budget zal worden overgeheveld van het Schat van de DAO naar de 8 handtekeningen Gnosis Safe. Deze begroting zal de flexibiliteit van de DAO enorm vergroten bij het stimuleren en belonen van betrokken gemeenschapsleden, ontwikkelaars, creatieven en algehele bijdragers. Dit budget zal nooit worden gebruikt om leden van het DTF te belonen. Het belangrijkste initiatief van de DTF zal zijn om een voorstel op te stellen voor het totale gebruik van de DAO-schatkist door een deel van de 10 miljoen dollar DAI/GHST te investeren in de rendementsopbrengst. Door het effectief inzetten van de DAO-schatkist, zouden zelfs bescheiden rendementen meer dan betalen voor het DTF-begrotingsverzoek. De DTF zal zorg dragen voor een uitgebreide boekhouding en de gemeenschap documenten verschaffen die met de nodige transparantie te maken hebben. Enkele potentiële toepassingen voor de begroting zijn het volgende:
+
+* Beloon gemeenschap betrokkenheid en aarcade spelen
+* Beloon spel ontwikkelaars en ontwerpers
+* Beloon community applicatieontwikkelaars
+* Beloon en erken de community artistieke bijdragen
+* Beloon, erken en groei content makers en algemene marketinginspanningen
+* Breid Aavegotchi en GHST's kansen uit voor gedecentraliseerde financiële toepassingen
+
+De DTF ontwikkelt een gestructureerd plan en meerdere potentiële proefprojecten om deze fondsen zo goed mogelijk te benutten. We zullen werken aan de ontwikkeling van instrumenten om maximale transparantie bij het gebruik van de begroting mogelijk te maken. Voor uitgaven binnen deze 50.000 GHST begroting is geen goedkeuring van DAO nodig om een nuchter gebruik van de fondsen te maximaliseren. Voor verdere begrotingsverzoeken na de aanvankelijke 50.000 GHST zou een DAO-stemming nodig zijn.
+
+De eerste 8 leden van de DTF
+
+* BowtiedNerd
+* Mori
+* letsgobankloos
+* Addison
+* Deucehearts
+* BackfireCapital
+* Swappi
+* Dr Wagmi
+
+We waarderen de steun van de Aavegotchi gemeenschap en kijken uit naar ons eerste voorstel.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/establish-the-dao-treasury-taask-force/2460)
+
+Optie 1: Ja, met 50k GHST budget
+
+Optie 2: Ja, zonder 50k GHST budget
+
+Optie 3: Nee, maak geen DTF aan
+
+**Stemperiode:** van 2 - 9 februari 2022
+
+**Resultaten:**
+
+tabel_agip20
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x17f3eec096b26e87b3441f7cad53108f6933fd32ac67417de6ef7c94970502e4)
+
+<hr />
+
+### GHST toevoegen aan de Umbria Narni Bridge
+**Aavegotchi Verbetering Voorstel #21**
+
+**Voorstel Samenvatting:**
+
+De Umbria Narni Bridge heeft het GHST-token geïmplementeerd, en vergemakkelijkt een goedkopere migratie van GHST tussen de Ethereum en <--> Polygon-netwerken, vergeleken met de officiële Polygon Brug. De Umbria Narni bridging kosten bedraagt ongeveer 1/2 van de officiële Polygon Bridge kosten en is ook veel sneller (4 minuten, als tegenstelling tot > 1 uur).
+
+Het Umbria Narni bridge protocol kan een maximum van 20 procent van de totale GHST liquiditeit overbrugen, per overbrugging. Bijvoorbeeld, met $100k GHST tokens aan één kant van de pool, kan de bridge maximaal $20 k GHST migreren per enkele transactie.
+
+Er zijn momenteel ongeveer 14.000 GHST tokens aan beide zijden van de brug. Dit wordt voornamelijk gefinancierd door het Umbria-team. Hierdoor kan de brug maximaal $700 aan GHST tokens per transactie overbrugen - wat vrij goed is. maar we weten dat sommige gebruikers veel meer willen koppelen aan één enkele transactie.
+
+We stellen voor dat de Aavegotchi DAO $100.000 in GHST toevoegt aan elke bridge pool (1. Polygon en 2. Ethereum). Daar zijn een aantal voordelen aan gekoppeld:
+
+De Aavegotchi DAO verdient een 0.2% bridging kosten wanneer iemand de bridge gebruikt om GHST tokens te migreren tussen Ethereum en <--> Polygon. De Aavegotchi DAO zal dus in de loop der tijd geld verdienen. Als de Narni-brug ooit een onnodige oplossing wordt, kan de Aavegotchi DAO gemakkelijk hun liquiditeit verwijderen en van hun winst genieten.
+
+Transacties tot ongeveer $21,000 in GHST zullen nu mogelijk zijn.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/add-ghst-stake-to-the-umbria-narni-bridge/2836)
+
+Optie 1: Ja, voeg $200k GHST toe
+
+Optie 2: Nee, voeg geen GHST toe
+
+**Stemperiode:** van 8 - 15 februari 2022
+
+**Resultaten:**
+
+tabel_agip21
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xeaac981066e143c46c7a616d2e6ff004d7d4d354005e077f01e3698041e4780a)
+
+<hr />
+
+### Lancering Rarity Farming SZN 3
+**Aavegotchi Verbetering Voorstel #22**
+
+**Voorstel Samenvatting:**
+
+*Probleem*
+
+Op dit moment gebeuren de Rarity Farming Seizoenen sporadisch en zijn ze moeilijk te verantwoorden in de cadentie van Aavegotchi releases. Beleggers moeten zich afvragen of ze aan hun Gotchis en Wearables moeten vasthouden of dat ze misschien een betere ROI kunnen vinden door ze te flippen voor de volgende rondes. Het zou wenselijk zijn om een beetje zekerheid / voorspelbaarheid te hebben voor zowel het investeringssentiment als voor planningsdoeleinden.
+
+*Oplossing*
+
+Rarity Farming moet, indien mogelijk, drie keer per jaar plaatsvinden. Het zou passen bij het seizoensgebonden karakter dat we nu al volgen, dit zou mogelijk moeten zijn op basis van GBM Sales in de tussenseizoenen. De schatkist komt door middel van staking en partnerschappen (zoals het voorstel voor Umbra Bridge), en andere geldstromen zoals DAO Garanten. De auteur van dit voorstel is van mening dat Rarity Farming een essentieel onderdeel is van het Gotchiverse ecosysteem. en iets om op te bouwen en te verbeteren in plaats van te schrappen.
+
+*Distributie*
+
+Voor Seizoen 3 stel ik voor dat we teruggaan naar de standaard beloningsverhouding, zoals geprobeerd en getest werd in Rarity Farming Seizoen 1. De nieuwelingen van de gelijknamige rankschikking zijn nu allemaal opgegroeid en klaar om te concurreren met de grote jongens. Dit zou betekenen dat 70 procent van de uitbetalingen naar het BRS-klassement gaat, 20% naar het Kinship klassement en 10% naar het XP Klassement.
+
+Op basis van de forumdiscussies zou dit het uiteindelijke model voor SZN3 zijn:
+
+* 4 ronden (2 weken per stuk)
+* 1.5 Miljoen GHST Beloningen Pool (1.4m GHSTis reeds klaar)
+* 70% BRS
+* 20% Kinship
+* 10% XP
+* Top 5k Gotchis (20%) → Top 7,5k Gotchis (30%)
+* 3 seizoenen per jaar (voorlopige schema hieronder)
+* SZN 3: februari - maart
+* SZN 4: juni - juli
+* SZN 5: oktober - november
+
+Bijgewerkte Beloningsblad: [Rarity Farming SZN 3 Distribution Model](https://docs.google.com/spreadsheets/d/1jH6IEJ7Xu_YvblgEPX9UpT-phLelJ5XsmknkaxQOg7A/)
+
+Aangezien er een ~100k GHST verschil is tussen het voorgestelde bedrag dat zal worden verdeeld en GHST momenteel in de beloningen pool, bevat dit voorstel een financieringsverzoek om het resterende bedrag uit de schatkist van de AavegotchiDAO te halen.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/season-3-for-q1-2022/2779)
+
+Optie 1: Ja, start RF SZN 3
+
+Optie 2: Ja, maar andere parameters
+
+Optie 3: Nee, start geen RF SZN 3
+
+**Stemperiode:** van 8 - 15 februari 2022
+
+**Resultaten:**
+
+tabel_agip22
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x5ffa4d3b8f4c1d744424af5c0f079ebfa286c9aec9c35e898c2c02bee87a0b60)
+
+<hr />
+
+### Co-Sponsoring van de GoodGhosting Pool
+**Aavegotchi Verbetering Voorstel #23**
+
+**Voorstel Samenvatting:**
+
+*Wat is GoodGhosting?*
+
+GoodGhosting is een spaarspel zonder verlies, gebouwd bovenop Aave. In de zomer van 2021 lanceerden we onze allereerste spaarpotjes op Polygon. Tot nu toe hebben we meer dan 7000 gebruikers geholpen om meer dan $600 k aan activa te besparen op Polygon. Alles terwijl je leuke NFT's verzamelt en ons leiderbord beklimt.
+
+Het GoodGhosting team gelooft in een wereld waar het sparen lonend is, gemakkelijk en plezierig. Bij traditioneel sparen is dat echter niet het geval. We bouwen gedecentraliseerde sociale save applicaties die speldesign elementen combineren met doelgerichte besparing. We willen onze gemeenschap helpen betere financiële gewoonten te ontwikkelen en tegelijkertijd plezier hebben.
+
+*Potentiële samenwerking*
+
+We willen de GoodGhosting gemeenschap blootstellen aan Aavegotchi, door een Aavegotchi-gethematiseerde spaar pool te introduceren. Deze pool vereist spelers om te sparen in GHST tokens, en ze verdienen er meer GHST bovenop. We zien het als een leuke gelegenheid om de GoodGhosting en Aavegotchi gemeenschappen te kruisen.
+
+Aavegotchi is een uniek project dat we vanaf het begin nauwlettend in de gaten hebben gehouden. Zowel als spelers als bewoners van ecosystemen. Naar onze mening bevat het alles wat DeFi en Web3 voorstelt 👻
+
+Naast het uitnodigen van alle Aavegotchi gebruikers en de DAO zelf om deel te nemen aan de aankomende GHST spaar pool, wil GoodGhosting de AavegotchiDAO verzoeken om deze pool te sponsoren.
+
+*Ons verzoek*
+
+* Een totaal van 7000 GHST in sponsoring voor deze spaar pool. Om te worden gedeeld tussen alle winnende spelers.
+* De mogelijkheid om succesvolle spaarders te belonen met Gotchi XP, of alternatief FRENS. Overweeg GoodGhosting als een uitgebreid minispel dat mensen aanmoedigt om meer GHST te sparen.
+* Een toewijzing van Aavegotchi NFT's (ter waarde van 3000 GHST) om te verloten aan willekeurige deelnemers en/of aan alle winnaars. Dit zouden Wearables, Gotchi's, Lotterij tickets of Realm-parcelen kunnen zijn.
+
+Deze kunnen worden geleverd door de AavegotchiDAO, of op alternatieve wijze worden gekocht door het GoodGhosting team op de Bazaar. Voor deze extra stimulansen hopen we voordelen te bieden aan een handjevol gelukswinnaars (via een lotterij systeem), en/of een kleinere beloning die haalbaar is om aan alle winnaars te worden gegeven.
+
+*Wat kan GoodGhosting naar de tafel brengen?*
+
+* Tot 4000 WMATIC tokens in sponsoring (van onze DeFiForAll subsidies). Om te worden gedeeld tussen alle winnende spelers.
+* Een instroom van nieuwe gebruikers in het Aavegotchi ecosysteem. Tot nu toe hebben meer dan 20500 gebruikers zich aangesloten bij onze Celo en Polygon spaar pools. De meeste zijn nog niet aan Aavegotchi of GHST blootgesteld en velen zullen waarschijnlijk de Gotchigang betreden.
+* We maken een YouTube-video die Aavegotchi uitlegt en hoe we het GHST token op Polygon kunnen bemachtigen. Georiënteerd op onze gemeenschapsleden.
+* We zullen gebruikers toestaan GoodGhosting te spelen met hun Aavegotchis als avatar. Dit zal verschijnen in het gedeelde 'Spelers' tab, evenals in de individuele spelers profielen op Goodghosting.com
+* Enkele zeer speciale NFT's door onze in-house artiest Mali3D
+* Een verhoogde GG-score voor alle succesvolle spaarders
+
+Details over de AGIP zijn te vinden [hier](https://dao. aavegotchi. com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+
+Optie 1: Ja, 10k GHST voor beloningen + XP
+
+Optie 2: Ja, maar onder andere voorwaarden
+
+Optie 3: Nee, GG niet ondersteunen
+
+**Stemperiode:** van 9 tot 15 februari 2022
+
+**Resultaten:**
+
+tabel_agip23
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xdef7d35ea26832b4edffda176458f86744f402d7db151993ffe34f8122da7113)
+
+<hr />
+
+### Stort 3M GHST uit de Schatkist in Aave
+**Aavegotchi Verbetering Voorstel #24**
+
+**Voorstel Samenvatting:**
+
+Naast de DAO schatkist Taask Kracht (DTF), Dr. Wagmi stelt voor om onmiddellijk te profiteren van de Aave GHST lijsting door ~80% van onze DAO schatkist GHST te deponeren (3, 00.000 GHST) in Aave als onderpand om een passieve opbrengst te verdienen. Het huidige gebruikspercentage bedraagt 45% met een storting APR ~2,5%. Gezien de aanzienlijke opbrengst en het snel groeiende nut van het GHST-token anticiperen we op de lopende leningsvraag en zo rendement voor GHST-deposanten en de Schatkist van DAO. De Aavegotchi DAO kan haar dexteriteit, effectiviteit en indrukwekkende schatkist laten zien door snel munt te slaan uit deze passieve opbrengstkans. Dit zou volumes spreken met de bredere DeFi en crypto community en onmiddellijk extra waarde bieden aan GHST token houders door een verhoogde leencapaciteit in de Aave pool.
+
+Een eerste storting van 3.000.000 GHST zou ongeveer 80 procent van Schatkist van de DAO vertegenwoordigen. Deze storting is volledig liquide en kan worden ingetrokken als de DAO andere toepassingen aanduidt. Een APR van 3 procent bedraagt bijna 90.000 dollar, die via DAO-initiatieven gebruikt kunnen worden voor verdere investeringen in het ecosysteem van Aavegotchi. Een afzonderlijk voorstel kan in overweging worden genomen voor de extra 20 procent en voor de 2,4 miljoen DAI in de schatkist. Wij stellen niet voor om het ontvangen amGHST van het voorgestelde oorspronkelijke deposito GRATIS uit te voeren. In dit voorstel wordt geen meerzijdige DTF voor dit deposito of het huidige beheer gevraagd.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/deposit-3-000-000-ghst-from-the-dao-treasury-into-aave/3007)
+
+Optie 1: Ja, stort 3M GHST
+
+Optie 2: Nee, GHST in de schatkist houden
+
+Optie 3: Geen stem
+
+**Stemperiode:** van 23 tot 30 maart 2022
+
+**Resultaten:**
+
+tabel_agip24
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x2fd1336f439b29a7096478a1d9571acc83597b2b345103fdb35e02125f5a2dcd)
+
+<hr />
+
+### Uitstellen Gotchiverse Land Veiling & Lotterij 3
+**Aavegotchi Verbetering Voorstel #25**
+
+**Voorstel Samenvatting:**
+
+Pixelcraf heeft een schema geleverd in hoofdstuk 1 in de Gotchiverse Game Bijbel met de Gotchiverse Land Auction / Raffle 3 die gepland staat voor eind februari: [https://blog. avegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
+
+Dit zou gebeuren voordat de volgende Gotchiverse Game Bijbelhoofdstukken volgens dezelfde post werden gepubliceerd. In maart werden nog eens 4 hoofdstukken vrijgegeven en er zijn meer plannen om in de komende weken/maanden vrij te komen.
+
+Ik stel voor dat de Landveiling & Raffle vertraagd wordt totdat de volledige publicatie van boek één van de Gotchivers plaatsvindt of de stemmen van de gemeenschap voor een extra verkoop plaatsvindt.
+
+Dit is in de eerste plaats bedoeld om ervoor te zorgen dat de gemeenschap volledig geïnformeerde inschrijvingen/investeringen in land kan doen en dat we het risico verkleinen dat we herhalen wat eerder is gebeurd met mensen die te veel geld inschrijven en in aanmerking komen.
+
+[CoreProp Edit: Sinds het boek één binnenkort volledig zal worden gepubliceerd, maar er lijkt nog steeds weinig trek te zijn voor een REALM Sale, we hebben een stemoptie toegevoegd om alleen de volgende Veiling & Afstand te starten als een SigProp het Quorum bereikt en de respectievelijke CoreProp passes. Deze aanpassing is vooraf besproken met Jarrod.]
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/chapter-1-the-gotchiverse-release-schedule/2939)
+
+Optie 1: Vertraging tot volledig Boek 1
+
+Optie 2: Vertraging tot voorstel van de Gemeenschap
+
+Optie 3: Start Veiling 3 ASAP
+
+**Stemperiode:** van 23 tot 30 maart 2022
+
+**Resultaten:**
+
+tabel_agip25
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xa8ae9fff29189ddf79845a7875ccfc696273aa2fca9fed42140a6bbe55f12b97)
+
+<hr />
+
+### Verminder de Parcel VRF variant
+**Aavegotchi Verbetering Voorstel #26**
+
+**Voorstel Samenvatting:**
+
+*Probleem:*
+
+De VRF-variatie voor Alchemica onder de grond van pakketten (0,2 - 1) gemiddelde) lijkt me erg hoog en kan ertoe leiden dat sommige mensen gerkt raken - zie de grafische berichten op het Discord Thread.
+
+Een zeer ongelukkige ruime eigenaar kan minder alchemische stoffen krijgen dan een gelukkige redelijke eigenaar - wat naar mijn mening zeer slechte UX is, Vooral gezien het feit dat het werd gemeld, zou dit niet mogelijk zijn. Hou er rekening mee dat de eerste ronde (kwart) meer Alchemica zal verspreiden dan de rest ervan, dus het verliezen van groot in de eerste ronde kan iemand veel terugzetten.
+
+*Oplossing*
+
+Ik wil voorstellen om de variatie te verlagen naar MINIMUM 0,5 tot 1. indien nog niet eens 0,75 - 1.25 voor de eerste ronde (Stemkeuze 1). Mijn probleem met dit zeer grote verschil is dat mensen financiële beslissingen nemen op basis van het gemiddelde aantal dat vóór de eerste veiling is gepubliceerd, mensen 50 tot 80 procent van de alchemische waarde onder het pakket laten verliezen, is verschrikkelijk voor mij.
+
+Een andere optie van Mori is het creëren van een binomiale verdeling met de linker staart afgesneden. dus het is mogelijk om groot maar onmogelijk om hard te worden gerkt (Stem Keuze 2). Dit resulteert in een gemiddelde trek van 100, een minimale trek van 60 en een maximale trek van ~800. Er is een vrij redelijke kans om deze topprijs te winnen, met ~0,02% van de pakketjes om dit te bereiken. Belangrijke opmerking: deze optie zou de vorige Mediaan van 100 tot ongeveer 83 verminderen.
+
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/reducing-the-vrf-variance-for-parcels/3069)
+
+Optie 1: Ronde 1 0.75 - 1.25 & 0.5 - 1,5
+
+Optie 2: Binomiale distributie
+
+Optie 3: Nee, wijzig de variant niet
+
+**Stemperiode:** van 23 tot 30 maart 2022
+
+**Resultaten:**
+
+tabel_agip26
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x09c3132896ba5c8e677e018a86ba1a74729955f64799dbfd4e422058f9198817)
+
+<hr />
+
+### Alternatieve Gotchiverse Trait Mapping
+**Aavegotchi Verbetering Voorstel #27**
+
+**Voorstel Samenvatting:**
+
+Met de introductie van Gotchiverse trait kaarten in de Game Bijbel hoofdstuk 2, ontstond een belangrijke discussie uit het analyseren van potentiële onevenwichtigheden, zwakke plekken en gebieden voor innovatie in de oorspronkelijke voorgestelde 'trait map' voor NRG, AGG, SPK & BRN. Dit CoreProp stelt voor de trait mapping voor deze 4 eigenschappen te veranderen naar:
+
+NRG: HP Capaciteit (0 NRG) <===> AP Capaciteit (100 NRG)
+
+AGG: Defense Power (0 AGG) <===> Action Speed (100 AGG)
+
+SPK: HP & AP Regen (0 SPK) <===> Ethereality (100 SPK)
+
+BRN: Melee Power (0 BRN) <===> Afstandsvermogen (100 BRN)
+
+EYS: Worden Bevestigd
+
+EYC: Worden Bevestigd
+
+Raadpleeg het DAO forum thread voor een volledige rundown op wat deze wijzigingen betekenen (inclusief een FAQ sectie).
+
+Kerneffecten van de Nieuwe Eigenschap Kaart
+
+* Beweegsnelheid die verwijderd is van 'trait mappen' zal nu leiden tot een verbeterde kwaliteit van de levenservaring van de gebruiker (UX) voor alle spelers die beginnen met de Gotchiverse, zowel nieuw als oud,
+* Vervoeringscapaciteit verwijderd uit vaardigheid zorgt ervoor dat de onevenwichtigheid van 1 agrarische eigenschap wordt gecorrigeerd vs. 7 vecht eigenschappen op NRG, AGG, SPK en BRN,
+* Er is nu een duidelijk onderscheid gemaakt tussen fysiek en vermogensspecialist (mage) gotchis,
+* Er is nu een duidelijk onderscheid gemaakt tussen melee en gotchis, over lange afstanden
+* Etherealiteit kan nu worden beschouwd als ‘Geluk’ en beïnvloedt ontwijkende en kritische aanvallen, Door muren glippen en allerlei andere kansrijke acties in de Gotchiverse.
+
+*Eind Doel*
+
+Voor de gemeenschap en Pixelcraft om een 'trait map' te maken dat evenwichtig is, uitstekende UX heeft, speelbaarheid en levensduur, terwijl tegelijkertijd de flexibiliteit je toestaat om draagbare buffs en vaardigheden te implementeren die werken met de eigenschappen in de toekomst.
 
 *Risico's*
 
-I believe that the loan to Skynet Trading presents minimal risk, given the company's financial stability and reputation in the industry.
+Sommige spelers en investeerders hebben al een potentieel gekocht op basis van de oorspronkelijke trait mappings. Het is belangrijk om op te merken dat deze eigenschappen altijd als onveranderlijk zijn aangeduid in de Game Bijbel HOWEVER, We zijn er vast van overtuigd dat de nieuwe vaardighedenkaarten die hier worden voorgesteld, zullen leiden tot nog meer uiteenlopende en boeiende speelstijlen voor OG-investeerders en nieuwe spelers om te experimenteren en te genieten van spelen.
 
-Although Skynet Trading utilizes Fireblocks for institutional-grade custody solutions, risks associated with exchanges such as Coinbase, Binance, HTX, and OKX remain present. It is important to note that Skynet Trading does not bear liability for any risks or losses incurred due to the operational aspects of these exchanges.
+*Laatste Belangrijke Notities*
 
-While not a direct risk, it is prudent to acknowledge the possibility of ‘seller’s remorse’ should GHST values significantly surpass the contract’s strike prices within the next 12 months. The strike prices, set as either premiums or averages of future market rates, are designed to align the interests of both parties. Both parties must enter this agreement with a comprehensive understanding of the associated risks.
+Er zijn een aantal manieren waarop deze eigenschappen kunnen schalen (Yin/Yang lineair, asymmetrisch, buff slechts begint vanaf 50 en afnemende rendementen om er een paar te noemen). Het Schalen Systeem van Eigendom is nog steeds in behandeling door de gemeenschap, dus kijk uit naar verdere oproepen met Pixelcraft (om echt in de nitty grootte) en een ander SigProp! EYS en EYC worden nog steeds beoordeeld door de gemeenschap. Er zijn een aantal interessante ideeën geopperd, waaronder farm/alchemica/HUD-vaardigheden. Zorg ervoor dat je betrokken raakt en je zegje doet over hoe je deze ontwikkelingen ook wilt zien!
 
-*Benefits*
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/alternative-gotchiverse-trait-mapping-for-nrg-agg-spk-brn/3135)
 
-The benefits and reasoning for this are already well fleshed out above but to briefly review: Improving liquidity on at least three additional exchanges improves the trading efficiency of the token.
+Optie 1: Ja, gebruik de nieuwe 'Trait Map'
 
-Maturing the relationship with an industry-leading company like Skynet Trading may also lead to indirect benefits such as introductions to more exchanges and more opportunities for future loans related to on-chain DEX support and even perps markets (Skynet Trading is open to advocating for GHST perps and can make introductions).
+Optie 2: Nee, blijf bij het origineel
 
-*Besluit*
-
-For the benefits noted above, I am proposing that now is the time for AavegotchiDAO to engage with Skynet Trading to improve the currently weak state of GHST liquidity on most of its current listed exchanges.
-
-*VOTE:*
-
-Should AavegotchiDAO provide a 600k GHST loan to Skynet Trading for 12 months?
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1180534503828111471)
-
-Option 1: Yes, let's lend tokens to Skynet
-
-Option 2: No, don't lend tokens to Skynet
-
-**Voting Period:** 8 - 21 March 2024
+**Stemperiode:** van 23 tot 30 maart 2022
 
 **Resultaten:**
 
-table_agip110
+tabel_agip27
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x53725868842a2b7c6e2cf251eaeb5c939b7272c3c849ef3814ac7bc9b62469eb)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xbe4999b68f97f0e3406d65aff4e36a97768af72eb5cbd16c92641dcfdd6f35c9)
 
 <hr />
 
-### Staking 350 ETH with Lido and Acquiring rETH
-**Aavegotchi Improvement Proposal #111**
+### Uitbreiden van de DAO Schat Task Force Multisig
+**Aavegotchi Verbetering Voorstel #28**
 
 **Voorstel Samenvatting:**
 
-This proposal aims to enhance the Aavegotchi DAO's treasury management through strategic staking, with a dual focus on accruing additional yield and increasing our Ethereum (ETH) holdings. We propose to engage in ETH staking through two prominent protocols, Lido and Rocket Pool, to achieve this objective.
+Hallo frens, in hoofdstuk 2 hebben we voorgesteld om 10 procent van de voorraad aan Gotchus Alchemica langer dan 30 jaar te houden om te worden gebruikt in het ecosysteem. Het primaire doel van deze toewijzing is om te zorgen voor uitstekende liquiditeit op lange termijn op verschillende platforms, inclusief de GAX, verschillende DEXes over Polygon, Mainnet en zelfs CEXes.
 
-*Details of the Proposal:*
+Degenen die het project zorgvuldig volgen, weten dat we altijd proberen alles te doen “door het boek”, om van Aavegotchi een modelcase study te maken voor decentralisatie en juridische naleving. Op dit moment bevinden we ons in de laatste fase van het opzetten van een nieuwe juridische wrapper voor AavegotchiDAO (meer bepaald voor AavegotchiDAO). een Panama Foundation) en zal binnenkort een mededeling doen om toepassingen te dienen.
 
-1. Staking with Lido: We propose to stake 350 ETH directly with the Lido protocol. Lido currently offers an estimated yield of 3.7% per annum.
+Op technisch vlak werken we ook aan de tenuitvoerlegging van het onchain bestuur van het Aavegotchi-protocol. Dit zal echter enige tijd in beslag nemen, aangezien het een upgrade vereist naar het ingezette GHST-token op Polygon.
 
-2. Acquiring rETH via Cowswap: Concurrently, we propose to swap an additional 350 ETH for Rocket Pool's rETH using Cowswap. Rocket Pool's yield is approximately 2.94% per annum.
+Terwijl dit alles op de achtergrond gebeurt, lanceren we ook VIJF nieuwe ERC20 Alchemica tokens en vergrendelen een grote hoeveelheid ervan in vesting contracten.
 
-3. Expected Returns: By adopting this strategy, we anticipate an annual yield of approximately 23.24 ETH, equating to a value of $70,000, based on the current ETH valuation of $3,000 per unit.
+Om juridische en strategische redenen zijn wij van mening dat de toewijzing van het ecosysteem niet door Pixelcraft, maar door AavegotchiDAO moet worden beheerd. De DAO schatkracht is al aangemaakt om een deel van de DAO schatkist te beheren, maar het aantal ondertekenaars is vrij gering (zes) en naar mijn mening onvoldoende om een dergelijk bedrag aan middelen te reserveren.
 
-4. Risk Management: This approach also involves splitting our smart contract risk between Lido and Rocket Pool, the two largest entities in the ETH staking ecosystem. This strategy aims to balance the pursuit of optimal yield (via Lido) with robust participation in the Ethereum ecosystem (via Rocket Pool).
+Daarom stel ik voor dat we onder het huidige DTF een extra multisig creëren met vijftien ondertekenaars in plaats van de huidige zes. **11** van de 15 handtekeningen is vereist om transacties te bevestigen.
 
-5. Remaining Treasury Funds: Following this allocation, 537.96 ETH will remain unallocated within our treasury, available for other strategic initiatives or active management.
+Deze multisig zou voordelig zijn voor het Ecosystem Vesting Contract (dat 10% van de alchemische token toevoer bezit, gevestigd over meer dan 30 jaar) en kan ook de 1M GHST erven die oorspronkelijk was toegewezen tijdens de creatie van het ecosysteem gebouw, om bootstrap Alchemica liquiditeit te helpen.
 
-*Context and Financial Overview:*
+Aan onze kant zullen we de Alchemica staken en eerste liquiditeitspools creëren op Quickswap, daarna zullen we het eigendom van het vestingscontract overdragen aan de multisig. Daarna zal het DTF de liquiditeitsvoorziening moeten coördineren.
 
-* The Aavegotchi DAO presently holds 1237.96 ETH, acquired for $3,000,000 as per AGIP 103.
+Laten we goooo Gotchigang!
 
-* The current market value of this holding is approximately $3.7 million, representing an unrealized gain of $700,000 since the approval of the core proposal on January 2, 2024.
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/dao-treasury-task-force-extension-thread/3119)
 
-* For transparency and ongoing monitoring, the DAO's treasury wallet is accessible at: [https://debank.com/profile/0x53c3CA81EA03001a350166D2Cc0fcd9d4c1b7B62](https://debank.com/profile/0x53c3CA81EA03001a350166D2Cc0fcd9d4c1b7B62).
+[Laatste opmerking: Je kunt op meerdere leden tegelijk stemmen, de top 9 keuzes worden dan gekozen! Korte toonvelden voor iedereen zijn te vinden in de discussie]
 
-*Conclusion:*
+Optie 1: Kokusho
 
-This proposal is crafted with a view to optimize the Aavegotchi DAO's asset management, leveraging the potential of ETH staking for yield generation, while maintaining a balanced and risk-aware approach.
+Optie 2: MGG
 
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1207008419844853760)
+Optie 3: Choyna
 
-Option 1: Yes. Stake w/ Lido and buy rETH
+Optie 4: Pgendreau
 
-Option 2: No. Don't stake or buy rETH
+Optie 5: Diddlypoo
 
-**Voting Period:** 8 - 21 March 2024
+Optie 6: Tburd.eth
+
+Optie 7: Jarrod
+
+Optie 8: MarvinP
+
+Optie 9: Notorious_BTC
+
+Optie 10: Hardkor
+
+Optie 11: Yanik
+
+Optie 12: Master_Yin
+
+Optie 13: Nestor
+
+Optie 14: Chichi
+
+**Stemperiode:** van 23 tot 30 maart 2022
 
 **Resultaten:**
 
-table_agip111
+tabel_agip28
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xce481514fa4f8c08b1384a2fdec32cf4b90fb24bedcf834cbf1e87ddafac418f)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x8b5862698c550b53e57f6ce4628a7a13ed5a4772e541c414e9a27fbcf95cf8c2)
 
 <hr />
 
-### Establishing an ETH Sell Ladder
-**Aavegotchi Improvement Proposal #112**
+### 24u Windows voor Alchemical Channeling
+**Aavegotchi Verbetering Voorstel #29**
 
 **Voorstel Samenvatting:**
 
-This proposal is designed to strategically manage the Aavegotchi DAO's Ethereum (ETH) holdings by establishing a structured sell ladder. The aim is to maximize returns while mitigating the impacts of market volatility and psychology.
+Zoals aangegeven in Gotchiverse Bijbel Hoofdstuk 3, solo gotchi zal solo channeling werken via een 24 uur afkoeltijd die onmiddellijk begint na een gotchi channeling op een altar. Wij stellen voor dit te herzien naar een raam 24 uur systeem dat loopt van 00:00 UTC tot 23:59 UTC waarin een gotchi eenmalig kan channelen elk moment binnen dat 24-uurs raam.
 
-*Details of the Sell Ladder Proposal:*
+*TIJDLIJN*
 
-1. First Tranche: Sell 300 ETH in two equal parts within 24 hours if ETH valuation exceeds $8,000 per unit.
+Voorstel om geïmplementeerd te worden op of voor 18 mei 2022 (de begindatum van solo channeling) of zodra daarna Pixelcraft kan verzenden...
 
-2. Second Tranche: Sell another 300 ETH in two equal parts within 24 hours at any ETH valuation above $10,000 per unit.
+*BEOORDELING*
 
-3. Third Tranche: Sell 300 ETH in three equal parts within 24 hours if ETH valuation surpasses $12,000 per unit.
+Met de invoering van het afkoelsysteem van 12 uur een jaar geleden we hebben allemaal begrepen dat een ingestelde interactietijd met je gotchi moeilijk te onderhouden is in een echte wereld gebeurtenis verkeersopstoppingen, gezins- en werkverplichtingen. We willen deze beperking niet herhalen met alleen het channelen van gotchi.
 
-4. Fourth Tranche: Sell 300 ETH in three equal parts within 24 hours at any ETH valuation exceeding $15,000 per unit.
+Bovenstaande beperking heeft geleid tot de ontwikkeling van geautomatiseerde bots om interactieefficiëntie te garanderen, wat aantoonbaar leidt tot een lagere betrokkenheid van gebruikers. Door deze beperking voor solo channeling te verwijderen, het is veel waarschijnlijker dat spelers op organische wijze met hun gotchi zullen communiceren voor een solo kanaal.
 
-*Execution Strategy:*
+Veel spelers hebben meerdere gotchis, meerdere percels en meerdere altars verspreid over het hele Citaadel. Deze spelers hebben verbazingwekkende steun in onze gemeenschap getoond en mogen niet worden beperkt in hun efficiëntie met een cooldown van 24 uur. Ze moeten nog steeds rustig een keer per dag kunnen kanaliseren als hun drukke dienstregelingen uitkomen.
 
-• The sale of ETH should follow a specific order from the DAO's Ethereum treasury wallet:
+*VOORDEEL*
 
-• Begin with unstaked ETH.
+De 24-uurs kanaaloplossing kanaal: Verbeter de kwaliteit van leven voor gotchi eigenaren,
 
-• Proceed to rETH.
+* Mitigeer ongunstige interactietijden
+* Mitigate network congestie op interactietijd, en
+* Verhoog de dagelijkse betrokkenheid van time-poor spelers.
 
-• If necessary, unstake stETH and sell the resulting ETH.
+*RISICO*
 
-• All sold ETH will be exchanged for USDC (USD Coin).
+Het voorstel voor een implementatiedatum kan worden vertraagd als Pixelcraft technische uitdagingen tegenkomt of anders niet in staat is om aan de implementatiedatum van 18 mei 2022 te voldoen.
 
-• The acquired USDC will then be supplied to Aave, which currently offers over 1 billion USD in capacity.
+Details van de AGIP zijn hier te vinden [hier](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107).
 
-*Rationale and Transparency:*
+Optie 1: Ja, eenmaal per 24 uur
 
-• This structured approach aims to provide clarity and predictability to DAO participants and investors.
+Optie 2: Nee, elke 24h interactie
 
-• It helps in minimizing the influence of market psychology and speculative behavior, especially in a bullish market scenario.
-
-• Assuming ETH reaches a valuation greater than $15,000 per unit, this strategy positions the Aavegotchi DAO to accumulate approximately $13.5 million in USDC, significantly enhancing returns on the initial $3 million investment in ETH.
-
-*Conclusion:*
-
-The proposed ETH sell ladder is a prudent financial strategy, offering the Aavegotchi DAO a methodical and transparent approach to realizing gains. It ensures that the DAO's assets are managed in a way that is both strategically sound and aligned with the interests of all stakeholders.
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1207008419844853760)
-
-Option 1: Yes. Establish this sell ladder.
-
-Option 2: No. Don't establish it.
-
-**Voting Period:** 8 - 21 March 2024
+**Stemperiode:** van 21 tot 28 mei 2022
 
 **Resultaten:**
 
-table_agip112
+table_agip29
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xc4a1181fa1d6ede81e71c195aab84a21c1431f8a8b28221100e42720b84c2df3)
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbe89c5f01a02817058d66459cb00a399c45aa8991e29121fb1ca3b0e11e0c84b)
 
 <hr />
 
-### Gas Fee Reimbursement for DAO Directors
-**Aavegotchi Improvement Proposal #113**
+### Plannen Land Veiling/Raffel #3 voor juni
+**Aavegotchi Improvement Proposal #30**
 
 **Voorstel Samenvatting:**
 
-Hello friends !
+Land Auction/Raffle #3 Proposal:
 
-As we all know, executing transactions on the Ethereum blockchain comes with a cost, and these expenses can become a significant barrier to active participation.
+* Houd de Veiling en Lotterij in juni
+* 8.000 pakketjes in totaal van overwegend districten 1, 6, 13, 23, 24, 25, 26. Pakkels van voorheen geveilde/geplunderde districten worden ook opgenomen. De exacte selectie is te zien in de discussiediscussie: [https://dao.aavegotchi.com/t/voor-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/36)
+* 70% (5,600) pakketten in de veiling, 30% (2,400) in de raffle
 
-In our collective journey towards better decentralized governance, it has come to our attention that gas fees can potentially hinder the smooth execution of transactions and introduce unintended competition among directors for transaction signing.
+Proposed Revenue Distribution:
 
-This proposal seeks to address this issue by giving 0.1 eth and 10 matic to each signer address for these essential transactions. When empty, directors can ask for a refill.
+* 40% van de opbrengst aan de Rarity Farming Beloningen pool
+* 40% naar Pixelcraft Studios
+* 20% naar AavegotchiDAO
+* 0% Verbranding
 
-Signer addresses:
+This proposal is synthesized from community feedback over the last few weeks and attempts to balance the following: NFT dilution; an auction/raffle feeling too rushed; inadequate available GHST liquidity; concern for the funding of Rarity Farming Season 4; capitalizing on the momentum and marketing of the full game release. A June Auction will allow >2 weeks of Citaadel gameplay and will allow sufficient time for marketing and business development efforts to capture maximum investment. There is an adequate Gotchiverse Rewards Pool after the first two land auctions, and this sale will help fund RFS4 and perhaps even some of Season 5.
 
-* 0x92B908c078D8f8a2271b1EE7cFf583405618771B
+This proposal has been discussed with the Pixelcraft team who support it and feel the target date is feasible.
 
-* 0x61Cec7155ffF2EcbcC28eEdd16b055794929fBBa
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/proposal-for-land-auction-raffle-3-within-1-week-of-citaadel-release/3487/15)
 
-* 0x251B594d2f6fAFA9903E0aE61186cA0B14F3aD29
-
-* 0xd0De01420788632a9d2286eeBDf4f0CeA88187B7
-
-* 0xa2D623315C16ACCb86B0E15A2B385A43A4032F79
-
-* 0xe1Da02bAD2E6a1c931b0C4f41006138De6dC2Aa0
-
-* 0x7a002eCfB15bfad105ecdD60022D747A19Df252c
-
-* 0xc6055aeE74Ca070BbAf93d1C3C92843512E41987
-
-* 0x0F469AF9E3d7402e9d5990AFD9B97ca9924a1231
-
-(Note : The directors will only use this gas to sign DAO TXs.)
-
-(Note 2 : The directors will give back the remaining funds use for gas in case directors step down from their roles.)
-
-(Note 3 "Retroactive gas reimbursement" : to be more equitable, the directors will be able to claim the funds used for transaction expenses that were funded by themselves before the date of the approval of this vote as core proposal.)
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1199363615128571954/1199363615128571954)
-
-Option 1: Yes, I agree
+Option 1: Yes, 8k Parcels in June
 
 Option 2: No
 
-**Voting Period:** 8 - 21 March 2024
+**Stemperiode:** van 21 tot 28 mei 2022
 
 **Resultaten:**
 
-table_agip113
+table_agip30
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x9e2dfd4a35b6069df9c0e29a4d88f197a3a6af816f5275b210a768521c734b97)
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x658926263e4ce1eca559950bcb0f5d8f203758c5c99b30999bb7f082552695b8)
 
 <hr />
 
-### Strategotchi V2.0 & Voxel Unity SDK funding
-**Aavegotchi Improvement Proposal #114**
+### Launch of RF Szn 4
+**Aavegotchi Improvement Proposal #31**
 
 **Voorstel Samenvatting:**
 
-With the overwhelmingly positive feedback on our proof-of-concept, my team and I are eager to embark on the next iteration of Strategotchi, version 2.0 - Multiplayer. This update brings a plethora of enhancements, focusing on Gotchi and weapon utility, gameplay depth, and the introduction of multiplayer infrastructure in a new game mode, Teams.
+In line with the core prop passed via governance on Feb 15th, I’d like to take this moment to formalise the start of rarity farm S4 with the gotchi-DAO.
 
-This proposal is to obtain funding for the development of Strategotchi V2.0 as outlined in the following document, as well as delivery of a FULL Voxel art Unity SDK.
+Since no major changes to the BRS, XP or kinship systems have occurred since the last season and since the passing of the proposal, I suggest we keep parameters equal to what they were for S3.
 
-*R0ADMAP*
+Following that, this would be the final model for SZN4:
 
-[https://docs.google.com/document/d/1-fvn5ITST2s469GxRpUsBT5MX_r3IuIGWhbadIsZ1r4](https://docs.google.com/document/d/1-fvn5ITST2s469GxRpUsBT5MX_r3IuIGWhbadIsZ1r4)
+4 Rounds (2 weeks each) 1.5 Million GHST Rewards Pool - to be funded by the land sale of AGIP-30.
 
-(Note that the proposal does not include delivery of versions 2.1 - 2.4)
+* 70% BRS
 
-*COST & DELIVERABLES*
+* 20% Kinship
 
-We are seeking 197,000 aDAI and 10,000 GHST, paid in 2 installments, for the delivery of:
+* 10% XP
 
-* A full Unity SDK featuring all of our assets and animations
+* Top 7.5k Gotchis (30%)
 
-* 3D modeling and rigging of over 300 wearables and gotchi types in our unique voxel style. This deliverable lays the groundwork for a unity SDK that we will make available for other developers.
+In the event where the land sale of AGIP-30 does not lead to a RF pool of 1.5m GHST or higher, I suggest we make the rest of the 1.5m GHST prize pool whole via the DAO treasury as previously discussed in AGIP-23.
 
-* Full blockchain integration of all gotchis and wearables. Players will be able to play with their own unique gotchis.
+The DAO is potentially going to get rebalanced with a lot of GHST due to a recent Pixelcraft-lead proposal for a DAI buyback that might pass governance in the near future, so it would tie in handily to that.
 
-* Full Utility for over 30 weapons, each with unique effects, animations and 5 unique targeting systems. Players will be able to equip 2 weapons per gotchi.
+In case you missed it, a short recap for our RF scheduling;
 
-* Gotchi trait mapping & class perks. 12 unique perks. Gotchis can earn up to 6 perks (1 for each godlike trait)
+SZN 4 (covered in this core prop): June - July
 
-* New multiplayer co-op game mode: Teams. In this mode players will team up with frens, working together to hit harvest targets and defend them from enemies.
+SZN 5: oktober - november
 
-* V2 web dapp with new features including a weapons library with interactive 3d previews.
+SZN 6: February - March 2023
 
-* An in-game tutorial
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/launch-of-rf-szn4/3875)
 
-* Improved GUI & UX
+Option 1: Yes, formally start RF Szn 4
 
-* Improved targeting and push indicators. Players will be able to assess the effects of their weapons at a glance.
+Option 2: No, don't start RF Szn 4
 
-* New and improved sound design, including music and SFX. We will be introducing more lickquidator taunts as well as gotchi cheers.
-
-* Multiple bug fixes, QOL improvements, and better optimization
-
-*WEAPONS DETAILS*
-
-A detailed list of all wearables effects can be found in this document:
-
-[https://docs.google.com/document/d/1RODcNTaSORhQvd2DLqS18YdcBuf0Gd_wOLuRTFFRlC8](https://docs.google.com/document/d/1RODcNTaSORhQvd2DLqS18YdcBuf0Gd_wOLuRTFFRlC8)
-
-*REVENUE PROJECTIONS*
-
-This document outlines future monetization mechanisms and our proposed allocations:
-
-[https://docs.google.com/document/d/1BNbeGTrk8N7qiRrM1gqLjcVdeKE8WbYV8E75AgJf_p4](https://docs.google.com/document/d/1BNbeGTrk8N7qiRrM1gqLjcVdeKE8WbYV8E75AgJf_p4)
-
-*TEAM:*
-
-Laggin:
-
-* Proficient in product design, branding, and visual communication.
-
-* Experienced game designer, contributing to multiple top-rated mobile games in the MENA region.
-
-* Internationally recognized artist, exhibited at prestigious galleries like the Saatchi Gallery, London.
-
-* OG member of the Aavegotchi community, deeply familiar with the protocol, contributing to a multitude of projects within the ecosystem.
-
-Nomichamp:
-
-* Full stack game developer with extensive experience.
-
-* Successfully operated indie game development studio, focusing on hyper casual games.
-
-* Produced multiple successful titles across various platforms.
-
-Fase:
-
-* Experienced music producer, proficient in all aspects of audio design
-
-* Experience in marketing, project management, and community building
-
-* Creator of multiple web 3.0 music projects and collaborations
-
-* Involved community member, collaborating on a multitude of projects in the ecosystem and beyond
-
-*COST BREAKDOWN:*
-
-In-house work: 147,000 aDAI
-
-* Game Design, PM, Design Lead, 3D modeling, UI/UX, Unity front end: 90k
-
-* Lead Dev: 50k
-
-* Sound design, social media management: 7k
-
-Outsourced work: 50,000 aDAI
-
-* Additional Unity dev: 20k
-
-* Rigging and animation: 20k
-
-* Web developer: 5k
-
-* Artwork: 3k
-
-* Infrastructure and tools: 2k
-
-Community: 10,000 GHST
-
-* Marketing
-
-* Promotion
-
-* Play testing
-
-* Bounties
-
-*DELIVERY & PAYMENT MILESTONES:*
-
-Milestone 1: Passing of core prop
-
-Payment of 107,000 aDAI + 10,000 GHST
-
-Milestone 2: Wearables showcase (April 2024)
-
-A showcase of our progress modeling a large portion of the wearables. We will present images of dozens of the new designs as well in-game footage of some of the new weapons in action. We will release a small number of new weapons on the public build for the community to test out and give us feedback on.
-
-Milestone 3: Weapons Utility showcase (May 2024)
-
-The addition of a large number of weapons and wearables into our public build. Integration of blockchain assets into the game. Players will be able to use their own gotchis in single player mode. Gotchis will now have unique stats and most of the perks implemented. Each gotchi will look and feel unique, giving players a feel for the levels of customization to come.
-
-Milestone 4: Multiplayer showcase (June 2024)
-
-Playable multiplayer mode with MVP versions of all new features. Players will now be able to try the new co-op mode, playing with their own weapons and gotchis, with unique perks and stats. At this stage some weapons may still have generic effects/animations. Introduction of new SFX including gotchi cheers. Improvements to GUI & UX. We will be overhauling the UI to accommodate multiplayer mode.
-
-Milestone 5: Completion of all content (July 2024)
-
-completion of all weapons utility and wearables, including animations and effects. Players will be able to experience the full utility of weapons and perks in both single and multiplayer modes. Delivery of an improved system for targeting and knock-back indicators. Players will be able to assess the effects of their weapons at a glance under the new system.
-
-Milestone 6: All deliverables polished and shipped (August 2024)
-
-Payment of 90,000 aDAI Completion of all listed deliverables, fully polished. All wearables are fully modeled and rigged. All weapon utility completed. All gotchi traits and class perks implemented. Multiplayer teams mode polished. In-game tutorial. Updated webb dapp including a full weapons library with interactive 3D models, as well as all stats and information about the weapons. Bug fixes and multiple QOL improvements including UX/UI enhancements. We will be streamlining the user interface to be more intuitive as well as adding more user feedbacks such as sounds and UI animations to help guide the player for a smoother experience. Enhanced optimization for webGL performance.
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1216035947951423518)
-
-Option 1: Yes! Fund it.
-
-Option 2: No. Don't fund.
-
-**Voting Period:** 2 - 16 April 2024
+**Voting Period:** 22 - 29 June 2022
 
 **Resultaten:**
 
-table_agip114
+table_agip31
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x1470e49097b506d8aa9f017f1fd13328f456cba790c8df48bc789375c6cd723a)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x2ddd04ae165c6f6245f4cdd83abd00bb1644bf78fd6719eae394f9db4e00d910)
 
 <hr />
 
-### FAKEwaar Continuing Development Fund
-**Aavegotchi Improvement Proposal #115**
+### Use DYST voting Power to Support vQi-Qi on Dystopia
+**Aavegotchi Improvement Proposal #32**
 
 **Voorstel Samenvatting:**
 
-Do you hear the drums of waar, fren? It's time to find out who's FAKE strength is real. This adaptation of classic war card combat + 3-in-a-row, utilizing FAKEgotchis with a custom dynamic numerical model, enables deterministic gameplay with the existing asset library of FAKEgotchi NFTs.
+The Aavegotchi DAO should use its DYST voting power to support the vQi-Qi pool on DystopiaSwap indefinitely. Any community member can submit an additional signal prop should reallocation be considered.. Indefinite support will avoid overly frequent Sig Prop submissions that are only tangentially related to the Aavegotchi DAO.
 
-*Whitepaper*
+*Background:*
 
-[https://gmifrens.gitbook.io/fakewaar-whitepaper](https://gmifrens.gitbook.io/fakewaar-whitepaper)
+Dystopia Swap is an automated market maker with ve(3,3) mechanics which was recently launched on Polygon. They airdropped a big portion of their initial token supply to Polygon dApps including the Aavegotchi protocol, QiDAO, and the GotchiVault. This voting token is used to allocate scheduled rewards similar to QiDAO’s Qi. This means it is up to our Aavegotchi community to decide how to best use our airdropped voting power to support the DeFi aspect for Aavegotchi and GHST. I propose that this voting power be used to support the vQi-Qi pool which secures liquidity and rewards for the ~4M GHST in the vGHST protocol.
 
-*Current Gameplay*
+A brief overview of why this is good for GHST:
 
-Two players, 1v1, 9 cards randomly selected from the FAKEgotchiDEX. High card wins. Winner is able to place their winning card on the battle board. Players are able to overtake an already placed card on the battle board if their card has a higher FAKE strength. Three in a row placed on the battle board provides additional bonus points at final score.
+1. GHST users deposit their GHST for vGHST using the GotchiVault (3.83M vGHST exist currently)
 
-*Target Audience*
+2. vGHST can be deposited in QiDAO as collateral for borrowing MAI
 
-FAKEwaar is designed to provide a lightweight, casual, replayable gamification layer to the existing FAKEgotchi assets. It is meant for creators, collectors and everyone else who has yet to discover the cultural heartbeat of Aavegotchi: FAKEgotchis!
+3. Qi rewards are paid to borrowers based on a biweekly vote by Qi holders
 
-*Platform*
+4. Qi that is staked for 4 years has 4x the voting power- this is known as eQi. vQi is a liquid form of eQi that allows holders to sell the token. vQi voting power is always used for vGHST. 5. The current vQi supply is 833k which means 3.3M eQi voting power.
 
-FAKEwaar is built in Unity with native networking. While a web hosted version is the primary focus, we will also be working hard to support ANDROID mobile users. Probably iOS as well.
+6. The system requires adequate vQi-Qi liquidity to be sustainable. This vote incentivizes the vQi-Qi pool which will deepen liquidity and create a flywheel effect in increasing vGHST rewards on QiDAO.
 
-*Request for Continuing Development Support*
+7. More rewards for vGHST means more rewards in the hands of the Aavegotchi community
 
-V1 as presented during the March 30th, 2024 DAO call has been developed independently by GMI Game Labs. We humbly request additional support from the Aavegotchi DAO based on the demonstrated capabilities and potential of the V1 playable proof of concept.
+None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
 
-*Timeline*
+Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
 
-Upon approval and receipt of the requested continuing development fund, FAKEwaar V2 would be planned for a three month development timeline. This fund would allow GMI Game Labs to put full time effort into this development and we fully anticipate fulfilling or even beating this timeline. A full overview of V2 implementations can be found in the [FAKEwaar Whitepaper](https://gmifrens.gitbook.io/fakewaar-whitepaper).
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/use-dyst-voting-power-for-the-vqi-qi-pool/4010)
 
-*Requested Funding*
+Option 1: Yes. Vote for vQi-Qi
 
-Total Cost: 18K USD
+Option 2: No. Vote for someone else
 
-Breakdown:
+Optie 3: Geen stem
 
-* 6K - Unity Development & Project Management by Mycaleum
-
-* 6K - Website, Smart Contract and Technical Support by User Default
-
-* 6K - Creative leadership of asset and art generation by Kravitch
-
-Upon approval, we request $18k USD equivalent in stablecoins (USDC/USDT/DAI) to be transferred to the GMI Multisig Treasury on Polygon PoS at: 0x376184461aaa5Bd445cd52924Fdf29e8E4b86900
-
-In the event the DAO does not have on-hand stablecoin liquidity on Polygon PoS to fulfill this disbursement, we request an appropriate amount of $GHST tokens be swapped in order to provide this stablecoin liquidity in full.
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1221209900517163158)
-
-Option 1: Fund FAKEwaar!
-
-Option 2: Do not fund FAKEwaar...
-
-**Voting Period:** 11 - 21 April 2024
+**Voting Period:** 22 - 29 June 2022
 
 **Resultaten:**
 
-table_agip115
+table_agip32
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x62cb52138d0d66f0b363156f0be470d2289f7e64aa0b00a98f09a52ec6e4cba4)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x68dc76a5d1069e58f1409d644824044df823c304fc349f85b38ccb0fcd95e4a4)
 
 <hr />
 
-### Elected Facilitators for DAO Meetings
-**Aavegotchi Improvement Proposal #116**
+### Change Harvester Recipes
+**Aavegotchi Improvement Proposal #33**
 
 **Voorstel Samenvatting:**
 
-This proposal aims to provide guidelines for nominating and compensating accountable DAO members to collect DAO feedback, build meeting agenda's and to host the Saturday DAO call.
+The original harvester recipes:
 
-This proposal outlines job dimensions, as well as a compensation structure for 4 elected DAO members to fulfill.
+* Discourage upgrading parcels beyond levels 3 & 4.
 
-*Job Dimensions:*
+* Are too expensive in cost and punishing in yields at the higher levels.
 
-* Meeting Preparation and Organization:
+* Easily allow for the Low Leveloor to extract insanely high yields with very little investment.
 
-* Work with DAO members to allocate time slots for presentations and discussions for each speaker.
+* Are too inexpensive from a time-to-build perspective. This diminishes the effectiveness of makers and the utility of GLTR.
 
-*Facilitation/Moderation:*
+After a month and a half of theorising, simulating, and refining MikeyJay, coderdan, letsgobankless, and myself have arrived at a final recipe which we believe best solves the above problem.
 
-* Steer discussions towards productive outcomes, ensuring active engagement while managing time efficiently.
+The proposed recipe changes to the harvester:
 
-*Decision-Making Support:*
+* Promote dynamic gameplay with a multitude of winning strategies
 
-* Provide clarity on proposals, including their goals and potential impact. Gather and communicate feedback to forum operators.
+* Make high level harvesters not only viable, but desirable
 
-*Communication and Follow-Up:*
+* Reduces inflation of alchemica
 
-* Deliver succinct summaries of discussions, decisions, and action items. Monitor progress on agreed-upon tasks.
+* Handicap the Low Leveloor strategySignificantly increase build time for each installation which promote a healthy GLTR economy. This increase drives more utility to the maaker.
 
-*Conflict Resolution:*
+This topic has been discussed at length. For a full understanding, I highly encourage you to read through the [forum thread](https://dao.aavegotchi.com/t/something-aint-right-with-installation-upgrades-resolved-and-in-progress/3715), [simulation results](https://drive.google.com/drive/folders/1WB8L6aEPEdGnEgxcRUD3ysRwko2fjzMU), and recipe changes. The [Bot Strategy](https://github.com/mikey-jay/realm-simulator#readme) provides insight into how the simulation bots operated.
 
-* Serve as an impartial mediator to resolve disputes and disagreements during discussions.
+*Associated Risks*
 
-*Innovation Promotion:*
+Given the amount of time invested in recreating this recipe, there are few contingencies.
 
-* Promote the exploration of innovative ideas, tools, and practices to improve our governance process.
+The reduction in alchemica inflation also means a reduced ROI (in terms of alchemica, not necessarily $$$)
 
-*Commitment:*
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/something-aint-right-with-installation-upgrades-resolved-and-in-progress/3715)
 
-* The role requires 6-10 hours of preparation weekly, including a one-hour DAO call every Saturday at 3pm UTC.
+Option 1: Yes, Change the Recipes
 
-* If the role is split (in this case amongst 4 members) the commitment will also be split equally. 4 members taking on this role would take one week each in this case.
+Option 2: No, Keep Things the Same
 
-* Important to note this is usually a week long ongoing effort + Saturday Call.
-
-*Term length:*
-
-* 6 Months with an option to re-elect a member at 3 months should they step down or cannot fulfill the role adequately.
-
-*Compensation:*
-
-* 500 USD, per month, per member
-
-* Total of 2000 USD in GHST for 4 Members, payed at the end of the month
-
-Many have stepped up to nominate as well as those I have spoken to myself.
-
-Following the passing of the proposal I suggest we hold a soft election off-chain to appoint actively participating members.
-
-I am deeply grateful for serving in this position for the last 3 Years, and look forward to the evolution of our roster!
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1214964126510747729/1214964126510747729).
-
-Option 1: Fund DAO Meetings
-
-Option 2: Do not fund
-
-**Voting Period:** 19 April - 3 May 2024
+**Voting Period:** 22 - 29 June 2022
 
 **Resultaten:**
 
-table_agip116
+table_agip33
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x4ffa41a2ab80839e03bbc0eaa1d4f8b210f294aad043343809d4f8b36059f11a)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x599754e6bf5a683d0a44aadbcad78df0522bdeb448437ff79c70b6077408fe58)
 
 <hr />
 
-### Custom IRL Aavegotchi Physical Arcade Machine
-**Aavegotchi Improvement Proposal #117**
+### AavegotchiDAO <> Pixelcraft Studios 1.75M DAI Token Swap
+**Aavegotchi Improvement Proposal #34**
 
 **Voorstel Samenvatting:**
 
-This proposal outlines the development of an Aavegotchi web3 physical arcade machine, leveraging the Aavegotchi ecosystem and current available titles through a custom Aavegotchi Gaming OS and integration with GotchiChain. This machine aims to provide an immersive gaming experience, bridging the digital and physical worlds, with a portion of the budget allocated to design contest rewards to foster community engagement and creativity.
+*Summary*
 
-*Project Objectives:*
+This proposal aims to swap 1.75 million DAI from AavegotchiDAO’s treasury with an equal value of GHST from Pixelcraft Studios’ balance sheet.
 
-* To develop a unique, customizable, blockchain-enabled arcade machine for the Aavegotchi gaming protocol.
+*Doel*
 
-* To serve as the IRL public interface to the Aavegotchi gaming protocol.
+The launch of the Gotchiverse has introduced new and increasing infra costs for Pixelcraft Studios that cannot be paid for in GHST (or any crypto for that matter). These costs primarily consist of usage of AWS and Redis Enterprise for real-time gameplay in the Gotchiverse, and will continue to scale up as the game gets more popular.
 
-* To engage the gaming community at events, function as a standalone entertainment unit located regionally, or be distributed as a collector's item.
+To pay for these costs, we have outlined several options:
 
-* To utilize RFID and QR Code technology for seamless interaction with the blockchain, enabling easy transaction signing and user authentication.
+* Raise funding from VCs
 
-*Software:*
+* Liquidate GHST into DAI and swap for fiat
 
-* Aavegotchi Gaming OS
+* Use GHST as collateral on Aave to take loans in DAI
 
-* Custom overlay application tailored for arcade gaming, with native support for GotchiChain.
+* Perform a token swap with AavegotchiDAO
 
-* User-friendly interface designed for ease of use in an arcade setting.
+We believe Option 4 (Token Swap) is the best available option at the moment. We strongly value our independence from VCs, prefer not to have debt on our balance sheet, and do not want to market sell GHST acquired from sales.
 
-* Enhanced security features to ensure safe and secure blockchain interactions.
+Therefore, we propose a token swap between AavegotchiDAO and Pixelcraft Studios to ensure adequate fiat runway for several years of further development, no matter how bearish the market becomes.
 
-*Hardware Specifications:*
+*Key Details*
 
-* High-performance gaming single-board computers (SBCs) or full size ATX to handle advanced gaming and blockchain operations.
+At the time of this writing, AavegotchiDAO treasury holds roughly:
 
-* Vibrant high-resolution displays optimized for gaming graphics and user interaction.
+* 2.5 Million DAI
 
-* Durable and responsive arcade controls for an authentic gaming experience along with traditional keyboard and mouse access.
+* 3.5 Million GHST
 
-* RFID sensors and QR Code integration for user authentication and blockchain transactions.
+* 3 Million Alchemica (Live source here: [AavegotchiDAO Treasury Balance](https://app.aavegotchi.com/treasury))
 
-* Custom-designed arcade cabinets featuring Aavegotchi branding and aesthetics.
+Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
 
-*Development Roadmap and Budget Estimation:*
+Pixelcraft Studios has been able to effectively grow the team and support infrastructure costs without needing to liquidate any significant amount of GHST. But last month’s launch of the Gotchiverse and anticipated continued growth has pushed operating costs dramatically higher. Server costs for the April playdrop, for example, exceeded 40k USD, and that is projected to grow in the months ahead.
 
-Design Phase: 8-12 weeks timeline.
+Such operating expenses are anticipated but we have to acknowledge that these subscriptions and invoices almost always insist on trad banking (fiat). We would prefer to not have to sell GHST in order to achieve the necessary growth budget.
 
-* Conceptualization, software/hardware specification, initial design, and design contest.
+The DAO’s revenue from the GHST bonding curve opens up the possibility of a large-scale exchange of assets between our two parties. With the game live, GHST off its all time highs, and a DAO treasury that is well established, we believe this is the right time to propose an OTC token swap.
 
-* Estimated Cost: 1,000 GHST (500 GHST allocated to design contest rewards).
+For the purposes of this token swap, a valuation for GHST that all can agree on must be established. There are many ways to arrive at such, so in the interest of expediency, I am proposing an intuitive method that also tips the scale generously in the DAO’s direction:
 
-Prototype Development:
+*GHST valuation methodology*
 
-* Assembly and testing of a functional prototype with the Aavegotchi Gaming OS and RFID integration.
+Pixelcraft Studios has calculated GHST’s average price from Tuesday, June 14 to Saturday, June 18 (duration of the SigProp via CoinGecko) with a 5% discount applied to the final price: USD 1.28. If DAO voters find the results agreeable, they may vote to approve this CoreProp.
 
-* Estimated Cost: 2,000 GHST.
+*Execution*
 
-Production of One Testing Machine:
+If the CoreProp passes, the token swap should process in a predictable way. I suggest the token swap occur with the following method of execution:
 
-* Manufacturing and assembly of a single arcade machine for extensive testing and validation.
+* Pixelcraft Studios shall first transfer the agreed upon amount of GHST (defined in the CoreProp) to the AavegotchiDAO treasury wallet.
 
-* Estimated Cost: 3,000 GHST.
+* AavegotchiDAO treasury wallet (currently managed via multisig by Pixelcraft team) shall transfer 1.75 million DAI within 8 hours of receiving the GHST to the Pixelcraft Studios primary revenue wallet.
 
-Total Estimated Cost for Initial Phases: 6,000 GHST
+* Pixelcraft Studios shall make an announcement in Aavegotchi Discord confirming the reception of the DAI, thus concluding the token swap.
 
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1222928440282583050).
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/token-swap-1-75m-dai-from-aavegotchidao-for-ghst-from-pixelcraft-studios/3769)
 
-Option 1: Yes, fund it!
+Option 1: Yes, perform a swap of 1.75M DAI
 
-Option 2: No, do not fund.
+Option 2: No, don't perform a token swap
 
-**Voting Period:** 19 April - 3 May 2024
+**Voting Period:** 22 - 29 June 2022
 
 **Resultaten:**
 
-table_agip117
+table_agip34
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xad9c32042678c6250507f602a57ea52846efe8391d781bc9476683e9347bef63)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xe9ceb07837c7b04420f33fb324c220694241c84ffd6bb50c2651e3376326adb3)
 
 <hr />
 
-### Proposal to Add Liquidity on Aerodrome and earn AERO
-**Aavegotchi Improvement Proposal #118**
+### Delay the 3rd LAND Auction
+**Aavegotchi Improvement Proposal #35**
 
 **Voorstel Samenvatting:**
 
-This proposal seeks to strengthen the Aavegotchi ecosystem by increasing liquidity on Aerodrome, Base's native decentralized exchange (DEX). By adding $500K worth of $GHST and $500K worth of Ethereum to a liquidity pool on Aerodrome, we aim to deepen liquidity and attract more users to the platform. Additionally, we propose allocating 100K GHST worth of bribe incentives to further encourage participation and engagement.
+We are fast approaching the end of June when the LAND 3 auction/raffle is scheduled for based on the AGIP-30 core prop. However, since this core prop was started (20th May) a lot of things have changed:
 
-*Rationale:*
+* Harvester release has been delayed
 
-Increasing Liquidity: With GHST recently launching on Base, we have a responsibility to help ensure adequate liquidity for traders on Base. The proposed allocation of $500K worth of GHST and $500K worth of Ethereum into a liquidity pool on Aerodrome will significantly improve the depth of liquidity for trading on Base. This will allow for more efficient trading and reduce price slippage, making the Aavegotchi ecosystem more attractive to both existing and potential users.
+* We are in the middle of a bloodbath in the markets
 
-Incentivizing Participation: By allocating 100K GHST worth of bribe incentives, we aim to encourage more users to engage with the Aavegotchi ecosystem on Aerodrome. These incentives will be distributed as rewards for veAERO holders in exchange for them voting to increase the allocation of AERO rewards for the GHST-ETH pool.
+* LAND prices have dropped 30-70%
 
-Earning AERO token for the DAO treasury: Aerodrome is the leading native DEX on Base, and with Aavegotchi making inroads into Base and Gotchichain settling to Base, it makes sense for the DAO to have a stake in the chain’s success. Since Base does not have a native token, tokens like AERO can be seen as proxies for the chain’s growth.
+* LAND bazaar volume has dropped 90%
 
-*Proposal Details:*
+* There's been huge selling pressure on alchemica prices
 
-Allocation of Funds: The proposal calls for the allocation of $500K worth of GHST and $500K worth of Ethereum from the AavegotchiDAO treasury to be used for creating a liquidity pool on Aerodrome.
+Due to these significant changes in the market, its seems right to allow the DAO to have another emergency vote on whether to go ahead with the LAND auction or not as releasing an auction in this market is very likely to drive down assets prices across the ecosystem.
 
-Distribution of Incentives: The proposal also includes the allocation of 100K GHST of bribe incentives to be distributed among veAERO holders on Aerodrome. These incentives should be distributed in two tranches of 50K GHST each over a period of one month.
+Coderdan confirmed it is viable to stop the auction but we must act quickly frens:
 
-Implementation Timeline: The proposal aims to have the liquidity pool established and the bribe incentives ready for distribution within 14 days of the proposal's approval. The AavegotchiDAO foundation should be responsible for overseeing the implementation process and ensuring that all necessary steps are completed in a timely manner.
+My thoughts are that it's generally not ideal to do a token sale in the middle of a market bloodbath as we are currently experiencing. Assets from all sectors of crypto are down, not just Aavegotchi. We are actually holding fairly strong in comparison.
 
-Source of funds: $500K worth of ETH should be sourced by converting DAI from the DAO Liquidity wallet into ETH. $500K worth of GHST should be obtained by reducing the DAO’s 80-20 LP on Balancer to obtain enough GHST. Both GHST and ETH should be bridged from Ethereum to Base via the canonical Superbridge or Base Bridge (whichever is easiest).
+However, the DAO has voted to do this sale, and it passed overwhelmingly, so the DAO will also need to vote to delay it."
 
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1224594975673684018/1224594975673684018).
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/delay-the-3rd-land-auction/4063)
 
-Option 1: Yes, create the pool
+Option 1: Yes, delay LAND 3 Release
 
-Option 2: No, do not create the pool
+Option 2: No, continue as planned
 
-**Voting Period:** 26 April - 3 May 2024
+**Voting Period:** 22 - 29 June 2022
 
 **Resultaten:**
 
-table_agip118
+table_agip35
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xba11262fc75ec6b49dafcdfb55c6aa3395ce58c18aa377b6a955d695a27ff3f0)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xf614634f7b1864d19ea144dd68280df6c3cb3e514e2e20929767e6ccd2f4022c)
 
 <hr />
 
-### Convert all DAO-owned $DAI/$aDAI -> $USDC/$aUSDC
-**Aavegotchi Improvement Proposal #119**
+### Utilizing the Channeling “Hot Zone”
+**Aavegotchi Improvement Proposal #36**
 
 **Voorstel Samenvatting:**
 
-AavegotchiDAO holds a range of treasury assets according to the mandate laid out in AGIP65 which outlined a 4-way split for unlocked $DAI for liquidity, general reserve, core team, and player rewards.
+There has been a lot of heated discussion about bots, scholars, spillover and more. A lot of it completely misses the point though, at least in my opinion. I went more in-depth on why I don't believe botting to be the primary problem at the moment in a comment [here](https://dao.aavegotchi.com/t/keeping-the-status-quo-of-disabled-spillover-for-a-while/3845/172).
 
-As of April 1st 2024, our stablecoin basket is as follows:
+So I started playing around with the numbers for spillover radius & rate, but I just couldn't find a satisfying solution. Reducing them only by a bit would barely have an effect, while reducing them drastically would devalue high level Aaltars. When I went through the blog post on channeling radius it finally clicked though! The mechanic was right there, just not utilized to its full potential (or at all really): The Hot Zone.
 
-* ~5.8million USD worth
+It became obvious pretty quickly that the Hot Zone wasn't so hot after all. The name simply implied that statistically speaking, 10% of the spillover would spawn inside of the inner 10% radius, 20% inside of the inner 20%, etc. This results in a slightly higher drop rate closer to the parcel, but in reality it barely makes a difference (only a single digit % of all spillover spawns in the "Hot Zone"). I want to propose allocating a fixed % of the spilled Alchemica based on Aaltar level.
 
-* 87.3% in $DAI/$aDAI; remaining in $USDC
+Combined with a proposed radius of 60 Gotchis (compared to the 64x32 measurements of a Spacious), dropping a larger amount of Alchemica inside of the Hot Zone would suddenly make spillover feel much more like actual spillover instead of a random token drop around the map.
 
-*Motivation:*
+Imo this would:
 
-An ecosystem change at MakerDAO is recently introducing some additional risk to $DAI with the consideration of including algorithmic stablecoin $USDE and $sUSDE as collateral to borrow $DAI against, with a cap being considered up to $1 billion USD.
+* Create an interesting mechanic around the concept of spillover (as seen in the OG trailer)
 
-This move is indicative of a growing trend where DeFi protocols seek to capture additional yield for users and controversially increase instability risks of the underlying assets in return. With our own DAO stablecoin holdings denominated largely in $DAI I think it is time to shed this risk by converting all our DAI into less risky stablecoins. It is encouraged voters learn more on the MakerDAO situation in the URLs listed at the bottom of this vote.
+* Add an incentive for players to pick up their spilled tokens instead of channeling & logging off (and writing off the spillover completely)
 
-*Voting Material:*
+* Reduce the advantage of bots, since picking up spillover becomes less of a grinding & more of a channeling mechanic
 
-I am proposing we convert all treasury assets held in $DAI and $aDAI into $USDC and $aUSDC, respectively. All assets will remain on their current networks unless bridged elsewhere on a different vote. With some research on 3-month yields it looks like there will be minimal impact on our interest accrued if we swap all $aDAI -> $aUSDC. This can be seen from a Dune Analytics chart below.
+* Overall make the Gotchiverse in its current form more interesting
 
-If passed, the acting AavegotchiDAO Treasurer and Foundation multi-sig directors should follow the below recommendations when swapping:
+Lastly, I would like to note one thing. This proposal suggests introducing the Hot Zone mechanic as soon as spillover is resumed. However, the reverse is not the case. This proposal is not a vote to turn spillover back on, I merely believe it to be one piece in the larger puzzle.
 
-* Withdraw all $DAI tokens deposited into Aave & Issue two tranches of swaps to USDC on https://swap.cow.fi/. Then re-deposit all USDC from aDAI equivalents back into the Aave Ethereum V3 Market for address 0x53…7B62.
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/utilizing-the-channeling-hot-zone/4055)
 
-* For affected addresses on Polygon issue one swap from DAI -> USDC for both addresses 0x93…631c & 0x8c…90f6 on https://curve.fi/ .
+Option 1: Yes, use the proposed model
 
-* For the remaining DAI in wallet 0xFF…8020 please follow the swap instructions above for Polygon on Curve.fi and swap to USDC.
+Option 2: No, don't change anything
 
-*Total DAI Holdings and Wallets*
-
-DAO Foundation Treasury
-
-* 15,809 DAI - 0x53c3CA81EA03001a350166D2Cc0fcd9d4c1b7B62 ; Ethereum
-
-* 3,557,579 aDAI - 0x53c3CA81EA03001a350166D2Cc0fcd9d4c1b7B62 ; Ethereum
-
-* 193,490 DAI - 0x939b67F6F6BE63E09B0258621c5A24eecB92631c ; Polygon
-
-Remaining Bonding Curve Fees (Ethereum)
-
-* 275,825 DAI - 0xFFE6280ae4E864D9aF836B562359FD828EcE8020
-
-DAO Foundation Rewards Pool (Polygon)
-
-* 9 DAI - 0x8c8E076Cd7D2A17Ba2a5e5AF7036c2b2B7F790f6
-
-Total – 4,042,712 DAI
-
-*Background Sources:*
-
-[https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026](https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026)
-
-[https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7](https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7)
-
-Option 1: YES. Convert all DAI to USDC
-
-Option 2: NO. Do not convert DAI to USDC
-
-**Voting Period:** 27 April - 5 May 2024
+**Voting Period:** 22 - 29 June 2022
 
 **Resultaten:**
 
-table_agip119
+table_agip36
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x2d8df1e8ad91c9b928e9d0c319e8cabfef103e48fbc7a8933d889b1389a17873)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xd610a038fb70717cefa788332d6cfbfd4504723fa2b33dc5689b542752da3cde)
 
 <hr />
 
-### Allocation of Aerodrome POL Rewards
-**Aavegotchi Improvement Proposal #120**
+### Configure VP for amGHST, wapGHST, and all GLTR Staking
+**Aavegotchi Improvement Proposal #37**
 
 **Voorstel Samenvatting:**
 
-This proposal is a followup on the successful passing of AGIP 118 - Proposal to Add Liquidity on Aerodrome and earn AERO. This proposal applies retroactively to the rewards we are currently accruing.
+As we have now launched GLTR staking and most of us have moved our liquidity from the FRENS pools to the GLTR pools, it is time to make those pools officially part of the voting power.
 
-Currently, any AERO that is earned by the DAO via the Aerodrome liquidity flywheel cannot be allocated because the terms were not in the original proposal.
+The VP would be as follows, which is simply a continuation of how we have done everything on the FRENS staking side-
 
-This prop proposes to allocate any AERO earned by our POL (protocol-owned liquidity) on Aerodrome in the following way:
+The affected pairs and tokens to be added, are as follows -
 
-20% converted to ETH 80% added to the GHST/WETH liquidity pool incentives for the next epoch
+* amGHST(GHST staked on Aave)
 
-These transactions should be carried out within seven (7) days of receiving the AERO, unless extenuating circumstances cause delays.
+* wapGHST (unstaked, staked on FRENS side, or staked on GLTR side)
 
-The proposed length for this allocation is three months. After three months, a new proposal will be drafted and submitted to AavegotchiDAO to either continue the allocation as is, or make changes.
+* stkGHST-USDC (not added on GLTR side yet)
 
-Thank you for your consideration frens!
+* stkGHST-MATIC (not added on GLTR side yet)
 
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1224594975673684018).
+* stkGHST-GLTR
 
-Option 1: Yes, allocate the AERO like this
+* stkGHST-FUD
 
-Option 2: No, another way
+* stkGHST-FOMO
 
-**Voting Period:** 17 - 24 May 2024
+* stkGHST-ALPHA
+
+* stkGHST-KEK
+
+VP is calculated as follows -
+
+* amGHST, wapGHST - 1 VP per token
+
+* All supported pairs that receive GLTR rewards - 1 VP per GHST staked, calculated at time of Snapshot. Again, this is simply a continuation of how we have treated GHST and staking in the past.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/vp-for-wapghst-alchemica-lps-and-glitter-lps/4106)
+
+Option 1: Yes, do it
+
+Option 2: No, don't
+
+**Voting Period:** 3 - 10 August 2022
 
 **Resultaten:**
 
-table_agip120
+table_agip37
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xbb7e75512a55d15a6233e13a83af5ce5638c36b5a96e3dde8c4560acf904038a)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x9923aab6825158ec2503d88e3ee2f9c5fbb12000581d06343ac9829aa59b66a6)
 
 <hr />
 
-### AavegotchiDAO MCON III Sponsorship Package
-**Aavegotchi Improvement Proposal #121**
+### Stop new BRS Wearable Emissions until further notice
+**Aavegotchi Improvement Proposal #38**
 
 **Voorstel Samenvatting:**
 
-This proposal is to form a partnership with the MetaCartel and promote the Aavegotchi DAO at MCON3 in Detroit, MI. This intimate event with ~800 people who are deep into the onchain ecosystem, including creators, developers, and investors, will expose Aavegotchi to a new audience and strengthen connections with influential builders in the community.
+*Probleem*
 
-*GOALS*
+Over the lifespan of Aavegotchi, we've endured many wearable dilution events which have negatively impacted our community by:
 
-* Arcade Machine with WHTRANG3R/LITEPIGLET
+* Loss of investor confidence (and investors)
 
-* Side Event at Off-World Arcade ( GAME JAM HACK and/or TOURNAMENTS)
+* Depreciation of asset values
 
-* Inform and Incentivize builders to come and collaborate alongside the Aavegotchi DAO
+* No known schedule for releases, resulting in uncertainty in the markets
 
-The ethos of MetaCartel is “IF YOU WANT TO GO FAST, GO ALONE. IF YOU WANT TO GO FAR, GO TOGETHER” Members of the Aavegotchi DAO have attended previous MCONs, engaging with dedicated and innovative builders in governance, public goods, coordination, and onchain innovation.
+* In bullish conditions, new wearables would be released, capping our upside growth
 
-This proposal seeks to invest in an event that has historically provided significant value to the Aavegotchi community. The MetaCartel is known for being an OG grants DAO in the Ethereum ecosystem, giving away $2mm+ in grants over 5 years of operation. They are also architects and incubators of some of the most well known projects in Web3.
+It makes sense to have a wearables budget. Something the whole community can see and investors can easily digest. A cap based on total live gotchis was proposed, but in truth it does not accurately depict the true usage of assets.
 
-*SPECIFICATIONS*
+The community by and large agrees on a budget, however at this moment in time, we don't have the metrics or data to create one. This budget is likely going to come from data such as daily active users (once PvP is live).
 
-This proposal solicits support for a Mid-Tier Sponsorship of MCON3. Whereby the funds will go towards executing the main event, as well as supporting a dedicated side event for Aavegotchi.
+*Proposal*
 
-This 10k ticket covers staff/organizers, food, AV/ furnishings, tickets for the whole team as well as $2500 allocated to a Gotchi exclusive side event that the MCON organizers will help organize and promote amongst locals and OGs.
+This proposal is simple and straightforward:
 
-As a part of this experience Aavegotchi would be able to co-create the gaming track, pick topics of discussion, invite speakers to share their perspectives, and have a dedicated side event, social media spotlight, as well as all of our branding on the events marketing and media + logistical support from the MetaCartel to bring it all together.
+1. No new BRS-based wearables until the DAO votes on a budget
 
-The DAO arcade machine is needed to coordinate a successful side event where we can set up and interact with people playing it at Off-World Arcade. After sponsorship is approved by the DAO, more details can be laid out as we co-create a gaming track, tournament or game jam.
+2. That budget will be developed at a later date once the data is available
 
-We’d need a paid team of at least 3 GotchiGang/Greetors (setup, breakdown, BD, media) and would prefer a PC representative and/or a DAO funded game dev to attend as well. Stickers, merch and other physical goods for marketing/signage and rewards for email captures for mailing lists would also need to be discussed, funded and produced.
+The idea is to restore investor confidence and allow us to sleep a bit easier at night, knowing that our assets will not suffer from spontaneous dilution.
 
-IF we do a game jam/hack focused side-event we need to consider qualified judges, discuss prizes for winners as well as rewards for any tournaments. Or just showcase Aavegotchi games and the arcade machine, run a few tournaments and onboard new DAO members, artists, and devs.
+Note: this proposal does not include aesthetic wearables, new set creations, or set rebalances (such as Link Marine)
 
-Final costs could range from 13-15K total (likely less), but we’d be saving funds by collaborating alongside MetaCartel to produce and market a successfully spicy Aavegotchi DAO side-event.
+*Associated Risks*
 
-*MILESTONES*
+I don't see any potential risks for this proposal.
 
-* Email signups, Social Media Spotlight
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/setting-a-fixed-cap-on-new-wearables/4211)
 
-* Games Developed
+Option 1: Yes, stop new wearables
 
-* Dapps built for DAO governance and tooling
+Option 2: No, keep things as is
 
-* GotchiPill community governerds, investors, gamers and game devs.
-
-* Live discussions featuring Aavegotchi DAO members
-
-*RISKS*
-
-Gotchichain not ready, readiness of playable Aavegotchi web3 connected games, Arcade machine progress, overspending budget. Not being a sponsoring partner and missing out on the spicy fun.
-
-*CONCLUSION*
-
-Members from Aavegotchi DAO with personal connections and history with the MetaCartel have already proven to be valuable. Through these bonds we were given an opportunity for a last minute free booth at ETH Denver 2023 and are getting the top tier(20k) perks for sponsorship at the mid-tier(10K) cost for MCON3.
-
-The proposed $10K sponsorship will leverage existing relationships with MetaCartel to achieve top-tier sponsorship benefits at a mid-tier cost. The additional estimated available budget from GotchiGreetors (3-5k) ensures logistical support for a successful event. This collaboration is expected to strengthen long-term relationships and create significant impact at MCON III!
-
-$10K paid for in USDC or EVM-Native Token on MAINNET sent to MetaCartel Safe eth: 0xc70c7090b91e0d9861d734Eb613761e8b35224D2
-
-Details on the AGIP can be found [here](https://www.discord.com/channels/732491344970383370/1235789442321616897).
-
-Option 1: Yes, Fund 10K Sponsorship
-
-Option 2: No, Don't Fund
-
-**Voting Period:** 7 - 20 June 2024
+**Voting Period:** 3 - 10 August 2022
 
 **Resultaten:**
 
-table_agip121
+table_agip38
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xb5441817ecff8a693937ff1c16562c9d1d43c4bbf76490220d7d34da181bb43d)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xec282bd937a1d85a17726cc00711b78e2fc2f0125ff9af127ddb77497dd024e5)
 
 <hr />
 
-### Allocation of Quickswap POL Rewards
-**Aavegotchi Improvement Proposal #122**
+### Modifying the Channeling Window
+**Aavegotchi Improvement Proposal #39**
 
 **Voorstel Samenvatting:**
 
-We have significant Protocol Owned Liquidity (POL) on Quickswap (Polygon network), which is accumulating over $250k in fees (GHST and USDC). Unlike Balancer POL, these fees do not compound automatically and need to be claimed manually.
+After trying out the 24 hour channeling window, many people were displeased with the results that it achieved.
 
-This proposal seeks to determine the best course of action for these accumulated fees. Below are the options we have identified:
+Issues with the current system include extra server load from Midnight to 1 UTC, the creation of a "prime time" where there is a short window of time where most alchemica is spilled, and problems caused by needing to channel a gotchi before putting it on the market(we do not have the full action control lists yet).
 
-* Do Nothing: Leave the fees unclaimed and unutilized.
+The goal of this sig prop, is to give quality of life improvements to Gotchi owners with creating an exploitable mechanic or causing undue server loads or other issues.
 
-* Compound Monthly: Allow the directors to claim and compound the fees every month by re-adding the rewards to the QuickSwap pool on the Polygon network.
+The proposed solutions are to either to A) revert to the original implementation, as presented in the Gotchiverse Bible, B) Leave the system as is and let the issues resolve themselves over time, or C) Keep the current system, but add a feature that lets you burn glitter to move your gotchi(s) channeling window reset time forward by one block, per glitter spent.
 
-* Bridge and Add to Liquidity on Base Network: Bridge the rewards to the Base network and add them to the GHST-WETH liquidity pool on Aerodrome.
+The implementation, would be that we are given a way to adjust one or all gotchis channeling window, by spending GLTR to move the window forward one block per GLTR spent. It will only be possible to move the time forward, and you can only do this, if the gotchi(s) are currently able to channel.
 
-* Bridge and Use as Incentives on Base Network: Bridge the rewards to the Base network and use them as incentives for bribing the GHST-WETH pool on Aerodrome. These incentives will be distributed over a period of two months (8 epochs) with equal allocation for each epoch.
+The risks associated with this are that there will be unintended consequences, as always.
 
-*Implementation Timeline:*
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/giving-gotchi-owners-the-ability-to-reduce-cooldown-time-for-solo-channeling/3107)
 
-These transactions should be carried out within seven (7) days of reaching a decision, unless extenuating circumstances cause delays.
+Option 1: Revert to the original solution
 
-*Voting Options*
+Option 2: Keep the current solution
 
-* Do Nothing
+Option 3: Use GLTR to move channeling
 
-* Compound Monthly on Quickswap (Polygon network)
-
-* Bridge to Base and Add to GHST-WETH Liquidity Pool on Aerodrome
-
-* Bridge to Base and Use as Incentives for GHST-WETH Pool on Aerodrome (2 Months, 8 Epochs with Equal Allocation Each Epoch)
-
-Thank you for your consideration frens!
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1241028017699033099).
-
-Option 1: Voting option 1
-
-Option 2: Voting option 2
-
-Option 3: Voting option 3
-
-Option 4: Voting option 4
-
-**Voting Period:** 8 - 18 June 2024
+**Voting Period:** 26 August - 2 September 2022
 
 **Resultaten:**
 
-table_agip122
+table_agip39
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xd7de27500ffa8d360848e7655a32a7b7a00ac46fc13ab156ef51dfebb4101d4a)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xb41fe70a12f107d9dc8f0c8aa0346b53d9c35866a5e71ce717253f02ba4ddd7b)
 
 <hr />
 
-### Community Wearable Schematics Release
-**Aavegotchi Improvement Proposal #123**
+### Sunsetting FRENS Immediately
+**Aavegotchi Improvement Proposal #40**
 
 **Voorstel Samenvatting:**
 
-* Frens and Accessories Wearables Launch
+I propose that we cease FRENS emissions immediately. FRENS emissions have been used as a liquidity mining (LM) incentive by providing GHST holders and liquidity providers access to future content through the raffle system. While this was an initially effective tool for LM, it is now doing more harm than good. Outlined below and in the forum thread are the reasons why Aavegotchi should sunset FRENS:
 
-* Theme is community-designed
+* Eliminating FRENS will reduce Aaveogotchi protocol pressure to hold dilutional events by eliminating ongoing “content debt” created by FRENS emissions
 
-* 14 new designs ranging from common to mythical
+* GHST has alternative staking utility with GLTR liquidity mining
 
-* Eyes, face, and pets only
+* Shifting focus to alchemica/GLTR pairs reallocates LM rewards to asset holders who are more directly providing value to the ecosystem in the form of liquidity vs single-sided GHST staking which provides limited and historically overcompensated value
 
-* No new cores to be minted/released
+* Future content events can generate protocol revenue instead of paying out content debt. This allows for a more sustainable revenue stream for Pixelcraft and the Aavegotchi DAO
 
-* Aimed to balance the trait meta and freshen up the wearables pool
+* The value of future content can be captured on-chain with GLTR/Alchemica/GHST instead of off-chain with FRENS
 
-* 12 unique designs. The common, uncommon, and rare pet would be evolutions of each other
+* Capturing on-chain value of the above native assets will significantly add utility to all tokens
 
-* Target release: end of September 2024 (sooner if PC has bandwidth for the push)
+* Current FRENS and raffle ticket holders must be acknowledged with raffle(s). There are multiple avenues for this which are outlined in the DAO forum thread. The community can design and publicize events to utilize these FRENS which will be an easier task if we stop further emissions and narrow the scope of the raffle with cessation of FRENS’ emissions.
 
-*Community Competition*
+There will be an additional signal proposal outlining changes to GLTR emissions to support liquidity provision for the GHST token specifically. While the bonding curve is in place, it is important that a sustainable GHST liquidity plan is in place that captures and rewards LPs fairly and sustainably.
 
-Anyone can design a wearable and submit their artwork in any format. The winners will be chosen during a hangout in traditional emoji-response fashion
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/sunset-frens-by-october-1st/4255)
 
-I will work with the winners to make sure the pieces are in proper pixel-perfect format
+Option 1: Sunset FRENS immediately
 
-Prize money ranges from 100 ghst to 500 ghst
+Option 2: Taper FRENS w/ end date of 10/1
 
-Bonus GHST prizes for whoever makes the best use of old wearables in set creation. The sets should strive to pick up older wearables as well as fill the gaps as shown here: [https://wearables.report/trait-selection.html](https://wearables.report/trait-selection.html)
+Option 3: Keep FRENS as they are
 
-Bonus GHST for the #1 favourite wearable
-
-*Partnerships*
-
-Partnerships are always a great idea and welcomed. However they take quite a bit of time and coordination. Therefore, I propose we open this aspect with a bounty. Anyone who can successfully bridge our community with another favourable gang can grab a nice 500 GHST bounty. Keep in mind it's important in a partnership for reciprocity. Partnering goes beyond simply doing something for another community while receiving nothing in return.
-
-Partnership connections must be established by 15th June. The deal may not need to be closed, but we need to be 80% committed to it. This is because partnership-specific wearables are limited in their design scope (we don't want to have people designing a wearable for a slot that gets filled with a partnership!)
-
-*Timeline*
-
-* Proposal raised and voting period 29th May - 15th June
-
-* Partnership bounty deadline 15th June
-
-* Design submissions deadline 28th June
-
-* Competition voting 29th June
-
-* Artwork refinement 30th June - 20th July
-
-* Handoff all completed pieces to PC 20th July
-
-* PC does their magic 20th July - release ???
-
-*Distribution & Mint*
-
-No new cores will be minted.
-
-The traits are pulled from here: [https://wearables.report/trait-selection.html](https://wearables.report/trait-selection.html)
-
-The bigger the standard deviation, the further from balance that particular slot/rarity is. There are clear winners in every slot. For uncommon eye, there is no imbalance, so we propose two items which counter-balance each other.
-
-The DAO will buy a basket of cores from the market and forge a number of pieces to use as giveaways or sales
-
-I propose a budget of 8,000 GHST to buy/forge as many pieces as possible. The goal is the following quantities:
-
-* Common eye & face: 50 ea
-
-* Common pet: 25
-
-* Uncommon eye & face: 25 ea
-
-* Uncommon pet: 15
-
-* Rare faces: 10 ea
-
-* Rare pet: 5
-
-* no legendary or mythical
-
-The total maximum alloy required is 72k which will be provided by the DAO stock. Any remaining alloy / ghst from this allotment will be returned. Any schematics obtained through smelting will be added to the geode pool.
-
-All remaining schematics from the mint will be added to the geode pool.
-
-Forged wearables will be sent to the DAO.
-
-*Total Costs*
-
-* Core buying: 8000 GHST
-
-* Prize pool: 2650 GHST
-
-* Oliver for coordination, communication, and wearable rigging: 2600 GHST
-
-* Partnership bounties: 500ea (to be distributed later upon success)
-
-Total: 13,250 GHST + successful partnership bounties (as this number is unknown, we will send this separately)
-
-Upon successful passing of prop, send 13,250 GHST and 72,000 alloy to: 0x4a478E4593A5D557dB640642c34Ae52800084451
-
-This is a clean wallet which can be tracked for all buying / smelting.
-
-As mentioned, all unspent GHST and alloy will be returned to the DAO.
-
-*Closing*
-
-Overall, my hope is to have a fun event which brings the community together. The last design competition was a hit and there were so many great wearables designed. By opening up the design to more possibilities, we will have more winners. I also would love to see some old wearables freshened up in new creative ways with the addition of one or two new items :smile:
-
-With more games on the horizon, RF, and the Battler, players are going to need different wearables to win the meta.
-
-More option = more alloy burning = floors rising.
-
-Thanks everyone and let's have some fun!
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1126256051528937624/1238889414911066274).
-
-Option 1: YES
-
-Option 2: NO
-
-**Voting Period:** 8 - 19 June 2024
+**Voting Period:** 26 August - 2 September 2022
 
 **Resultaten:**
 
-table_agip123
+table_agip40
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xff8daa93be9021f9f0a49cb8394ef49f868261bd9828faa351611c9854bbf0db)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x9d8fa69132f66ad8e665549cff91c08de8687a72d2702cb66cd41dbb877f09f7)
 
 <hr />
 
-### Fund Creation of Ghostly Gladiator MVP
-**Aavegotchi Improvement Proposal #124**
+### Update GLTR Emissions
+**Aavegotchi Improvement Proposal #41**
 
 **Voorstel Samenvatting:**
 
-This proposal is for funding an MVP of Ghostly Gladiator, a roguelike deck-building grid-based battler based on the assets & lore of the Gotchiverse. The long-term goals of the project are:
+I propose that we alter GLTR emissions to optimize GHST liquidity and support the sunsetting of FRENS as outlined in the “Sunset FRENS" proposal.
 
-# 1 Create a great roguelike deck-builder, in order to
+The above proposal and this one will accomplish the following:
 
-# 2 increase the exposure of crypto-agnostic & crypto-ignorant gamers to the Aavegotchi ecosystem and
+* Retire the GHST-QUICK liquidity pool liquidity mining rewards (currently FRENS)
 
-# 3 provide a long-term income stream to the DAO through a community meta-progression system (see the Monetization section of the design doc for details on this part: [https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit?usp=sharing](https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit?usp=sharing))
+* Retire the GHST-WETH liquidity pool mining rewards (currently FRENS)
 
-Ghostly Gladiator is targeted towards people who don’t know about Aavegotchi yet and maybe don’t even have a crypto wallet. Rather than try to monetize the (currently) small number of people that both own Aavegotchi assets and want to play minigames with them, this project is designed to appeal to the wider gaming audience and expose them to the Aavegotchi ecosystem and community. For those who like to ask ‘wen marketing’, my answer is ‘right now’. In marketing speak this game is targeted towards the top of the marketing funnel rather than the very bottom like many of the minigames so far have been.
+* Retire the GHST-MATIC liquidity pool mining rewards (currently FRENS + GLTR)
 
-I am asking for $6500 worth of DAI or GHST to fund the creation of the MVP over 6 weeks, with plans for a larger proposal later if the project is successful with the community. At the end of the 6-week period I would run a small XP event for the community to try out the MVP.
+* Add 5% weight to the GHST-USDC LM rewards (taken from GHST-MATIC) for a total of 20%
 
-Ghostly Gladiator (title not final) is a roguelike deck-building grid-based battler. For a game in the same genre, see Fights in Tight Spaces (or Knights in Tight Spaces). Fisht Fight ([https://zygoth.itch.io/fisht-fight](https://zygoth.itch.io/fisht-fight)) is a simple example of this genre that I made for a 7-day game jam, and it’s the concept and code that I will be building from. Fisht Fight placed 11th out of 564 entries in the ‘Fun’ category in the Fish Fest game jam (top 2%). I highly recommend that you play Fisht Fight if you want an idea of how Ghostly Gladiator will play.
+* This consolidation will maximize our most successful pool in GHST-USDC. It will eliminate rewards for unpopular pools and help grow our most successful pool. The GHST-WETH pair was borne from the Dinoswap pool which is a failed project. The GHST-MATIC pair is the only one on SushiSwap which is an inactive exchange on Polygon. Neither project offers ongoing LM incentives. The increase in GHST-USDC LM rewards is necessary to offer compensation for the impermanent loss risk incurred by the pair, otherwise single-sided staking for wapGHST will be prioritized and not afford further depth in the GHST-USDC pool. Below is the chart with highlighted changes to GLTR emissions and resultant estimated APYs.
 
-*Basic Gameplay*
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/sunset-frens-by-october-1st/4255)
 
-The game is divided into 10 separate battles, each with different types of monsters. Each turn, the player draws 5 cards from their deck and receives 3 energy. They can use the energy to play cards from their hand in order to move around the battlefield, attack enemies, defend, summon allies, etc. Battles end when all enemies are defeated. After each battle, the player gets to pick a new card from 3 options to add to their deck. The game ends when the player completes all battles (victory) or loses all their HP.
+Option 1: Yes. Increase USDC remove MATIC.
 
-*Timeline (6 weeks)*
+Option 2: No. Leave emissions unchanged.
 
-Programming (Zygo)
-
-* Refactor code from Fisht Fight (3 days)
-
-* Save/load system (5 days)
-
-* Basic CMP system, accept user donations to unlock new features (5 days)
-
-* 10 new cards to unlock with the CMP system (3 days)
-
-* Integrate new art (3 days)
-
-* Title screen (1 day)
-
-* UI improvements for increased clarity (3 days)
-
-* Tutorial (3 days)
-
-* Bug fixing (3 days)
-
-* System to record player crypto address for an XP event (2 days)
-
-Total: 31 days of work
-
-Art (Admurin)
-
-* New battle background
-
-* Beta art for all cards
-
-* Title screen art
-
-* Reskin main character as Aavegotchi and enemies as different types of Lickuidators
-
-* New Battle tile sprites
-
-* Card sprite
-
-* Various UI icons like draw/discard pile, card energy icon, block icon, etc.
-
-Music (Mario Sello)
-
-* Title theme
-
-* Battle music
-
-* Win & lose fanfares
-
-SFX (Zygo)
-
-* Use sounds from Zygo’s sound library & tools like LabChirp/SFXR
-
-*Key performance indicators*
-
-The game will be hosted on Itch.io, so to begin with the KPIs will be the analytics that they offer. (daily views and plays) In addition, during the XP event the amount of unique crypto addresses that users submit will be a KPI for this proposal. Eventually tracking unique users, time played, and donations would be useful but these are out of scope for the MVP.
-
-*Effect*
-
-Send $6500 in DAI to address 0xF0Bc763e0A6AF4784a36fa102220FF60eC651f9e to fund the development of the MVP, including programming, pixel art, and music. This should be sent soon after the completion of the core prop so I can pay the pixel artist & composer up front.
-
-Schedule an XP event for the week of August 21-28. Since the game won’t be interfacing with the blockchain directly, XP credit tracking would be via an in-game form that shows up after a successful run. Players would submit their wallet address and a list of these addresses would be submitted to the DAO at the conclusion of the event. I chose this method because successful runs last about an hour, which would make farming XP for many gotchis individually take a prohibitive amount of time.
-
-*Completing this proposal will provide the following benefits:*
-
-* Create the MVP for a free-to-play game in a popular genre that can appeal to non-crypto gamers and thus bring new players to the Aavegotchi ecosystem.
-
-* Host an XP event to give Aavegotchi holders an opportunity to try out the game and give feedback
-
-* Create a base from which I can build mechanisms that will eventually self-fund the game and bring income to the DAO. (see the Monetization section in the design doc for more details on this: [https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit](https://docs.google.com/document/d/1qCVldT37hQrScq8H8WI_bwYuk403gBzK89verrtVwI8/edit))
-
-*Erkennen van potentiële risico's of onbedoelde gevolgen*
-
-* Risk: the game is not finished or is completed poorly
-
-* Mitigations: I have a record of completing jam games and also projects much larger than 1 month; I also have a strong incentive to finish the MVP so I can continue working on the project in the future. Even if this were to occur, the amount of DAI committed to this MVP is small, so the risk of wasting funds is low.
-
-*Alle alternatieve paden (Plan B, Plan C, etc)*
-
-Not sure what to put here, I always have ideas for other games but this is the one I feel most confident about.
-
-*About Me*
-
-Hi! I’m Zygo, a game developer that has been involved with Aavegotchi since Haunt 1. I’ve always been interested in making games, and in the last 2 years I’ve been doing it full time. In February of 2024 I released Spellstrife on Steam after 14 months of work ([https://store.steampowered.com/app/2385240/Spellstrife/](https://store.steampowered.com/app/2385240/Spellstrife/)). Since then, I’ve been doing game jams to practice quick development and test out some of my ideas. See my Itch.io page for my game jam games: [https://zygoth.itch.io/](https://zygoth.itch.io/) . I’m most familiar with the Phaser3 engine.
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1247253990320898162).
-
-Option 1: Yes, fund Ghostly Gladiator MVP
-
-Option 2: No, don't fund it
-
-**Voting Period:** 27 June - 7 July 2024
+**Voting Period:** 26 August - 2 September 2022
 
 **Resultaten:**
 
-table_agip124
+table_agip41
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xcf83de78265ceb5d891bb83e7774962bdb6a320871474b4e6e3e05fece458f54)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x304df0644d5ba0c929066959c5a2d585a2597630fa90a4642ffe8315e256d31a)
 
 <hr />
 
-### Gotchichain Battleverse Demo - An Open-Source Battleverse Built with Godot
-**Aavegotchi Improvement Proposal #125**
+### Setting limits on the number of borrowed gotchis allowed per wallet address
+**Aavegotchi Improvement Proposal #42**
 
 **Voorstel Samenvatting:**
 
-Video: [https://drive.google.com/file/d/1UjmmC-Mfa0lxLQjzhIT6Rc0Dey-j_X2W](https://drive.google.com/file/d/1UjmmC-Mfa0lxLQjzhIT6Rc0Dey-j_X2W)
+Until recently there have been no limits on the number of gotchis an address can borrow at the same time, either from a whitelist or from the open (non whitelisted) market.
 
-We are excited to introduce the demo funding for the Gotchichain Battleverse, an open-source battleverse built using the Godot engine. This project aims to create an immersive, community-driven gaming experience, leveraging the strengths of blockchain technology and the collaborative power of open-source development.
+This was recently changed to a limit of 1 borrowed gotchi on the open market and 1 by default on all whitelists. A whitelist owner can change the number of allowed borrowed gotchis per address using Louper Dev, and soon, through the official UI.
 
-*Game Concept:*
+This change was put in place with no warning as an experiment in anti botting measures. Community members had reported difficulty in securing a gotchi to borrow for channelling, particularly around the 0:00UTC reset time, which has been attributed to bots scraping all the best rental offers before humans get a chance.
 
-* Title: Gotchichain Battleverse
+The change has so far seen Gotchigang report an increase in available gotchis to borrow around reset time which is a positive.
 
-* Engine: Godot
+On the negative side, other Gotchigang have reported being unable to fully channel their aaltars due to not being able to rent enough gotchis. This is particularly for borrowers who’ve paid, say, 20ghst for a long term rental and are now stuck with that 1 gotchi and are unable to channel other parcels using other borrowed gotchis. This issue will tend to grow over time as people level up their aaltars and generate more channelling opportunities. The current limit on the open market is a disincentive to levelling up aaltars and purchasing more land for those without enough gotchis who prefer longer term rentals. It could also severely limit the demand for lending out gotchis long term, however it forces people to approach multiple guilds/whitelist owners for spots which is a positive for the social element of the game.
 
-* Description: Gotchichain Battleverse is an action-packed, multiplayer battle game set in a vibrant metaverse. Players will eventually engage in various PvP modes online or IRL, including classic brawls, racing, and more, all within the Aavegotchi-themed universe.
+A poll was run in the weekly DAO Hangout by CoderDan with the results suggesting most community members would prefer the allowed number of borrowed gotchis on the open market to reflect the number of parcels a wallet address holds plus 1, so in theory each parcel could be channelled once per day whilst still holding longer term rentals. For single channel rentals this is less of a concern as people can return a gotchi and borrow another as soon as they’ve finished using it.
 
-*Key Future Features:*
+Further increasing the borrowing limit up to the number of available channellings per address was suggested by considering aaltar levels as well, but it was deemed too inefficient to be constantly recalculating this number dynamically in the background.
 
-* Open-Source Development: The entire project is open-source, allowing community contributions and transparency in development.
+As this was an experiment, I propose we revert these changes back now and continue to monitor the impacts so we can be clearer on the severity of the botting issue and be more confident in the effectiveness of this solution, whilst voting to implement the below.
 
-* Multiplayer Modes: Offers a variety of PvP modes, such as brawls, racing, and team battles, providing diverse gameplay experiences.
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/reform-public-rental-market/4089)
 
-* Blockchain Integration: Utilizes blockchain technology for asset ownership, in-game transactions, and secure matchmaking.
+Option 1: Limit market to # of parcels + 1
 
-* Community-Driven Content: Encourages community members to contribute to game design, features, and content, fostering a collaborative environment.
+Option 2: Keep original unlimited system
 
-* Educational Content: Creation of "How to X in Godot" content to attract and educate game developers, bringing them into the Aavegotchi ecosystem. Along with a bounty program to entice participation and onboarding.
+Option 3: Unlimited open, limit whitelists
 
-*Current Demo Development and Release:*
+Option 4: Limit open market to 1
 
-Development Stages:
-
-* Community Feedback and Iteration (Months 1-2): Release the current prototype to the community for feedback and iterative improvements.
-
-* Feature Expansion (Months 3-4): Expand on the existing prototype by adding new core mechanics, additional multiplayer functionality, and other requested features.
-
-* Beta Testing (Month 5): Conduct extensive beta testing, incorporating community suggestions and finalizing features.
-
-* Polish and Optimization (Month 6): Focus on polishing the game, optimizing performance, and resolving any remaining issues.
-
-* Official Launch (Month 7): Launch the expanded demo with full features, marketing, and community events.
-
-*Open-Source Publication:*
-
-* The current game build will be published on Github after proposal approval.
-
-*Links to download and play the current build:*
-
-* Download for PC - https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-PC.zip
-
-* Download for Mac - https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-Mac.zip
-
-*Budget and Funding Allocation:*
-
-* Total Funding Requested: 25,000 USDC sent to: 0x4d6e3Ff00F77F6e746eBF7f6827800eB99e36910
-
-*Demo Budget Breakdown:*
-
-* Game Levels (10): $4,000
-
-* In-Game Items (15): $3,000
-
-* Web3 Wallet Integration and Address Registration: $2,500
-
-* Menus and UI: $1,500
-
-* Problems/Polish: $4,000
-
-* Netcode: $3,500
-
-* Music and Sound Effects: $1,000
-
-* Project Management and Coordination: $2,500
-
-* Bounty Program for Community Contributions: $3,000
-
-Project Lead: WhtRang3r
-
-Lead Developer: Yokcos
-
-Netcode: Zer0xtj
-
-Art: Kravitch
-
-*Eventual Revenue Generation Possibilities for the DAO:*
-
-* Gotchichain Battleverse presents multiple opportunities for generating revenue for the DAO:
-
-* Custom Builds: The open-source nature of the project allows for custom game builds to be created and sold on the Polycade AGS platform. These custom builds can be tailored for various use cases, such as unique game modes or special competitions, providing a continuous revenue stream.
-
-* Player-Funded Prize Pools: Competitions can be organized both online and in-person, with player-funded prize pools. The DAO will receive a portion of the funds from these prize pools for organizing and hosting the events, further increasing community engagement and generating additional revenue.
-
-*Conclusion:*
-
-Gotchichain Battleverse aims to revolutionize the gaming experience by combining the best of open-source development, blockchain technology, and community collaboration. By creating educational content and allowing for custom game builds, we can attract and engage a broader audience. We invite the Aavegotchi community to join us in creating an engaging, dynamic, and immersive battleverse. Together, we can build a game that reflects our collective creativity and passion for gaming.
-
-* Yokcos - https://store.steampowered.com/search/?developer=Yokcos
-
-* Zer0xtj - https://github.com/Zer0xTJ
-
-* Kravitch - https://www.fakegotchis.com/profile/0xe17b279d3891b48c36ef616a5f70a586e80b5b98?selected=published
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1255248894850502748).
-
-Option 1: Yes Fund!
-
-Option 2: No, don't fund
-
-**Voting Period:** 16 - 31 July 2024
+**Voting Period:** 26 August - 2 September 2022
 
 **Resultaten:**
 
-table_agip125
+table_agip42
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xf8f9b32ce931aa8d3ae6279fb78f1de87737cdb64d2fb8dbc5adc19df2ebf722)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x9b2559ed4cd5dd0c4c3c9b90b73e0e93c839aef64cd00df2d65cc8e97886ac0f)
 
 <hr />
 
-### Rarity Farming Season 9
-**Aavegotchi Improvement Proposal #126**
+### Add DAO Liquidity to GHST-Alchemica Pairs
+**Aavegotchi Improvement Proposal #43**
 
 **Voorstel Samenvatting:**
 
-This proposal outlines the details for Rarity Farming Season 9.
+I propose that the Aavegotchi DAO add 50,000 GHST + matching alchemica liquidity to the GHST-Alchemica pairs. Further, I propose that we do not stake corresponding LP tokens for GLTR.
 
-table_rarityFarmingSeason9Breakdown
+The benefits of adding liquidity are multiple:
 
-*Settings:*
+* Allows for lower slippage trading which will attract more trading and investment
 
-* Start Date: August 10th, 2024
+* Legitimizes the Aavegotchi ecosystem, its farming, and the native tokens
 
-* Total Rewards: 1.5 Million GHST
+* Supports land investors and, more specifically, those actively farming their land
 
-* Eligibility: Top 7500 Gotchis (for BRS, Kinship, and XP)
+* Allows the DAO to earn trading fees on the liquidity provided
 
-* Duration: Four rounds, each lasting 2 weeks.
+There are also some risks which should be considered:
 
-* Snapshot Times:
+* Impermanent loss may decrease the net dollar value of DAO treasury funds
 
-    * August 24th, 2024 at 02:00 PM UTC
+* Asks a difficult question of whether or not to stake LP tokens for GLTR and compete directly against community stakers for rewards
 
-    * September 7th, 2024 at 02:00 PM UTC
+* Paying for liquidity is an expense in our ecosystem. In the long term, revenue must outweigh expenses for the Aavegotchi economy to thrive and assets to gain value. We should seriously consider our expenses vs revenues moving forward as we incentivize liquidity, hence the recent passed proposal to terminate FRENS which will both decrease expenses and allow NFT distributions to generate revenues
 
-    * September 21st, 2024 at 02:00 PM UTC
+There is currently only $732,000 TOTAL in liquidity among the four alchemica-GHST pairs. Anything above a 1500 GHST swap has a price impact >1% which is not acceptable for a GameFi blue chip looking to instill investor confidence and attract new, large builders. Let’s bolster liquidity now and develop a sustainable and predictable plan to continue to add DAO liquidity at an, ideally, expense neutral rate. We can partner with the incoming DAO Project Manager(s) and community bounty hunters to further define DAO revenues and expenses to formulate our liquidity plan.
 
-    * October 5th, 2024 at 02:00 PM UTC
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/add-dao-liquidity-to-ghst-alchemica-pairs/4309)
 
-*Miscellaneous:*
+Option 1: Add 50k GHST + equal alchemica
 
-The Rewards Pool will be funded by the DAO Foundation Rewards wallet (0x8c8E076Cd7D2A17Ba2a5e5AF7036c2b2B7F790f6). Details concerning GotchiBattler are outside the scope of this proposal and will be confirmed separately.
+Option 2: Add 30k GHST + equal alchemica
 
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1247054332336013363/1247054332336013363).
+Option 3: Do not add GHST/alchemica to LPs
 
-Option 1: Yes
-
-Option 2: No
-
-**Voting Period:** 22 - 31 July 2024
+**Voting Period:** 13 - 20 October 2022
 
 **Resultaten:**
 
-table_agip126
+table_agip43
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xb46614973c1f9e244b037788fbb31bc1909ce4bb4a56b85f39c6554a53163c0a)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x57055266d44a9c8679807c917fb0518bfd3ea92e6f21e81b977ce9892c191b6a)
 
 <hr />
 
-### Increasing XP Award to 250 XP for Successful CORE AGIPs
-**Aavegotchi Improvement Proposal #127**
+### Mint and Transfer 50 DAO Parcels and 4M FUD Eq. of Alchemica to the DTF for Contributor Compensation
+**Aavegotchi Improvement Proposal #44**
 
 **Voorstel Samenvatting:**
 
-We propose this model after nearly succesful attempt at raising the award to 500xp without certain limitations (that are now introduced) as well as certain boundaries, in order to strike the right balance between stimulating the creation of new and thoughtful props, while preventing abuse and exploit attempts on the XP award system.
+I propose that 50 DAO parcels from district 30 be minted and sent to the DTF multisig in addition to 4M FUD Equivalents worth of alchemica.
 
-Note that this prop does not suggest changes to 'sigprop' awards.
+This will allow us to leverage DAO assets other than GHST to compensate our contributors. We have a variety of assets as a protocol, some of which have considerable goodwill value such as parcels in the DAO district. We can leverage these assets to better compensate and acknowledge past, current, and prospective contributors. Parallel to this effort, a transparent, stepwise process towards earning a DAO parcel will be designed. Potential pros of using alchemica/minted NFT displays/parcels as compensation:
 
-Note that all props under this framework would allow maximum one gotchi to be awarded per prop, per contributor.
+* Gives the DAO more options in reimbursing contributors
 
-Maximum 5 gotchis/contributors can be awarded XP for any single prop.
+* Leverages assets outside of GHST
 
-table_proposedXPAwards
+* Develops and promotes a contributor/builder culture specifically inside the gotchiverse
 
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1255979420204924970).
+* May have potential cascade effect where contributors build and develop their earned parcels, keeping assets within the ecosystem
 
-Option 1: Yes
+* Fosters building and development in the DAO district which should hopefully be a spotlight of activity in the gotchiverse.
 
-Option 2: No
+An example of contributor compensation would be a DAO parcel with a LE NFT display and custom NFT – an incredibly meaningful and valuable token of appreciation for DAO contributions.
 
-**Voting Period:** 29 July - 13 August 2024
+The specific parcels will be defined in the core proposition if this signal proposition passes. Feedback and ideas on specific parcel allocation is appreciated and should be directed to the included DAO discourse thread above. If the DTF is absorbed by the new DAO structure, the parcels and alchemica can be sent to the same multisig holding the DTF budget funds.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/requesting-alchemica-and-30-dao-parcels-for-the-dtf-to-use-as-contributor-compensation/4401)
+
+Option 1: Yes. Transfer Parcels/alchemica
+
+Option 2: No. Don't use parcels/alch.
+
+**Voting Period:** 13 - 20 October 2022
 
 **Resultaten:**
 
-table_agip127
+table_agip44
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x307f6d8e39de3ce35886714e07586f838d42aa0556c66b19a142b1d8f2ba1703)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x1338064afddf6631e90e1a95d12117cf516e5de54e00eb557db5996845f75f47)
 
 <hr />
 
-### Replacement DAO Director Election
-**Aavegotchi Improvement Proposal #128**
+### Preventing Owners From Channeling Gotchis Listed For Lending
+**Aavegotchi Improvement Proposal #45**
 
 **Voorstel Samenvatting:**
 
-This election will serve to replace Mori on the DAO multisig as the 9th signer, as he has stepped down. The salary for this position is 8000 ghst annually, paid quarterly (2000 ghst), as stated in AGIP 51. The elected person will also adhere to all principles and guidelines set forth in AGIP 51. The initial payment will be prorated at 2000 * (days left of term/91.25).
+The idea here is fairly simple. To prevent gotchi owners from channeling their gotchis while they are listed for rent on the aavegotchi site. The reason for this is that we saw at least a few instances of owners listing their gotchis for rent then immediately after channeling. What would happen was that an unexpecting player would check the rental market after the gotchi was rented but before it got channeled and would then be stuck renting a channeled gotchi. The owner would get the channeling alchemica as well as the rental fees from the borrower.
 
-The elected individual will be immune to any future (re)elections from a community initiated vote for 2 years following their inauguration into the DAO Foundation as a director, but may still be removed by the other directors if they are not fulfilling their duties. They will provide the necessary doxx information and a wallet address to be added to multsig after the election.
+This hasn’t been a widespread issue yet because not many people are maliciously doing it, it also needs to be timed well with someone checking the rental market at the wrong moment. But I don’t believe there is any benefit to allowing owners the ability to make use of this exploit.
+
+As per Dan on the thread, the implementation is ready so it won’t require anymore dev time, there just happened to be some minor pushback on this idea so the devs don’t want to implement it without a vote.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/preventing-gotchis-listed-for-rental-from-being-able-to-channel/4388)
+
+Option 1: Stop listed Gotchi from channeling
+
+Option 2: Do nothing
+
+**Voting Period:** 2 - 10 November 2022
+
+**Resultaten:**
+
+table_agip45
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xfa99468d3de270ad12ae805651cae5b7a2a52ac3f1e0ff547308c6c7055ee040)
+
+<hr />
+
+### Creating New Wearable Sets
+**Aavegotchi Improvement Proposal #46**
+
+**Voorstel Samenvatting:**
+
+During the new wearables moratorium, the opportunities to fix existing sets and to introduce new sets involving ONLY current wearables were identified.
+
+The "broken" sets were successfully fixed via patch, and different members of the community put forth their suggestions for new wearable sets. Existing Pixelcraft guidelines for the composition and bonuses of each wearable set, mainly based on the rarity of the highest component, were applied.
+
+In the referenced forum link, polls were established for all members of the community to be able to express their support for a particular set.
+
+The spreadsheet with details for all proposed sets is available at: [https://docs.google.com/spreadsheets/d/174ea8dzcO3yiBOgCvAIdUuQkK5_AHG3FoZdMunAJZYY](https://docs.google.com/spreadsheets/d/174ea8dzcO3yiBOgCvAIdUuQkK5_AHG3FoZdMunAJZYY)
+
+The ideation Discord thread where the ideas for the sets were brainstormed can be referenced at: [https://discord.com/channels/732491344970383370/992288286271864832/1002569658634862602](https://discord.com/channels/732491344970383370/992288286271864832/1002569658634862602)
+
+It was decided by consensus that Pixelcraft would retain ultimate veto and decision power in the ultimate implementation of these sets. At large, this effort has been also a means to share with the broader Aavegotchi DAO public how the process has previously worked between WTF and Pixelcraft i.e. a volunteer-dependent process, that nonetheless can achieve great things for the ecosystem by harnessing the different talents and creativity of all of our frens.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/new-wearable-sets-existing-wearables-only/4421)
+
+Option 1: Yes, create new sets
+
+Option 2: No, don't do anything
+
+Optie 3: Geen stem
+
+**Voting Period:** 2 - 10 November 2022
+
+**Resultaten:**
+
+table_agip46
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x4955553b76b9bcaaa0bb0cec2928d0bed759cf957c17f02496452f8d1426c85c)
+
+<hr />
+
+### Enacting a Bonding Curve Emergency Plan
+**Aavegotchi Improvement Proposal #47**
+
+**Voorstel Samenvatting:**
+
+ There is a lot of uncertainty concerning the regulation of decentralized smart contracts (Tornado Cash) and stablecoins. Since GHST is closely tied to DAI's value, we need to monitor those developments very closely. If anything happens to DAI, our entire treasury (and GHST's stability) is at risk.
+
+In this proposal I want to define the potential cases of emergency and the actions the multisig currently managing the GHST Bonding Curve on Ethereum mainnet needs to take to mitigate risks. Again, as long as DAI works as intended, this proposal does not suggest messing with the Curve - that is a completely separate discussion.
+
+*Emergency Scenarios*
+
+1. DAI loses dollar peg: As long as USDC backing is intact, no action needed. Signers should however set alerts for $0.95 and $0.90 to be notified of a potential depeg so they're able to act immediately as the situation unrolls.
+2. MakerDAO shifts away from a dollar backing: Very long-term strategic consideration, will probably take 2-3 years to unfold. No immediate action needed, more relevant for the discussion surrounding a general Curve shutdown.
+3. This is the important one. MakerDAO contracts get blacklisted by Circle (USDC) due to regulatory reasons: Signers would have to act immediately to protect the value of GHST's backing. I propose immediately shutting down the Curve and swapping the DAI for USDC. This ensures that we lock in some of our treasury's value, it does however remove the main source of liquidity for GHST. To make sure GHST doesn't enter a free fall, $5M worth of USDC should immediately be paired with $5M worth of treasury GHST in our main Quickswap pool.
+
+Using the current numbers, this would leave us with ~$18M USDC - the majority of which should be used to buy back the paired GHST and build up a larger LP position. The initial LP position would double our current pool and buy enough time to decide on next steps.
+
+Keep in mind that this is a very unlikely emergency scenario. We should be prepared for everything though, getting caught with our pants down could wipe out a large sum of our treasury value and put GHST in a very vulnerable position.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/bonding-curve-emergency-plan/4397)
+
+Option 1: Yes, follow this Emergency Plan
+
+Option 2: No, ignore this Emergency Plan
+
+**Voting Period:** 2 - 10 November 2022
+
+**Resultaten:**
+
+table_agip47
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x73f93b7e65d0e45f5cce9e46b019d60f49a7a3d1b43bf9e3e12a718cccbe7769)
+
+<hr />
+
+### The Forge - Request for Funding and Development
+**Aavegotchi Improvement Proposal #48**
+
+**Voorstel Samenvatting:**
+
+Introducing the Forge:
+
+TL;DR
+
+* You can turn wearables into other wearables with the forge mechanic
+
+* Wearables are made of alloys + schematics (the recipe) + Frames
+
+* This allows many new wearable designs
+
+* This process can be deflationary, making room for new wearable sales and protecting current asset value
+
+* This 50,000 GHST will go to fund the development of the Forge, its mechanics, smart contracts, art, and educational materials
+
+* The goal is for the DAO to do as much of the work as possible to avoid delaying Pixelcraft’s other efforts
+
+* See the Project Overview and Google Sheet documents for extensive details
+
+* Know that this is all a work in progress and we would all benefit from broad DAO contributions
+
+*Budget Request and Purpose:*
+
+50k GHST to pay for development of smart contract work, economics team, project management, art bounties, dashboard bounties, and event/rewards for launch
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/the-forge-aalloys-essence-and-smithing-a-massive-proposal/4432)
+
+Option 1: Yes, fund the Project 50k GHST
+
+Option 2: No, don’t fund development
+
+**Voting Period:** 2 - 10 November 2022
+
+**Resultaten:**
+
+table_agip48
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x3f162f96d0bf396cb2cc3f9f39818cbaee7747441e0c50785b84aa243797b940)
+
+<hr />
+
+### Adjust Aaltar Spillover Rates
+**Aavegotchi Improvement Proposal #49**
+
+**Voorstel Samenvatting:**
+
+There's been a lot of debate in the DAO this week around alchemica inflation. It's clear that our economy cannot handle the amount of tokens being currently issued. Therefore, we have come up with a proposal to increase spillover rate in lower level aaltars to help reduce the amount of alchemica being issued and encourage frens to upgrade their aaltars. We believe this will stabilize the economy until more alchemica sinks are introduced in the eagerly anticipated combat release.
+
+The table in the Discourse thread shows the Daily FUD inflation rate caused by chanelling, broken down by aaltar level. You can see the current inflation levels and spillover rates, our new proposed spillover rates and the reduction in inflation this will cause.
+
+We believe these measures are necessary given current economic conditions but we are always free as a DAO to change them at a later date in light of new information or more alchemica sinks being introduced.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/alternative-alchemica-economic-plan/4490)
+
+Option 1: Change to Proposed Aaltar Rates
+
+Option 2: Do Nothing
+
+**Voting Period:** 11 - 19 November 2022
+
+**Resultaten:**
+
+table_agip49
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x534f44397f79c8583ceef44e42ffa8e246e15f3498aac92b3e34b65c313782f3)
+
+<hr />
+
+### Create AavegotchiDAO Foundation
+**Aavegotchi Improvement Proposal #50**
+
+**Voorstel Samenvatting:**
+
+AavegotchiDAO was summoned as a 100% on-chain DAO in September 2020 via the deployment of the GHST bonding curve. Since then, the DAO has matured into one of the world’s most active with over forty successful AGIPs passed and extremely healthy metrics on Snapshot. Over this period we also graduated across our DAO’s roadmap, going from DAO 1.0 into the more experimental period known as Cocoon, our precursor to Metamorphosis (AKA DAO 2.0). Achieving Metamorphosis requires the DAO to further decentralize and accept more responsibilities currently guarded by the original summoners and Pixelcraft Studios.
+
+Today we propose the next major step forward by suggesting it is time for AavegotchiDAO to add an off-chain presence to our decentralized autonomous organization. The following proposal is rooted in months of research and interfacing with a variety of legal advisors. We also take the practices of leading peers such as ENS and Sushi into consideration, opting for Foundation formation in the Cayman Islands coupled with on-chain governance being secured as primary via the Foundation’s Constitution.
+
+My proposal is for us to form the AavegotchiDAO Foundation in the Cayman Islands as soon as possible by following these steps:
+
+* Gather all interested in serving as one of nine Directors on the Foundation. These nine Directors simultaneously are seated on the Foundation’s newly formed multisig wallet. All serving must be KYC’d.
+
+* Host election via Snapshot where the nine most voted for shall serve as Directors of the Foundation until further notice (The DAO should likely flesh out details for term length etc with a separate AGIP at a later date). The election shall happen in parallel to this proposal’s CoreProp.
+
+* Submit the nine fully KYC’d Directors details to our legal counsel from LEX DAO so that they can immediately begin Foundation formation. This will be completed in days, not weeks.
+
+* Upon formation of the Foundation, the Directors shall create the new Foundation’s primary multisig using Gnosis.
+
+* Pixelcraft Studios shall transfer DAO Treasury multisig funds to the Foundation multisig, including DAI, GHST, and Alchemica on both Ethereum and Polygon networks.
+
+* The Foundation is thus formed, ready to execute transactions according to the will of AavegotchiDAO. Further definitions of responsibilities, scope, goals and limits can be defined by the DAO at a later date.
+
+**FOUNDATION DETAILS**
+
+*Entity*
+
+* A Cayman Islands foundation with a board consisting of 9 Directors, who are also the multisig signers of the DAO Treasury wallet.
+
+* Legal Counsel shall arrange a local officer to act as secretary fulfilling basic administrative requirements until further notice.
+
+* Legal Counsel shall arrange a local corporate secretarial service to assist with Foundation formation, documentation and production of financial statements.
+
+*DAO Treasury*
+
+* All DAO treasury funds present and future shall be transferred to the Board’s multisig.
+
+* The GHST Bonding Curve Council tokens could potentially also be transferred to the multisig signers, via a new AGIP proposal.
+
+* Eventually, all protocol contracts could be owned by this multisig, or if that is deemed not ideal, could be owned by the DAO itself (onchain voting) with the Board multisig action as a last resort Guardian to prevent malicious transactions.
+
+*Bank Account*
+
+Upon formation of the Foundation, legal counsel will confer with our corporate secretary to establish a Cayman Island’s bank account on the Foundation’s behalf. While not immediately useful, we have requested that this bank account be opened so as to futureproof the DAO to be able to natively settle any off-chain expenses (tradfi subscription fees, service providers, etc).
+
+*Board of Directors*
+
+Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig. The DAO Treasury multisig shall be set at 5/9 signers in order to execute.
+
+Paid position starting at 8000 GHST per year, paying 2000 GHST to each Directory directly from the Treasury multisig every 90 days.
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have your name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* (Nice to have) Be familiar with creating transactions and signing on Gnosis Safe
+
+*The Officer*
+
+The Foundation also requires at least one Officer to serve an official capacity for signing off-chain documentation. Legal offers a package to deliver one local Officer to fulfill this role. This is not a role for advocacy so this Officer will simply execute signatures at the direction of the Directors. Of course, AavegotchiDAO can always revisit or even expand Officer roles at any point.
+
+*The Constitution*
+
+Legal Counsel will draft and supply a first version of a Constitution that takes best practices from fellow DAOs into consideration. Counsel will submit this Constitution in the form of a commentable Google Sheet for our community to give feedback and suggest changes.
+
+Counsel and the DAO shall go back and forth in up to three drafts before the Constitution is sent to Snapshot for a three-day CoreProp regarding ratification.
+
+If ratification fails, another two drafts shall be edited before re-submitting for another CoreProp vote. This process continues until a ratification of the Constitution is achieved.
+
+Due to the critical nature of this CoreProp and the fact that it skips the SigProp step, the CoreProp vote shall require a voting result with those in approval at 66% or greater.
+
+*Benefits of Formation*
+
+* Independence; greater separation of Pixelcraft Studios from AavegotchiDAO
+
+* Board can execute proposals on behalf of the DAO (Liquidity provision, GHST staking, funding Dework, etc.)
+
+*Risks of Formation*
+
+* More responsibility on AavegotchiDAO governance
+
+* More exposure to any future policy shifts specifically in the Cayman Islands jurisdiction
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/form-aavegotchidao-foundation-with-9-directors-multisig-signers/4551)
+
+Option 1: Yes, let’s form AavegotchiDAO Foundation
+
+Option 2: No, let’s wait and discuss more
+
+**Voting Period:** 27 November - 4 December 2022
+
+**Resultaten:**
+
+table_agip50
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x345ddec87f19d29b438ac88d0f947798af6edadbe1116cb64f96edc931f06fb3)
+
+<hr />
+
+### Election for DAO Foundation’s 9 Directors/Multisig-Signers
+**Aavegotchi Improvement Proposal #51**
+
+**Voorstel Samenvatting:**
+
+This COREProp Will serve as the election for the AavegotchiDAO Foundation’s 9 Directors/Multisig-Signers.
+
+The board of Directors Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig. The DAO Treasury multisig shall be set at 5/9 signers in order to execute.
+
+Director is a paid position starting at 8000 GHST per year, paying 2000 GHST to each Director directly from the Treasury multisig every 90 days.
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's gnosis multisig.
+
+Their first order of business once elected will be creating that multisig.
+
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
+
+* Be familiar with smart contract interactions
+
+* Possess a hardware wallet and know how to use it
+
+* Be willing to have your name on a Cayman entity and be doxxed to Pixelcraft Studios
+
+* (Nice to have) Be familiar with creating transactions and signing on Gnosis Safe
+
+The following community members have signaled their interest in becoming AavegotchiDAO Foundation Directors:
+
+* CryptoGotchi#9089
+
+* Maxicrouton#1596
+
+* Mori#5912
+
+* Nofuturistic#1972
+
+* Zaunzi#1831
+
+* PG#0811
+
+* MichaelF#0901
+
+* yanik#0015
+
+* Choyna#0001
+
+* Rikige#0073
+
+* fifoooo#8782
+
+* cookheisenberg#9322 (SirLinkiest)
+
+* notorious_BTC#2084
+
+* brillz#7019
+
+* Mycaleum#8283
+
+* 0xzfi#4880
+
+* Zeitgeist#6030
+
+* Umami#9686
+
+* Mcabandonpants#1498
+
+* Kokusho#9945
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/form-aavegotchidao-foundation-with-9-directors-multisig-signers/4551)
+
+Please read each of their pitches before casting your vote at: [https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382](https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382)
+
+Option 1: CryptoGotchi#9089
+
+Option 2: Maxicrouton#1596
+
+Option 3: Mori#5912
+
+Option 4: Nofuturistic#1972
+
+Option 5: Zaunzi#1831
+
+Option 6: PG#0811
+
+Option 7: MichaelF#0901
+
+Option 8: yanik#0015
+
+Option 9: Choyna#0001
+
+Option 10: Rikige#0073
+
+Option 11: fifoooo#8782
+
+Option 12: cookheisenberg#9322 (SirLinkiest)
+
+Option 13: notorious_BTC#2084
+
+Option 14: brillz#7019
+
+Option 15: Kokusho#9945
+
+**Voting Period:** 27 November - 4 December 2022
+
+**Resultaten:**
+
+table_agip51
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x1b8438ec161f2b18dad49ebfcc9524340d030f4ec69a5fd71f732290ccb51bb4)
+
+<hr />
+
+### Election for DAO Foundation’s 9 Directors/Multisig-Signers (Revote)
+**Aavegotchi Improvement Proposal #51 (Revote)**
+
+**Voorstel Samenvatting:**
+
+This CoreProp shall serve as the election for the AavegotchiDAO Foundation’s 9 Directors/Multisig-Signers discussed in AGIP 50. Those elected shall only serve if AGIP 50 passes, otherwise this election is to be deemed null and void.
+
+The board of Directors Consists of nine doxxed Directors that also act as multisig signers on the DAO Treasury multisig.
+
+*FOUNDATION MULTISIG SETTINGS*
+
+* 5/9 signers in order to execute.
+
+* Directors shall use Gnosis to set up the multisig.
+
+*COMPENSATION*
+
+* Each Director is a compensated from the Foundation Multisig for a total of 8000 GHST annually.
+
+* Compensation shall be distributed once every 90 days, paying 2000 GHST to each Director directly from the Foundation multisig.
+
+*RESPONSIBILITIES*
+
+The Board acts as the executor of the DAO’s wishes. If individual Directors disagree with an action of the DAO, they can choose to resign but they cannot vote or act against a verified on-chain AGIP’s intent.
+
+Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's gnosis multisig.
 
 *COMPETENCY*
 
-* Be an upstanding member of AavegotchiDAO with a good reputation
+Candidates should:
+
+* Be upstanding members of AavegotchiDAO with good reputations
 
 * Be familiar with smart contract interactions
 
@@ -1752,270 +2277,550 @@ The elected individual will be immune to any future (re)elections from a communi
 
 * Be willing to have their name on a Cayman entity and be doxxed to Pixelcraft Studios
 
-* Be familiar with creating transactions and signing on (prev. Gnosis) Safe
+* Be familiar with creating transactions and signing on Gnosis Safe
 
-*RESPONSIBILITIES*
+*ELECTION*
 
-The DAO Directors act as the executor of the DAO’s wishes. If an individual director disagrees with an action of the DAO, they can choose to resign, but they cannot vote or act against a verified on-chain AGIP’s intent.
+The following community members have signaled their interest in becoming AavegotchiDAO Foundation Directors:
 
-Directors have no legislative power, execute off-chain commands of the DAO, and simultaneously serve as signers of the Foundation's multisig.
+* CryptoGotchi#9089
 
-*CANDIDATES*
+* Maxicrouton#1596
 
-* aavegotch1.eth
+* Mori#5912
 
-* tburd.eth
+* Nofuturistic#1972
 
-* fifoooo
+* Zaunzi#1831
 
-* musashi13
+* Choyna#0001
 
-You can find each candidate's application here: [https://discord.com/channels/732491344970383370/1259200686994882660](https://discord.com/channels/732491344970383370/1259200686994882660)
+* Rikige#0073
 
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1256789997688848447).
+* sirlinkiest#9322
 
-Option 1: aavegotch1.eth
+* notorious_BTC#2084
 
-Option 2: tburd.eth
+* brillz#7019
 
-Option 3: fifoooo
+* Kokusho#9945
 
-Option 4: musashi13
+* Zeitgeist#6030
 
-**Voting Period:** 7 - 21 August 2024
+* Mycaleum#8283
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/agip-51-election-for-dao-foundation-s-9-directors-multisig-signers/4563)
+
+Please read each of their pitches before casting your vote at: [https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382](https://discord.com/channels/732491344970383370/1042466123574157382/1042466123574157382)
+
+Option 1: CryptoGotchi#9089
+
+Option 2: Maxicrouton#1596
+
+Option 3: Mori#5912
+
+Option 4: Nofuturistic#1972
+
+Option 5: Zaunzi#1831
+
+Option 6: Choyna#0001
+
+Option 7: Rikige#0073
+
+Option 8: sirlinkiest#9322
+
+Option 9: notorious_BTC#2084
+
+Option 10: brillz#7019
+
+Option 11: Kokusho#9945
+
+Option 12: Zeitgeist#6030
+
+Option 13: Mycaleum#8283
+
+**Voting Period:** 3 - 10 January 2023
 
 **Resultaten:**
 
-table_agip128
+table_agip51Revote
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x76a91e48a9a1b12852f055be07c2661d3d4a208091db9edbb16ba73b3cef3e55)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x5f3b6ff62ae4b8535e057b4f3af2c85ec93762dac95031a014c409969e3a0fc8)
 
 <hr />
 
-### Tipping for Aavegotchi community apps
-**Aavegotchi Improvement Proposal #129**
+### Rarity Farming Season 5
+**Aavegotchi Improvement Proposal #52**
 
 **Voorstel Samenvatting:**
 
-We would like to ask for a small funding from the Aavegotchi DAO, funding that will help run and improve community websites and services, which have been actively used and maintained. Our tools have been vetted multiple times and most of them are part of the official tools list from [https://dapp.aavegotchi.com/tools?type=apps](https://dapp.aavegotchi.com/tools?type=apps.).
+Gm frens,
 
-Each of the below projects will receive 600 GHST / each for the whole period of 6 months, as long as the website is active at the end of the payment period, according to the uptime links below (should show All systems operational).
+I come to you bearing the anticipated S5 sigprop!
 
-The payment period will be once every 2 months, 200 GHST to be paid to each maintainer address, on Polygon blockchain. If there are more than one maintainers, the split should be proportional to the number of maintainers (50/50 % if there are two maintainers).
+In the spirit of “if it ain’t broke don’t fix it”, I propose we keep things business as usual, since I believe our community has been having a bit of "change fatigue" of late - please refresh yourselves on the params of the past four seasons below:
 
-The total amount asked is 600 GHST x 5 = 3000 of GHST.
+4 Rounds (2 weeks each) 1.5 Million GHST Rewards Pool - to be funded by the DAO Treasury:
 
-Due to the nature of the funding and the small amount, in addition to the long history of involvement in the community, the maintainers will do a best effort maintenance of the website.
+* 70% BRS
 
-If there are any issues or fixes to the functionality of the websites, the maintainers will do a best effort to fix the issues, issues that need to be created on their respective Github link issue page or Discord channel (if any), or sent directly to their DMs.
+* 20% Kinship
 
-We suggest creating a Discord thread in the Aavegotchi channel for support or issues related to the Aavegotchi community apps, as Github requires some knowledge.
+* 10% XP
 
-The 5 projects are:
+Top 7.5k Gotchis (30%)
 
-**Verse Analytics - https://verse-analytics.xyz/**
+Ideal launch period in the mind of the author: after the deployment of The Forge, or January 2023, whichever comes first.
 
-Description : Collection of tools and reports, with a focus on lending operations and alchemicas.
+Thank you as always for your consideration and your votes.
 
-* Time since first deployment: September 2021
+Stay spooky frens!
 
-* Uptime link: https://stats.uptimerobot.com/xMwwMImYG6
+Changes from Sigprop:
 
-* Discord ID: @fifoooo
+The author has agreed that the next Rarity Farming Season should come after the deployment of The Forge, or January 2023, whichever comes first.
 
-* Ethereum address: 0x49F2df1E567e588f3aa2CE63fcCA80a6a0f4C029
+The source of funds has been updated from Gotchiverse Player Rewards wallet to DAO treasury.
 
-* Issue tracker: https://discord[.]gg/fZVWHMaRqQ
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/rf-szn-5-kickoff/4424)
 
-**The big brain API - https://aavegotchi.land**
+Option 1: Yes, have S5 RF
 
-Description: Gotchiverse analytics, wallet asset tracking, rarity farming reward estimation.
+Option 2: No, Don’t have S5 RF
 
-* Time since it was first deployed: March 2021
+Option 3: Yes, but with different params
 
-* Uptime link: https://stats.uptimerobot.com/pAllDhQYl8/797188784
-
-* Discord ID: @aavegotch1.eth
-
-* Ethereum address: 0x47d6f96ba098816389db7c87cbf077de7181b853
-
-* Issue tracker: https://github.com/lazyprogrammerio/ghst-gg
-
-* GitHub URL: https://github.com/lazyprogrammerio/ghst-gg
-
-* Github commit id: https://github.com/lazyprogrammerio/ghst-gg/commit/d4c799e5f7c3c877a3748df68e971da9adf36231
-
-**Aadventure - https://www.aadventure.io**
-
-Description: realm explorer, historical auctions, historical rarity farming, lending tools, gotchi pockets, wearable sets by gotchi type.
-
-* Time since it was first deployed: December 2021
-
-* Uptime link: https://stats.uptimerobot.com/XHXsXlT1Ot
-
-* Discord ID: @_eitri_
-
-* Ethereum address: 0xaf4fe811ffa1bf1f7de8fdaa9f706487c882aed0
-
-* Issue tracker: https://github.com/mistaya/aavegotchi/issues
-
-* GitHub URL: https://github.com/mistaya/aavegotchi/tree/main/realm
-
-* Github commit id: https://github.com/mistaya/aavegotchi/commit/9b026d8f7f4c2c0096fbed4aa9e94f6e9247cf27
-
-**Aavegotchi Wearables Report - https://wearables.report**
-
-The wearables report dashboard supplies vital metrics regarding the Aavegotchi wearables market. It has been used as the basis for key DAO decisions on wearables emissions, schematic trait selection, and set balancing. The site is geared towards active DAO participants to inform economic decisions regarding the wearables market and how wearables are being utilized by players.
-
-* Time since it was first deployed: October 2022
-
-* Uptime link: https://stats.uptimerobot.com/vca707DLhl
-
-* Discord ID: @mikey.jay
-
-* Ethereum address: 0x755A89AC371eE91c1E0fC313Bc9efF5Fc150b993
-
-* Issue tracker: https://github.com/mikey-jay/aavegotchi-wearables-report/issues
-
-* GitHub URL: https://github.com/mikey-jay/aavegotchi-wearables-report
-
-* Github commit id: https://github.com/mikey-jay/aavegotchi-wearables-report/commit/a1048f4ecfbb6c0b466da9bde93ddaabe9d78604
-
-**GotchiSwap - https://gotchiswap.xyz/**
-
-Description : Aavegotchi assets trustless OTC solution
-
-* Time since first deployment: August 2023
-
-* Uptime link: https://stats.uptimerobot.com/xMwwMImYG6
-
-* Discord ID: @[GFA]fifoooo and @pg0811
-
-* Ethereum address: 0x43FF4C088df0A425d1a519D3030A1a3DFff05CfD (PG) and 0x49F2df1E567e588f3aa2CE63fcCA80a6a0f4C029 (@[GFA]fifoooo), 50%/50% split.
-
-* Issue tracker: https://github.com/pgendreau/gotchiswap-ui/issues
-
-Thank you, frens!
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1261984700885372988/1261985252629282846).
-
-Option 1: YES
-
-Option 2: NO
-
-**Voting Period:** 13 - 27 August 2024
+**Voting Period:** 27 November - 4 December 2022
 
 **Resultaten:**
 
-table_agip129
+table_agip52
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0xef468935df62924bbf897d45a92da9876da20e30fdb6d7b7f18c2c847b198b86)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x84119ecd3be2cd0fd2382ffaf2db0490967b3456ff19695e6629fdeeb9058dbb)
 
 <hr />
 
-### Forge Competition Pilot Season 1
-**Aavegotchi Improvement Proposal #131**
+### Channel Alchemica by Burning Kinship
+**Aavegotchi Improvement Proposal #53**
 
 **Voorstel Samenvatting:**
 
-Today I present the first ever DAO Forge Competition. For the pilot season, we will keep it simple with a single snapshot capturing the Top 100 gotchis by smithing XP.
+I propose to charge -4 kinship each time gotchi is channelling the altar.
 
-The current leaderboard is here: [https://wearables.report/smithing-skill.html](https://wearables.report/smithing-skill.html)
+This change gives a gotchi a choice to:
 
-*The high level points:*
+(1) accumulate kinship (+2 kinship /day) and improve the character farming specs
 
-* A single snapshot will capture the leaderboard
+(2) take alchemica now and lose on the yield multiplier
 
-* Top 100 gotchis by smithing xp will be awarded prizes
+By implementing this elegant and relatively simple solution, we are not only changing the alchemica dynamics and cutting the efficient inflation by 50% (in the wild should be closer to 60/40 or 40/60, depending on market conditions), but also making a game more strategic and exciting for long term players.
 
-* Prizes will be airdropped to the gotchi owner’s wallet (rented gotchis will also route prizes to their owners)
+Such change is an excellent alternative to the current economic proposals and additionally will reduce the MATIC spend for channelling in half.
 
-* The snapshot date will be Saturday, September 7th during the hangout
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/kinship-og-kinship-economical-proposal/4524)
 
-* Prizes will distribute 10% of the total supply from the new schematics release
+Option 1: Implement original kinship mechanics
 
-* The new schematics are from the community design competition which was held on July 6th, 2024
+Option 2: Do not implement
 
-*The Project*
-
-We will design a designated live-updating leaderboard (the link above is only daily) capable of handling the snapshot for the competition. The site will be designed future-ready to allow for more seasons should we choose to have them. The site will have an admin backend that will allow us to deploy the prize distribution script.
-
-*Prize Structure*
-
-Prizes are for individual gotchi smithing xp.
-
-Prize breakdown is as follows:
-
-* Top 100: all new common schematics
-
-* Top 50: all new uncommon and below schematics
-
-* Top 25: all new rare and below schematics
-
-* Top 10: all new legendary and below schematics
-
-* Top 5: all new mythical and below schematics
-
-* “And below” means all schematics below the mentioned rarity. Ie: Top 25 will receive all new rare, uncommon, and common schematics
-
-Ties: in the unlikely but nonzero chance of a tie that falls across two prize bands, the tie-breaking metric will be based on which gotchi reached that score first. For example, two gotchis each have 420 skill points. Gotchi A achieved that score at block height 50,000,000 and Gotchi B achieved the score at block 52,000,000. Gotchi A would be placed in front of Gotchi B and be the winner of the prizes.
-
-*Purpose of the competition:*
-
-* Award the biggest forge users with prizes relevant to their craft
-
-* Provide a healthy distribution for the upcoming schematics release. Without the competition, all new schematics will go into the geodes, making them very difficult to obtain.
-
-* Incentivise players to use the forge and burn alloy in the process
-
-* Provide a fun experience for the community
-
-If this season goes well, we can add this competition to our ecosystem as a means to distribute future wearables. For subsequent seasons, we could implement more mechanics like delta xp and so on.
-
-*Funding request:*
-
-The total cost of the competition is $5500 USD equivalent paid in stable coins.
-
-Competition planning and coordination, website design and graphics - $2,000
-
-* Oliver Spoon
-
-Web development, admin page for distribution, smart contract work, testing, and prize deployment - $3,500
-
-* Fifoooo & PG
-
-Upon successful passing of the proposal, the full sum is to be sent to 0xa2e3680A18aBAfEff813E8aA67AEfB49bf078C86
-
-Payment can be made in USDC, DAI, aUSDC, or aDAI on either Polygon or Ethereum network
-
-Details on the AGIP can be found [here](https://discord.com/channels/732491344970383370/1110591248269582468).
-
-Option 1: Yes, LFG! 🔥
-
-Option 2: No
-
-**Voting Period:** 23 August - 1 September 2024
+**Voting Period:** 27 November - 4 December 2022
 
 **Resultaten:**
 
-table_agip131
+table_agip53
 
-[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/0x00942985e9dd86bfc0362e25a83611d9854a81f2d1d75392db185440f764c405)
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xfb3766f05a6990514c618db06c2a74d8fd36298694740799e2dd23424a297115)
 
 <hr />
 
-### Year 2023
+### Creating the Aarcade Taask Force (ATF)
+**Aavegotchi Improvement Proposal #54**
 
-Click [here](/aavegotchi-improvement-proposals-2023)
+**Voorstel Samenvatting:**
 
-### Year 2022
+*Background*
 
-Click [here](/aavegotchi-improvement-proposals-2022)
+This SigProp was previously created back in June 2022, the proposal did not meet the quorum at the time. This proposal is being re-created as there has been some traction on games developed by community members that would like to utilize player rewards acquired through AGIP16.
 
-### Year 2021
+*Introductie*
 
-Click [here](/aavegotchi-improvement-proposals-2021)
+The open-source nature of the Aavegotchi protocol combined with its on-chain assets provides an excellent foundation for external development efforts. More specifically, third-party developed games can greatly expand the usability of Aavegotchi assets and provide growth to the entire project.
 
-### Year 2020
+*Probleem*
 
-Click [here](/aavegotchi-improvement-proposals-2020)
+Through AGIP 16, the DAO staked 100k GHST to generate rewards that could be given out to the wider Aavegotchi community of players for participating in mini-game events. To date, there has been minimal usage of these rewards. This is in part due to lack of:
+
+* Clarity on how game developers can apply for (and be sent) player rewards for their game events,
+
+* A game development focused task force that can help review applications for these player rewards, and,
+
+* New games!!
+
+*Oplossing*
+
+This proposal aims to introduce and confirm the Aarcade Taask Force (ATF) who will:
+
+* Control the multi-sig wallet that distributes player rewards to the community and developers,
+
+* Review applications for player rewards to be used in developer games, and
+
+* Provide a supportive platform for developers to discuss, troubleshoot and test their games in the ATF’s Aavegotchi Aarcade discord server.
+
+*End Goal & Benefit*
+
+The ATF’s objective is to help incentivize the development of more mini-games of a higher quality for the Aavegotchi community to play, share and enjoy. The natural benefit of this is increased utility and growth for the Aavegotchi protocol and its assets. By taking active custody of the 100k GHST from AGIP16, the ATF firmly believes it can help more player rewards get to the community and spur the next generation of Aavegotchi mini-games!
+
+*Potential Risks*
+
+As we are in the early stages of forming the Aarcade Task Force some potential risks include:
+
+* Mismanagement, theft or loss of rewards (multi-sig wallet helps mitigate this),
+
+* ATF members becoming inactive (signer numbers have been kept low to help ensure the multi-sig remains agile)
+
+*Amendment to AGIP 16*
+
+AGIP16 did not originally allow for usage of the 100k GHST to directly purchase assets from the Aavegotchi bazaar.
+
+The ATF proposes that for successful stress test and xp/release game events, the following maximum drawdown amounts from the 100k GHST pool can be made (in agreeance with the game developer hosting an event) to purchase additional prizes from the Aavegotchi bazaar to be distributed to players:
+
+* 100 GHST per stress test game event
+
+* 500 GHST per xp/release game event
+
+Note: Purchases will only be made via the Aavegotchi bazaar for maximum transparency.
+
+*Fake Gotchi Cards (FGC’s)*
+
+Frens generated by the AGIP16 100k GHST were used to enter the last raffle draw for Fake Gotchi Cards netting a total of 87 burn cards that are now available for use as mini-game player rewards. Under this proposal, these cards would also be transferred to the ATF multi-sig.
+
+The ATF intends to allow one card be used per game event to mint a collection that can be distributed to players as the game developer of that event sees fit. A typical use case could be that 100 pieces of art are minted with one FGC and then distributed to the top 100 addresses in a game leaderboard event.
+
+Note: Compensation for artists collaborating on FGC works will be from funding sources outside of the AGIP16 100k GHST (and its rewards pool) and is outside the ATF’s scope. It will be the game developers responsibility to negotiate terms with a collaborating artist.
+
+*ATF Members*
+
+There will be 7 initial signers for the ATF multi-sig wallet:
+
+* jarrod | aavegotchistats.com#9686
+
+* Gotchinomics#4936
+
+* Slick#2526
+
+* shah#0369
+
+* PG#0811
+
+* Scrooger
+
+* Hefe
+
+These members have all actively participated in the Aavegotchi community for over a year now, come from different backgrounds and consist of experienced developers, security experts and gamers:
+
+Transactions will require 4 out 7 signers to approve before they can be processed.
+
+The ATF multi-sig treasury wallet will be used to:
+
+* Control distribution of rewards from AGIP16 100k GHST Staking,
+
+* Convert GHST to and from wapGHST for GLTR staking, noting the following: The staked ratio to be managed at the ATF’s discretion, and, only the wapGHST pool will be used to stake for GLTR for now but will review this as the greater Aavegotchi protocol and DAO evolves
+
+* Drawdown on 100K player rewards to purchase Aavegotchi NFT assets from the Baazaar to distribute as player rewards: Maximum of 100 GHST for each stress test event; Maximum of 500 GHST for each xp/release event
+
+* Minting Fake Gotchi Card art work to be used as player rewards
+
+*Besluit*
+
+So what do you think? Should we form the Aarcade Taask Force this time Anon?
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/creation-of-an-aarcade-dao/2128/47?u=jarrod)
+
+Option 1: Create the ATF
+
+Option 2: Don’t Create the ATF
+
+**Voting Period:** 3 - 11 January 2023
+
+**Resultaten:**
+
+table_agip54
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x123768584b0e878a6466a293e402702de7427f0657ea24fd60d71589d0b3003e)
+
+<hr />
+
+### Update the Template to Require the Use of ‘Weighted Voting’
+**Aavegotchi Improvement Proposal #55**
+
+**Voorstel Samenvatting:**
+
+I'd like to propose that we update the template for proposals to require all future proposals to use the voting system 'weighted voting' (even for simple yes/no proposals). Weighted voting is what was used in the AavegotchiDAO Foundation election CoreProp.
+
+*Effect:*
+
+1. Using weighted voting, sub-DAOs like GotchiVault will be able to vote in a way that accurately reflects the outcomes of their sister proposals.
+
+2. People will be able to show slight preferences, or even indifference, by splitting their own votes; even on yes/no proposals.
+
+*Goals:*
+
+1. A more accurate reflection of VP.
+
+2. Lessen concerns about large sub-DAOs being able to determine a proposal's outcome by themselves. For example, when GotchiVault does not split it's vote, they basically pick the winning choice of any proposal that reaches a quorum of about 3M or more. By giving them the ability to fine-tune their VP to their sister-proposal's results, there would be less concerns from DAO members about large sub-DAOs accumulating VP.
+
+*Risks:*
+
+1. Even if we require the use of weighted voting for all future proposals, we can't force sub-DAOs to utilize it in a democratic way. They still might decide to put all their VP behind the winning choice of their sister proposal. While this is completely up to them, there is little downside for the DAO in giving them that choice (i.e. enabling them to split their votes more accurately).
+
+2. Weighted voting might seem unfamiliar at first. However, we've recently utilized this voting system for the AavegotchiDAO Foundation election, and I have yet to see any complaints about the system being too complicated for people to use. The way that snapshot implemented it, is very intuitive, so 'weighted voting' being unfamiliar seems to be a negligible concern.
+
+3. Could potentially increase uninformed voting. Having to make a choice is sometimes hard. Especially because snapshot allows anyone to check all your past votes. So one should feel a sense of responsibility when casting one's vote. Using weighted voting we could see some people splitting their vote equally for all available choices. While this could reflect true indifference, it could also be a way for people to get XP while avoiding responsibility for any outcome. So no reason to read up on what's going on, just split the vote and get XP. While this might seem like a valid concern, I don't believe it is. There are always some uninformed people voting with their guts. People who care enough about their reputation to vote 50/50 to avoid responsibility for their choice (instead of just picking one of the options), but don't care enough to read up on their choices and pick what they believe is the best option, are likely a negligible minority.
+
+*Alternative:*
+
+Not changing the template.
+
+*Related material:*
+
+Template: [https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+
+Weighted voting: [https://docs.snapshot.org/proposals/voting-types#weighted-voting](https://docs.snapshot.org/proposals/voting-types#weighted-voting)
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/update-the-template-to-require-the-use-of-weighted-voting/4569)
+
+Option 1: Require Weighted Voting
+
+Option 2: Do Not Change the Template
+
+**Voting Period:** 3 - 11 January 2023
+
+**Resultaten:**
+
+table_agip55
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0xcae82273be9b783832d85214303e0f9f52e2220cedd5acc254b81f5b9457bae7)
+
+<hr />
+
+### Fund Alchemica Spending Competition
+**Aavegotchi Improvement Proposal #56**
+
+**Voorstel Samenvatting:**
+
+Hey frens,
+
+This has been a long time in the works but we’re finally getting ready to launch the first Gotchiboard competition - Alchemica spending season 1.
+
+This will be hosted on [https://gotchiboard.com/](https://gotchiboard.com/) - a DAO funded project
+
+The competition will rank which addresses have spent the most alchemica. There will be 4 one-week rounds and a total of 80k GHST up for grabs!
+
+Pixelcraft have already confirmed they will provide 25k GHST and this proposal is to fund a further 55k GHST from the Gotchiverse player rewards wallet.
+
+Full details and rules can be found in the forum post.
+
+The aims of the competition are:
+
+* Incentivise Alchemica and GLTR spending to reduce the circulating supply before PvP
+
+* Provide a fun gamified way for guilds and individuals to build their farms
+
+* Have an entertaining and frenly competition for all to participate in or observe
+
+Thank you for your support frens and look forward to battling it out in the competition.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/gotchiboard-alchemica-competition/4571)
+
+Option 1: Yes, fund the competition
+
+Option 2: No, do not fund the competition
+
+**Voting Period:** 3 - 11 January 2023
+
+**Resultaten:**
+
+table_agip56
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x8802a8883ff724f80752cdcfde817b4fdae48d7bc8d7ba7c47e9ed7106d67ee9)
+
+<hr />
+
+### Establish the “Core Framework” Guiding Wearable Release
+**Aavegotchi Improvement Proposal #57**
+
+**Voorstel Samenvatting:**
+
+The Core Framework: A Proposal for Responsibly Managing Aavegotchi Wearables Emissions
+
+Core Framework Written Summary: [https://docs.google.com/document/d/1HTBNQqIVzvENiNmCL3kKAvgdKzcs4nWgyyVHvmX_ONQ/](https://docs.google.com/document/d/1HTBNQqIVzvENiNmCL3kKAvgdKzcs4nWgyyVHvmX_ONQ/)
+
+Core Framework Ratios, Calculations and Proposed Sale: [https://docs.google.com/spreadsheets/d/1Jk6O3zzsOIBmy1OwQlBsy0LWPQZrjxsWmlY2YCMz2iw/](https://docs.google.com/spreadsheets/d/1Jk6O3zzsOIBmy1OwQlBsy0LWPQZrjxsWmlY2YCMz2iw/)
+
+These documents, prepared by The Forge Team, constitutes our recommended framework for the DAO to responsibly manage the future emissions of additional cores, and thus the increase of wearables supply.
+
+The supply of cores, as defined in The Forge Litepaper, is the lever by which the protocol controls how many wearables can be forged on a rarity and slot basis. We are proposing three key ratios to be set by the DAO and used for managing the supply of cores in the future:
+
+1. The ratio of total wearables to total gotchis. The Forge Team proposes an increase in the rate of wearables to gotchis from current state of 4.2/gotchi  to 4.3/gotchi (approximately 2.6% increase).
+
+2. The ratio of each rarity tier to the total number of wearables. The Forge Team is not proposing any modifications to the ratios between rarity tiers.
+
+3. The ratio of each wearable slot to the total number of wearables. The Forge Team recommends the following slot ratios:
+
+table_slotRatios
+
+We propose that the DAO should use the above key ratios to determine when to release additional cores, as well as how new cores should be distributed between rarities and slots. These ratios result in an initial addition of 2158 total cores across 15 different core types (out of 36 total).
+
+The Core Framework will need to be maintained to include recent, relevant market data and evolutions in the market and the Aavegotchi protocol. Additional Core or Alloy sales must pass a core proposal outlining the specific sale and reasoning. If this Core Framework is accepted by the DAO, it will be included in a large Core Proposal to launch The Forge.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/the-forge-aalloys-essence-and-smithing-a-massive-proposal/4432)
+
+Option 1: Yes, Accept the Core Framework
+
+Option 2: No. Reject this Framework
+
+**Voting Period:** 26 January - 3 February 2023
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x1930189873f7591fa60fc108d632c0f11fc35d8fff3eaccc349d05756c54c321)
+
+<hr />
+
+### Launch Round 2 Parcel VRF Rolls
+**Aavegotchi Improvement Proposal #58**
+
+**Voorstel Samenvatting:**
+
+I propose that we implement the round 2 parcel roll by early February.
+
+The  predominant discussions and farming emissions design specifically outlined a re-roll at 6 months. Many of the most invested and long-standing members of the Gotchiverse specifically designed their farming strategy around this shared understanding. Numerous DAO members helped contribute to the current recipes and mathematics specifically with that timetable in mind.
+
+There are additional reasons to implement the round 2 rolls:
+
+* We have an opportunity to meet our commitments as a DAO, even if the Gotchiverse deliverable of a great battle is not quite ready
+
+* We can set a precedent for supporting asset holders and contributing members of our ecosystem
+
+* We will encourage further investment from current community members and be a more attractive investment to newcomers if we establish a pattern of reliability
+
+* Gotchiverse land owners have been especially harmed by macro market conditions and gotchiverse-specific market trends. This is one small effort to support those investing time and resources into the Gotchiverse
+
+* We are pushing for a higher farming to channeling ratio of alchemica emissions which this would support
+
+* It is more attractive to invest in the alchemica spending competition (and land in general) with a definitive round 2 plan
+
+* It is a targeted nerf/rug to those most supporting the ecosystem to intentionally delay rerolls
+
+* The hopeful time frame of an April Great Battle is also not definitive and susceptible to delays given the complexity of the current roadmap and desired focus on PVP
+
+There are notable potential cons to consider:
+
+* Increased overall alchemica emissions if invested farmers have round 2 alchemica to farm
+
+* Mismatch of new rounds to the anticipated lore of a Great Battle followed by the new round
+
+On the 1/8 DAO call, coderdan specifically stated it is a small dev lift to implement the next round of re-rolls, so this should not cause any major delays or change in shipping priorities. As thoroughly discussed in DAO discussion, both paths are reasonable, and I appreciate the formal DAO temperature check with this sig prop.
+
+Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/second-round-vrf-rolls-for-parcels/4602)
+
+Option 1: Yes. Launch Round 2 Parcel Roll
+
+Option 2: No. Wait until the Great Battle
+
+**Voting Period:** 26 January - 2 February 2023
+
+**Resultaten:**
+
+[Link om te stemmen met Snapshot](https://vote.aavegotchi.com/#/proposal/0x378153f1fe22c673bb57d4c421b6ef93f5562f806317950be7c189547c0458c2)
+
+<hr />
+
+### Name of Aavegotchi Marketplace
+**Snapshot Stemming**
+
+**Proposal Summary:** What should the Aavegotchi NFT Marketplace be called?
+
+Aavegotchi is launching its own NFT marketplace on Polygon in tandem with the game!
+
+What should we call the official Aavegotchi Marketplace?
+
+Choice A: Aavegotchi Baazaar
+
+Choice B: Aavegotchi Maarket
+
+Choice C: Neither
+
+The quorum for this vote is set to 500,000 GHST. If quorum is not reached, Pixelcraft will draw straws.
+
+If "Neither" wins...you guys better start coming up with some good alternatives!
+
+**Voting Period:** 8 - 11 February 2021
+
+**Resultaten:**
+
+table_marketplaceName
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmRiRaQuwLuNr88yxvX61vtKM56NrY3KaMk4bk6w7g47fy)
+
+<hr />
+
+### Eligibility of GHST-USDC LP tokens to earn FRENS
+
+**Snapshot Stemming**
+
+**Proposal Summary:** Should GHST-USDC LP token be eligible to earn FRENS?
+
+Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
+
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+
+Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
+
+We are setting a 500,000 GHST quorum for this vote to be enacted.
+
+The GHST-USDC LP token will earn FRENS at the same rate as just staking GHST, since impermanent loss is minimal and fees are significant.
+
+**Voting Period:** 8 - 11 February 2021
+
+**Resultaten:**
+
+table_ghstUsdcLp
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmUpXPA5JF4ed9GUy5hNUTA7rT7VQjL7QXUTSxbtLQ1RqA)
+
+<hr />
+
+### Portals purchased in one transaction
+
+**Snapshot Stemming**
+
+**Proposal Summary:** How many Portals can be purchased in one transaction?
+
+Discussion period has ended for this topic, and now it's time to vote! The most popular options were: 1, 5, and 10 Portals per transaction.
+
+Our fren [@coderdannn](/team#coder-dan) also threw a spicy idea into the mix: an "Ape Tax" whereby higher numbers of Portals could be bought in a single transaction, but at a higher price. The Portals would be tiered as so:
+
+* 0-5: 100 GHST each
+
+* 6-15: 200 GHST each
+
+* 16-25: 300 GHST each
+
+So this leaves us with four options: 1, 5, 10, and 25 (w/ ape tax).
+
+Let your $GHST token speak for you, and vote!
+
+Voting period: 72 hrs Minimum quorum: 10% of GHST on Matic (~1.1M GHST)
+
+AavegotchiDAO discussion topic 👇
+
+[https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17](https://dao.aavegotchi.com/t/how-many-portals-should-be-bought-in-one-txn/17)
+
+**Voting Period:** 23 - 26 February 2021
+
+**Resultaten:**
+
+table_portalsPurchased
+
+[Link om te stemmen met Snapshot](https://snapshot.org/#/aavegotchi.eth/proposal/QmUhKcn5YjKAPeGA1SfKQkNfw3P3hGRPgSGnTJGsfzw4Xi)

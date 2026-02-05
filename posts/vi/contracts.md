@@ -16,11 +16,11 @@ Chào mấy fen. Chào mừng đến kho lưu trữ Địa Chỉ Hợp Đồng T
 **Nội dung**
 
 <ol>
-<li><a href=#contract-addresses-on-ethereum>Contract Addresses on Ethereum</a></li>
-<li><a href=#contract-addresses-on-base>Contract Addresses on Base</a></li>
-<li><a href=#contract-addresses-on-base-sepolia-testnet>Contract Addresses on Base Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Contract Addresses on Ethereum Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-polygon-deprecated>Contract Addresses on Polygon (Deprecated)</a></li>
+<li><a href=#contract-addresses-on-ethereum>Địa chỉ hợp đồng trên Ethereum</a></li>
+<li><a href=#contract-addresses-on-base>Địa chỉ hợp đồng trên Base</a></li>
+<li><a href=#contract-addresses-on-base-sepolia-testnet>Địa chỉ trên Base Sepolia (testnet)</a></li>
+<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Địa chỉ trên Ethereum Sepolia (testnet)</a></li>
+<li><a href=#contract-addresses-on-polygon-deprecated>Địa chỉ trên Polygon (ngừng hỗ trợ)</a></li>
 </ol>
 
 </div>
@@ -32,7 +32,9 @@ Chào mấy fen. Chào mừng đến kho lưu trữ Địa Chỉ Hợp Đồng T
 
 ## Contract Addresses on Polygon (Deprecated)
 
-_Note: All contracts on Polygon are deprecated and provided for historical reference only._
+### NFT Contracts
+
+_Lưu ý: Tất cả hợp đồng trên Polygon đã ngừng hỗ trợ, chỉ dùng tham khảo._
 
 - GHST Token (Proxy): [0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 - GHST Token (Implementation): [0x5004bc7e5b718c245ca859db349dd012cfd58395](https://polygonscan.com/address/0x5004bc7e5b718c245ca859db349dd012cfd58395#code)
@@ -46,7 +48,7 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 - Gotchiverse Installations (Deprecated): [0x19f870bd94a34b3adaa9caa439d333da18d6812a](https://polygonscan.com/address/0x19f870bd94a34b3adaa9caa439d333da18d6812a)
 - Gotchiverse Tiles Diamond (Deprecated): [0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355](https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355)
 - Aavegotchi FUD Token (Deprecated): [0x403e967b044d4be25170310157cb1a4bf10bdd0f](https://polygonscan.com/address/0x403e967b044d4be25170310157cb1a4bf10bdd0f)
-- Aavegotchi FOMO Token (Deprecated): [0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8](https://polygonscan.com/address/0x44a6e0be76e1d9620a7f76588e4509fe4fa8e8c8)
+- Aavegotchi FOMO Token (Deprecated): [0x44a6e0be76e1d9620a7f76588e4509fE4fa8E8C8](https://polygonscan.com/address/0x44a6e0be76e1d9620a7f76588e4509fE4fa8E8C8)
 - Aavegotchi ALPHA Token (Deprecated): [0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2](https://polygonscan.com/address/0x6a3e7c3c6ef65ee26975b12293ca1aad7e1daed2)
 - Aavegotchi KEK Token (Deprecated): [0x42e5e06ef5b90fe15f853f59299fc96259209c5c](https://polygonscan.com/address/0x42e5e06ef5b90fe15f853f59299fc96259209c5c)
 - Aavegotchi GLTR Token (Deprecated): [0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc](https://polygonscan.com/address/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc)
@@ -69,12 +71,11 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 - Gotchiverse REALM Parcels: [0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372](https://basescan.org/address/0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372)
 - Gotchiverse Installations: [0xebba5b725A2889f7f089a6cAE0246A32cad4E26b](https://basescan.org/address/0xebba5b725A2889f7f089a6cAE0246A32cad4E26b)
 - Gotchiverse Tiles: [0x617fdB8093b309e4699107F48812b407A7c37938](https://basescan.org/address/0x617fdB8093b309e4699107F48812b407A7c37938)
-- Aavegotchi FUD Token: [0x2028b4043e6722Ea164946c82fe806c4a43a0fF4](https://basescan.org/address/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4)
-- Aavegotchi FOMO Token: [0xA32137bfb57d2b6A9Fd2956Ba4B54741a6D54b58](https://basescan.org/address/0xA32137bfb57d2b6A9Fd2956Ba4B54741a6D54b58)
-- Aavegotchi ALPHA Token: [0x15e7CaC885e3730ce6389447BC0f7AC032f31947](https://basescan.org/address/0x15e7CaC885e3730ce6389447BC0f7AC032f31947)
-- Aavegotchi KEK Token: [0xE52b9170fF4ece4C35E796Ffd74B57Dec68Ca0e5](https://basescan.org/address/0xE52b9170fF4ece4C35E796Ffd74B57Dec68Ca0e5)
-- Aavegotchi GLTR Token: [0x4D140CE792bEdc430498c2d219AfBC33e2992c9D](https://basescan.org/address/0x4D140CE792bEdc430498c2d219AfBC33e2992c9D)
-- GLTR Staking Contract: [0xaB449DcA14413a6ae0bcea9Ea210B57aCe280d2c](https://basescan.org/address/0xaB449DcA14413a6ae0bcea9Ea210B57aCe280d2c)
+- GHST Token: [0x2028b4043e6722Ea164946c82fe806c4a43a0fF4](https://basescan.org/address/0x2028b4043e6722Ea164946c82fe806c4a43a0fF4)
+- FOMO Token: [0xA32137bfb57d2b6A9Fd2956Ba4B54741a6D54b58](https://basescan.org/address/0xA32137bfb57d2b6A9Fd2956Ba4B54741a6D54b58)
+- ALPHA Token: [0x15e7CaC885e3730ce6389447BC0f7AC032f31947](https://basescan.org/address/0x15e7CaC885e3730ce6389447BC0f7AC032f31947)
+- KEK Token: [0xE52b9170fF4ece4C35E796Ffd74B57Dec68Ca0e5](https://basescan.org/address/0xE52b9170fF4ece4C35E796Ffd74B57Dec68Ca0e5)
+- GLTR Token: [0x4D140CE792bEdc430498c2d219AfBC33e2992c9D](https://basescan.org/address/0x4D140CE792bEdc430498c2d219AfBC33e2992c9D)
 
 ## Contract Addresses on Base Sepolia Testnet
 
@@ -92,3 +93,43 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 ## Contract Addresses on Ethereum Sepolia Testnet
 
 - GHST Token: [0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9](https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9)
+
+- Installations Diamond Address: [{{INSTALLATIONS_DIAMOND_ADDRESS}}](https://polygonscan.com/address/{{INSTALLATIONS_DIAMOND_ADDRESS}})
+
+- Tiles Diamond Address: [{{TILES_DIAMOND_ADDRESS}}](https://polygonscan.com/address/{{TILES_DIAMOND_ADDRESS}})
+
+- Aavegotchi and Wearables Address: [{{AAVEGOTCHI_WEARABLES_ADDRESS}}](https://polygonscan.com/address/{{AAVEGOTCHI_WEARABLES_ADDRESS}})
+
+### Tokens Contracts
+
+- GHST Token Address: [{{GHST_POLYGON_ADDRESS}}](https://polygonscan.com/address/{{GHST_POLYGON_ADDRESS}})
+
+- wapGHST Token Address: [{{WAP_GHST_ADDRESS}}](https://polygonscan.com/token/{{WAP_GHST_ADDRESS}})
+
+- FUD Token Address: [0x403E967b044d4Be25170310157cB1A4Bf10bdD0f](https://polygonscan.com/token/0x403E967b044d4Be25170310157cB1A4Bf10bdD0f)
+
+- FOMO Token Address: [0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8](https://polygonscan.com/token/0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8)
+
+- ALPHA Token Address: [0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2](https://polygonscan.com/token/0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2)
+
+- KEK Token Address: [0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C](https://polygonscan.com/token/0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C)
+
+- GLTR Token Address: [0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc](https://polygonscan.com/token/0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc)
+
+### Staking Contracts
+
+- stkGHST-QUICK Address: [{{stkGHST_QUICK}}](https://polygonscan.com/address/{{stkGHST_QUICK}})
+
+- stkGHST-USDC Address: [{{stkGHST_USDC}}](https://polygonscan.com/address/{{stkGHST_USDC}})
+
+- GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
+
+- GLTR Staking Address: [{{GLTR_STAKING_ADDRESS}}](https://polygonscan.com/token/{{GLTR_STAKING_ADDRESS}})
+
+### Others
+
+- DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://polygonscan.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
+
+- Burn Address (for portals & baazaar): [{{BURN_ADDRESS}}](https://polygonscan.com/address/{{BURN_ADDRESS}}/tokens)
+
+- Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://polygonscan.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)

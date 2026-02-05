@@ -26,6 +26,7 @@ Aavegotchis are born with traits. Just like how your traits define who you are a
 </div>
 
 ## Randomly Generated Traits
+
 Aavegotchis have six traits: 
 
 * AGG = Aggressiveness

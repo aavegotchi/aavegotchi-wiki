@@ -30,24 +30,21 @@ Wanna know who's behind the cute gotchis? We got ya covered. Presenting the peop
 <p><a href=#les>Les</a></p>
 <p><a href=#mauvis>Mauvis</a></p>
 <li><a href=#team>Team</a></li>
-<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
-<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<p><a href=#jason-slama---game-director>Jason Slama - Game Director</a></p>
 <p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
 <p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
 <p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
 <p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
-<p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
 <p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
 <p><a href=#thrax---media-production>Thrax - Media Production</a></p>
-<p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
 <p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
-<p><a href=#jc---business-development>JC - Business Development</a></p>
 <li><a href=#origins>Origins</a></li>
 </ol>
 
 </div>
 
 ## Summoners
+
 
 ### Coder Dan
 
@@ -118,25 +115,20 @@ Mauvis is a Builder & Life-long learner that has been working in and launching t
 
 ## Team
 
-### Nigel - Chief Marketing Officer
+### Jason Slama - Game Director
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
-<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
+<img class="leftImage" src="/team/jason-slama.png" alt = "Jason Slama">
+<p class="leftImageText"><a href="https://twitter.com/SlamaTwoFlags" target="_blank">Jason Slama</a></p>
 </div>
 
-With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
+Meet Jason, also known as SlamaTwoFlags, a seasoned game developer with over 20 years of experience in the industry. Starting with creating custom maps in Starcraft and Warcraft 3, he has since worked on both small and large-scale titles at Ubisoft and CD Projekt Red, including the acclaimed The Witcher 3: Wild Hunt.
 
-Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles. 
+Having successfully led the development of Gwent, the popular minigame in The Witcher 3, Jason was entrusted with bringing it to life as a standalone product. He eventually took on the role of Game Director, where he honed his leadership skills across all development disciplines and consistently drove the team to improve the game.
 
-### NyanKong - Game Director
+Today, Jason's mission is to create unforgettable gaming experiences in the Gotchiverse for players of all backgrounds. He is also passionate about dispelling misconceptions surrounding NFTs and is determined to showcase their potential in the gaming industry.
 
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
-<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
-</div>
-
-Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+In short, Jason is a visionary game developer who knows how to bring a team together to create incredible gaming experiences.
 
 ### Mark - Gotchiverse Backend Lead
 
@@ -176,17 +168,6 @@ I started gotchiverse project from scratch and I know the ins and outs of the pr
 
 I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
 
-### Candoizo - Frontend
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
-<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
-</div>
-
-Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
-
-History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
-
 ### Wit1990 - Senior Solidity Engineer
 
 <div class="leftImageContainer">
@@ -208,15 +189,6 @@ After joining, he worked for many core features - haunt 2, gotchi lending, ERC72
 
 Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
 
-### BigFlex - Social Media Manager
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/bigflex.jpg" alt = "BigFlex">
-<p class="leftImageText"><a href="https://twitter.com/FlexLack" target="_blank">BigFlex</a></p>
-</div>
-
-Alex, aka Big Flex, is already well known within the GotchiGang community. As a social media specialist, with a Bachelor’s Degree in Marketing, Big Flex discovered Aavegotchi and devoured as much information as possible, spending countless hours learning about the project and participating in the community. It was inevitable that he would become more involved. Since joining the team as Social Media Manager, he immediately made a positive impact on Aavegotchi’s social media presence. Big Flex’s main focus is spreading the Gotchi Gospel far and wide.
-
 ### Zeke - Technical Artist
 
 <div class="leftImageContainer">
@@ -225,15 +197,6 @@ Alex, aka Big Flex, is already well known within the GotchiGang community. As a 
 </div>
 
 Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
-
-### JC - Business Development
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
-</div>
-
-Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
 ## Origins
 

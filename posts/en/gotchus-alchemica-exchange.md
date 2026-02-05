@@ -43,6 +43,7 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 
 ## Features
 
+
 The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
 
 * FUD
@@ -102,6 +103,6 @@ All GLTR spent in-game is burned from the supply (sent to burn address).
 
 ## Earning GLTR
 
-wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://app.aavegotchi.com/stake-gltr](https://app.aavegotchi.com/stake-gltr).
+wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://aavegotchi.com/stake-gltr](https://aavegotchi.com/stake-gltr).
 
 Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.

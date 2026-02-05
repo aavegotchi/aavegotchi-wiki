@@ -242,7 +242,7 @@ export const tables
             tableName: "maaker",
             tableCaption: "",
             tableData: {
-                headers: ["Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)", "Simultaneous Craft/Upgrade"],
+                headers: ["Level", "FUD", "FOMO", "ALPHA", "KEK", "Build Time (Blocks)", "Simultaneous Building/Upgrading"],
                 data: [
                     ["1", "2500", "300", "500", "125", "0", "2"],
 					["2", "5000", "650", "950", "250", "4000", "3"],

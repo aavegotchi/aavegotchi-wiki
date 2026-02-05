@@ -30,6 +30,7 @@ Estaates are perfect for [Guilds](/guild) or owners with large holdings, as they
 
 ## Benefits of Estaates
 
+
 Creating an Estaate gives:
 
 * Visibility - Everyone to see the link(s).
@@ -207,7 +208,7 @@ The game will always try to create the opening on the north side of an Estaate i
 
 In the above example, there are level 1 Waalls (purple base) and level 4 Waalls (red base) shown.
 
-To create this set up, the owner would have needed to first equip a level 1 Waall in the top (to the left of the link), with a level 4 Waall to its right (to the right of the link) . This would result in the top Connection Waall section of 6 Waalls at level 1 (the lower of the 2 levels).
+To create this set up, the owner would have needed to first equip a level 1 Waall in the top (to the left of the link), with a level 4 Waall to its right (to the right of the link). This would result in the top Connection Waall section of 6 Waalls at level 1 (the lower of the 2 levels).
 
 Notice below it that there are level 4 Waalls on either side that result in a level 4 Connection Waall section in between them.
 

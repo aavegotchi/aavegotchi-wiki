@@ -1,13 +1,12 @@
 ---
 author: letsgobankless
-date: "2025-09-18T00:00:00.000Z"
-title: "Токен GHST"
-description: "Токен управления проекта Аавеготчи"
+date: '2020-11-28T07:00:00.000Z'
+title: 'Токен GHST'
+description: 'Токен управления проекта Аавеготчи'
 image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
   - "appellants"
-  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -15,13 +14,11 @@ contributors:
 <p class="headerImageText">Токен GHST</p>
 </div>
 
-The GHST token is the eco-governance token that powers the whole Aavegotchi ecosystem.
+Трейдинг и отслеживание цены токена — это круто, но на что еще может сгодиться GHST — токен проекта Аавеготчи?
 
-Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
+Он предназначен стать базовой валютой Метавселенной Аавеготчи. Внутри экосистемы за GHST можно покупать порталы, экипировку, расходники, арт-объекты и многое другое. Также у собственного токена проекта есть и другие функции — стейкинг и возможность участвовать в управлении Аавеготчи DAO (децентрализованной автономной организацией).
 
-GHST is live on Base. Aavegotchi has migrated to Base.
-
-GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+Итак, в этой части ВИКИ мы предлагаем вам познакомиться поближе с этими сиренево-фиолетовыми монетками.
 
 <div class="contentsBox">
 
@@ -29,92 +26,55 @@ GHST is a fully compliant ERC20 token. You can view its contract address on Poly
 
 <ol>
 <li><a href=#why-ghst>Почему GHST?</a></li>
-<li><a href=#total-supply>Total supply</a></li>
-<li><a href=#buying-ghst>Как купить GHST.</a></li>
 <li><a href=#using-ghst>Как использовать GHST.</a></li>
-<li><a href=#is-ghst-decentralized->Is GHST decentralized?</a></li>
+<li><a href=#buying-ghst>Как купить GHST.</a></li>
+<li><a href=#earning-ghst>Как заработать GHST.</a></li>
 </ol>
 
 </div>
 
 ## Почему GHST?
-
-
 Токены активно используются в качестве поощрения для пользователей в любом проекте. В Аавеготчи GHST применяется для привлечения игроков к более широкому участию в игровой экосистеме. Он помогает управлять AavegotchiDAO, согласовывая цели держателей GHST, владельцев Готчи и команды разработчиков.
 
-Players have to buy GHST and spend it within the ecosystem. Часть потраченных игроком средств передается на нужды DAO и используется для дальнейшего развития экосистемы. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in [rarity farming](/rarity-farming).
+Токены GHST нужны на старте игры, чтобы получить своего Готчи — вызвать его из портала и обучить. Часть потраченных игроком средств передается на нужды DAO и используется для дальнейшего развития экосистемы. Часть средств распределяется в качестве наград за управление DAO и фарминг.
 
 Подробнее об этом можно узнать на странице о  [Токенэкономике](/tokenomics) проекта.
 
-## Total supply
-
-GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, in 2023, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token; the curve was turned off on **2023-03-11**. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
-
-Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
-
-As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}) for a real-time update of the token's total supply.
-
-## Как купить GHST
-
-There are 3 ways to get GHST.
-
-### Swap
-
-- Crosschain Swap
-
-- Quickswap
-
-- Uniswap
-
-- Uniswap (Base)
-
-- Aerodrome (Base)
-
-Access the DEXes through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=swap).
-
-### Bridge
-
-- Superbridge — Bridge from Ethereum to Base
-
-- Gotchi Bridge — Bridge between Polygon and Ethereum
-
-- Polygon Bridge — Official Polygon Bridge
-
-- Umbria Bridge — Fast bridge with GHST liquidity
-
-Access the Bridges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=bridge).
-
-### Purchase
-
-- Crypto.com
-- Kraken
-
-> Note: Binance announced it will delist **GHST spot and perps**, with spot trading scheduled to end **2026-02-13 03:00 UTC**. - Source: [Discord announcement (2026-02-03)](https://discord.com/channels/1466071512321753238/1468185291935187004/1468185677710495911) - Source: [Binance announcement](https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27)
-
-Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=purchase).
-
-Перед покупкой убедитесь, что вы получили правильный адрес токена.
-
-On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}]({{ETHERSCAN_GHST_URL}})
-
-On Polygon: [{{GHST_POLYGON_ADDRESS}}]({{POLYGONSCAN_GHST_URL}})
-
-On Base: [{{GHST_BASE_ADDRESS}}]({{BASESCAN_GHST_URL}})
-
-**Сверьтесь с другими источниками, где также опубликованы эти адреса. Осторожность никогда не бывает лишней.**
-
 ## Как использовать GHST
-
 Что можно делать с токенами, кроме как покупать и ждать туземуна? На самом деле, вариантов использования токенов — огромное множество.
 
 За GHST можно купить:
 
-- [Порталы](/portals) для вызова Готчи.
-- [Экипировку](/wearables) для Готчи.
-- Buying [REALM parcels](/gotchiverse)
-- [Staking GHST](/staking) to earn daily GLTR rewards
-- Buying [Fake Gotchis](https://www.fakegotchis.com/)
+* [Порталы](/portals) для вызова Готчи.
+* [Экипировку](/wearables) для Готчи.
+* [Участки земли](/metaverse) в Аавеготчи.
+* Лотерейные билеты (требуется [стейкинг GHST](/staking), за который игрок заработает FRENS и купит за них билеты для участия в розыгрышах).
 
-## Is GHST decentralized?
+## Как купить GHST
+Обладатели криптовалютных кошельков (желательно Метамаска) могут приобрести токены GHST несколькими способами:
 
-Yes, GHST is a fully decentralized token, with no admin privileges or backdoors. Originally deployed under the ownership of AavegotchiDAO, when the bonding curve turned off, the DAO that maintained admin keys to GHST was also dismantled, meaning that no one owns the admin keys to GHST any longer.
+* Приобретение из  [кривой](/curve) в основной сети Ethereum. Требует KYC, недоступно для жителей Соединенных Штатов и Китая.
+* Покупка на DEX (децентрализованных биржах) в сети Ethereum. Это могут быть такие обменники, как [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) или [Matcha](https://matcha.xyz/markets/GHST)
+* Приобретение токенов на DEX на Polygon, таких как [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7).
+* Покупка на криптовалютных биржах, например — на [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) или [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro).
+
+Перед покупкой убедитесь, что вы получили правильный адрес токена.
+
+Основная сеть Ethereum: [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
+
+Сеть Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
+
+**Сверьтесь с другими источниками, где также опубликованы эти адреса. Осторожность никогда не бывает лишней.**
+
+## Как заработать GHST
+Учитывая, что в криптосфере далеко не все — киты и финансовые воротилы, и на покупку нужного количества токенов просто может не быть денег, разработчики предусмотрели несколько способов заработка GHST.
+
+Вот они. Смело используйте:
+
+* Фармингом.
+* Голосование за предложения [Аавеготчи DAO](/dao).
+* Playing and winning in [mini-games](/minigames) (more information TBC)
+
+
+
+

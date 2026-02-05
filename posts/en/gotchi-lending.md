@@ -25,6 +25,7 @@ contributors: ["unintelligent-nerd"]
 
 ## What is Gotchi Lending?
 
+
 Gotchi Lending is the Aavegotchi Protocol’s sharing economy, that allows users to lend their Aavegotchi NFTs out to other players for a set period of time. 
 
 The owners of the Gotchi are able to set:

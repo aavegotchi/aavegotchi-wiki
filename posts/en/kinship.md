@@ -19,11 +19,13 @@ contributors: ["unintelligent-nerd"]
 <li><a href=#what-is-kinship>What is Kinship</a></li>
 <li><a href=#kinship-levels>Kinship Levels</a></li>
 <li><a href=#kinship-and-alchemical-channeling>Kinship and Alchemical Channeling</a></li>
+<li><a href=#kinship-burning>Kinship Burning</a></li>
 </ol>
 
 </div>
 
 ## What is Kinship
+
 
 Kinship is your Aavegotchi’s feeling of loyalty towards you. Kinship is not randomly assigned, but rather starts at a fixed value (50) upon summon and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it. The minimum kinship value is 0. There is no maximum kinship value.
 
@@ -59,3 +61,6 @@ Each point of Kinship increases the Alchemical Channeling modifier, by the formu
 
 Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
 
+## Kinship Burning
+
+Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 kinship point burn for each alchemical channeling event.

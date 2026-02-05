@@ -6,14 +6,14 @@ description: 'Aavegotchi Recipes'
 contributors: ["unintelligent-nerd"]
 ---
 
-Crafting [Installations](/gotchiverse#building-on-realm-parcels) and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to craft and upgrade. You can find the latest recipes on this page.
+Building [Installations](/gotchiverse#building-on-realm-parcels) and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to build and upgrade. You can find the latest recipes on this page.
 
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#crafting-duration>Crafting Duration</a></li>
+<li><a href=#building-duration>Building Duration</a></li>
 <li><a href=#aalchemical-aaltar>Aalchemical Aaltar</a></li>
 <li><a href=#gotchi-lodge>Gotchi Lodge</a></li>
 <li><a href=#fud-haarvester>FUD Haarvester</a></li>
@@ -45,11 +45,12 @@ Crafting [Installations](/gotchiverse#building-on-realm-parcels) and upgrading t
 
 </div>
 
-## Crafting Duration
+## Building Duration
 
-Installations and their upgrades also have a “Craft Time”, which is measured in blocks on the Polygon network. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a craft time of “Instant”, which means they are crafted immediately, while those with craft times longer than “Instant” will enter into a crafting queue and get sent to their owner upon completion.
 
-This crafting/upgrading process can be accelerated by spending an in-game currency currently known as “GLTR” (but which will likely be renamed before launch). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
+Installations and their upgrades also have a “Build Time”, which is measured in blocks on the Polygon network. One block equals roughly 2.2 seconds in human time. Most (but not all) Level 1 Installations have a build time of “Instant”, which means they are built immediately, while those with build times longer than “Instant” will enter into a building queue and get sent to their owner upon completion.
+
+This building/upgrading process can be accelerated by spending an in-game currency currently known as [GLTR](/gotchus-alchemica-exchange#gltr-token). GLTR can be acquired by providing liquidity between GHST and Gotchus Alchemica tokens on the [Gotchus Alchemica Exchange](/gotchus-alchemica-exchange).
 
 ## Aalchemical Aaltar
 
@@ -173,7 +174,7 @@ table_greenTiles
 
 ## Halloween Decorations
 
-*Available for crafting up until 31 October 2022 only*
+*Available for building up until 31 October 2022 only*
 
 table_halloweenDecorations
 

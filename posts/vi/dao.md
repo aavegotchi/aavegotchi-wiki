@@ -8,7 +8,6 @@ contributors:
   - "vanilladelphia"
   - "cinnabarhorse"
   - "hackingmoneyph"
-  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -30,6 +29,7 @@ Aavegotchi nối gót những giao thức DeFi thành công như Compound và Sy
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Tham Gia Quản Trị</a></li>
+<li><a href=#aavegotchidao-forum>Diễn đàn AavegotchiDAO</a></li>
 <li><a href=#type-of-proposals>Các loại Đề Xuất</a></li>
 <li><a href=#vote-differentials>Khác Biệt Số Phiếu</a></li>
 <li><a href=#creating-signal-proposals>Tạo ra Đề xuất Hội ý</a></li>
@@ -72,11 +72,11 @@ Những tính năng của giai đoạn này gồm có:
 
 Có 2 loại bầu cử trong giai đoạn Cocoon: (1) Bỏ Phiếu Hội Ý (Signal Proposal), và (2) Bỏ Phiếu Chủ Chốt (Core Proposal).
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Mục đích của việc này là để ý tưởng trở nên lý tưởng hơn và cũng là để xem liệu nó có nhận được sự hỗ trợ hết mình từ phía cộng đồng để có thể chuyển nó thành Bản Đề Xuất Hội Ý hay không. Vui lòng tham khảo bản mẫu trong [mục Creating Signal Proposals](/dao#creating-signal-proposals).
+Signal Proposal có thể được đăng tải lên từ bất kỳ ai trong tab Community trên [Snapshot](https://snapshot.org/#/aavegotchi.eth). Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Trước khi viết ra Bản Đề Xuất Hội Ý, bạn bắt buộc phải thảo luận với cộng đồng tren Discord và/hoặc [diễn đàn AavegotchiDAO](https://dao.aavegotchi.com/). Mục đích của việc này là để ý tưởng trở nên lý tưởng hơn và cũng là để xem liệu nó có nhận được sự hỗ trợ hết mình từ phía cộng đồng để có thể chuyển nó thành Bản Đề Xuất Hội Ý hay không. Vui lòng tham khảo bản mẫu trong [mục Creating Signal Proposals](/dao#creating-signal-proposals).
 
 Bản Đề Xuất Hội Ý sẽ được nâng cấp lên thành Bản Đề Xuất Chủ Chốt một khi trước đó nó đã được thông qua với mức thi hành tối thiểu cao hơn 20% lượng GHST có thể dùng để bỏ phiếu trên Polygon vào thời điểm bản đề xuất được tạo ra.
 
-Một bản đề xuất chủ chốt là bản đề xuất mà Pixelcraft đã đẩy mạnh, với những phương án dựa trên Bản Đề Xuất Hội Ý đã đạt hoặc gần đạt được mức thi hành tối thiểu. Những lá phiếu này sẽ được hiện thực hoá và những ai tham gia sẽ nhận được phần thưởng XP. Following the passing of [AGIP-127](/aavegotchi-improvement-proposals#increasing-xp-award-to-250-xp-for-successful-core-agips), the XP rewards have been increased to 250 XP and certain limitations and boundaries have been introduced for successful Core Proposals.
+Một bản đề xuất chủ chốt là bản đề xuất mà Pixelcraft đã đẩy mạnh, với những phương án dựa trên Bản Đề Xuất Hội Ý đã đạt hoặc gần đạt được mức thi hành tối thiểu. Những lá phiếu này sẽ được hiện thực hoá và những ai tham gia sẽ nhận được phần thưởng XP.
 
 Nếu Bản Đề Xuất Hội Ý của các bạn được nâng cấp thành công thành Bản Đề Xuất Chủ Chốt thì 150 [XP](/traits#experience)* sẽ được tặng cho Aavegotchi mà bạn đã ghi chú trong Bản Đề Xuất Hội Ý.
 
@@ -117,17 +117,25 @@ Những tính năng của giai đoạn này gồm có:
 ## Tham Gia Quản Trị
 Mơ hồ ghê á! Ủa vậy sao tui tham gia vào AavegotchiDAO được bồ? Bạn êi, bọn mình lo hết!
 
-* You can participate in the discussions in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Bọn mình hân hạnh được đón tiếp tất cả các bạn!
+* Bạn có thể tham gia tranh luận tại [diễn đàn AavegotchiDAO](https://dao.aavegotchi.com/)hoặc #🌱dao-discussion trong Discord. Bọn mình hân hạnh được đón tiếp tất cả các bạn!
 
 * Tham gia bỏ phiếu tại AavegotchiDAO (khi có thể!)
 
 * [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) liệt kê chi tiết danh sách các hàm liên quan đến DAO mà thành viên có thể gọi/dùng để thực hiện những thay đổi đã được vote. Giả dụ như asUSD được vote để trở thành một [loại tài sản ký gửi ](/posts/atokens)đi. Aavegotchi sẽ có thể triển khai thay đổi này bằng cách sử dụng hàm `addCollateralTypes()` và chỉ định asUSD sẽ nằm trong hàm đó.
 
+## Diễn đàn AavegotchiDAO
+
+Diễn Đàn Quản Trị AavegotchiDAO được vận hành trên Discourse. Sự có mặt của diễn đàn này sẽ giúp cộng đồng tập trung thảo luận những chủ đề liên quan đến cơ chế game Aavegotchi, yêu cầu ngân sách, và những đề xuất khác.
+
+Bọn mình hy vọng rằng #GotchiGang sẽ trở thành một mô hình cho những game được sở hữu bởi DAO trong tương lai, vậy nên hãy tham gia và nhớ lịch sự với những người anh em trong cộng đồng nhé.
+
+Diễn đàn có thể truy cập vào tại [đây](https://dao.aavegotchi.com/).
+
 ## Các loại Đề Xuất
 
 Có 2 lại đề xuất trong giai đoạn *Cocoon*:
 
-* **Signal Proposal** — Một bản đề xuất có thể được đăng bởi bất kỳ ai. Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Share your proposal idea and discuss it with other community members in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Once you have finalized the details of your proposal, create an official thread for it on the DAO channel using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
+* **Signal Proposal** — Một bản đề xuất có thể được đăng bởi bất kỳ ai. Những lá phiếu này sẽ không bị ràng buộc, nhưng nếu đạt được số phiếu tối thiểu thì bản đề xuất này sẽ được nâng cấp thành một Bản Đề Xuất Chủ Chốt ràng buộc. Hãy chia sẻ ý tưởng đề xuất và thảo luận với những thành viên khác trong cọng đồng trên kênh #🌱dao-discussion hoặc [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Một khi bạn đã hoàn thành chi tiết bài đề xuất, hãy tạo một bài viết trên diễn đàn AavegotchiDAO bằng cách sử dụng dàn bài được viết ra sẵn trong mục [Creating Signal Proposals](/dao#creating-signal-proposals) bên dưới. Sau đó, hãy tạo ra một bài bỏ phiếu tại [Snapshot](https://snapshot.org/#/aavegotchi.eth).
 
 * **Core Proposal** — Nếu Signal Proposal đạt được 20% túc số hoặc hơn (lượng GHST được phép sử dụng để vote, có trên Polygon), Pixelcraft sẽ thông báo bản đề xuất trở thành Core Proposal. Những lượt vote này sẽ tích hợp và đủ điều kiện để mang đến [XP](/traits#experience) cho người tham gia.
 
@@ -172,7 +180,7 @@ Với COCOON, bọn mình sẽ bắt đầu đi theo những thước đo Cách 
 Để tạo bản đề xuất hội ý để #Gotchigang có thể bỏ phiếu, hãy làm theo format dưới đây:
 
 * Tác giả + Id của Gotchi
-* Link to the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) thread on Discord (Proposals without significant discussion will be automatically removed from Snapshot)
+* Đường link dẫn đến chủ đề thảo luận trên Discourse (Những bản đề xuất mà không được thảo luận nhiều trong diễn đàn sẽ tự động bị xoá khỏi Snapshot)
 * Tóm tắt (bao gồm ý nghĩa, thời gian, mục đích và bất kỳ chỉ số đánh giá Kpi nào). Những bản đề xuất được copy paste từ những bản đề xuất đã tồn tại sẽ bị xoá những những bản đề xuất tương tự với những biến thể khác biệt sẽ được cho phép tồn tại song song.
 * Ảnh hưởng
 * Những mục đích cuối cùng và lợi ích đáng chú ý
@@ -184,7 +192,11 @@ Xem thêm chi tiết tại [bài viết Medium](https://aavegotchi.medium.com/sc
 
 ## Bỏ phiếu
 
-Snapshot là một DApp phục vụ voting trên Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.org/#/aavegotchi.eth).
+Có hai cách để bình chọn: (1) Bình chọn bằng Snapshot, và/hoặc (2) Argagon.
+
+### Vote bằng Snapshot
+
+Snapshot là một DApp phục vụ voting trên Ethereum. Những lá phiếu được tạo ra trên Snapshot không hề yêu cầu phải trả phí gas và không nằm trên blockchain. Trang Snapshot của Aavegotchi có thể được tìm thấy tại [đây](https://snapshot.org/#/aavegotchi.eth).
 
 Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
 
@@ -204,16 +216,43 @@ Snapshot là một DApp phục vụ voting trên Ethereum. Votes made on Snapsho
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "kí vào giao dịch trên Snapshot Voting" />
 
+### Vote bằng Aragon
+
+Aragon là một công cụ để tạo và tham gia vào những tổ chức phân tán của Ethereum. Những lá phiếu được đưa ra trên Aragon yêu cầu trả phí gas và tồn tại trên blockchain.
+
+Có thể xem trang Aragon của Aavegotchi tại đây[here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
+
+Để có thể vote trên Snapshot, hãy làm theo các bước sau đây:
+
+1). Vào một bản đề xuất đang được mở.
+
+2). Kết nối ví.
+
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum" />
+
+3). Bình chọn "Yes" hoặc "No."
+
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum" />
+
+4). Một giao dịch sẽ hiện lên thông qua pop-up của MetaMask. Hãy lưu ý rằng giao dịch của bạn cần phải được đào thì mới được xác nhận, vậy nên nãy tham khảo trang [gasnow](https://gasnow.org/) để nắm được giá gas mới nhất hiện nay.
+
+5). Một khi giao dịch của bạn đã được đào xong, lá phiếu của bạn sẽ được phản ánh ngay sau đó.
+
+
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum" />
+
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn.
+Vậy những lá phiếu này là từ Aragon hở? Chúng là Aavegotchi Improvement Proposals (AGIPs)!
+
+Truy cập vào trang [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) để cập nhận danh sách lịch sử bầu chọn. Nếu cậu muốn được biết về những bản đề xuất trong tương lai, hãy theo dõi [những trang mạng xã hội của Aavegotchi](/socialmedia).
 
 Hãy bỏ phiếu cho các bản đề xuất để nhận [huy hiệu POAP](/poap) cho việc đó nhé!
 
 ## Ngân Quỹ
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve](/curve) ở Ethereum Mainnet. Đây là số tiền hiện có trong tất cả các quỹ của DAO.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
 
-MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
+The AavegotchiDAO Treasury có thể truy cập vào tại [đây](https://aavegotchi.com/treasury).

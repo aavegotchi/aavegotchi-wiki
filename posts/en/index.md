@@ -18,6 +18,7 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 
 ## New to Aavegotchi?
 
+
 Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game. 
 
 ## Popular Pages
@@ -25,7 +26,7 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 * [Staking](/staking) -- Learn how to stake GHST to make FRENS
 * [DAO](/dao) -- Everything there is to know about AavegotchiDAO
 * [Wearables](/wearables) -- Fashion for your Aavegotchi
-* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
+* [Games](/games) -- Play some Games with your Aavegotchi
 * [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs

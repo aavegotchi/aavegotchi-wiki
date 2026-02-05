@@ -22,6 +22,7 @@ The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you ha
 
 ## Adding Mumbai Testnet to your Metamask
 
+
 To connect to the Mumbai Testnet, some configurations have to be made to your Metamask wallet.
 
 1).	First, open the extension and click the “Ethereum Mainnet” button on the top.

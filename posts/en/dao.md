@@ -4,7 +4,7 @@ date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
 description: 'All about AavegotchiDAO'
 image: "icons/dao.svg"
-contributors: ["vanilladelphia", "cinnabarhorse", "hackingmoneyph"]
+contributors: ["vanilladelphia", "cinnabarhorse", "hackingmoneyph", "unintelligent-nerd"]
 ---
 
 <div class="headerImageContainer">
@@ -28,7 +28,6 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 <li><a href=#metamorphosis>Metamorphosis</a></li>
 <li><a href=#oasis>Oasis</a></li>
 <li><a href=#participating-in-governance>Participating in Governance</a></li>
-<li><a href=#aavegotchidao-forum>AavegotchiDAO Forum</a></li>
 <li><a href=#type-of-proposals>Type of Proposals</a></li>
 <li><a href=#vote-differentials>Vote Differentials</a></li>
 <li><a href=#creating-signal-proposals>Creating Signal Proposals</a></li>
@@ -40,6 +39,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 </div>
 
 ## Genesis
+
 
 *See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
 
@@ -71,11 +71,11 @@ Its features include:
 
 There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.page/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on Discord and/or [Discourse/AavegotchiDAO Forum](https://dao.aavegotchi.com/). The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
+A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. The rationale is to ideate further and to discover whether there is worthy support to move forward with the Signal Proposal. Please follow the template found in the [Creating Signal Proposals section](/dao#creating-signal-proposals).
 
 The Signal Proposal will be upgraded to a Core Proposal once the former passes with a quorum reaching 20% of circulating GHST eligible to vote on Polygon at the time of proposal creation.
 
-A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants.
+A Core Proposal is a proposal that Pixelcraft puts forward, with options based on Signal Proposals that reached or nearly reached quorum. These votes are binding and are eligible for XP rewards to participants. Following the passing of [AGIP-127](/aavegotchi-improvement-proposals#increasing-xp-award-to-250-xp-for-successful-core-agips), the XP rewards have been increased to 250 XP and certain limitations and boundaries have been introduced for successful Core Proposals.
 
 If your Signal Proposal is successfully upgraded to a Core Proposal, 150 [XP](/traits#experience)* will be given to the Aavegotchi you have noted in your Signal Proposal.
 
@@ -116,25 +116,17 @@ Its features include:
 ## Participating in Governance
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! 
 
-* You can participate in the discussions in the [AavegotchiDAO forum](https://dao.aavegotchi.com/) or the #🌱dao-discussion channel on Discord. We welcome everyone!
+* You can participate in the discussions in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. We welcome everyone!
 
 * Taking part in AavegotchiDAO votes (when they are available!)
 
 * The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
-## AavegotchiDAO Forum
-
-The AavegotchiDAO Governance Forum is powered by Discourse. Having this forum will help centralize discussion on important topics related to Aavegotchi game mechanics, funding requests, and other proposals.
-
-We hope that #GotchiGang can become a model for DAO-owned games in the future, so get involved and remember to be frenly to your fellows.
-
-The Forum can be found [here](https://dao.aavegotchi.com/).
-
 ## Type of Proposals
 
 There are 2 types of proposals in the *Cocoon* stage:
 
-* **Signal Proposal** — A proposal that can be posted by anyone. These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Share your proposal idea and discuss it with other community members on the #🌱dao-discussion channel on Discord or on the [AavegotchiDAO Forum](https://dao.aavegotchi.com/). Once you have finalized the details of your proposal, create an official thread for it on the AavegotchiDAO forum using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.page/#/aavegotchi.eth).
+* **Signal Proposal** — A proposal that can be posted by anyone. These votes are non-binding, but if quorum is achieved, the proposal will automatically be upgraded into a binding Core Proposal. Share your proposal idea and discuss it with other community members in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Once you have finalized the details of your proposal, create an official thread for it on the DAO channel using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
 
 * **Core Proposal** — If a Signal Proposal achieves 20% or greater quorum (amount of circulating GHST eligible to vote on Polygon), Pixelcraft will reintroduce the proposal as a Core Proposal. These votes are binding and are eligible for [XP](/traits#experience) rewards to participants.
 
@@ -179,7 +171,7 @@ For COCOON, we will begin with the following Vote Differential parameters, and c
 To create signal proposals for the #GotchiGang to vote on, please adhere to the following format:
 
 * Author + GotchiID
-* Link to the matching Discourse thread (Proposals without significant discussion in the forum will be automatically removed from Snapshot)
+* Link to the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) thread on Discord (Proposals without significant discussion will be automatically removed from Snapshot)
 * Summary (include rationale, timeline, goals and any key performance indicators) Copy/paste proposals of existing proposals will be removed while proposals with similar but distinct variations are permitted to exist side by side.
 * Effect
 * Highlight end goal and benefits
@@ -191,11 +183,7 @@ More details can be found in this [Medium post](https://aavegotchi.medium.com/sc
 
 ## Voting
 
-There are two ways to vote: (1) Snapshot Voting, and/or (2) Aragon Voting.
-
-### Snapshot Voting
-
-Snapshot is a voting DApp on Ethereum. Votes made on Snapshot does not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.page/#/aavegotchi.eth).
+Snapshot is a voting DApp on Ethereum. Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.org/#/aavegotchi.eth).
 
 To vote on Snapshot, follow the steps below:
 
@@ -215,43 +203,16 @@ To vote on Snapshot, follow the steps below:
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "sign transaction on Snapshot Voting">
 
-### Aragon Voting
-
-Aragon is a tool for creating and participating in decentralized organizations on Ethereum. Votes made on Aragon requires gas and exists on-chain. 
-
-Aavegotchi's Aragon page can be found [here](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/).
-
-To vote on Aragon, follow the steps below:
-
-1). Go to an open proposal.
-
-2). Connect your wallet.
-
-<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "Aragon Voting Ethereum">
-
-3). Choose to vote "Yes" or "No."
-
-<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "Aragon Voting Ethereum">
-
-4). A Metamask transaction will pop-up. Take note that your transaction has to be mined to be confirmed, so consult a site like [gasnow](https://gasnow.org/) for the latest gas price.
-
-5). Once your transaction is mined, your vote will be reflected accordingly.
-
-
-<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "Aragon Voting Ethereum">
-
 ## Aavegotchi Improvement Proposals (AGIPs)
 
-See those votes on Aragon? They are Aavegotchi Improvement Proposals (AGIPs)! 
-
-Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes. If you'd like to be informed of future proposals, follow [Aavegotchi on social media](/socialmedia).
+Visit the [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals) page for a list of historical votes.
 
 Vote on AGIPs and get [POAP badges](/poap) for it!
 
 ## Treasury
 
-AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve) on Ethereum Mainnet. This is the current source of all DAO funds.
-
 As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
 The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+
+MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)

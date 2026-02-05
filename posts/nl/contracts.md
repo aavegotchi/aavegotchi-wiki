@@ -16,11 +16,11 @@ Hoi frens. Welkom bij onze opslagplaats van Aavegotchi Smart Contract adressen. 
 **Inhoud**
 
 <ol>
-<li><a href=#contract-addresses-on-ethereum>Contract Addresses on Ethereum</a></li>
-<li><a href=#contract-addresses-on-base>Contract Addresses on Base</a></li>
-<li><a href=#contract-addresses-on-base-sepolia-testnet>Contract Addresses on Base Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Contract Addresses on Ethereum Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-polygon-deprecated>Contract Addresses on Polygon (Deprecated)</a></li>
+<li><a href=#contract-addresses-on-ethereum>Contractadressen op Ethereum</a></li>
+<li><a href=#contract-addresses-on-base>Contractadressen op Base</a></li>
+<li><a href=#contract-addresses-on-base-sepolia-testnet>Contractadressen op Base Sepolia (testnet)</a></li>
+<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Contractadressen op Ethereum Sepolia (testnet)</a></li>
+<li><a href=#contract-addresses-on-polygon-deprecated>Contractadressen op Polygon (verouderd)</a></li>
 </ol>
 
 </div>
@@ -32,7 +32,7 @@ Hoi frens. Welkom bij onze opslagplaats van Aavegotchi Smart Contract adressen. 
 
 ## Contract Addresses on Polygon (Deprecated)
 
-_Note: All contracts on Polygon are deprecated and provided for historical reference only._
+_Opmerking: Alle contracten op Polygon zijn verouderd en alleen ter referentie._
 
 - GHST Token (Proxy): [0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 - GHST Token (Implementation): [0x5004bc7e5b718c245ca859db349dd012cfd58395](https://polygonscan.com/address/0x5004bc7e5b718c245ca859db349dd012cfd58395#code)

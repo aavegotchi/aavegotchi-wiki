@@ -48,21 +48,13 @@ export const items: Category[] = [
                 href: "tokenomics"
             },
             {
-                name: "Bonding Curve",
-                href: "curve"
-            },
-            {
                 name: "Spirit Force",
                 href: "spirit-force"
             },
             {
                 name: "Staking",
                 href: "staking"
-            },
-			{
-				name: "Tickets",
-				href: "tickets"
-			}
+            }
         ]
 
     },
@@ -95,24 +87,20 @@ export const items: Category[] = [
                 href: "rarity-farming"
             },
 			{
-				name: "Mini-Games",
-				href: "minigames"
+				name: "Games",
+				href: "games"
 			},
             {
                 name: "Gotchiverse",
                 href: "gotchiverse"
             },			
-			{
-                 name: "Maall",
-                 href: 'maall'
-            },			
             {
-                 name: "Baazaar",
-                 href: 'baazaar'
+                 name: "Marketplace",
+                 href: 'marketplace'
             },
 			{
-				name: "Aarena",
-				href: "aarena"
+				name: "Arena",
+				href: "spirit-force-arena"
 			},
 			{
 				name: "Forge",

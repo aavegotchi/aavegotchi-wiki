@@ -35,6 +35,7 @@ where Gotchis come out to play!
 
 ## Baards
 
+
 Baards are our musicians from the Aavegotchi community. Check out this [AavegotchiDAO thread](https://dao.aavegotchi.com/t/aavegotchi-8-bit-music-task-force/1637) for the inspiration behind the Baard role.
 
 table_baard

@@ -102,5 +102,44 @@ export const tables
                 ]
             }
         },
-
+		
+		{
+            tableName: "gotchiMiner",
+            tableCaption: "",
+            tableData: {
+                headers: ["Score Tiers", "XP earned"],
+                data: [
+                    [">$10k points", "5 XP"],
+					["Top 500", "10 XP"],
+					["Top 100", "15 XP"]
+                ]
+            }
+        },
+		
+		{
+            tableName: "gotchiHeroes",
+            tableCaption: "",
+            tableData: {
+                headers: ["Score Tiers", "XP earned"],
+                data: [
+                    ["All Aavegotchis above 500", "5 XP"],
+					["Top 500", "10 XP"],
+					["Top 100", "15 XP"]
+                ]
+            }
+        },
+		
+		{
+            tableName: "gotchiCrawler",
+            tableCaption: "",
+            tableData: {
+                headers: ["Score Tiers", "XP earned"],
+                data: [
+                    ["Score 2000 points and exit", "5 XP"],
+					["Top 500", "10 XP"],
+					["Top 100", "15 XP"],
+					["Top 10", "20 XP"]
+                ]
+            }
+        },
     ]

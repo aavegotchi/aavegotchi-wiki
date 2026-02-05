@@ -8,7 +8,6 @@ contributors:
   - "vanilladelphia"
   - "cinnabarhorse"
   - "hackingmoneyph"
-  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -30,6 +29,7 @@ Aavegotchiは、CompoundやSynthetixといった成功したDeFiプロトコル�
 <li><a href=#metamorphosis>メタモルフォーシス</a></li>
 <li><a href=#oasis>オアシス</a></li>
 <li><a href=#participating-in-governance>ガバナンスに参加する</a></li>
+<li><a href=#aavegotchidao-forum>AavegotchiDAOフォーラム</a></li>
 <li><a href=#type-of-proposals>提案の種類</a></li>
 <li><a href=#vote-differentials>得票差</a></li>
 <li><a href=#creating-signal-proposals>シグナルプロポーザルの作成</a></li>
@@ -72,11 +72,11 @@ AavegotchiDAOのV1.5。 [ジェネシス](/dao#genesis)と[メタモルフォー
 
 コクーンステージでは、2種類の投票を行うことができます：(1) シグナル提案（Signal Proposal）、(2) コア提案（Core Proposal）の2種類です。
 
-A Signal Proposal can be posted by anyone to the Community tab on [Snapshot](https://snapshot.org/#/aavegotchi.eth). この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Before you come up with a Signal Proposal, it is mandatory to discuss it with the community on the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. その理由は、さらにアイデアを練って、シグナル提案を進めるに値するサポートがあるかどうかを発見するためです。 [「シグナル提案の作成」](/dao#creating-signal-proposals)にあるテンプレートにしたがってください。
+シグナル提案は、[Snapshot](https://snapshot.org/#/aavegotchi.eth)のコミュニティー（Community）タブに誰でも投稿することができます。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 シグナル提案を思いつく前に、Discordや[Discourse/AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でコミュニティと議論することが必須となります。 その理由は、さらにアイデアを練って、シグナル提案を進めるに値するサポートがあるかどうかを発見するためです。 [「シグナル提案の作成」](/dao#creating-signal-proposals)にあるテンプレートにしたがってください。
 
 シグナル提案は、提案作成時にPolygonで投票できる流通GHSTの20%に達する定足数で前者が可決されると、コア提案に格上げされることになります。
 
-コア提案は、定足数に達した、または達しそうになったシグナル提案をもとに、Pixelcraftが選択肢を提示する提案です。 これらの投票には拘束力があり、参加者へのXP報酬の対象となります。 Following the passing of [AGIP-127](/aavegotchi-improvement-proposals#increasing-xp-award-to-250-xp-for-successful-core-agips), the XP rewards have been increased to 250 XP and certain limitations and boundaries have been introduced for successful Core Proposals.
+コア提案は、定足数に達した、または達しそうになったシグナル提案をもとに、Pixelcraftが選択肢を提示する提案です。 これらの投票には拘束力があり、参加者へのXP報酬の対象となります。
 
 シグナル提案がコア提案に昇格した場合、シグナル提案に記載したAavegotchiに150[XP](/traits#experience)*が付与されます。
 
@@ -117,17 +117,25 @@ AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態であります
 ## ガバナンスに参加する
 気合い入ってます！ で、AavegotchiDAOに参加するにはどうしたらいいんだろう？ フレンよ、オレ達に任せな！
 
-* You can participate in the discussions in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. 誰でも大歓迎だよ！
+* [AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)やDiscordの#🌱dao-discussionチャンネルで議論に参加することができるんだ。 誰でも大歓迎だよ！
 
 * AavegotchiDAOの投票に参加する(可能な場合!)
 
 * [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance)には、投票された変更を実装するためにDAOメンバーが呼び出したり使ったりできるリストが詳細に記載されています。 例えば、asUSDが[コラテラル（担保）タイプ](/posts/atokens)として投票されたとしましょう。 AavegotchiDAOは `addCollateralTypes()` 関数を使用し、関数内で asUSD を指定することで変更を実装することができます。
 
+## AavegotchiDAOフォーラム
+
+AavegotchiDAOガバナンス・フォーラムは Discourse を使用しています。 このフォーラムを持つことで、Aavegotchi のゲームメカニック、資金調達の依頼、その他の提案に関する重要なトピックについて一元的に議論することが可能になります。
+
+私たちは #GotchiGang が将来的に DAO 所有のゲームのモデルになることを望んでいます。
+
+フォーラムは[こちら](https://dao.aavegotchi.com/)でご覧いただけます。
+
 ## 提案の種類
 
 *コクーン*ステージには2種類の企画案があります：
 
-* **シグナル提案（Signal Proposal）** - 誰でも投稿可能な提案。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Share your proposal idea and discuss it with other community members in the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) on Discord. Once you have finalized the details of your proposal, create an official thread for it on the DAO channel using the framework outlined in the [Creating Signal Proposals](/dao#creating-signal-proposals) section below. After which, create a vote for it on [Snapshot](https://snapshot.org/#/aavegotchi.eth).
+* **シグナル提案（Signal Proposal）** - 誰でも投稿可能な提案。 この投票には拘束力がありませんが、定足数に達すると自動的に拘束力のあるコア提案に格上げされます。 Discordの#🌱dao-discussionチャンネル、または[AavegotchiDAOフォーラム](https://dao.aavegotchi.com/)でアイデアを共有し、他のコミュニティメンバーと議論してください。 提案の詳細が決まったら、AavegotchiDAOフォーラムに公式スレッドを作成し、以下の[「シグナル提案の作成」](/dao#creating-signal-proposals)で説明されているフレームワークを使用してください。 その後、[スナップショット](https://snapshot.org/#/aavegotchi.eth)で投票を行ってください。
 
 * **コア提案（Core Proposal）** - シグナル提案が20%以上の定足数（ポリゴン上で投票可能な流通GHSTの量）を達成した場合、Pixelcraftはこれらの提案をコア提案として再提案します。 これらの投票には拘束力があり、参加者への[XP](/traits#experience)報酬の対象となります。
 
@@ -172,7 +180,7 @@ AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態であります
 #GotchiGangが投票するためのシグナル提案を作成するには、以下の形式を守ってください：
 
 * 作者＋GotchiID
-* Link to the [DAO channel](https://discord.com/channels/732491344970383370/1031189663152623747) thread on Discord (Proposals without significant discussion will be automatically removed from Snapshot)
+* 一致するDiscourseスレッドへのリンク（フォーラムで重要な議論がない提案は、自動的にスナップショットから削除されます。）
 * 概要（根拠、スケジュール、目標、重要業績評価指標を含む） 既存の提案のコピペ提案は削除されますが、類似しているが異なるバリエーションの提案は並存が許可されます。
 * 効果
 * 最終ゴールと利益ハイライト
@@ -184,7 +192,11 @@ AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態であります
 
 ## 議決権行使（投票）
 
-スナップショットはイーサリアム上の投票DAppです。 Votes made on Snapshot do not require any gas and are not on-chain. Aavegotchi's Snapshot page can be found [here](https://snapshot.org/#/aavegotchi.eth).
+投票方法は2つあります：(1) スナップショット（Snapshot）投票、(2) アラゴン（Aragon）投票。
+
+### スナップショット投票
+
+スナップショットはイーサリアム上の投票DAppです。 スナップショットで行われる投票はガスを必要とせず、オンチェーンでもありません。 Aavegotchiのスナップショットのページは[こちら](https://snapshot.org/#/aavegotchi.eth)です。
 
 スナップショットで投票を行うには、以下の手順で行います：
 
@@ -204,16 +216,43 @@ AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態であります
 
 <img class = "bodyImage" src = "/dao/snapshot5.jpg" alt = "Snapshot Votingで取引の署名" />
 
+### アラゴン投票
+
+アラゴン は、イーサリアム上の分散型組織を作成し、参加するためのツールです。 アラゴン上で行われる投票はガスを必要とし、オンチェーンに存在します。
+
+Aavegotchiのアラゴンのページは[こちら](https://client.aragon.org/#/aavegotchi/0xf63e1edbcb3be8d5fb124f4a228f5412f48e5ae7/)でご覧になれます。
+
+アラゴンで投票するには、以下の手順で行ってください：
+
+1). 開いてる提案にアクセスする。
+
+2). ウォレットを接続する。
+
+<img class = "bodyImage" src = "/dao/aragon1.jpg" alt = "アラゴン投票　イーサリアム" />
+
+3). "はい "または "いいえ "の投票を選択する。
+
+<img class = "bodyImage" src = "/dao/aragon2.jpg" alt = "アラゴン投票　イーサリアム" />
+
+4). メタマスク（Metamask）のトランザクションがポップアップします。 なお、取引は採掘（マイン）されないと確定しないので、最新のガス価格は[gasnow](https://gasnow.org/)などのサイトを参照してください。
+
+5). 採掘が完了すると、投票内容が反映されます。
+
+
+<img class = "bodyImage" src = "/dao/aragon3.jpg" alt = "アラゴン投票　イーサリアム" />
+
 ## Aavegotchi Improvement Proposals (AGIPs)（Aavegotchi改善案）
 
-過去の投票一覧は、[Aavegotchi改善案のページ](/aavegotchi-improvement-proposals)をご覧ください。
+アラゴンでの投票をご覧ください。 それはAavegotchi改善案（AGIPs）なんです!
+
+過去の投票一覧は、[Aavegotchi改善案のページ](/aavegotchi-improvement-proposals)をご覧ください。 今後の提案について情報を手に入れたい場合は、[ソーシャルメディアでAavegotchi](/socialmedia)をフォローしてください。
 
 AGIPsに投票して、[POAPバッジ](/poap)をゲットしよう！
 
 ## 宝庫
 
-As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
+AavegotchiDAOは、イーサリアムメインネット上のAavegotchi[Bonding Curve](/curve)の全取引の0.3%を獲得しています。 これが現在のDAOの全資金源です。
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+責任ある運営者として、AavegotchiDAOのメンバーはこれらの資金がどのように配分されるかを決定する役割を担います。
 
-MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
+AavegotchiDAOの宝庫は[ここ](https://aavegotchi.com/treasury)にあります。

@@ -6,9 +6,31 @@ description: "Aavegotchi Media"
 contributors: ["unintelligent-nerd"]
 ---
 
+
 Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't make it? Worried that you might overlook some fAAntastic Aavegotchi-related media because your to-watch DeFi videos are piling up? No worries Fren. We got ya covered! Watch them on-demand here!
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
+
+### Guaranteed CHAOS! A new victim plays Gotchi Guardians | Devlog 4 (7 December 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oRb82zMeRiM?si=R3WvGGoOE5A6JmPZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+###  This is why Aavegotchi fell in love with Chainlink #SmartCon2023 (12 October 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wEyW-J1cw8M?si=DKqy07h_DENlInRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### KILLER GAMEPLAY: Aavegotchi's Chaotic New Tower Defense Game | Devlog #3 (14 September 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TxwFw98qM4o?si=1IXcBadGTGJ8-_A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 100x $ghst token! Aavegotchi founder on polygon supernets, new games, new AAA game devs! (25 August 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XjZJIISyx2k?si=wj5nF23MzrhowMLN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Epic Gotchi Guardians GAMEPLAY! Watch Aavegotchis Battle for Survival | Devlog #2 (29 July 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PDZOhsAyOYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### FIRST LOOK at ex Gwent Game-Director Jason Slama's NEW GAME | Gotchi Guardians Devlog #1 (1 June 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jN8JBcnGIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Chill with CODERDAN - Founder of Aavegotchi (10 March 2023)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AAprIU2dXyI?si=E-25eg_NamWMNFyi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### AMA with Aavegotchi, Community-Owned Gaming Protocol (21 October 2022)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BJvM3iXTJ4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

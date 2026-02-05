@@ -1,14 +1,15 @@
 ---
-author: Unintelligent Nerd
-date: "2025-09-18T00:00:00.000Z"
-title: "Marketplace"
-description: "Aavegotchi Marketplace"
-contributors: [ "unintelligent-nerd" ]
+author: you can proof read this
+date: '2020-04-23T07:00:00.000Z'
+title: '交易市场'
+description: 'Aavegotchi 交易市场'
+contributors:
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/marketplace/marketplace.gif">
-<p class="headerImageText">The Marketplace</p>
+<img class="headerImage" src="/marketplace/baazaar.gif">
+<p class="headerImageText">The Baazaar</p>
 </div>
 
 “嘿…伙计”
@@ -27,7 +28,7 @@ contributors: [ "unintelligent-nerd" ]
 
 “不！ 它是我的！”
 
-This, my Frens, is the Aavegotchi Marketplace. 你能在交易市场中下手稳准狠吗？ 你能抵御致富道路上的种种噪音吗？
+朋友们看到了嘛，这就是 Aavegotchi Baazaar 交易市场的热闹非凡。 你能在交易市场中下手稳准狠吗？ 你能抵御致富道路上的种种噪音吗？
 
 快来测试一下你的能力和勇气！ 不论你是买家还是卖家！
 
@@ -36,49 +37,32 @@ This, my Frens, is the Aavegotchi Marketplace. 你能在交易市场中下手稳
 **内容**
 
 <ol>
-<li><a href=#aavegotchi-marketplace>Aavegotchi Marketplace</a></li>
-<li><a href=#features>Features</a></li>
-<li><a href=#secondary-marketplaces>Secondary Marketplaces</a></li>
+<li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
+<li><a href=#collection-addresses>收藏品地址</a></li>
+<li><a href=#precautions>注意事项</a></li>
 </ol>
 
 </div>
 
-## Aavegotchi Marketplace
+## Aavegotchi Baazaar
 
-The Aavegotchi Marketplace (Baazaar) is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There is a listing fee of 0.1 GHST for every new listing on the Aavegotchi Marketplace to prevent spam; the fee is burned.
+The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/{{BURN_ADDRESS}}/tokens) on Polygon when a listing is created or updated.
 
-When an item is sold, the seller gets 96.5% of the sales price deposited to their wallet. The other 3.5% is allocated as follows:
+<img class = "bodyImage" src = "/marketplace/avegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
-- 2% to Pixelcraft Studios
-- 1% to AavegotchiDAO
-- 0.5% to Rarity Farming reward pool
+更多信息请参阅此 [链接](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)。
 
-All listings have a 1 GHST minimum. If a seller wants to price an item below 1 GHST, multiple items must be listed so that the total listing price is at or above 1 GHST.
+The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
 
-Buyers may buy 1, some, or all of a multiple item listing.
+## 收藏品地址
 
-<img class = "bodyImage" src = "/marketplace/aavegotchi-marketplace.png" alt = "Aavegotchi Marketplace">
+The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
 
-The Aavegotchi Marketplace can be found [here](https://dapp.aavegotchi.com/baazaar/aavegotchis). If you see a “not functional on Base” banner, use aavegotchi.com as the entry point while Base migration completes.
+table_smartcontracts
 
-## Features
+## 注意事项
 
-There are a variety of products listed on the Marketplace:
+It's not fun to spend your hard-earned money for fake assets, so when buying on Opensea and other secondary marketplaces, make sure to exercise caution. Remember, if it looks too good to be true, it probably is!
 
-- Aavegotchis
-- [Wearables](/wearables)
-- Consumables
-- [Portals](/portals)
-- [Forge items](/forge)
-- Raffle Tickets
-- Gotchiverse Parcels
-- Gotchiverse Tiles
-- Gotchiverse Installations
-- [FAKE Gotchis](https://www.fakegotchis.com/)
-- FAKE Cards
-
-The Marketplace comes equipped with filter functions to help buyers narrow down their choices.
-
-## Secondary Marketplaces
-
-Besides the official Aavegotchi Marketplace, secondary marketplaces include Magic Eden and OnePlanet on Polygon, and Rarible on Ethereum. As network support evolves with the Base migration, verify marketplace support and bridging requirements before listing or purchasing.
+* 多次检查以确保合约地址的正确性
+* 如果有其他疑问，可以到 [ Aavegotchi Discord](https://discord.com/invite/NPwnWB6) 官方平台寻求帮助哦，热情的 Aapprentices 等待你的到来。

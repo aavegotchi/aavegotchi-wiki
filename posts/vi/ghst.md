@@ -1,13 +1,12 @@
 ---
 author: letsgobankless
-date: "2025-09-18T00:00:00.000Z"
-title: "Token GHST"
-description: "Token quản trị sinh thái của Aavegotchi"
+date: '2020-11-28T07:00:00.000Z'
+title: 'Token GHST'
+description: 'Token quản trị sinh thái của Aavegotchi'
 image: "ghst/ghsttoken.svg"
 contributors:
   - "letsgobankless"
   - "appellants"
-  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -15,13 +14,11 @@ contributors:
 <p class="headerImageText">Token GHST</p>
 </div>
 
-The GHST token is the eco-governance token that powers the whole Aavegotchi ecosystem.
+Chuyển động của giá và trade trọt thì hay đấy, nhưng bạn có thể làm được điều gì khác với token native của Aavegotchi, GHST?
 
-Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
+Đồng token này đã được tạo ra để dùng như loại tiền tệ chính để mua hàng tá những tài sản on-chain của Aavegotchi trong hệ sinh thái. Những tài sản này bao gồm các Portal, wearables, consumables, và collectible, trong số những món hàng khác. Ngoài ra, GHST cũng có nhiều công dụng khác, ví dụ như staking và cho phép người chơi vote trên DAO.
 
-GHST is live on Base. Aavegotchi has migrated to Base.
-
-GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+Hãy gom hàng đi nhé, mấy fren - trong phần Wiki này, chúng ta sẽ nhìn rõ hơn về những cậu nhóc tím sáng chói kia.
 
 <div class="contentsBox">
 
@@ -29,92 +26,55 @@ GHST is a fully compliant ERC20 token. You can view its contract address on Poly
 
 <ol>
 <li><a href=#why-ghst>Tại sao lại là GHST?</a></li>
-<li><a href=#total-supply>Total supply</a></li>
-<li><a href=#buying-ghst>Mua GHST</a></li>
 <li><a href=#using-ghst>Dùng GHST</a></li>
-<li><a href=#is-ghst-decentralized->Is GHST decentralized?</a></li>
+<li><a href=#buying-ghst>Mua GHST</a></li>
+<li><a href=#earning-ghst>Kiếm GHST</a></li>
 </ol>
 
 </div>
 
 ## Tại sao lại là GHST
-
-
 Các phần thưởng khuyến khích người dùng là rất quan trọng trong bất kỳ một dự án nào. Trong trường hợp này, GHST mang đến những thưởng kinh tế để khuyến khích sự tham gia nhiệt tình của người chơi vào hệ sinh thái của Aavegotchi. Đặc biệt, token này sẽ giúp những dự định chính đáng của AavegotchiDAO, người nắm giữ GHST, và người nắm giữ Aavegotchi trở thành hiện thực.
 
-Players have to buy GHST and spend it within the ecosystem. Một phần số tiền thu được sẽ được chuyển lại cho DAO để có thêm ngân sách nhằm phát triển hệ sinh thái này. At the same time, part of the value is also distributed as rewards for wise governance in the DAO, and as rewards for engaging in [rarity farming](/rarity-farming).
+Người dùng cần phải mua GHST và dùng nó vào quá trình triệu hồi cũng như huấn luyện các Aavegotchi. Một phần số tiền thu được sẽ được chuyển lại cho DAO để có thêm ngân sách nhằm phát triển hệ sinh thái này. Đồng thời, một phần giá trị cũng sẽ được phân bố như một phần thưởng cho những quyết định quản trị thông thái từ DAO, và sẽ là phần thưởng cho những ai tham gia vào rarity farming.
 
 Để xem thêm thông tin chi tiết, hãy xem qua [trang Tokenomics](/tokenomics)nhé.
 
-## Total supply
-
-GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, in 2023, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token; the curve was turned off on **2023-03-11**. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
-
-Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
-
-As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}) for a real-time update of the token's total supply.
-
-## Mua GHST
-
-There are 3 ways to get GHST.
-
-### Swap
-
-- Crosschain Swap
-
-- Quickswap
-
-- Uniswap
-
-- Uniswap (Base)
-
-- Aerodrome (Base)
-
-Access the DEXes through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=swap).
-
-### Bridge
-
-- Superbridge — Bridge from Ethereum to Base
-
-- Gotchi Bridge — Bridge between Polygon and Ethereum
-
-- Polygon Bridge — Official Polygon Bridge
-
-- Umbria Bridge — Fast bridge with GHST liquidity
-
-Access the Bridges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=bridge).
-
-### Purchase
-
-- Crypto.com
-- Kraken
-
-> Note: Binance announced it will delist **GHST spot and perps**, with spot trading scheduled to end **2026-02-13 03:00 UTC**. - Source: [Discord announcement (2026-02-03)](https://discord.com/channels/1466071512321753238/1468185291935187004/1468185677710495911) - Source: [Binance announcement](https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27)
-
-Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=purchase).
-
-Hãy nhớ kiểm tra kỹ địa chỉ của token nữa nhé.
-
-On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}]({{ETHERSCAN_GHST_URL}})
-
-On Polygon: [{{GHST_POLYGON_ADDRESS}}]({{POLYGONSCAN_GHST_URL}})
-
-On Base: [{{GHST_BASE_ADDRESS}}]({{BASESCAN_GHST_URL}})
-
-**Xin hãy xác nhận liên kết này với những nơi thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
-
 ## Dùng GHST
-
 Vậy bạn có thể làm gì với GHST, ngoài việc mua nó rồi tự hỏi xem khi nào thì đồng tiền này sẽ tăng vọt lên chín tầng mây? Nhiều lắm nha, và một khi bạn học được về hàng tá những cách để sử dụng GHST, bọn mình thấy rằng thế nào bạn cũng sẽ nghĩ lại về việc bán token đi.
 
 Bao gồm:
 
-- Mua [portals](/portals) để triệu hồi Aavegotchis
-- Mua [wearables](/wearables) để triệu hồi Aavegotchis
-- Buying [REALM parcels](/gotchiverse)
-- [Staking GHST](/staking) to earn daily GLTR rewards
-- Buying [Fake Gotchis](https://www.fakegotchis.com/)
+* Mua [portals](/portals) để triệu hồi Aavegotchis
+* Mua [wearables](/wearables) để triệu hồi Aavegotchis
+* Mua [gói REALM](/metaverse) (và nhiều thông tin hơn về sẽ được thông báo)
+* [Stake GHST](/staking), kiếm FRENS, mua vé và thắng giải từ sự kiện raffle
 
-## Is GHST decentralized?
+## Mua GHST
+Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua token GHST:
 
-Yes, GHST is a fully decentralized token, with no admin privileges or backdoors. Originally deployed under the ownership of AavegotchiDAO, when the bonding curve turned off, the DAO that maintained admin keys to GHST was also dismantled, meaning that no one owns the admin keys to GHST any longer.
+* Mua GHST ngay trên [curve](/curve) ở Ethereum Mainnet (yêu cầu KYC, không may là người có quốc tịch Mỹ và Trung Quốc không thể tham gia)
+* Mua từ những sàn giao dịch phi tập trung trên Ethereum Mainnet như [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) và [ Matcha](https://matcha.xyz/markets/GHST)
+* Mua từ những Sàn giao dịch Phi tập trung trên Polygon như [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+* Mua từ những Sàn giao dịch Tập trung như [Okex](https://www.okex.com/spot/trade/ghst-eth#type=1) và [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
+
+Hãy nhớ kiểm tra kỹ địa chỉ của token nữa nhé.
+
+Trên Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
+
+Trên Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
+
+**Xin hãy xác nhận liên kết này với những nơi thông tin được tăng tải chính thức từ Aavegotchi một cách thật kỹ càng - kỹ tính thì ne vờ đai.**
+
+## Kiếm GHST
+Không phải ai cũng là whale, và cũng không sao - vẫn còn nhiều điều bất ngờ trong vùng biến DeFi.
+
+Có nhiều cách để căng buồm và kiếm thêm GHST. Bao gồm:
+
+* Tham gia vào [rarity farming](/rarity-farming)
+* Tham gia và vote trong [AavegotchiDAO](/dao)
+* Chơi và chiến thắng trong các [mini-games](/minigames) (sẽ công bố thêm trong tương lai)
+
+
+
+

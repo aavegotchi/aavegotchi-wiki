@@ -16,23 +16,23 @@ Salut les Frens. Bienvenue dans notre carnet d'adresses Aavegotchi Smart Contrac
 **Contenu**
 
 <ol>
-<li><a href=#contract-addresses-on-ethereum>Contract Addresses on Ethereum</a></li>
-<li><a href=#contract-addresses-on-base>Contract Addresses on Base</a></li>
-<li><a href=#contract-addresses-on-base-sepolia-testnet>Contract Addresses on Base Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Contract Addresses on Ethereum Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-polygon-deprecated>Contract Addresses on Polygon (Deprecated)</a></li>
+<li><a href=#contract-addresses-on-ethereum>Adresses des contrats sur Ethereum</a></li>
+<li><a href=#contract-addresses-on-base>Adresses des contrats sur Base</a></li>
+<li><a href=#contract-addresses-on-base-sepolia-testnet>Adresses des contrats sur Base Sepolia (testnet)</a></li>
+<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Adresses des contrats sur Ethereum Sepolia (testnet)</a></li>
+<li><a href=#contract-addresses-on-polygon-deprecated>Adresses des contrats sur Polygon (obsolète)</a></li>
 </ol>
 
 </div>
 
 ## Contract Addresses on Ethereum
 
-- GHST Token: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+- Adresse du token GHST: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 - GHST Staking Diamond: [0x93eA6ec350Ace7473f7694D43dEC2726a515E31A](https://etherscan.io/token/0x93eA6ec350Ace7473f7694D43dEC2726a515E31A)
 
 ## Contract Addresses on Polygon (Deprecated)
 
-_Note: All contracts on Polygon are deprecated and provided for historical reference only._
+_Remarque: Tous les contrats sur Polygon sont obsolètes et fournis uniquement à titre historique._
 
 - GHST Token (Proxy): [0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 - GHST Token (Implementation): [0x5004bc7e5b718c245ca859db349dd012cfd58395](https://polygonscan.com/address/0x5004bc7e5b718c245ca859db349dd012cfd58395#code)

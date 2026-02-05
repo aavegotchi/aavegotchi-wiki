@@ -32,6 +32,7 @@ Have an Aavegotchi that isn’t suited well to any mini-game currently offered? 
 </div>
 
 ## XP Rewards for Mini-Games
+
 From time to time, selected mini-games will offer [XP](/xp) rewards to top scorers on the mini-game's leaderboard. These Mini-Game XP events will be announced by the Pixelcraft team on Discord when available.
 
 For a list of past mini-game XP events, check out this page [here](/minigame-xp-events).
@@ -53,53 +54,17 @@ Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
 
 <img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game">
 
-### Portal Rider by BitFlicker
-
-Link to game [here](https://bitflicker.tech/aavegotchi/rider/)
-
-<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game">
-
 ### Gotchi Tower Defense by jarrod | aavegotchistats.com
 
 Link to game [here](https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game">
 
-### Gotchi the Gaatherer by BitFlicker
-
-Link to game [here](https://gotchigaatherer.gg/)
-
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi the Gaatherer Aavegotchi Mini-Game">
-
-### Sushi Vader by ricJones | Grizzy
-
-Link to game [here](https://sushivader.com/)
-
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game">
-
-### Snaake by SpyceBringer
-
-Link to game [here](https://snaake.gg/)
-
-<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game">
-
-### Whac-a-Rofl by Gotchinomics
-
-Link to game [here](https://whacarofl.com/)
-
-<img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game">
-
 ### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
 Link to game [here](https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game">
-
-### Aadventure by MetaGuild @metaguildcom & @HotspurSC2
-
-Link to game [here](https://hotspurhn.github.io/)
-
-<img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game">
 
 ### 1 Arm Baandit by @mdurkin92
 
@@ -119,12 +84,6 @@ Link to game [here](https://square-wildflower-4590.on.fleek.co/)
 
 <img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game">
 
-### Sushibagotchi by @sushibatoken
-
-Link to game [here](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
-
-<img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game">
-
 ### Samugotchi Shodown by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
 Link to game [here](https://samugotchi-shodown.vercel.app/)
@@ -136,9 +95,3 @@ Link to game [here](https://samugotchi-shodown.vercel.app/)
 Link to game [here](https://astegotchi.aavegames.com/)
 
 <img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game">
-
-### Pinbaal by SpyceBringer and Dennis Gedai Eichert
-
-Link to game [here](https://pinbaal.com)
-
-<img class = "bodyImage" src = "/minigames/pinbaal.png" alt = "Pinbaal Aavegotchi Mini-Game">

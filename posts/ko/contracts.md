@@ -16,23 +16,23 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 ** 목차 **
 
 <ol>
-<li><a href=#contract-addresses-on-ethereum>Contract Addresses on Ethereum</a></li>
-<li><a href=#contract-addresses-on-base>Contract Addresses on Base</a></li>
-<li><a href=#contract-addresses-on-base-sepolia-testnet>Contract Addresses on Base Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Contract Addresses on Ethereum Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-polygon-deprecated>Contract Addresses on Polygon (Deprecated)</a></li>
+<li><a href=#contract-addresses-on-ethereum>Ethereum 계약 주소</a></li>
+<li><a href=#contract-addresses-on-base>Base 계약 주소</a></li>
+<li><a href=#contract-addresses-on-base-sepolia-testnet>Base Sepolia (테스트넷)</a></li>
+<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Ethereum Sepolia (테스트넷)</a></li>
+<li><a href=#contract-addresses-on-polygon-deprecated>Polygon 계약 주소 (사용 중단)</a></li>
 </ol>
 
 </div>
 
 ## Contract Addresses on Ethereum
 
-- GHST Token: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+- GHST 토큰: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 - GHST Staking Diamond: [0x93eA6ec350Ace7473f7694D43dEC2726a515E31A](https://etherscan.io/token/0x93eA6ec350Ace7473f7694D43dEC2726a515E31A)
 
 ## Contract Addresses on Polygon (Deprecated)
 
-_Note: All contracts on Polygon are deprecated and provided for historical reference only._
+참고: Polygon의 계약은 사용 중단되었으며, 아래는 역사적 참고용입니다.
 
 - GHST Token (Proxy): [0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 - GHST Token (Implementation): [0x5004bc7e5b718c245ca859db349dd012cfd58395](https://polygonscan.com/address/0x5004bc7e5b718c245ca859db349dd012cfd58395#code)
@@ -57,7 +57,7 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 
 ## Contract Addresses on Base
 
-- GHST Token: [0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb](https://basescan.org/address/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb)
+- GHST 토큰: [0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb](https://basescan.org/address/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb)
 - Aavegotchi Diamond: [0xa99c4b08201f2913db8d28e71d020c4298f29dbf](https://basescan.org/address/0xa99c4b08201f2913db8d28e71d020c4298f29dbf)
 - Aavegotchi Wearable Diamond: [0x052e6c114a166B0e91C2340370d72D4C33752B4b](https://basescan.org/address/0x052e6c114a166B0e91C2340370d72D4C33752B4b)
 - Aavegotchi Forge Diamond: [0x50aF2d63b839aA32b4166FD1Cb247129b715186C](https://basescan.org/address/0x50aF2d63b839aA32b4166FD1Cb247129b715186C)
@@ -78,7 +78,7 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 
 ## Contract Addresses on Base Sepolia Testnet
 
-- GHST Token: [0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae](https://sepolia.basescan.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae)
+- GHST 토큰: [0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae](https://sepolia.basescan.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae)
 - Aavegotchi Diamond: [0x6Cff314D21244BB4a907A5D5E5305abE07eefAeC](https://sepolia.basescan.org/token/0x6Cff314D21244BB4a907A5D5E5305abE07eefAeC)
 - Forge Diamond: [0x607E447b8222cdd73Fc9AA7D399784FB1f4E8f3a](https://sepolia.basescan.org/token/0x607E447b8222cdd73Fc9AA7D399784FB1f4E8f3a)
 - Wearable Diamond: [0x03e26fF22F4BbbeD3049A02242e1D4C43947Feb0](https://sepolia.basescan.org/token/0x03e26fF22F4BbbeD3049A02242e1D4C43947Feb0)
@@ -91,4 +91,4 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 
 ## Contract Addresses on Ethereum Sepolia Testnet
 
-- GHST Token: [0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9](https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9)
+- GHST 토큰: [0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9](https://sepolia.etherscan.io/token/0xb40b75b4a8e5153357b3e5e4343d997b1a1019f9)

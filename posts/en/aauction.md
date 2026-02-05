@@ -42,6 +42,7 @@ The room went quiet.
 <ol>
 <li><a href=#aauction-house>Aauction House</a></li>
 <li><a href=#aauction-mechanisms>Aauction Mechanisms</a></li>
+<li><a href=#other-features-of-the-aauction-house>Other Features of the Aauction House</a></li>
 <li><a href=#past-aauctions>Past Aauctions</a></li>
 </ol>
 
@@ -49,14 +50,36 @@ The room went quiet.
 
 ## Aauction House
 
-The Aauction House is the place where aauctions take place. It can be found [here](https://aavegotchi.com/auction).
 
-The Aauction House has 4 tabs for users to interact with. They can be found in the left-hand corner of the page:
+The Aauction House is the place where aauctions take place. It can be found [here](https://dapp.aavegotchi.com/auction?status=live&itemType=all).
 
-* **Instructions**: A brief description of how Aavegotchi aauctions work
-* **Open Aauctions**: A list of open aauctions that you can participate in
-* **My Bids**: A list of open aauctions you have bidded in. It will display historical bids as well. When an aauction closes and you won that particular aauction, you can come here to claim your winnings
-* **My Payouts**: A list of which aauctions you have been outbidded by others and the winnings you received from them. The winnings will go straight to your wallet address, without the need of you manually claiming it
+<img class="bodyImage" src="/aauction/aavegotchi-auction-house.png" alt="Aavegotchi Auction House">
+
+At the top left corner of the page, users can switch between the display of live auctions or upcoming auctions.
+
+On the left corner of the page, users can select the type of Aavegotchi assets to display:
+
+* Aavegotchis
+
+* [Wearables](/wearables)
+
+* [Portals](/portals)
+
+* [Forge](/forge)
+
+* [Gotchiverse Parcels](/gotchiverse#realm-parcel-sizes)
+
+* [FAKE Gotchis](https://www.fakegotchis.com/)
+
+Users could filter active auctions by their incentive level:
+
+* 2% Low
+
+* 5% Medium
+
+* 10% High
+
+For more information about what these incentive levels mean, read the next section on Aauction Mechanisms.
 
 ## Aauction Mechanisms
 
@@ -70,6 +93,20 @@ You place a bid, and if someone outbids you, you get your bid back, plus a share
 
 When a new bid is placed, a formula calculates how much money the bidder will earn as an incentive if they are outbid. This is customisable depending on how much you want bidders to earn. Every bidder that gets outbid earns an incentive, and the highest bidder at the end of the auction wins, with the seller receiving what is left in the pot.
 
+## Other Features of the Aauction House
+
+### Buy It Now Feature
+
+Ever wished you could snag that must-have collectible without the wait? The “Buy It Now” option lets you do just that! As soon as an auction goes live, you can either place a bid traditionally or opt to purchase immediately at a set price. It's a straightforward, instant way to claim your desired item, and once someone hits "Buy It Now," the deal's done—there's no turning back.
+
+The fees? Just the usual GBM rates, making sure that every participant benefits fairly from the transaction.
+
+### Setting a Starting Bid Feature
+
+Tired of lowball opening bids? We've got you covered! Now, you can set a minimum starting bid to kick things off right.
+
+Remember, setting a realistic starting bid is key. A 4% listing fee applies, which is only refunded against the selling or cancellation fees if the auction attracts bids that meet the starting bid price. This ensures that the auctions begin with genuine interest, helping to maintain a vibrant marketplace.
+
 ## Past Aauctions
 
 * 15 - 18 July 2021: [First ever Aauction featuring the Gamer and Steampunk Set Wearables](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
@@ -79,3 +116,5 @@ When a new bid is placed, a formula calculates how much money the bidder will ea
 * 28 - 31 October 2021: [First Land Aauction featuring 16,000 parcels within the Citaadel](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
 * 2 - 5 December 2021: [Second Land Aauction featuring 7,000 parcels with the Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+
+* 25 April 2024: [Godlike Staff of Charming schematic](https://blog.aavegotchi.com/3-new-features-now-live-in-the-aavegotchi-auction-house/)

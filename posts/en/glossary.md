@@ -53,6 +53,11 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#alchemical-channeling>Alchemical Channeling</a></p>
 <p><a href=#aesthetica>Aesthetica</a></p>
 <p><a href=#tile>Tile</a></p>
+<li><a href=#forge-specific>Forge-specific</a></li>
+<p><a href=#schematic>Schematic</a></p>
+<p><a href=#core>Core</a></p>
+<p><a href=#alloy>Alloy</a></p>
+<p><a href=#essence>Essence</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
 <p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
@@ -89,6 +94,7 @@ When you're done reading this and hopefully have a better understanding of these
 </div>
 
 ## Aavegotchi-related
+
 
 ### Aarchitect
 Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
@@ -197,6 +203,20 @@ A subset of Installations. Purely  a e s t h e t i c .
 ### Tile
 An ERC-1155 NFT that can be placed on a REALM parcel. Rests underneath the Installation layer.
 
+## Forge-specific
+
+### Schematic
+Schematics are the blueprints for each specific wearable. Each wearable contains a schematic inside of it.
+
+### Core
+Cores are what gives the wearable its [BRS](/rarity-farming#base-rarity-score) boosting power. Each Core represents two things: the rarity tier and the wearable slot.
+
+### Alloy
+Alloy is the substance which forms all wearables in the Gotchiverse. It controls the overall supply of wearables. Depending on what you’re Forging, you’re going to need different amounts of Alloy.
+
+### Essence
+If you want to craft Godlike items or Pets, you will need some Essence. The only way to obtain this mystical stuff is through Gotchi-sacrifice.
+
 ## DeFi 101
 
 "DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man. 
@@ -293,7 +313,7 @@ Check out their [site](https://aragon.org/) here.
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
 ### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening, raffle prizes, and parcel surveying.
 
 Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 

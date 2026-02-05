@@ -7,7 +7,7 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-こんにちは〜フレンズ！ Aavegotchiコントラクトアドレスのリポジトリへようこそ。 コントラクターを利用する前に、アドレスをチェックして、正しいアドレスかどうかを確認してください！
+こんにちは〜フレンズ！ Aavegotchi コントラクトアドレスのリポジトリへようこそ。 コントラクターを利用する前に、アドレスをチェックして、正しいアドレスかどうかを確認してください！
 
 **このページにあるアドレスに資金を送らない事にご注意ください！**
 
@@ -16,23 +16,23 @@ contributors:
 **内容**
 
 <ol>
-<li><a href=#contract-addresses-on-ethereum>Contract Addresses on Ethereum</a></li>
-<li><a href=#contract-addresses-on-base>Contract Addresses on Base</a></li>
-<li><a href=#contract-addresses-on-base-sepolia-testnet>Contract Addresses on Base Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Contract Addresses on Ethereum Sepolia Testnet</a></li>
-<li><a href=#contract-addresses-on-polygon-deprecated>Contract Addresses on Polygon (Deprecated)</a></li>
+<li><a href=#contract-addresses-on-ethereum>Ethereum のコントラクトアドレス</a></li>
+<li><a href=#contract-addresses-on-base>Base のコントラクトアドレス</a></li>
+<li><a href=#contract-addresses-on-base-sepolia-testnet>Base Sepolia (テストネット)</a></li>
+<li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Ethereum Sepolia (テストネット)</a></li>
+<li><a href=#contract-addresses-on-polygon-deprecated>Polygon のコントラクトアドレス (非推奨)</a></li>
 </ol>
 
 </div>
 
 ## Contract Addresses on Ethereum
 
-- GHST Token: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
+- GHST トークン: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 - GHST Staking Diamond: [0x93eA6ec350Ace7473f7694D43dEC2726a515E31A](https://etherscan.io/token/0x93eA6ec350Ace7473f7694D43dEC2726a515E31A)
 
 ## Contract Addresses on Polygon (Deprecated)
 
-_Note: All contracts on Polygon are deprecated and provided for historical reference only._
+注意: Polygon 上のコントラクトはすべて非推奨で、履歴参照のみです。
 
 - GHST Token (Proxy): [0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 - GHST Token (Implementation): [0x5004bc7e5b718c245ca859db349dd012cfd58395](https://polygonscan.com/address/0x5004bc7e5b718c245ca859db349dd012cfd58395#code)
