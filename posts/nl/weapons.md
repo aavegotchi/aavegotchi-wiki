@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Wapens zijn handwearables geclassificeerd als Melee of op afstand wapens. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
+Weapons are hand [wearables](/wearables) classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
 
-Elk Wapen zal ook voorzien zijn van speciale voordelen, zoals extra schade aan Waals, extra schade aan Lickquidators, extra aanvalssnelheid en andere.
+Elk Wapen zal ook voorzien zijn van speciale voordelen, zoals extra schade aan Waals, extra schade aan Lickquidators, extra aanvalssnelheid en andere. For a detailed breakdown of each wearable's effects (including weapons) in combat, check out the [wearable boosts](/aarena#wearable-boosts) section.
 
 <div class="contentsBox">
 

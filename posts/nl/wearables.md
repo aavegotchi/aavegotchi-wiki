@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'Alles over Aavegotchi Wearables'
+date: "2020-04-23T07:00:00.000Z"
+title: "Wearables"
+description: "Alles over Aavegotchi Wearables"
 image: "wearabelen/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -14,19 +14,19 @@ contributors:
 <p class="headerImageText">Het Blauwe Sergey Plaid</p>
 </div>
 
-Wearables zijn een belangrijk onderdeel van het Aavegotchi spel. Naast het verstevigen van uw Aavegotchi met wat fashion, verhogen de wearables ook de eigenschappen en de zeldzaamheidsscore, zodat ze beter kunnen presteren in [mini-games](/minigames), evenals in [rarity farming](/rarity-farming).
+Wearables zijn een belangrijk onderdeel van het Aavegotchi spel. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Wearables voldoen aan de ERC-1155 standaard.
 
 Deze pagina bevat gedetailleerde informatie over elke wearable die is bevestigd in het Aavegotchi spel.
 
-Ontwerp van de wearables worden gedaan door [Xibot](/team#xibot) en ons team van [community aartists](/aartist). Elke wearable wordt geleverd met 4 verschillende weergaven (voorzijde, rechts, links en achterkant).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Elke wearable wordt geleverd met 4 verschillende weergaven (voorzijde, rechts, links en achterkant).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Weergaven" />
 
 Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 
-*Opmerking: Er zijn sommige objecten (IDs 162-198, 210) die niet op deze pagina worden weergegeven, omdat ze geen wearabels zijn. Deze objecten zijn [Baadges](/baadge) en de Haunt 1 achtergrond.*
+_Opmerking: Er zijn sommige objecten (IDs 162-198, 210) die niet op deze pagina worden weergegeven, omdat ze geen wearabels zijn. Deze objecten zijn [Baadges](/baadge) en de Haunt 1 achtergrond._
 
 <div class="contentsBox">
 
@@ -66,6 +66,10 @@ Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 <li><a href=#partnerships-set>Partnerschappen Set</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
+<li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -74,14 +78,14 @@ Voor informatie over **Wearable Sets**, bekijk deze [pagina](/sets)!
 
 Aavegotchis hebben vier eigenschappen die door wearabels kunnen worden gewijzigd.
 
-* AGG = Agressiviteit
-* NRG = Energie
-* SPK = Spookiness
-* BRN = Hersengrootte
+- AGG = Agressiviteit
+- NRG = Energie
+- SPK = Spookiness
+- BRN = Hersengrootte
 
 De eigenschappen van "Oog Kleur" en "Oog Shape" kunnen niet worden gewijzigd door wearables.
 
-*Opmerking: Negatieve waarden betekenen niet dat de eigenschap "zwakker" wordt. Aavegotchi eigenschappen worden verdeeld op een bell curve, dus de extremen (0,1) en (99,100) zijn eigenlijk de beste!*
+_Opmerking: Negatieve waarden betekenen niet dat de eigenschap "zwakker" wordt. Aavegotchi eigenschappen worden verdeeld op een bell curve, dus de extremen (0,1) en (99,100) zijn eigenlijk de beste!_
 
 Zie [Eigenschappen](/traits) voor meer over dit onderwerp.
 
@@ -139,7 +143,7 @@ tabel_boer WearablesTable
 
 ## Kerstman Wearables Set
 
-Een van onze vrienden stuurt per ongeluk 4000 LINK (~$50,000) naar het GHST Uitzet Contract. We hebben geld van onze gemeenschap bijeengebracht om hem te helpen. Iedereen die meer dan $20 aan ELKE ERC20 token aan SantaGotchi.eth heeft gedoneerd, zal een beperkte editie Santagotchi hoed uitgevouwen worden. Zie [hier](https://twitter.com/aavegotchi/status/1339738554906243072) voor meer informatie. Een foto voor de wearable zal binnenkort uit de lijst zijn! Andere voorwerpen van de Kerstman zullen ook binnenkort beschikbaar zijn.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. We hebben geld van onze gemeenschap bijeengebracht om hem te helpen. Iedereen die meer dan $20 aan ELKE ERC20 token aan SantaGotchi.eth heeft gedoneerd, zal een beperkte editie Santagotchi hoed uitgevouwen worden. Zie [hier](https://twitter.com/aavegotchi/status/1339738554906243072) voor meer informatie. Een foto voor de wearable zal binnenkort uit de lijst zijn! Andere voorwerpen van de Kerstman zullen ook binnenkort beschikbaar zijn.
 
 tafel_santaWearablesTable
 
@@ -246,3 +250,19 @@ tafel_partnershipsTable
 ## DeFi RPG Wearables
 
 tafel_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table
+
+## Gotchigang Wearables
+
+table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable

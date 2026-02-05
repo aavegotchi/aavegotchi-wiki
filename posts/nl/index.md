@@ -24,7 +24,7 @@ Ga naar [Introductie](/introduction) voor een hoogstaand overzicht van het Aaveg
 * [Staking](/staking) - Leer hoe je GHST staked om FRENS te maken
 * [DAO](/dao) -- Alles wat er over AavegotchiDAO te weten is
 * [Wearables](/wearables) -- Fashion voor je Aavegotchi
-* [Mini-Games](/minigames) -- Speel enkele mini-games met je Aavegotchi
+* [Games](/games) -- Play some Games with your Aavegotchi
 * [Rarity Farming](/rarity-farming) -- Speel Aavegotchi en verdien beloningen!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs

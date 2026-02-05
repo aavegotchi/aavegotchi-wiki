@@ -1,12 +1,9 @@
 ---
 author: wagyuchicken
-date: '2020-04-23T07:00:00.000Z'
-title: 'Rarity Farming（レアリティ・ファーミング）'
-description: '知っておきたい！レアリティ・ファーミングのすべて！'
-contributors:
-  - "cinnabarhorse"
-  - "wagyuchicken"
-  - "appellants"
+date: "2025-09-18T00:00:00.000Z"
+title: "Rarity Farming（レアリティ・ファーミング）"
+description: "知っておきたい！レアリティ・ファーミングのすべて！"
+contributors: '["cinnabarhorse", "wagyuchicken", "appellants", "unintelligent-nerd"] ---'
 ---
 
 <div class="headerImageContainer">
@@ -14,11 +11,9 @@ contributors:
 <p class="headerImageText">レアリティ・ファーマー</p>
 </div>
 
-**はじめに**
+Rarity farming is an innovative game mechanism pioneered by Aavegotchi. It strives to reward the users who are the most thoughtfully and enthusiastically engaged with the ecosystem. As its name suggests, this is a process where you attempt to raise the rarest Aavegotchis, and get rewarded for doing so.
 
-はじめに レアリティ・ファーミングは、Aavegotchiが開拓した革新的なゲームメカニズムです。 エコシステムに最も深く関わり、熱中しているユーザーに報いることを目的としています。 その名の通り、レアリティ（レア度）の高いAavegotchiを育て、その報酬を得るというものです。
-
-このウィキでは、レアリティファーミングに参加する方法と、最も希少なAavegotchiがどのように決定されるかを説明します。 詳しくはもっと読み進めてください！
+This wiki page will explain how you can engage in rarity farming, and how the rarest Aavegotchis are determined. Keep reading to learn more!
 
 <div class="contentsBox">
 
@@ -26,10 +21,8 @@ contributors:
 
 <ol>
 <li><a href=#how-do-i-rarity-farm->レアリティファームの方法とは？</a></p>
-<li><a href=#calculating-rarity>レアリティの算出方法</a></li>
-<p><a href=#base-rarity-score>ベースレアリティスコア</a></p>
-<p><a href=#absolute-rarity-score>アブソリュートレアリティスコア</a></p>
-<p><a href=#final-rarity-score>ファイナルレアリティスコア</a></p>
+<li><a href=#components-of-rarity-score>Components of Rarity Score</a></li>
+<li><a href=#calculating-rarity-score>Calculating Rarity Score</a></li>
 <li><a href=#rewards>リワード</a></li>
 <p><a href=#rarity-farming-seasons>レアリティファーミングシーズン</a></p>
 <p><a href=#collecting-rarity-farming-rewards>レアリティファーミングの報酬を収集する</a></p>
@@ -37,22 +30,20 @@ contributors:
 
 </div>
 
-## **レアリティファームの方法とは？**
+## レアリティファームの方法とは？
+
+
 レアリティファームを行うには、いくつかの方法があります。 次のような方法があります：
 
-* **[召喚時](/portals)にレアリティの高いAavegotchiを選択する**
+- **[召喚時](/portals)にレアリティの高いAavegotchiを選択する**
 
-* **[ウェアラブル](/wearables)を装着してAavegotchiの特性を変更する**
-
-* **[ミニゲーム](/minigames)で遊ぶ**
+- **[ウェアラブル](/wearables)を装着してAavegotchiの特性を変更する**
 
 各工程の詳細については、サイドバーの各ページにリンクがあります。
 
-ただし、ひとつの Aavegotchi のレア度は動的なもので、Aavegotchi の世界における特性やウェアラブルの分布が変化するのに伴って変化します。 つまり、Aavegotchiの特定の特性を最大にするだけでは不十分です。 また、他のプレイヤーの行動も考慮する必要があります。 たとえば、多くのプレイヤーが高い攻撃性のスコアを持つ戦争好きなゴッチを獲得しようとすると、この特性の希少性が低下し、Aavegotchiのレア度が下がります。
+ただし、ひとつの Aavegotchi のレア度は動的なもので、Aavegotchi の世界における特性やウェアラブルの分布が変化するのに伴って変化します。 つまり、Aavegotchiの特定の特性を最大にするだけでは不十分です。 また、他のプレイヤーの行動も考慮する必要があります。 For instance, if other players [sacrifice](/traits#experience) a number of Gotchis to boost a particular Gotchi, they could overtake you on the Experience/XP category of the Rarity Farming leaderboards.
 
-## **レアリティの算出方法**
-
-レアリティスコアには、ベース（基本）レアリティスコア (特性および消耗品) とアブソリュート（絶対的）レアリティスコアの2種類があります。
+## Components of Rarity Score
 
 ### ベースレアリティスコア
 
@@ -67,9 +58,9 @@ if (number < 50) return 100 - number;
     else return number + 1;
 ```
 
-*特性値が50**未満**の場合、BRS = 100 - 特性値*
+_特性値が50**未満**の場合、BRS = 100 - 特性値_
 
-*特性値が50**以上**の場合、BRS = 特性値 + 1*
+_特性値が50**以上**の場合、BRS = 特性値 + 1_
 
 #### ウェアラブルBRS
 
@@ -79,36 +70,31 @@ if (number < 50) return 100 - number;
 
 ゴッチは年齢を重ねることで、さらにBRSを獲得します。 詳しくは、[エイジングメカニズム](/aging-mechanic)のページをご覧ください。
 
-### アブソリュートレアリティスコア
+## Calculating Rarity Score
 
-アブソリュート（絶対的）レアリティ スコア (ARS) は、Aavegotchiエコシステム全体におけるAavegotchiの特性のレアリティから算出されます。 たとえば、多くのプレイヤーがAavegotchiのエネルギーレベルを最高にするように訓練した場合、エネルギーレベルが高い - TURNTのARSはエネルギーレベルが低い - WASTEDのそれよりも低くなります。 ARSは、各アベゴッチの特性を100としたときのパーセンタイルで計算されます。 例えば、全体の5%のAavegotchiがWASTEDの特性を持つ場合、WASTEDの特性はAavegotchiのエネルギー特性ARSの合計スコア95に貢献することになります。
-
-### ファイナルレアリティスコア
-
-<b>ファイナル（最終）レアリティスコア = 特性BRS + 着用BRS + 特性ARS</b>
-
-最終レアリティスコアの計算例は以下の通りです：
+Example of Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
-<p style="margin-left: 2.8em"><i>BRSはBase Rarity Score（ベースレアリティスコア）、ARSはAbsolute Rarity Score（アブソリュートレアリティスコア）を表します。</i></p>
-
-**ARSの計算式は未定です。 そのため、上記表のARS欄の数値は架空のものです。**
 
 ## リワード
 
-レアリティファーミングの各シーズンにおいて、最もレアなアベゴッチはGHST報酬（GHSTを含むすべての販売から得られる）が配布され、オーナーはそれを請求することができます。
+In each season of Rarity Farming, the rarest Aavegotchis receive GHST rewards that can be claimed by their owners. Recent seasons (e.g., Season 10/11) have run on Base.
 
 当初、レアリティファーミングの報酬は3つのカテゴリーに分かれていました：
 
-* Aavegotchi レアリティスコア（BRSによる、ARSは後日公開予定）
-* [キンシップ](/traits#kinship)スコア
-* [経験値](/traits#experience)
+- Aavegotchi レアリティスコア（BRSによる、ARSは後日公開予定）
+- [キンシップ](/traits#kinship)スコア
+- [経験値](/traits#experience)
 
-各カテゴリーについて、レアリティファーミングの報酬は降下曲線に基づいて分配され、上位数名のAavegotchiは、曲線上の下位に位置する他のゴッチよりも多くのGHST報酬を獲得します。 また、上位数名のゴッチには、下位に位置する他のゴッチよりも多くのGHST報酬が与えられますが、それ以下のゴッチには報酬が与えられないカットオフポイントが存在します。 そのため、そのカットオフポイントより上になるように頑張ってください。 少なくとも何かは獲得することができます！ ([レアリティ・ファーミング・シーズン1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)では、各カテゴリーのトップ5000のゴッチたちがレアリティ・ファーミングの報酬を受け取る資格があります）。
+各カテゴリーについて、レアリティファーミングの報酬は降下曲線に基づいて分配され、上位数名のAavegotchiは、曲線上の下位に位置する他のゴッチよりも多くのGHST報酬を獲得します。 また、上位数名のゴッチには、下位に位置する他のゴッチよりも多くのGHST報酬が与えられますが、それ以下のゴッチには報酬が与えられないカットオフポイントが存在します。 そのため、そのカットオフポイントより上になるように頑張ってください。 少なくとも何かは獲得することができます！
 
 各カテゴリーに配分される報酬の割合は、AavegotchiDAOによって決定される予定です。
 
-Aavegotchiのゲームの発展に伴い、より多くのカテゴリが後に追加される予定です。
+Aavegotchiのゲームの発展に伴い、より多くのカテゴリが後に追加される予定です。 Some of these new one-off categories include:
+
+- Rookie Kinship
+- Rookie Experience/XP
+- Gotchi Battler
 
 プレイヤー報酬は、2週間ごとにオンチェーン・スナップショットで配布されます。 当初はPixelcraftによる手作業で行われますが、最終的にはDAOによって自動化される予定です。 各スナップショットの後、報酬は成功したレアリティファーマーが請求することができ、次のラウンドがすぐに開始されます。
 
@@ -122,7 +108,7 @@ Aavegotchiの世界全体のなかでのAavegotchiの最終的なレアリティ
 
 レアリティファーミングは様々な季節（シーズン）に分かれています。 各シーズンには独自の競技カテゴリー、報酬プールのサイズ、報酬分配曲線があります。
 
-シーズンに関する情報は[こちらのページ](/rarity-farming-seasons)をご覧ください。
+For data pertaining to the Rarity Farming Seasons (including Base-era seasons), check out this [page](/rarity-farming-seasons) and the official blog.
 
 ### レアリティファーミングの報酬を収集する
 

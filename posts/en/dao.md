@@ -17,6 +17,11 @@ A [DAO](glossary#dao) is a decentralized form of governance, which allows token 
 
 Aavegotchi follows in the footsteps of successful DeFi protocols such as Compound and Synthetix by following a process of “gradual decentralization”, beginning with the founding team, Pixelcraft Studios organizing a DAO-governed token distribution event (DAICO) and culminating in placing governance of Aavegotchi, including all game mechanics, smart contracts, and funding, under the auspices of the AavegotchiDAO, but subject always to the prevailing regulatory environment. This will be accomplished in three phases.
 
+## Recent milestones (historical)
+
+- On **2023-05-01**, the **AavegotchiDAO Foundation** was incorporated (Cayman Islands entity) as a milestone towards decentralization. (Source: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/))
+- In **mid-2023**, the DAO piloted a partnership with **Thrivecoin** to help decentralize workflow (initial allocation: **40,000 GHST**; **3-month** trial). (Source: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/))
+
 
 <div class="contentsBox">
 

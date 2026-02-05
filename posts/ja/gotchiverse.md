@@ -30,7 +30,7 @@ contributors:
 <li><a href=#realm-gameplay>レルムゲームプレイ</a></li>
 <li><a href=#entering-the-gotchiverse>ゴッチバースに入る</a></li>
 <li><a href=#inside-the-gotchiverse>ゴッチバースの内部</a></li>
-<p><a href=#chat-commands>チャットコマンド</a></p>
+<p><a href=#controls>Controls</a></p>
 <li><a href=#gotchus-alchemica>ゴッチュスアルケミカ</a></li>
 <li><a href=#building-on-realm-parcels>レルム区画での建築</a></li>
 <p><a href=#installation-traits-and-recipes>インスタレーションの特性とレシピ</a></p>
@@ -131,15 +131,15 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 
 ゴッチバースは[verse.aavegotchi.com](https://verse.aavegotchi.com) からアクセスできます。
 
-ゴッチバースにアクセスするにはゴッチが必要です。
+First, you need to select your Gotchi's spawn location.
 
-使用するゴッチを選択し、ポータルをクリックして入場してください。
+You can select from the active bounce gates (left in below image) or one of the parcels you own (right in below image).
 
-<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" />
+<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" alt="ゴッチバースに入る" />
 
-次に、ゴッチが現れる（スポーンする）場所を選択する必要があります。 地区1のさまざまな場所、所有しているレルム区画、またはランダムな場所から選択できます。
+Next, select the Gotchi that you will be using and click on the portal to enter.
 
-<img class="bodyImage" src="/gotchiverse/select-spawn-location.png" />
+<img class="bodyImage" src="/gotchiverse/select-an-aavegotchi.png" alt="Aavegotchi entering the Gotchiverse" />
 
 ## ゴッチバースの内部
 
@@ -150,44 +150,51 @@ Aavegotchiは友好的ですが、攻撃的な衝動は発散しないといけ�
 ゴッチバースのUIは、以下のようなデザインになっています。
 
 * 左上：ゴッチバースのマップ。 あなたの現在地がゴッチとして反映されています。
-* 右上：あなたが使用している現在のゴッチ。 このゴッチで集めたアルケミカを表示します。
-* 左下：チャット - 現在いる地区、またはシタデル全域に設定できます。
-* 右下：クラフトテーブル、インベントリ、ビルドモードです。
+* Top center: Super chat — Load Alchemica into a "Gotchiverse Wallet" and perform a Super chat that drops Alchemica around the Gotchi's radius. Up to 1000 of each kind of Alchemica can be dropped at once
+* Top right: Settings and Logging out
+* Upper right: Item shop
+* Bottom left: Gotchi stats and Chat — can be set to the particular district you are in or throughout the Citaadel
+* Bottom right: Crafting Table and Build Mode
 
 <img src="/gotchiverse/crafting-table.png" alt="Aavegotchiクラフトテーブル" />
 
 クラフトテーブルはゴッチュス・アルケミカを使用して新しい設備を作るために使用されます。 [レシピ](/recipes)のページで、クラフト可能な設備、必要なゴッチュス・アルケミカ、クラフトに必要な時間などを確認できます。 クラフトを行うには、取引が必要です。
 
-<img src="/gotchiverse/inventory.png" alt="Aavegotchiインベントリ" />
+<img src="/gotchiverse/build-mode.png" alt="Aavegotchi building installations" />
 
-クラフトしたインスタレーションは、インベントリに反映されます。
+Build Mode allows you to place your installations on the REALM parcels you own. A transaction is required to install your installations on your parcel.
 
-<img src="/gotchiverse/build-mode.png" alt="Aavegotchiによるインスタレーションの建設" />
+<img src="/gotchiverse/item-shop.png" alt="Aavegotchi Item Shop" />
 
-ビルドモードでは、自分が所有するレルム区画にインスタレーションを設置することができます。 インスタレーションを区画に設置するには、トランザクションが必要です。
+The Item Shop sells 3 products:
 
-## チャットコマンド
+* HP Potion (+2500 HP): 10 KEK
+* AP Potion (+250 AP): 20 ALPHA
+* Protolick 1 (10 mins, 10k health, 6% DMG per attack): 60 FUD & 20 FOMO
+* Protolick 2 (10 mins, 60k health, 10% DMG per attack): 400 FUD, 150 FOMO, 100 ALPHA, 15 KEK
 
-ゴッチバースのチャットコマンドは次の表のとおりです。
+## Controls
 
-table_chatCommands
+The following table shows the control scheme used in the Gotchiverse.
+
+table_controls
 
 ## ゴッチュスアルケミカ
 
-**ゴッチュスアルケミカ（Gotchus Alchemica）**（ERC20トークン）は、ゴッチバースの4つの資源です：Fud、Fomo、Alpha、およびKekです。 これらを組み合わせて、インスタレーション（Installation）や[エステティカ（Aesthetica）](/aesthetica)を作るなど、様々な使い方ができます。 トークノミックスについて詳しくは[こちら](/gotchus-alchemica)。
+**Gotchus Alchemica** (ERC20 tokens) are the four elements of the Gotchiverse: Fud, Fomo, Alpha, and Kek. They can be combined to craft Installations and [Aesthetica](/aesthetica), among other uses. Read more about the tokenomics [here](/gotchus-alchemica).
 
 <img class="bodyImage" src="/gotchiverse/gotchus-alchemica.png" alt="ゴッチュスアルケミカ" />
 
-以下の表は、それらの総供給量を示しています：
+The table below shows their total supply:
 
 table_gotchusAlchemicaSupply
 
-ゴッチュスアルケミカは、4つの方法でレルムから抽出することができます：
+Gotchus Alchemica can be extracted from REALM in four distinct ways:
 
 * **[Alchemical Channeling](/alchemical-channeling)**:  A basic daily stipend earned by Aavegotchis that comes directly from the Gotchiverse ether, instead of being harvested from the parcel.
-* **共同チャネリング**：Aavegotchiは、ゴッチロッジのインスタレーションがレルム区画に構築されている場合、集団でアルケミカをチャネリングすることもできます。 共同チャネリングに参加するには、Aavegotchiは関連するギルドの紋章を身につけ、儀式の間レルム区画に存在しなければなりません。 共同チャネリングの儀式に参加するAavegotchiが増えるごとに、アルケミカの採掘速度が上がります。
-* **ファーミング**：貯蔵庫にx個、近隣のマップに**y個**、グレートポータルに**z個**、それぞれ貯蔵される。
-* **収穫する**：Aavegotchiとリッキデーターはマップを歩き回り、採掘でこぼれたアルケミカを集めることができます。
+* **Communal Channeling**: Aavegotchis can also collectively channel Alchemica when a Gotchi Lodge Installation has been built upon the REALM Parcel. In order to participate in communal channeling, the Aavegotchi must be wearing the associated Guild Insignia and be present on the REALM Parcel during the ritual. For every additional Aavegotchi participating in the Communal Channeling ritual, Alchemica will be farmed more rapidly.
+* **Farming**: Once a Harvester has been built, Alchemica begin accruing passively, with x amount going into the Reservoir, **y** amount spilling over to the nearby map, and **z** amount going to the Great Portal
+* **Harvesting**: Aavegotchis and lickquidators can roam the map, collecting loose Alchemica spilled from mining.
 
 The amount of Alchemica that a Gotchi can carry in the Gotchiverse is determined by [this formula](/traits#alchemica-carrying-capacity).
 
@@ -251,10 +258,10 @@ Installations are **burnt** on unequip/removal. Only 50% of the crafting and upg
 
 Whenever an Installation, upgrade or other item is crafted within the Gotchiverse, the underlying Alchemica are sent to four distinct places:
 
-* グレートポータル (35%)
-* ピクセルクラフト(30%)
+* Great Portal (35%)
+* Pixelcraft (30%)
 * DAO (30%)
-* 削除（バーン）(5%)
+* Burn (5%)
 
 **The Great Portal** is the heartbeat of the Gotchiverse. Whenever items are crafted in the Gotchiverse, 35% of that Alchemica is captured by the most important Portal in the game. As the Great Portal’s treasury balloons, a great prophecy waits to be fulfilled…
 
@@ -276,18 +283,18 @@ REALM Owners can toggle the access rights to their REALM Parcels at the [My REAL
 
 <img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights" />
 
-There are 4 types of Access Rights:
+There are 5 types of Access Rights:
 
 * Alchemical Channelling
 * Empty Reservoir
 * Equip Installations
 * Equip Tiles
+* Upgrade Installations
 
 The options for the Access Rights include:
 * Only me (Default)
 * Me + Borrowed Gotchi
-* Whitelist (Coming Soon)
-* Ban List (Coming Soon)
+* Whitelist
 * Anyone
 
 ## レルム トークノミクス

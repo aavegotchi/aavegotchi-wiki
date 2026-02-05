@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
-date: '2020-10-23T07:00:00.000Z'
-title: 'Brug'
-description: 'De Aavegotchi brug (en andere bruggen om Assets van en naar Polygon te verplaatsen)'
+date: "2025-09-18T00:00:00.000Z"
+title: "Brug"
+description: "De Aavegotchi brug (en andere bruggen om Assets van en naar Polygon te verplaatsen)"
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -28,6 +28,7 @@ Om de overdracht van activa te vergemakkelijken, heeft Pixelcraft studios de Aav
 <li><a href=#decentralized-bridges>Gedecentraliseerde Bruggen</a></li>
 <p><a href=#polygon-bridge>Polygon Brug</a></p>
 <p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
+<p><a href=#base-bridges>Base Bridges</a></p>
 <li><a href=#centralized-bridges>Gecentraliseerde Bruggen</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
@@ -39,7 +40,8 @@ Om de overdracht van activa te vergemakkelijken, heeft Pixelcraft studios de Aav
 
 ## De Aavegotchi Brug
 
-De Aavegotchi Brug is de officiële brug gemaakt door Pixelcraft Studios. Momenteel staat het de overdracht van ERC-20 tokens en ERC-721 assets (Aavegotchis) van Ethereum Mainnet naar Polygon Network toe en vice versa. Overdragen van ERC-1155 s ([Wearables](/wearables)) komt binnenkort.
+
+De Aavegotchi Brug is de officiële brug gemaakt door Pixelcraft Studios. Historically it supported transfers between Ethereum and Polygon. As of 2024-2025, Aavegotchi has migrated to Base; for GHST to Base, use the canonical Ethereum↔Base bridge or fast bridges.
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="De Aavegotchi Brug" />
 
@@ -66,7 +68,8 @@ Hetzelfde concept is van toepassing voor het terugsturen van activa naar Ethereu
 ## Gedecentraliseerde Bruggen
 
 ### Polygon Brug
-De Polygon-brug was de eerste brug tussen Ethereum en Polygon. Het is de officiële brug van het Polygon-team, en gebruikt een door validator gedreven model om activa tussen Ethereum en Polygon over te dragen. Deze bridge kan $GHST tokens overdragen, maar kan geen NFT activa overkoppelen.
+
+De Polygon-brug was de eerste brug tussen Ethereum en Polygon. Het is de officiële brug van het Polygon-team, en gebruikt een door validator gedreven model om activa tussen Ethereum en Polygon over te dragen. This bridge can transfer \$GHST tokens, but cannot bridge NFT assets.
 
 Voor degenen die de Polygon-brug willen gebruiken, zijn hier de stappen die moeten worden gezet:
 
@@ -83,7 +86,8 @@ Het kan tot 10 minuten duren voordat de tokens in uw Polygoon-adres aankomen.
 Als je hulp nodig hebt met iets dat je kan toetreden tot de Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) en vraag een medelid van de gemeenschap aan.
 
 ### Umbria Narni Bridge
-De Narni brug is een nieuwe brugoplossing gemaakt door Umbria Network, die gebruik maakt van een liquide brug model om de overbruggingskosten met 90 procent te verlagen. De Narni bridge lost transacties op in ongeveer 5 minuten en kost ongeveer $40 (100 GWEI) om GHST tokens tussen de Ethereum en Polygon blockchains over te dragen. Momenteel zijn alleen ERC-20 tokens compatibel met de Narni bridge; NFT's kunnen niet worden overbrugd.
+
+De Narni brug is een nieuwe brugoplossing gemaakt door Umbria Network, die gebruik maakt van een liquide brug model om de overbruggingskosten met 90 procent te verlagen. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately \$40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Momenteel zijn alleen ERC-20 tokens compatibel met de Narni bridge; NFT's kunnen niet worden overbrugd.
 
 Raadpleeg de volgende stappen om Umbria Narni Bridge te gebruiken:
 
@@ -110,6 +114,15 @@ Tot slot ontvang je twee roze ticks, wat betekent dat je transactie succesvol is
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
 Als je vragen hebt over de Umbria Narni Bridge, of wil je graag chatten met een lid van de supportafdeling van het ontwikkelingsteam. neem contact op met het [Umbria Discord kanaal](https://discord.gg/8Ms7Cr4)
+
+### Base Bridges
+
+For GHST on Base:
+
+- Canonical bridge (Ethereum↔Base): Superbridge
+- Fast bridges (Polygon↔Base): Bungee, Jumper (availability subject to providers)
+
+Refer to the official blog post “GHST Token Is Now Live on Base” for current guidance.
 
 ## Gecentraliseerde Bruggen
 

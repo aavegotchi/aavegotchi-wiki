@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
-date: '2020-10-23T07:00:00.000Z'
-title: 'Cầu Nối'
-description: 'Cầu Aavegotchi (và những cầu khác, dùng để chuyển tài sản đi và về Polygon)'
+date: "2025-09-18T00:00:00.000Z"
+title: "Cầu Nối"
+description: "Cầu Aavegotchi (và những cầu khác, dùng để chuyển tài sản đi và về Polygon)"
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -28,6 +28,7 @@ Kết hoạch ban đầu là triển khai Aavegotchi trên Ethereum Mainnet vào
 <li><a href=#decentralized-bridges>Cầu phi tập trung</a></li>
 <p><a href=#polygon-bridge>Polygon Bridge</a></p>
 <p><a href=#umbria-narni-bridge>Umbria Narni Bridge</a></p>
+<p><a href=#base-bridges>Base Bridges</a></p>
 <li><a href=#centralized-bridges>Cầu tập trung</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
@@ -39,7 +40,8 @@ Kết hoạch ban đầu là triển khai Aavegotchi trên Ethereum Mainnet vào
 
 ## Aavegotchi Bridge
 
-Aavegotchi Bridge là chiếc cầu chính chủ được tạo ra bởi Pixelcraft Studios. Gần đây, nó cho phép người dùng chuyển token ERC20 và ERC721 (Aavegotchi) qua lại giữa Ethereum Mainnet và Polygon Network. Việc chuyển token ERC-1155 ([Trang Phục](/wearables)) sẽ sớm có thể thực hiện.
+
+Aavegotchi Bridge là chiếc cầu chính chủ được tạo ra bởi Pixelcraft Studios. Historically it supported transfers between Ethereum and Polygon. As of 2024-2025, Aavegotchi has migrated to Base; for GHST to Base, use the canonical Ethereum↔Base bridge or fast bridges.
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
 
@@ -66,7 +68,8 @@ Thao tác này có thể áp dụng tương tự cho việc chuyển tài sản 
 ## Cầu phi tập trung
 
 ### Polygon Bridge
-Polygon Bridge là chiến cầu crosschain đầu tiên kết nối Ethereum với Polygon. Đây là chiếc cầu chính chủ của team Polygon, và nó vận hành theo mô hình validator để chuyển tài sản giữa Ethereum và Polygon. Chiếc cầu này có thể chuyển token $GHST, nhưng không thể chuyển tài sản NFT.
+
+Polygon Bridge là chiến cầu crosschain đầu tiên kết nối Ethereum với Polygon. Đây là chiếc cầu chính chủ của team Polygon, và nó vận hành theo mô hình validator để chuyển tài sản giữa Ethereum và Polygon. This bridge can transfer \$GHST tokens, but cannot bridge NFT assets.
 
 Với những ai muốn sử dụng Polygon Bridge, đây là một số bước cần thực hiện:
 
@@ -83,7 +86,8 @@ Có thể sẽ phải mất đến 10 phút thì token mới đến được đ�
 Nếu bạn cần giúp đỡ thì có thể tham gia vào [Discord](https://discord.com/invite/rttCTkZ) của Aavegotchi và hỏi ý kiến của những người bạn đáng mến trong cộng đồng nhé.
 
 ### Umbria Narni Bridge
-Narni bridge là một giải pháp cầu nối tân tiến được tạo ra bởi Umbria Network, sử dụng mô hình cầu thanh khoản để giảm chi phí chuyển lên đến 90%. Narni bridge giải quyết giao dịch chỉ trong khoảng 5 phút, và chi phí vào khoảng $40 (100 GWEI) để chuyển token GHST giữa Ethereum và Polygon. Hiện tại, chỉ có những token ERC20 mới tương thích với cầu Narni Bridge, NFT không thể chuyển bằng cầu này được.
+
+Narni bridge là một giải pháp cầu nối tân tiến được tạo ra bởi Umbria Network, sử dụng mô hình cầu thanh khoản để giảm chi phí chuyển lên đến 90%. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately \$40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Hiện tại, chỉ có những token ERC20 mới tương thích với cầu Narni Bridge, NFT không thể chuyển bằng cầu này được.
 
 Để sử dụng cầu Narni Bridge, vui lòng xem qua những bước sau đây:
 
@@ -110,6 +114,15 @@ Cuối cùng, bạn sẽ nhận được hai dấu tick hồng, nghĩa là giao 
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
 Nếu bạn có bất kỳ câu hỏi nào về Umbria Narni Bridge, hoặc muốn chát với một thành viên để được sự hỗ trợ từ đội ngũ phát triển, hãy tìm đến [kênh Discord của Umbria](https://discord.gg/8Ms7Cr4)
+
+### Base Bridges
+
+For GHST on Base:
+
+- Canonical bridge (Ethereum↔Base): Superbridge
+- Fast bridges (Polygon↔Base): Bungee, Jumper (availability subject to providers)
+
+Refer to the official blog post “GHST Token Is Now Live on Base” for current guidance.
 
 ## Cầu tập trung
 

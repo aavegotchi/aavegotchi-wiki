@@ -24,7 +24,7 @@ Dirígete a [Introducción](/introduction) para obtener una visión general de a
 * [Tomando](/staking) -- Aprende a depositar GHST para hacer FRENS
 * [DAO](/dao) -- Todo lo que hay que saber sobre AavegotchiDAO
 * [Wearables](/wearables) -- Complementos para tu Aavegotchi
-* [Mini-juegos](/minigames) -- Juega algunos minijuegos con tu Aavegotchi
+* [Games](/games) -- Play some Games with your Aavegotchi
 * [Rarity Farming](/rarity-farming) -- ¡Juega a Aavegotchi y gana recompensas!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs

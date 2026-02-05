@@ -1,11 +1,12 @@
 ---
 author: appellants
-date: '2020-04-23T07:00:00.000Z'
-title: 'トークノミックス'
-description: 'Aavegotchi GHSTトークンのトークノミックス'
+date: "2025-09-18T00:00:00.000Z"
+title: "トークノミックス"
+description: "Aavegotchi GHSTトークンのトークノミックス"
 image: "ここに画像"
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -24,7 +25,7 @@ Aavegotchiの収益分配とトークノミックスのアプローチは、4つ
 <ul><p style="margin-left: 2.4em"><b><li>AavegotchiDAOが裁量的な支出に使用するための宝庫を構築すること</li></b></p></ul>
 <ul><p style="margin-left: 2.4em"><b><li>Aavegotchiの開発者に継続的な金銭的報酬を提供すること</li></b></p></ul>
 
-このWikiでは、まずGHSTのトークン配布について説明し、その後、これらの目標がどのように達成されるかを詳しく説明します。
+This part of the wiki will first take you through [GHST's token](/ghst) distribution, then elaborate on how these goals will be accomplished.
 
 <div class="contentsBox">
 
@@ -38,22 +39,21 @@ Aavegotchiの収益分配とトークノミックスのアプローチは、4つ
 <p><a href=#burn-it>BURN IT（バーン・イット＝燃やして）</a></p>
 <p><a href=#buidl-it>BUIDL IT（ビルド・イット＝作って）</a></p>
 <li><a href=#historical-changes>変容履歴</a></li>
+<li><a href=#token-supply>Token Supply</a></li>
 </ol>
 
 </div>
 
 ## トークン配布
 
-GHSTは3段階に分けて配布されました。 プライベートセール、プリセール、パブリックボンディングカーブセールです。
 
+GHSTは3段階に分けて配布されました。 プライベートセール、プリセール、パブリックボンディングカーブセールです。
 
 **プライベートセール**
 
 サイズ：5,000,000 GHST 価格：0.05 DAI / GHST
 
-
 プライベートセールは、2020年8月に開催されました。 KYCを行い、最低20k DAIを満たした人なら誰でも参加することができました。 このラウンドで集まった資金は、Aavegotchiの開発会社であるPixelcraft Studios（ピクセルクラフト・スタジオ）に配分され、Aavegotchiのゲーム開発を成功させるために使用されました。
-
 
 **プリセール**
 
@@ -69,22 +69,19 @@ GHSTプリセールは、2020年9月14日に開催され、制限時間は14日�
 
 この詳細については、[「Aavegotchiホワイトペーパー」](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing)と[「コミュニティアップデート#4」](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4)をお読みください。
 
-
 **パブリック・ボンディングカーブ・セール**
 
-私たちのフレンズが言うように、カーブに終わりはありません！ カーブの仕組みについては、[カーブ](/curve)のページをご覧ください。
+There is no limit on the supply of GHST in this round, and no limit on the time. The price opened at 0.2 DAI/ GHST, and fluctuates along the [curve](/curve). There is no lockup in this round either – tokens can be claimed straight away from the curve.
 
-このラウンドでは、GHSTの供給量に制限はなく、時間にも制限はありません。 価格は0.2DAI/GHSTで始まり、カーブに沿って変動します。 このラウンドではロックアップもありません。トークンはカーブからすぐに請求できます。
+Anyone who participated in KYC and had their address whitelisted by the Aavegotchi team is able to purchase straight from the curve.
 
-KYCに参加し、Aavegotchiチームによってアドレスがホワイトリスト化された人は、カーブから直接購入できます。
+Funds raised from the Curve will be available to Pixelcraft Studios via a tap mechanism controlled by GHST token holders. More information about the mechanism can be found [here](https://fundrasing.aragon.black).
 
-カーブから集められた資金は、GHSTトークン保有者がコントロールするタップメカニズムを通じて、Pixelcraft Studiosに提供されます。 メカニズムの詳細については、[こちら](https://fundrasing.aragon.black)をご覧ください。
-
+At approximately 2 years after the project's inception, the community voted for the closure of the bonding curve in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve). Following the closure, the total supply of GHST became fixed from that point forth (however, GHST could still be burnt through various ecosystem mechanisms, dwindling the total supply further).
 
 **エコシステム・ファンド**
 
 エコシステム・ファンドは、プライベート・ラウンドおよびプリセールラウンドと同じスケジュールに従ってロックされた1,000,000 GHSTで構成されています。 ロック解除された資金は、[AavegotchiDAO](/dao) V2.0以上に提案され、非Aavegotchiコアチームメンバーによる開発資金、AavegotchiDaoのプロモーションやマーケティング、その他AavegotchiDAOが有用と考える正当な使用例で展開することができます。
-
 
 **チーム・ファンド**
 
@@ -96,24 +93,25 @@ KYCに参加し、Aavegotchiチームによってアドレスがホワイトリ�
 
 ポータルやウェアラブルに使われたGHSTはどうなるのでしょうか？
 
-レベニューシェアV2について、わかりやすく解説した図を作成しました：
+We've made a handy diagram explaining Revenue Sharing V2:
+
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchiトークノミックス">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
 各カテゴリーの詳細については、こちらをご覧ください。
 
 ## EARN IT（アーン・イット＝稼いで）
 
-Aavegotchiの体験の中核は、ゴッチ達と一緒に時間を過ごし、[レアリティファーミング](/rarity-farming)でウェアラブルを装備させることです。 ゲームのエコシステムに継続的かつ積極的に参加するインセンティブを与えるため、ポータル販売とウェアラブルから得られる収益の一部は、上位レアリティファーマーへの報酬に充てられる予定です。
+A core part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). ゲームのエコシステムに継続的かつ積極的に参加するインセンティブを与えるため、ポータル販売とウェアラブルから得られる収益の一部は、上位レアリティファーマーへの報酬に充てられる予定です。
 
 そのため、獲得したGHSTの**40%**はプレイヤーへの報酬として還元される予定です。
 
 当初、プレイヤーリワードは3つのカテゴリーに分けられる予定です：
 
-* トップ100 レアAavegotchi ([BRS](/rarity-farming#base-rarity-score)順)
-* トップ100 [キンシップ](/kinship)スコア
-* トップ100 [経験値(XP)](/traits#experience)
+- トップ100 レアAavegotchi ([BRS](/rarity-farming#base-rarity-score)順)
+- トップ100 [キンシップ](/kinship)スコア
+- トップ100 [経験値(XP)](/traits#experience)
 
 3つのカテゴリーは、合計で全GHSTの**40％**を獲得します。 各カテゴリーの正確なパーセンテージは、各シーズンのレアリティファームの開始前に確認されます。
 
@@ -121,13 +119,11 @@ Aavegotchiの体験の中核は、ゴッチ達と一緒に時間を過ごし、[
 
 レアリティファーミングのシーズンが始まると、これらの報酬は**2週間ごと**にオンチェーン・スナップショットで配布されます。
 
-
 ## DAO IT（ダオ・イット＝ダオって）
 
 コミュニティガバナンスもAavegotchi体験の中核となる考え方です。 [AavegotchiDAO](/dao)の責任の一部には金庫の管理が含まれ、価値があると判断された取り組みに使用されます。 (ワイフの写真とか？)
 
 最初は収益の**15%**が[DAOの金庫](https://aavegotchi.com/treasury)に分配されます。 DAOが成熟し続けるにつれて、この割合は最終的に増加する可能性があります。 もちろん、最終的な目標は、DAOがプロトコルを管理し、アップグレードすることさえ十分に可能な存在に成長することです。 それはまだ数年先のことかもしれませんが（Aavegotchiは2020年半ばに始まったばかりです）、それでも楽しみなことです。
-
 
 ## BURN IT（バーン・イット＝燃やして）
 
@@ -135,12 +131,9 @@ Aavegotchiの体験の中核は、ゴッチ達と一緒に時間を過ごし、[
 
 ポータルやアイテムの販売で得たGHSTの**5％**が燃やされるのです。 永遠に。 そうです、その通りです。
 
-GHSTはダイナミックな供給量を持つトークンです。 その供給量は需要に応じて増加するため、バーン（焼失）率はトークンの急激なデフレを伴わないことを意味します。 これは、供給が固定されているトークンの問題です。
-
 GHSTの燃焼は、GHSTのゲーム報酬をGHSTの形で提供することによって起こりうるGHSTの価格下落圧力に対するデフレの対抗策となるものです。
 
-GHSTを燃焼アドレスに直接送信することで、DAIはボンディングカーブの中に閉じ込められ、GHSTの価格上昇の下限が形成されます。 これは、カーブ上の買い手と売り手の流動性を高め（つまりスリッページを減らし）、流通量を減らし、[DAICOタップメカニズム](/curve#aavegotchi-daico)に安定性をもたらすため、すべての関係者にとって正にプラスとなります。
-
+Note: The bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”); GHST supply is now fixed (subject to burns). References to DAI locked in the curve and tap mechanics are historical. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 ## BUIDL IT（ビルド・イット＝作って）
 
@@ -169,3 +162,7 @@ Aavegotchiのボンディングカーブは、懸念の分離によってこの�
 table_revenueSharing
 
 V1からV2への変更の根拠は、[こちら](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)でご確認ください。
+
+## Token Supply
+
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).

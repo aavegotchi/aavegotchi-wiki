@@ -34,13 +34,13 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 <li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
-<li><a href=#full-guide-to-buying-land>Full Guide to buying Land</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
 <li><a href=#traits---bell-curve-explained>Traits & Bell Curve Explained</a></li>
 <li><a href=#buying-an-aavegotchi--video->Buying an Aavegotchi (Video)</a></li>
 <li><a href=#buying-ghst-token--article->Buying GHST token (Article)</a></li>
 <li><a href=#participating-in-aavegotchidao--article->Participating in AavegotchiDAO (Article)</a></li>
 <li><a href=#farming-your-land-parcel>Farming your Land Parcel</a></li>
+<li><a href=#introduction-to-the-aavegotchi-forge>Introduction to the Aavegotchi Forge</a></li>
 </ul>
 
 </div>
@@ -97,16 +97,6 @@ Click [here](/matokens) for the article
 
 <hr />
 
-### Full Guide to buying Land <iframe width="560" height="315" src="https://www.youtube.com/embed/q4bbrE4ZOzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Learn about Aavegotchis and Lickquidators
-* Learn about REALM parcels
-* Learn about Gotchus Alchemica and their tokenomics
-* Learn what you can do with your REALM parcels
-* Learn how to buy a REALM parcel
-
-<hr />
-
 ### Aavegotchi: Land Auction Guide <iframe width="560" height="315" src="https://www.youtube.com/embed/C0EHxnXzbSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn about REALM parcels
@@ -160,3 +150,11 @@ Click [here](https://blog.aavegotchi.com/aavegotchi-governance-voting-as-a-membe
 * Learn about Haarvesters, Reservoirs, and Maakers
 * Learn how to empty your Reservoirs
 * Learn how to craft Installations
+
+### Introduction to the Aavegotchi Forge <iframe width="560" height="315" src="https://www.youtube.com/embed/0F5L3MJw8X0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* Learn about Smelting and Forging
+* Learn about Schematics, Cores, Alloys, and Essence
+* Learn how to smelt your Wearables
+* Learn how to forge a Wearable
+* Learn how to speed up forging

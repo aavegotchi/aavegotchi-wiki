@@ -39,7 +39,7 @@ Kom en test je mettle! Kopers en verkopers gelijk!
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchi Baazaar</a></li>
 <li><a href=#features>Functies</a></li>
-<li><a href=#rarible>Rarible</a></li>
+<li><a href=#secondary-marketplaces>Secondary Marketplaces</a></li>
 </ol>
 
 </div>
@@ -85,8 +85,9 @@ Andere functies van de Baazaar zijn:
 * Mijn verkopen - Historisch dossier van uw verkoop op de Baazaar
 * Mijn Aankopen - Historisch dossier van uw aankopen op de Baazaar
 
-## Rarible
+## Secondary Marketplaces
 
-Naast de Baazaar, is er nog een secundaire marktplaats die het kopen en verkopen van Aavegotchis ondersteunt, het NFT-platform [Rarible](https://rarible.com/) op Ethereum Mainnet.
+Besides the Baazaar, there are secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
 
 Omdat Aavegotchis native op Polygon woont, moeten ze worden overbrugd naar Ethereum Mainnet voordat ze op Rarible kunnen worden gekocht/verkocht. Raadpleeg deze [handleiding](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) over hoe je Aavegotchis kunt overbrugen. Kijk eens naar de FAQ in die gids voor algemeen gestelde vragen.
+

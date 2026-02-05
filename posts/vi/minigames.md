@@ -54,92 +54,44 @@ Chơi tại [đây](https://cryptolve.com/aavegotchi_pacman/)
 
 <img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Reverse Pacman Aavegotchi Mini-Game" />
 
-### Portal Rider của BitFlicker
+### Gotchi Tower Defense by jarrod | aavegotchistats.com
 
-Chơi tại [đây](https://bitflicker.tech/aavegotchi/rider/)
-
-<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Rider Aavegotchi Mini-Game" />
-
-### Gotchi Tower Defense của tác giả jarrod | aavegotchistats.com
-
-Chơi tại [đây](https://aavegotchistats.com/td)
+Link to game [here](https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
 
-### Gotchi the Gaatherer của BitFlicker
+### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
-Chơi tại [đây](https://gotchigaatherer.gg/)
-
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
-
-### Sushi Vader của ricJones | Grizzy
-
-Chơi tại [đây](https://sushivader.com/)
-
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Portal Rider Aavegotchi Mini-Game" />
-
-### Snaake của SpyceBringer
-
-Chơi tại [đây](https://snaake.gg/)
-
-<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
-
-### Whac-a-Rofl của Gotchinomics
-
-Chơi tại [đây](https://whacarofl.com/)
-
-<img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />
-
-### GotchiMiner của @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
-
-Chơi tại [đây](https://gotchiminer.rocks/)
+Link to game [here](https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game" />
 
-### Aadventure của MetaGuild @metaguildcom & @HotspurSC2
+### 1 Arm Baandit by @mdurkin92
 
-Chơi tại [đây](https://hotspurhn.github.io/)
-
-<img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game" />
-
-### 1 Arm Baandit của @mdurkin92
-
-Chơi tại [đây](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
+Link to game [here](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "1 Arm Baandit Aavegotchi Mini-Game" />
 
-### Aavezon của @space_asylum
+### Aavezon by @space_asylum
 
-Chơi tại [đây](https://mikekrow.com/games/aavezon/index.html)
+Link to game [here](https://mikekrow.com/games/aavezon/index.html)
 
 <img class = "bodyImage" src = "/minigames/aavezon.png" alt = "Aavezon Aavegotchi Mini-Game" />
 
-### Portal Ddefenders của @oh_no_bruno
+### Portal Ddefenders by @oh_no_bruno
 
-Chơi tại [đây](https://square-wildflower-4590.on.fleek.co/)
+Link to game [here](https://square-wildflower-4590.on.fleek.co/)
 
 <img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game" />
 
-### Sushibagotchi của @sushibatoken
+### Samugotchi Shodown by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
-Chơi tại [đây](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
-
-<img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
-
-### Samugotchi Shodown của Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
-
-Chơi tại [đây](https://samugotchi-shodown.vercel.app/)
+Link to game [here](https://samugotchi-shodown.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
 
-### Astegotchi của Alvi
+### Astegotchi by Alvi
 
-Chơi tại [đây](https://astegotchi.aavegames.com/)
+Link to game [here](https://astegotchi.aavegames.com/)
 
-<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
-
-### Pinbaal của SpyceBringer và Dennis Gedai Eichert
-
-Chơi tại [đây](https://pinbaal.com)
-
-<img class = "bodyImage" src = "/minigames/pinbaal.png" alt = "Pinbaal Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game" />

@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'Tất tần tật về Wearables trong Aavegotchi'
+date: "2020-04-23T07:00:00.000Z"
+title: "Wearables"
+description: "Tất tần tật về Wearables trong Aavegotchi"
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -14,19 +14,19 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](/minigames), cũng như trong [rarity farming](/rarity-farming).
+Trang phục là yếu tố quan trọng trong game Aavegotchi. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Trang phục là những vật phẩm theo chuẩn ECR-1155.
 
 Trang này có chứa những thông tin chi tiết về mỗi loại wearable đã được xác nhận trong game Aavegotchi.
 
-Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng aartist](/aartist) của nhóm bọn mình. Mỗi món trang phục có 4 góc nhìn khác nhau (trước, phải, trái, và sau).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Mỗi món trang phục có 4 góc nhìn khác nhau (trước, phải, trái, và sau).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Góc Nhìn" />
 
 Để có thêm thông tin về **Set Đồ Wearable**, hãy xem qua [trang này nhé](/sets)!
 
-*Chú ý: Có một số vật phẩm (IDs 162-198, 210) không được thể hiện trên trang này do chúng không phải là trang phục. Chúng là [Baadges](/baadge) và Ảnh Nền Haunt 1.*
+_Chú ý: Có một số vật phẩm (IDs 162-198, 210) không được thể hiện trên trang này do chúng không phải là trang phục. Chúng là [Baadges](/baadge) và Ảnh Nền Haunt 1._
 
 <div class="contentsBox">
 
@@ -66,6 +66,10 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#haunt-2-wearables>Trang Phục Haunt 2</a></li>
 <li><a href=#partnerships-set>Trang phục Đối Tác</a></li>
 <li><a href=#defi-rpg-wearables>Trang Phục DeFi RPG</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
+<li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -74,14 +78,14 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 
 Aavegotchi có bốn đặc điểm và có thể được điều chỉnh bằng wearables.
 
-* AGG = Aggressiveness (Hiếu Chiến)
-* NRG = Energy (Năng Lượng)
-* SPK = Spookiness (Đáng Sợ)
-* BRN = Brain Size (Kích Thước Não)
+- AGG = Aggressiveness (Hiếu Chiến)
+- NRG = Energy (Năng Lượng)
+- SPK = Spookiness (Đáng Sợ)
+- BRN = Brain Size (Kích Thước Não)
 
 Đặc điểm của "Màu Mắt" và "Hình Dạng Mắt" không thể nào điều chỉnh bằng wearables được.
 
-*Chú ý: Giá trị âm không có nghĩa là những đặc điểm này sẽ "yếu hơn". Các đặc điểm của Aavegotchi được phân bố theo một bell curve, vậy nên thực ra cực (0,1) và (99,100) là mạnh nhất!*
+_Chú ý: Giá trị âm không có nghĩa là những đặc điểm này sẽ "yếu hơn". Các đặc điểm của Aavegotchi được phân bố theo một bell curve, vậy nên thực ra cực (0,1) và (99,100) là mạnh nhất!_
 
 Xem [Đặc điểm](/traits) để hiểu thêm về chủ đề này.
 
@@ -139,7 +143,7 @@ table_farmerWearablesTable
 
 ## Bộ Trang Phục Chủ Đề Santa
 
-Một người bạn của bọn mình đã vô ý gửi 4000 LINK (~50.000 đô la) vào Hợp Đồng Staking của GHST. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. Bọn mình đã gây quỹ từ cộng đồng để hỗ trợ anh ấy. Bất kỳ ai quyên góp BẤT KỲ LOẠI TOKEN NÀO có giá trị hơn 20 đô cho SantaGochi.eth sẽ được airdrop một Chiếc nón Santagochi phiên bản giới hạn. Hãy nhấp vào [đây](https://twitter.com/aavegotchi/status/1339738554906243072) để xem thông tin chi tiết. Hình ảnh sẽ sớm được thêm vào! Những item khác thuộc Bộ Trang Phục Santa sẽ sớm xuất hiện.
 
 table_santaWearablesTable
 
@@ -246,3 +250,19 @@ table_partnershipsTable
 ## Trang Phục DeFi RPG
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table
+
+## Gotchigang Wearables
+
+table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable

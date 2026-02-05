@@ -17,8 +17,8 @@ Aavegotchi lên cấp khi nó nhận được nhiều kinh nghiệm (XP). Nhưng
 <li><a href=#gaining-xp>Kiếm XP</a></li>
 <li><a href=#formula>Công thức</a></li>
 <li><a href=#experience-table>Bản Kinh Nghiệm</a></li>
-<li><a href=#tracking-xp-received>Theo dõi lượng kinh nghiệm đã nhận được</a></li>
-<li><a href=#xp-requirements-for-joining-guilds>Lượng XP cần có để tham gia vào Guild</a></li>
+<li><a href=#claiming-xp>Claiming XP</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
@@ -50,18 +50,16 @@ Cấp độ cao nhất mà một aavegotchi có thể đạt được là 99. B�
 
 table_XP
 
-## Theo dõi lượng kinh nghiệm đã nhận được
+## Claiming XP
 
-[aarchitect](/aarchitect) thân thiện của bọn mình là Frank Pfeift đã tạo ra một ứng dựng để theo dõi lượng XP mà Gotchi đã nhậnd được trong trọn đời.
+XP has to be claimed manually at the airdrop page here: https://dapp.aavegotchi.com/u/[XXXXX]/airdrops.
 
-Các bạn có thể truy cập vào ứng dụng này tại [đây](https://aavegotchi-xp-dashboard.vercel.app). Gotchi ID của bạn là những chữ số nằm ở cuối URL của trang [Gotchi Profile Page](/aavegotchi-profile).
+Replace the [XXXXX] with your wallet address in the URL above.
 
-## Lượng XP cần có để tham gia vào Guild
+After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvement-proposals), all Aavegotchis you owned at the block the AGIP was created are eligible for the XP claim. There is a bulk claim ("CLAIM ALL") function that allows you to claim the XP for all AGIPs you have voted on. If the CLAIM ALL function fails, you can claim the XP for each AGIP individually.
 
-Gotchi là những sinh vật xã hội yêu thích được vui chơi với bạn bè, nhưng không khá giống như những sinh viên năm nhất chỉ đứng nhìn chằm chằm khi tham gia vào hoạt động câu lạc bộ, chúng trở nên đuối sức khi gặp quá nhiều các hoạt động xã hội.
+## Tracking XP received
 
-Khi chúng có thêm nhiều kinh nghiệm và lời lẽ hơn, đời sống - công việc được cân bằng, sẽ cho phép chúng tham gia vào nhiều trọng trách [Guild](/guild) hơn.
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
-Do đó, số lượng Guild mà mỗi Gotchi tham gia sẽ phụ thuộc vào cấp độ XP.
-
-table_xpRequirementForGuilds
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
