@@ -26,7 +26,7 @@ contributors:
 <p></p>
 
 ## [Aavegotchi Forge 101](https://blog.aavegotchi.com/aavegotchi-forge-101/)
-* The Aavegotchi Forge will be launching soon!
+* In January 2023, the Forge team published Forge 101 ahead of the Forge launch on 2023-02-22.
 * Get the lowdown on how to forge and smelt here!
 <p></p>
 
@@ -280,7 +280,7 @@ contributors:
 <p></p>
 
 ## [Memers, you ready?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
-* Aavegotchi launches an ongoing meme bounty program!
+* On Feb 20, 2022, Aavegotchi launched a meme bounty program.
 * If your meme gets selected, winners will get a **100 GHST** bounty for image memes, and **200 GHST** bounty for video memes directly to your address after the post is live.
 <p></p>
 

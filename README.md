@@ -31,8 +31,12 @@ yarn dev
 ```
 
 This will start a dev server, navigate to localhost:3000 to check it out.
-
 #### *Edit and test*
+
+Quick sanity check before opening a PR:
+```bash
+yarn build
+```
 
 Jump in and start building the Wiki! 
 
