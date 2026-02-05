@@ -69,7 +69,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 - Wiki target: `posts/en/aavegotchi-improvement-proposals-2023.md` → “Launch Round 2 Parcel VRF Rolls”
 - Status: **present** (blog citation added)
 
-PR: (this PR)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
 
 ---
 
@@ -87,4 +87,4 @@ PR: (this PR)
 - Wiki target: `posts/en/gotchiverse.md` → “Land auctions and raffles (historical)”
 - Status: **present** (added historical proposal note + citation)
 
-PR: (this PR)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
