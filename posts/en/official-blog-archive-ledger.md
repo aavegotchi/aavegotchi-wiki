@@ -33,7 +33,7 @@ Goal: ensure **durable claims** are reflected in the wiki with correct **histori
 - Wiki target: `posts/en/bridge.md` → “Base Bridges”
 - Status: **partial** (citation added; availability intentionally described as time-bound)
 
-PR: (filled by PR)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 
 ---
 
@@ -51,4 +51,4 @@ PR: (filled by PR)
 - Wiki target: `posts/en/base-migration.md` → “What this means…”
 - Status: **present**
 
-PR: (filled by PR)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
