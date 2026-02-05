@@ -16,11 +16,17 @@ The GHST token is the eco-governance token that powers the whole Aavegotchi ecos
 
 Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of 1 vote per token. GHST is also the main currency of account for trading NFTs in the [Aavegotchi marketplace](/marketplace).
 
-GHST is live on Base. Aavegotchi has migrated to Base.
+GHST is live on Base, and Aavegotchi’s canonical home has migrated to Base (historical announcements: 2024-04-17 and 2025-07-25).
+
+- Source (GHST on Base): [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/)
+- Source (migration announcement): [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
+- See also: [Migration to Base (2025)](/base-migration)
 
 ## Historical milestones
 
 - **2022-02-01:** GHST became available to **deposit and borrow on the Aave Polygon Market** (a historic listing and one of the early examples of Aave cross-chain governance in action). Source: [Aavegotchi GHST Token Is Now Live on Aave.com (2022-02-01)](https://blog.aavegotchi.com/aavegotchi-ghst-token-is-now-live-on-aave-com/)
+- **2024-04-17:** GHST was announced as **live for trading on Base** (expanding GHST’s multichain footprint). Source: [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/)
+- **2025-07-25:** Aavegotchi announced it had **migrated to Base**, with Polygon contracts frozen/view-only as part of the transition. Source: [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
 
 GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
