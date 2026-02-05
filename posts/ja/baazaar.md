@@ -39,7 +39,7 @@ contributors:
 <ol>
 <li><a href=#aavegotchi-baazaar>Aavegotchiマーケット</a></li>
 <li><a href=#features>機能</a></li>
-<li><a href=#rarible>Rarible</a></li>
+<li><a href=#secondary-marketplaces>Secondary Marketplaces</a></li>
 </ol>
 
 </div>
@@ -85,8 +85,9 @@ Aavegotchiバザールは [こちら](https://app.aavegotchi.com/baazaar) をご
 * 販売履歴 - マーケットでの自分の販売の履歴
 * 購入履歴 - 自分が買ったアイテムの履歴をここで投票出来ます
 
-## Rarible
+## Secondary Marketplaces
 
-公式のAavegotchiマーケットに加えて、Ethereumメインネットの<ahref = "https://rarible.com/"> Rarible </a>でゴッチを購入することもできます。
+Besides the Baazaar, there are secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
 
 ゴッチはPolygonにネイティブに存在するため、Raribleで売買する前に、Ethereumメインネットにブリッジする必要があります。 ブリッジする方法については、この<ahref = "https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f">ガイド</a>を参照してください。 よくある質問については、そのガイドのFAQを確認してください。
+

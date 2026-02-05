@@ -54,92 +54,44 @@ Link naar video [hier](https://cryptolve.com/aavegotchi_pacman/)
 
 <img class = "bodyImage" src = "/minigames/reverse-pacman.png" alt = "Omgekeerde Pacman Aavegotchi Mini-Game" />
 
-### Portal Rider door BitFlicker
+### Gotchi Tower Defense by jarrod | aavegotchistats.com
 
-Link naar video [hier](https://bitflicker.tech/aavegotchi/rider/)
+Link to game [here](https://aavegotchistats.com/td)
 
-<img class = "bodyImage" src = "/minigames/portal-rider.png" alt = "Portal Ruiter Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game" />
 
-### Gotchi Toren Verdediging door jarrod | aavegotchistats.com
+### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
-Link naar video [hier](https://aavegotchistats.com/td)
-
-<img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Toren Verdediging Aavegotchi Mini-Game" />
-
-### Gotchi de Gaatherer door BitFlicker
-
-Link naar video [hier](https://gotchigaatherer.gg/)
-
-<img class = "bodyImage" src = "/minigames/gotchi-the-gaatherer.png" alt = "Gotchi het Gaatherer Aavegotchi Mini-Game" />
-
-### Sushi Vader door ricJones. Grizzy
-
-Link naar video [hier](https://sushivader.com/)
-
-<img class = "bodyImage" src = "/minigames/sushi-vader.png" alt = "Sushi Vader Aavegotchi Mini-Game" />
-
-### Snaake door SpyceBringer
-
-Link naar video [hier](https://snaake.gg/)
-
-<img class = "bodyImage" src = "/minigames/snaake.png" alt = "Snaake Aavegotchi Mini-Game" />
-
-### Whac-a-Rofl door Gotchinomics
-
-Link naar video [hier](https://whacarofl.com/)
-
-<img class = "bodyImage" src = "/minigames/whac-a-rofl.png" alt = "Whac-a-Rofl Aavegotchi Mini-Game" />
-
-### GotchiMiner door @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, en @gotchinomics
-
-Link naar spel [hier](https://gotchiminer.rocks/)
+Link to game [here](https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game" />
 
-### Aadventure van MetaGuild @metaguildcom & @HotspurSC2
+### 1 Arm Baandit by @mdurkin92
 
-Link naar spel [hier](https://hotspurhn.github.io/)
-
-<img class = "bodyImage" src = "/minigames/aadventure.png" alt = "Aadventure Aavegotchi Mini-Game" />
-
-### 1 Arm Baandit door @mdurkin92
-
-Link naar video [hier](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
+Link to game [here](https://gotchi-slots-r9mxieta7-h0m13.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/one-arm-baandit.png" alt = "1 Arm Baandit Aavegotchi Mini-Game" />
 
-### Aavezon door @space_asylum
+### Aavezon by @space_asylum
 
-Link naar spel [hier](https://mikekrow.com/games/aavezon/index.html)
+Link to game [here](https://mikekrow.com/games/aavezon/index.html)
 
 <img class = "bodyImage" src = "/minigames/aavezon.png" alt = "Aavezon Aavegotchi Mini-Game" />
 
-### Portaal verdedigers door @oh_no_bruno
+### Portal Ddefenders by @oh_no_bruno
 
-Link naar spel [hier](https://square-wildflower-4590.on.fleek.co/)
+Link to game [here](https://square-wildflower-4590.on.fleek.co/)
 
-<img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portaal Verdedigers Aavegotchi Mini-Game" />
+<img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game" />
 
-### Sushibagotchi door @sushibatoken
+### Samugotchi Shodown by Rainbow Hallow (@GrizzyJones, @vrycmfy, and @lahcen_kha)
 
-Link naar spel [hier](https://www.sushibatoken.com/hackathons/aavegotchi-game-jam/)
-
-<img class = "bodyImage" src = "/minigames/sushibagotchi.png" alt = "Sushibagotchi Aavegotchi Mini-Game" />
-
-### Samugotchi Shodown door Rainbow Hallow (@GrizzyJones, @vrycmfy, en @lahcen_kha)
-
-Link naar spel [hier](https://samugotchi-shodown.vercel.app/)
+Link to game [here](https://samugotchi-shodown.vercel.app/)
 
 <img class = "bodyImage" src = "/minigames/samugotchi-shodown.png" alt = "Samugotchi Shodown Aavegotchi Mini-Game" />
 
-### Astegotchi door Alvi
+### Astegotchi by Alvi
 
-Link naar spel [hier](https://astegotchi.aavegames.com/)
+Link to game [here](https://astegotchi.aavegames.com/)
 
 <img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game" />
-
-### Pinbaal door SpyceBringer and Dennis Gedai Eichert
-
-Link naar spel [hier](https://pinbaal.com)
-
-<img class = "bodyImage" src = "/minigames/pinbaal.png" alt = "Pinbaal Aavegotchi Mini-Game" />

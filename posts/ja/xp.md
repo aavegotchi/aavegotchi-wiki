@@ -17,8 +17,8 @@ contributors:
 <li><a href=#gaining-xp>XPを獲得</a></li>
 <li><a href=#formula>数式</a></li>
 <li><a href=#experience-table>XPテーブル</a></li>
-<li><a href=#tracking-xp-received>受信されたXPを追跡する</a></li>
-<li><a href=#xp-requirements-for-joining-guilds>ギルドに加入するためのXP条件</a></li>
+<li><a href=#claiming-xp>Claiming XP</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
@@ -50,18 +50,16 @@ Aavegotchiが最大達成出来るレベルは99です。 最大レベルへの�
 
 table_XP
 
-## 受信されたXPを追跡する方法
+## Claiming XP
 
-我々のフレンリーな [aarchitect](/aarchitect) フランクは、Gotchiが受け取ったXPを追跡するためのアプリケーションを作成してくれました。
+XP has to be claimed manually at the airdrop page here: https://dapp.aavegotchi.com/u/[XXXXX]/airdrops.
 
-彼が作成したアプリはこちらから [](https://aavegotchi-xp-dashboard.vercel.app) にアクセスできます。 Gotchi IDは、 [Gotchi Profile Page](/aavegotchi-profile)のURLの末尾にある数字です。
+Replace the [XXXXX] with your wallet address in the URL above.
 
-## ギルドに加入するためのXP条件
+After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvement-proposals), all Aavegotchis you owned at the block the AGIP was created are eligible for the XP claim. There is a bulk claim ("CLAIM ALL") function that allows you to claim the XP for all AGIPs you have voted on. If the CLAIM ALL function fails, you can claim the XP for each AGIP individually.
 
-ゴッチは友達と遊ぶのが大好きな社交的な生き物ですが、星の数ほどある大学のクラブ活動に参加しようとする新入生と同じように、あまりに多くの活動で燃え尽きてしまうのです。
+## Tracking XP received
 
-経験を積み、世渡り上手になると、ワークライフバランスが向上し、より多くの[ギルド](/guild)の責任を負うようになります。
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
-このように、ゴッチが参加できるギルドの数は、XPレベルによって異なります。
-
-table_xpRequirementForGuilds
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).

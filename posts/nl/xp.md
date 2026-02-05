@@ -17,8 +17,8 @@ Aavegotchis gaan een level omhoog als ze meer XP krijgen). Maar hoeveel XP hebbe
 <li><a href=#gaining-xp>Verkrijg XP</a></li>
 <li><a href=#formula>Formule</a></li>
 <li><a href=#experience-table>Ervaring Tabel</a></li>
-<li><a href=#tracking-xp-received>Bijhouden van ontvangen XP</a></li>
-<li><a href=#xp-requirements-for-joining-guilds>XP vereisten voor het toetreden tot Guilds</a></li>
+<li><a href=#claiming-xp>Claiming XP</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
@@ -50,18 +50,16 @@ Het maximale niveau dat een aavegotchi zou kunnen bemachtigen is 99. Eventuele w
 
 tabel_XP
 
-## Bijhouden van ontvangen XP
+## Claiming XP
 
-Onze vriendelijke [aarchitect](/aarchitect) Frank Pfeift heeft een applicatie gemaakt om de XP te volgen die een Gotchi over zijn leven heeft ontvangen.
+XP has to be claimed manually at the airdrop page here: https://dapp.aavegotchi.com/u/[XXXXX]/airdrops.
 
-Zijn app kan geopend worden [hier](https://aavegotchi-xp-dashboard.vercel.app). Uw Gotchi ID is de cijfers die te vinden zijn aan het einde van de URL op uw [Gotchi Profiel Pagina](/aavegotchi-profile).
+Replace the [XXXXX] with your wallet address in the URL above.
 
-## XP vereisten voor het toetreden tot Guilds
+After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvement-proposals), all Aavegotchis you owned at the block the AGIP was created are eligible for the XP claim. There is a bulk claim ("CLAIM ALL") function that allows you to claim the XP for all AGIPs you have voted on. If the CLAIM ALL function fails, you can claim the XP for each AGIP individually.
 
-Gotchis zijn sociale wezens die graag met hun frens willen uithangen, maar net als frisse collega's die elke campus-club proberen bij te wonen, raken ze met te veel sociale activiteit in brand gestoken.
+## Tracking XP received
 
-Naarmate ze meer ervaring opdoen en meer wereldwijd worden, verbetert het evenwicht tussen werk en privéleven, waardoor ze meer [Guild](/guild) verantwoordelijkheden op zich kunnen nemen.
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
-Hoeveel Guilds een Gotchi kan toetreden, hangt dus af van het XP Niveau.
-
-tabel_xpRequirementForGuilds
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).

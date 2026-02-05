@@ -7,9 +7,9 @@ contributors:
   - "unintelligent-nerd"
 ---
 
-Las armas son equipables de mano clasificados como armas cuerpo a cuerpo o a distancia. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
+Weapons are hand [wearables](/wearables) classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
 
-Cada arma también será dotada de beneficios especiales, como daño extra a Muros, daño extra a Lickquidators, velocidad de ataque extra y otros.
+Cada arma también será dotada de beneficios especiales, como daño extra a Muros, daño extra a Lickquidators, velocidad de ataque extra y otros. For a detailed breakdown of each wearable's effects (including weapons) in combat, check out the [wearable boosts](/aarena#wearable-boosts) section.
 
 <div class="contentsBox">
 

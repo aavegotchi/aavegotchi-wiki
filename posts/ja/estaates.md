@@ -208,7 +208,7 @@ contributors:
 
 上の例では、レベル1のウォール（紫のベース）とレベル4のウォール（赤のベース）が表示されています。
 
-この場合、レベル1のウォールを一番上（リンクの左側）に、レベル4のウォールをその右側（リンクの右側）に装備する必要があります。 そうすると、一番上のコネクションウォールの部分は、レベル1（2段階のうち低い方）のウォールが6個になります。
+To create this set up, the owner would have needed to first equip a level 1 Waall in the top (to the left of the link), with a level 4 Waall to its right (to the right of the link). そうすると、一番上のコネクションウォールの部分は、レベル1（2段階のうち低い方）のウォールが6個になります。
 
 その下には、レベル4のウォールがあり、その間にレベル4のコネクションウォールがあることに注意してください。
 
