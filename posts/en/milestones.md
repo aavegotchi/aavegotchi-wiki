@@ -259,16 +259,16 @@ contributors: ["unintelligent-nerd"]
 - What surprises await? 👀
   <p></p>
 
-## [Rarity Farming Season 6 coming soon!](https://blog.aavegotchi.com/announcing-aavegotchi-rarity-farming-season-6/)
+## [Rarity Farming Season 6 (announcement)](https://blog.aavegotchi.com/announcing-aavegotchi-rarity-farming-season-6/)
 
-- Ready for round 6 of Gotchi UBI? 😏
+- On 2023-06-16, Pixelcraft announced Rarity Farming Season 6 ("round 6" of Gotchi UBI).
   <p></p>
 
-## [Are you ready for Gotchi Heroes?](https://blog.aavegotchi.com/gotchi-heroes-debuts-xp-tournament-on-june-17-earn-xp-rewards-ghst-and-exclusive-packs/)
+## [Gotchi Heroes XP Tournament (announcement)](https://blog.aavegotchi.com/gotchi-heroes-debuts-xp-tournament-on-june-17-earn-xp-rewards-ghst-and-exclusive-packs/)
 
-- The Gotchi Heroes XP event is coming your way on the 17th of June!
-- The XP event is broken into two rounds, each with a separate leaderboard
-- There are prizes to be won!
+- On 2023-06-14, Pixelcraft announced the Gotchi Heroes XP Tournament starting 2023-06-17.
+- The XP event ran in two rounds, each with a separate leaderboard.
+- Player prizes/rewards were available (see blog post for details).
   <p></p>
 
 ## [Aavegotchi Dev Update - June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/)
@@ -418,7 +418,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi Forge 101](https://blog.aavegotchi.com/aavegotchi-forge-101/)
 
-- The Aavegotchi Forge will be launching soon!
+- In January 2023, the Forge team published Forge 101 ahead of the Forge launch on 2023-02-22.
 - Get the lowdown on how to forge and smelt here!
   <p></p>
 
