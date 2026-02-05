@@ -1,62 +1,94 @@
 ---
 author: eris
-date: '2020-04-23T07:00:00.000Z'
-title: 'Missions'
-description: 'All about Aavegotchi Missions'
+date: '2014-04-26T22:00:00.000Z'
+title: 'Миссии'
+description: 'Все о миссиях в Аавеготчи'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
-<p class="headerImageText">Aagents at Work</p>
+<p class="headerImageText">Агенты за работой!</p>
 </div>
 
-**THE AAVEGOTCHI MISSION PROGRAM IS NOW COMPLETE!**
+<div class="contentsBox">
 
-Closing an epic chapter in Aavegotchi history, around 280 of our dedicated community members have made their way up through the ranks to official Aavegotchi Aagent status! These agents will be the exclusive owners of the [Aavegotchi Aagent wearable set](/wearables#aagent-wearables-set), cementing their place in Aavegotchi lore.
+**Содержание**
 
-**CONGRATULATIONS AAGENTS!** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
+<ol>
+<li><a href=#the-aagent-missions>Миссии Агентов.</a></li>
+<li><a href=#share2earn-litepaper-campaign>Кампания Share2Earn Litepaper.</a></li>
+</ol>
+
+</div>
+
+## Миссии Агентов
+
+**Миссии Аавеготчи на сегодняшний день завершены!**
+
+В проекте Аавеготчи есть игроки со статусом Агент. Его можно было получить, выполняя определенные миссии. По завершении всех миссий около 280 человек получили статус Аагентов. Им достался эксклюзивный [набор носимых устройств](/wearables#aagent-wearables-set), который есть только у Агентов Аавеготчи.
+
+Поздравляем всех Аагентов! <img src="/missions/tinyagent.png" alt = "Агент Аавготчи" />
 
 
-From the aarchives:
+Читайте ниже, какие интересные миссии нужно было выполнить, чтобы стать Агентом.
 
-<p style="font-size:25px; font-style: italic;"><b>"Your mission, should you choose to accept it..."</b></p>
+<p style="font-size:25px; font-style: italic;"><b>Что же приготовили геймерам разработчики...</b></p>
 
-Aavegotchi “missions” are a fun way to get a great understanding of the Aavegotchi project. Most are simple tasks (with the exception of just one that requires a bit more thought) and can be done whenever time permits and in any order you choose. As you complete each one, you’ll be leveled up by our Aaprentices, until you reach full Aagent status! Just be sure to hop in to Mission Control before mainnet launch, as our Aagent program will only run until then. Upon mainnet launch, Aagents who have **completed ALL Aavegotchi missions** will receive a **complete Aagent wearable set exclusively for Aavegotchi Aagents.**
+Каждая миссия в игре — это способ лучше понять игровой проект. В большинстве своем, это простые задачи, за исключением одной, которая требует больше внимания. Выполнять задачи можно в любом порядке, чтобы заработать статус Агента!  Задание на скорость! Все, кто успел **выполнить все задания** из миссий до запуска основной игры, смогли получить **наборы носимых устройств**, предназначенные исключительно для Агентов Аавеготчи.
 
-**ALL 12 MISSIONS MUST BE COMPLETED BY 4 JANUARY 2021!**
-
-&nbsp;
-
-
-[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Comment in the Aavegotchi Litepaper.
-
-[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Invite one fren to the Discord.
-
-[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Add a sentence or two of your thoughts about the project to the Aavegotchi Community Pitch paper.
-
-[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet us on Twitter with why you love Aavegotchi, and tag two frens.
-
-[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Ask a question in our Telegram.
-
-[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Use our testnet to buy testnet (not real) GHST from the testnet bonding curve (which does NOT require KYC - the real bonding curve does, but **you can complete all missions without KYC).** This is where you’ll suddenly become an expert on using testnets if you haven’t before, and will feel super smart helping everyone who comes after you. If you get stuck on Mission 6, ask us! We're happy to aassist our Aagents.
-
-[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Vote on an Aavegotchi governance proposal.
-
-[**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Create an Aavegotchi-themed meme in any language you like and post it to our meme thread on Reddit.
-
-[**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Our most challenging mission) Write a short article or make a short video about Aavegotchi (300 words for articles, or 30 seconds for videos). Publish your creation on the platform you choose (there are several options available for each), and retweet us one more time along with your link to your aavesome Aavegotchi content.
-
-[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) CREATE AN AAVEGOTCHI (on testnet) using our Aavegotchi builder, adopt your Gotchi as your avatar (for 72 hours), and share your creation with the rest of the Aavegotchi fam!
-
-[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Check out our new wiki! Choose two things you think could be useful to help make it the best resource it can be.
-
-[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Be a Moovie Star! Tag 2 of your favorite Crypto Youtubers and let them know that the #GotchiGang is coming!
+**Официально, все миссии завершились к четвертому января 2021 года. Вот какими были задания:**
 
 &nbsp;
 
-Congratulations fren, you’re an official Aavegotchi Aagent! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Join us while you can - [head over to our Discord to get started!](https://discord.com/invite/NPwnWB6)
+
+[**МИССИЯ 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Прокомментировать в Aavegotchi Litepaper.
+
+[**МИССИЯ 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Пригласить одного друга в Дискорд.
+
+[**МИССИЯ 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Добавить пару актуальных предложений для развития проекта в презентацию.
+
+[**МИССИЯ 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Рассказать в Твиттере, за что вы любите Аавеготчи, и тегнуть двух друзей.
+
+[**МИССИЯ 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Спросить о чем-угодно в нашем Телеграме.
+
+[**МИССИЯ 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Приобрести GHST в тестовой сети. **Проходить KYC-проверку не нужно**. Приобретенные в ходе этого навыки помогут вам в дальнейшем стать экспертами в Аавеготчи и помогать всем, кто нуждается в помощи и поддержке. Если понадобится помощь, спроси нас, мы будем рады помочь!
+
+[**МИССИЯ 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Проголосовать за предложения по управлению Аавеготчи.
+
+[**МИССИЯ 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Время мемов! Создать мем об игре Аавеготчи на любую тему и разместить его на Реддит в сабреддите игры.
+
+[**МИССИЯ 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) Повышенная сложность! Нужно было написать короткую статью на 300 слов максимум или сделать 30-секундный видеоролик об игре. Опубликовать творение в выбранной социальной сети, ретвитнуть любой пост Аавеготчи в Твиттере со ссылкой на созданный контент.
+
+[**МИССИЯ 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) Нужно создать Готчи в тестовой сети, сделать его своим аватаром на 72 часа и поделиться своим творением с остальным сообществом Аавеготчи!
+
+[**МИССИЯ 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Почитать нашу ВИКИ! Подготовить две рекомендации по ее улучшению, чтобы сделать лучшим ресурсом!
+
+[**МИССИЯ 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Зажги звезду! Отметить двух самых любимых своих крипто ютуберов и сообщить им о приближении ГотчиБанды с помощью хэштега #GotchiGang!
+
+&nbsp;
+
+Вы прошли все миссии? Поздравляем, теперь вы — официальный Агент Аавеготчи! <img src="/missions/tinyagent.png" alt = "Агент." /> Присоединяйся к нам в [Дискорде](https://discord.com/invite/NPwnWB6) перед стартом!
 
 &nbsp; &nbsp;
+
+## Кампания Share2Earn Litepaper
+
+В сотрудничестве с ребятами из Viral Loops, разрабатывающими уникальные и хорошо продуманные реферальные программы, мы планируем создать лимитированную по времени кампанию, участвуя в которой можно заработать и получить реальные вознаграждения за рекомендацию Аавеготчи своим друзьям.
+
+Основной задачей данной кампании будет распространение информации о Litepaper проекта, а в качестве награды послужит [Дроп билетов](/metaverse#drop-tickets) — это награда особого типа, которая приносит NFT.
+
+**Чтобы принять участие:**
+
+1. Пройдите опрос о Litepaper Аавеготчи здесь [тут](https://gotchigang.typeform.com/to/gYuY3bxN#referralcode=MU92ddy). По завершении теста подтвердите ваш адрес электронной почты, чтобы получить 1 NFT (редкий билет). Его можно использовать в планируемых к проведению лотереях для выигрыша носимых устройств (но не в лотереях Portal и REALM).
+
+2. Присоединяйтесь к программе #Share2Earn. Пройдя тест, ищите письмо в своем электронном ящике с условиями реферальной программы, и начинайте приглашать друзей. За первого друга вы получите еще один редкий билет.
+
+3. Охота за редкими билетами стартует! Зарабатывайте больше лотерейных билетов, чтобы получить бонус во время дропа. Количество билетов к выдаче будет расти со временем, в зависимости от числа приглашенных друзей!
+
+<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Уровни наград в кампании Aavegotchi Share2Earn" />
+
+**Внимание! Важное обновление. Из-за высокой активности ботов программу решено свернуть. Читайте Дискорд, чтобы быть в курсе, когда реферальная программа возобновит свою работу.**

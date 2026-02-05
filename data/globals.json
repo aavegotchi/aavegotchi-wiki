@@ -1,0 +1,67 @@
+{
+  "addresses": {
+    "ghst": {
+      "ethereum": "0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+      "polygon": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+      "base": "0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB"
+    },
+    "dao": {
+      "mainnet": "0xffe6280ae4e864d9af836b562359fd828ece8020",
+      "polygon": "0xb208f8BB431f580CC4b216826AFfB128cd1431aB"
+    },
+    "diamonds": {
+      "realm": "0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11",
+      "installations": "0x19f870bD94A34b3adAa9CaA439d333DA18d6812A",
+      "tiles": "0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355",
+      "aavegotchiAndWearables": "0x86935F11C86623deC8a25696E1C19a8659CbF95d"
+    },
+    "tokens": {
+      "wapGHST": "0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea",
+      "FUD": "0x403E967b044d4Be25170310157cB1A4Bf10bdD0f",
+      "FOMO": "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8",
+      "ALPHA": "0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2",
+      "KEK": "0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C",
+      "GLTR": "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc"
+    },
+    "staking": {
+      "stkGHST_QUICK": "0xA02d547512Bb90002807499F05495Fe9C4C3943f",
+      "stkGHST_USDC": "0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09",
+      "GHST_WETH_LP": "0xccb9d2100037f1253e6c1682adf7dc9944498aff",
+      "GLTR_STAKING": "0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c",
+      "ghstQuickLP": "0x8b1fd78ad67c7da09b682c5392b65ca7caa101b9",
+      "ghstUsdcLP": "0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4"
+    },
+    "misc": {
+      "burn": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF"
+    },
+    "baseDiamonds": {
+      "aavegotchi": "0xa99c4b08201f2913db8d28e71d020c4298f29dbf",
+      "wearables": "0x052e6c114a166B0e91C2340370d72D4C33752B4b",
+      "forge": "0x50aF2d63b839aA32b4166FD1Cb247129b715186C",
+      "gbmBaazaar": "0x80320A0000C7A6a34086E2ACAD6915Ff57FfDA31",
+      "fakeGotchisCards": "0xe46B8902dAD841476d9Fee081F1d62aE317206A9",
+      "fakeGotchisArt": "0xAb59CA4A16925b0a4BaC5026C94bEB20A29Df479",
+      "ggSkins": "0x898d0F54d8CF60698972a75be7Ea1B45aAb66e59",
+      "ggProfile": "0xdc27a8BF85508387cB8c3B97BA77f3941eDFF45f",
+      "realmParcels": "0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372",
+      "installations": "0xebba5b725A2889f7f089a6cAE0246A32cad4E26b",
+      "tiles": "0x617fdB8093b309e4699107F48812b407A7c37938"
+    },
+    "baseTokens": {
+      "FUD": "0x2028b4043e6722Ea164946c82fe806c4a43a0fF4",
+      "FOMO": "0xA32137bfb57d2b6A9Fd2956Ba4B54741a6D54b58",
+      "ALPHA": "0x15e7CaC885e3730ce6389447BC0f7AC032f31947",
+      "KEK": "0xE52b9170fF4ece4C35E796Ffd74B57Dec68Ca0e5",
+      "GLTR": "0x4D140CE792bEdc430498c2d219AfBC33e2992c9D"
+    },
+    "baseStaking": {
+      "GLTR_STAKING": "0xaB449DcA14413a6ae0bcea9Ea210B57aCe280d2c"
+    }
+  },
+  "links": {
+    "uniswapBaseGHST": "https://app.uniswap.org/explore/tokens/base/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
+    "basescanGHST": "https://basescan.org/token/0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB",
+    "etherscanGHST": "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",
+    "polygonscanGHST": "https://polygonscan.com/token/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7"
+  }
+}

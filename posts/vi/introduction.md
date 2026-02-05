@@ -14,14 +14,14 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** là một game crypto thể loại sưu tập dựa trên khái niệm DeFi, được phát triển bởi Pixelcraft Studio, cho phép người chơi stake những [aToken](/atokens) sinh lợi nhuận vào những nhân vật đại diện dạng [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) và tương tác với Aavegotchi [metaverse](/metaverse). Đây là một sự kết hợp độc đáo giữa [DeFi](/glossary#defi-101) và NFT.
+**Aavegotchi** là một game crypto thể loại sưu tập dựa trên khái niệm DeFi, được phát triển bởi Pixelcraft Studio có trụ sở ở Singapore, cho phép người chơi stake những [aToken](/spirit-force) sinh lợi nhuận vào những nhân vật đại diện dạng [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) và tương tác với Aavegotchi [metaverse](/gotchiverse). Đây là một sự kết hợp độc đáo giữa [DeFi](/glossary#defi-101) và NFT.
 
 Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn
 ERC-721**. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những [traits (đặc tính)](/traits) ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/wearables) được trang bị.</p> 
 
 Để nâng cấp các Aavegotchi, người chơi cần tham gia vào hàng loạt các hoạt động bao gồm các mini-games, quản trị, và các buổi meetups. Aavegotchis cũng có thể tăng độ hiếm bằng cách trang bị những phụ kiện trong game và lên cấp. 
 
-Những Aavegotchi hiếm không chỉ có giá trị cao trên những [thị trường](/marketplace) thứ cấp, mà còn cho phép Aavegotchi hoạt động tốt hơn trong [rarity farming](/rarity-farming)—một minigame để tặng thưởng token GHST cho những Aavegotchis hiếm nhất. 
+Những Aavegotchi hiếm không chỉ có giá trị cao trên những [thị trường](/baazaar) thứ cấp, mà còn cho phép Aavegotchi hoạt động tốt hơn trong [rarity farming](/rarity-farming)—một minigame để tặng thưởng token GHST cho những Aavegotchis hiếm nhất. 
 
 Aavegotchi được quản trị bởi[AavegotchiDAO](/dao), có quyền quyết định với tất cả ngân quỹ được sinh ra thông qua quá trình phân bổ [GHST token](/ghst).
 
@@ -41,7 +41,7 @@ Aavegotchi được quản trị bởi[AavegotchiDAO](/dao), có quyền quyết
 
 Aavegotchi là những vật sưu tầm có độ hiếm cư ngụ trên blockchain của Ethereum, được hỗ trợ bởi tiêu chuẩn ERC-721 được dùng trong những game blockchain nổi tiếng như CryptoKitties, Axie Infinity, và Cryptovoxels. Aavegotchis sở hữu ba thuộc tính định hình giá trị chung và độ hiếm của chúng trong vũ trụ Aavegotchi: **collecteral stake (số tiền ký gửi được stake), traits (đặc điểm), và wearables (phụ kiện).**
 
-*  **Collateral stake:** Mỗi Aavegotchi ERC721 NFT sẽ gắn với một địa chỉ hợp đồng ký quỹ lưu trữ tài sản ký gửi theo tiêu chuẩn ERC20 được có được từ Aave Protocol, hay còn gọi là "aToken". [aTokens](/atokens) được tạo ra từ LendingPool (Quỹ Cho Vay) của Aave, với khả năng tăng số lượng aToken nắm giữ trong ví lên. Do đó, lượng aToken được giữ trong địa chỉ ký quỹ của Aavegotchi sẽ tăng lên theo thời gian. 
+*  **Collateral stake:** Mỗi Aavegotchi ERC721 NFT sẽ gắn với một địa chỉ hợp đồng ký quỹ lưu trữ tài sản ký gửi theo tiêu chuẩn ERC20 được có được từ Aave Protocol, hay còn gọi là "aToken". [aTokens](/spirit-force) được tạo ra từ LendingPool (Quỹ Cho Vay) của Aave, với khả năng tăng số lượng aToken nắm giữ trong ví lên. Do đó, lượng aToken được giữ trong địa chỉ ký quỹ của Aavegotchi sẽ tăng lên theo thời gian. 
 
 *  **Đặc điểm: ** Aavegotchi sở hữu nhiều đặc điểm có ảnh hưởng đến độ hiếm, tính hiệu quả khi chơi mini game của chúng, và loại phụ kiện mà chúng có thể trang bị. Một số đặc điểm là bẩm sinh, và những đặc điểm khác lại phụ thuộc vào độ tương tác giữa người chơi và Aavegotchi. **Xem[ Đặc điểm](/traits)**
   
@@ -76,4 +76,4 @@ Vũ trụ Aavegotchi bao hàm tất cả những yếu tố cho phép các Aaveg
 * [Portals](/portals)
 * [Token Tiện ích GHST](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+* [Aavegotchi Realm](/gotchiverse)

@@ -14,13 +14,19 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-可穿戴装备是Aavegotchi游戏的一个重要组成部分。 除了赋予你的Aavegotchi以一种时尚感，穿戴还能提升Aavegotchi的特征和稀有度得分， 使他们能够在 [minigames](https://wiki.aavegotchi.com/minigames)和 [稀有度挖矿](https://wiki.aavegotchi.com/rarity-farming) 中更好地执行任务。
+可穿戴装备是Aavegotchi游戏的一个重要组成部分。 Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), as well as in [rarity farming](/rarity-farming).
 
-此页包含了Aavegotchi游戏中已经确认的每个可穿戴衣服的详细信息。
+Wearables conform to the ERC-1155 standard.
 
-可穿戴设备的设计是由[Xibot](/team#xibot) 和我们的[社区美术师团队](/aartist)完成的。
+This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
 
-有关**可穿戴套装**的信息，请查看[本页面](/sets)!
+Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
+
+For information on **Wearable Sets**, check out this [page](/sets)!
+
+*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
 
 <div class="contentsBox">
 
@@ -28,6 +34,8 @@ contributors:
 
 <ol>
 <li><a href=#key>Key</a></li>
+<li><a href=#voting-power>Voting Power</a></li>
+<li><a href=#weapons>Weapons</a></li>
 <li><a href=#link-themed-set>LINK Themed Set</a></li>
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
 <li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
@@ -52,52 +60,72 @@ contributors:
 <li><a href=#independent-head-items>Independent Head Items</a></li>
 <li><a href=#independent-body-items>Independent Body Items</a></li>
 <li><a href=#consumables>Consumables</a></li>
+<li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
+<li><a href=#auction-wearables>Auction Wearables</a></li>
+<li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
+<li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
+<li><a href=#partnerships-set>Partnerships Set</a></li>
+<li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
 </ol>
 
 </div>
 
 ## Key
 
-Aavegotchis有四个特征，可以通过可穿戴设备进行改变。
+Aavegotchis have four traits that can be modified by wearables.
 
 * AGG = 攻击值
 * NRG = 能量值
 * SPK = 活力值
 * BRN = 脑力值
 
-"眼睛颜色"和 "眼睛形状"的特质不能被穿戴设备修改。
+The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
-*注意：负值并不意味着该性状越来越 "弱"。 Aavegotchi的特质是按钟形曲线分布的，所以极端值(0,1)和(99,100)其实是最好的!*
+*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
 
-关于这个话题的更多信息，请参见[特质](/traits) 。
+See [Traits](/traits) for more about this topic.
 
 ## 可穿戴设备的[基本稀有度得分（BRS）](/rarity-farming#base-rarity-score)
 
-可穿戴设备可以在任何时候穿上或者脱下。 穿上/脱下可穿戴设备可能会影响Aavegotchi的 [整体稀有度](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) 。
+Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
 table_wearablesBRStable
 
+## Voting Power
+
+With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
+
+table_wearablesVotingPower
+
+## Weapons
+
+Certain Wearables have also been selected to be used as [Weapons](/weapons) with the Gotchiverse.
+
+Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+
+Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
+
 ## LINK Themed Set
 
-这些LINK主题的可穿戴设备是由2020年11月的独家限量版Raffle抽奖分发，为了庆祝Aavegotchi与Chainlink的合作关系，尤其是我们使用Chainlink VRF来确保Aavegotchis具有可验证、可证明的随机特征。
+Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
 ## Aave Themed Set
 
-Aave主题套装在2020年12月8日举行的主网上线前的第二场抽奖（总共三场）当中发放的。 这套Aavesome系列是为了庆祝Aavegotchi与Aave社区的友好合作关系。
+The Aave-themed set was distributed in the second of three pre-launch Raffles, held on December 8, 2020. This aavesome collection celebrates the bond between Aavegotchi and the Aave community and leadership team.
 
 table_aaveWearablesTable
 
 ## Ethereum Themed Set
 
-这套以Ethereum为主题的套装是主网上线前的最后一套。
+The Ethereum-themed set is the last of three pre-Mainnet sets.
 
 table_ethereumWearablesTable
 
 ## Aagent Wearables Set
 
-Aagent穿戴式套装是限量版套装，送给所有在Aavegotchi主网上线前完成所有12个特工任务的[12等级Aagents](/missions) 。 图片和数量即将公布!
+The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
 
 table_aagentWearablesTable
 
@@ -111,13 +139,13 @@ table_farmerWearablesTable
 
 ## Santa Wearables Set
 
-我们的一个朋友一不小心向GHST合作地址转账了4000个LINK（约5万美金）。 于是我们在社区发起了捐款募资。 每个向SantaGotchi.eth捐赠价值20美元以上的任何ERC20代币的人，都会被空投一顶限量版的Santagotchi帽子。 [更多信息](https://twitter.com/aavegotchi/status/1339738554906243072) 请看这里。 可穿戴设备的图片将很快出来!  圣诞老人可穿戴套装中的其他物品也将很快推出。
+One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
 ## OKex Wearables
 
-2020年10月7日，Aavegotchi与OKex合作，以OKex的CEO Jay Hao为灵感，打造了一套特别的可穿戴设备。 在OKex平台上存入GHST代币的小伙伴门，就有机会赢得这些可穿戴设备。 150个可穿戴设备可供选择。 前5名的储蓄用户将自动赢得完整的5件套。 剩下的125个NFT将随机奖励给任何存款超过10GHST的人。 点击[这里](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) 获取更多信息。
+On 7 October 2020, Aavegotchi partnered with OKex to create a special set of wearables inspired by Jay Hao, the CEO of OKex. Lucky depositors who deposit their GHST tokens on the OKex platform stood a chance to win these wearables. 150 wearables are available. The top 5 depositors will automatically win the full 5 piece set. But the remaining 125 NFTs will be randomly awarded to anyone who deposits more than 10 GHST. Click [here](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) for more information.
 
 table_okexWearablesTable
 
@@ -184,3 +212,37 @@ table_independentBodyTable
 ## Consumables
 
 table_consumablesTable
+
+## Layer 2 Themed Set
+
+The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
+
+table_layer2WearablesTable
+
+## Auction Wearables
+
+The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+
+This first Aauction features two brand new sets of wearables as well as a fun new common-rarity item. Get ready for gamers, steampunks and even a cup of coffee!
+
+table_auctionWearablesTable
+
+## Aavegotchi x Venly Wearables
+
+A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+
+table_venlyWearablesTable
+
+## Haunt 2 Wearables
+
+table_haunt2Table
+
+## Partnerships Set
+
+The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
+
+table_partnershipsTable
+
+## DeFi RPG Wearables
+
+table_DeFiRPGTable

@@ -29,8 +29,10 @@ Auf dieser Wiki-Seite wird erklärt, wie du Rarity Farming betreiben kannst und 
 <li><a href=#calculating-rarity>Seltenheit berechnen</a></li>
 <p><a href=#base-rarity-score>Base Rarity Score</a></p>
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
-<p> <a href=#final-rarity-score>Final Rarity Score</a></p>
+<p><a href=#final-rarity-score>Final Rarity Score</a></p>
 <li><a href=#rewards>Belohnungen</a></li>
+<p><a href=#rarity-farming-seasons>Rarity Farming Seasons</a></p>
+<p><a href=#collecting-rarity-farming-rewards>Collecting Rarity Farming Rewards</a></p>
 </ol>
 
 </div>
@@ -40,9 +42,9 @@ Es gibt mehrere Möglichkeiten, Rarity Farming zu betreiben. Dazu gehören:
 
 * **Sorgfältige Auswahl eines Aavegotchi mit seltenen Eingenschaften während des [Beschwörungsprozesses](/portals)**
 
-* **Das Ausrüsten von [Kleidungsstücken](/posts/wearables), um die Eigenschaften deines Aavegotchi zu verändern**
+* **Equipping [wearables](/wearables) to modify the traits of your Aavegotchi**
 
-* **Mitmachen in Minispielen**
+* **Engaging in [mini-games](/minigames)**
 
 Für weitere Informationen zu den einzelnen Prozessen, folge einfach den Links zu den jeweiligen Seiten in der Sidebar.
 
@@ -54,53 +56,76 @@ Es gibt 2 Arten von Seltenheitswerten - Base Rarity Score (für Eigenschaften un
 
 ### Base Rarity Score
 
-Der Base Rarity Score (BRS) ergibt sich aus der gesamten Seltenheit der Eigenschaften des Aavegotchi und der ausgerüsteten Kleidungsstücke.
+Base Rarity Score (BRS) is derived from the overall rarity of both the Aavegotchi's traits, equipped wearables, and their [age](/aging-mechanic).
 
 #### BRS von Eigenschaften
 
 Der Base Rarity Score (BRS) der Eigenschaften des Aavegotchis wird mit der folgenden Formel berechnet:
 
-<p style="margin-left: 4.8em"><b>Trait BRS = traitValue >= 50 ? traitValue : 100-traitValue </b> (Programmiersprache)</p> 
-<p style="margin-left: 4.8em"><i>Wenn der Eigenschaftswert grösser oder gleich 50 ist, ist BRS = Eigenschaftswert. </i></p> 
-<p style="margin-left: 4.8em"><i>Wenn der Eigenschaftswert kleiner als 50 ist, ist BRS = 100 - Eigenschaftswert. </i></p>
+```
+if (number < 50) return 100 - number;
+    else return number + 1;
+```
+
+*If trait value is **less than** 50, BRS = 100 - trait value*
+
+*If trait value is **equal to or greater than** 50, BRS = trait value + 1*
 
 #### BRS von Kleidungsstücken
 
-Der BRS von Kleidungsstücken hingegen ist abhängig von seiner Seltenheit. Zum Beispiel bringen seltene [Kleidungsstücke](https://wiki.aavegotchi.com/en/wearables) 5 BRS und göttliche Kleidungsstücke 50 BRS.
+Wearables BRS on the other hand, is dependent on its rarity. For example, rare [wearables](/wearables) yield 5 BRS and godlike wearables 50 BRS.
+
+#### Age
+
+As your gotchi ages, they gain additional BRS. For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 
 ### Absolute Rarity Score
 
-Der Absolute Rarity Score (ARS) ergibt sich aus der besonderen Seltenheit der Eigenschaften des Aavegotchis im gesamten Aavegotchi-Ökosystem. Wenn zum Beispiel viele Spieler ihre Aavegotchis auf die höchste Energiestufe trainiert haben, dann wären die ARS für die hohe Energiestufe - plötzlich niedriger als die der niedrigsten Energiestufe - verschwendet. ARS wird in Form von Perzentilen von 100 für jedes der Aavegotchi-Merkmale berechnet. Wenn also z.B. 5% aller Aavegotchis eine verschwendete Eigenschaft besitzen, dann trägt die verschwendete Eigenschaft zu einem Gesamtscore von 95 zur Energie-Eigenschaft ARS des Aavegotchis bei.
+Absolute Rarity Score (ARS) is derived from the particular rarity of the Aavegotchi's traits in the overall Aavegotchi ecosystem. For example, if a lot of players have trained their Aavegotchis to have highest Energy Level, then the ARS for high Energy Level - TURNT would be lower than that of lowest Energy Level - WASTED. ARS is calculated in terms of percentiles out of 100 for each of the Aavegotchi traits. So if 5% of all Aavegotchis possess a WASTED trait for example, then the WASTED trait will contribute to a total score of 95 to the Aavegotchi's energy trait ARS.
 
 ### Final Rarity Score
 
 <b>Final Rarity Score = BRS von Eigenschaften + BRS von Kleidungsstücken + ARS von Eigenschaften</b>
 
-Ein Beispiel für die Berechnung des Final Rarity Scores ist unten abgebildet:
+Example of the Final Rarity Score calculation is as shown below:
 
 table_RarityScoreCalculationTable
-<p style="margin-left: 2.8em"><i>BRS bezeichnet den Base Rarity Score; ARS bezeichnet den Absolute Rarity Score</i></p>
+<p style="margin-left: 2.8em"><i>BRS denotes Base Rarity Score; ARS denotes Absolute Rarity Score</i></p>
+
+**The formula for ARS is not determined yet. As a result, the values in the ARS column in the above table are imaginary.**
 
 ## Belohnungen
 
-In jeder Periode (Länge wird von AavegotchiDAO festgelegt) erhalten die seltensten Aavegotchis mit den **höchsten Final Rarity Scores** eine Ausschüttung von GHST Belohnungen (abgeleitet von allen Verkäufen, die GHST beinhalten), die von ihren Besitzern eingefordert werden können.
+In each season of Rarity Farming, the rarest Aavegotchis will receive a distribution of GHST rewards (derived from all sales involving GHST) that can be claimed by their owners.
 
-Zu Beginn wird es drei Kategorien von Spielerbelohnungen geben:
-* Top 100 seltenste Aavegotchis (nach BRS, ARS kommt später)
-* Top 100 [Freundschafts](/traits#kinship)-Werte
-* Top 100 [Erfahrungspunkte (EXP)](/traits#experience)
+Initially, there were 3 categories of rarity farming rewards:
 
-Der Anteil der Belohnungen, die den einzelnen Kategorien zugeteilt werden, wird vom AavegotchiDAO entschieden.
+* Aavegotchi Rarity Scores (by BRS, ARS coming later)
+* [Kinship](/traits#kinship) Scores
+* [Experience](/traits#experience)
 
-Weitere Kategorien werden hinzugefügt, wenn sich das Spiel weiter entwickelt.
+For each category, rarity farming rewards are distributed based on a descending curve, with the top few Aavegotchis earning more GHST rewards than other Gotchis who are positioned lower on the curve. There will be a cut-off point where Gotchis below that point do not receive any rewards. So try your best to be above that cut-off point. You will at least win something! (For [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), the top 5000 Gotchis in each category would qualify for rarity farming rewards).
 
-Diese Belohnungen werden alle zwei Wochen über Onchain-Snapshots verteilt. Anfänglich wird dies ein manueller Prozess sein, der von Pixelcraft abgewickelt wird, aber schliesslich vom DAO automatisiert werden kann. Nach jedem Snapshot können die Belohnungen von allen erfolgreichen Rarity Farmer eingefordert werden und die nächste Runde beginnt sofort.
+The proportion of rewards allocated to each of the categories will be decided by the AavegotchiDAO.
 
-Wie werden die GHST-Belohnungen für Rarity Farming finanziert? [40% aller ausgegebenen GHST von Kleidungsstücken, Consumables und anderen Spielgegenständen werden in den Rarity Farming Belohnungspool umgeleitet](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
+More categories will be added later as the Aavegotchi game continues to develop.
 
-Der Final Rarity Score eines Aavegotchis im gesamten Aavegotchi-Universum ändert sich ständig, wenn Spieler mehr Aavegotchis beschwören, mehr Kleidungsstücke ausrüsten und ihre Aavegotchis aufleveln. So müssen die Spieler strategische Entscheidungen treffen, wie sie ihre Aavegotchis trainieren und ausrüsten. So fördert das Rarity Farming von Aavegotchi ein durchdachtes Gameplay und eine aktive Beteiligung der Nutzer, während die besten Farmer für ihre geisterhaften Ernten belohnt werden.
+Player Rewards will be distributed every two weeks via onchain snapshots. Initially, this will be a manual process handled by Pixelcraft, but eventually can be automated by the DAO. After each snapshot, rewards can be claimed by all successful rarity farmers and the next round immediately begins.
 
-Derzeit gibt es kein Limit, wie viele Interaktionen ein Aavegotchi pro Periode durchführen kann. Sollte Bot-Aktivität jedoch zu einem Problem werden, könnte der AavegotchiDAO über das Hinzufügen von Sicherungen abstimmen, um die Bot-Aktivität zu reduzieren.
+How are the GHST rewards for Rarity Farming funded? [40% of all GHST spent from wearables, consumables, and other game items are redirected into the Rarity Farming rewards pool](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
 
+The final rarity score of an Aavegotchi in the overall Aavegotchi Universe is constantly shifting as players summon more Aavegotchis, equip more wearables, and level up their Aavegotchis. Thus, players must make strategic decisions on how they train and equip their Aavegotchis. That is how Aavegotchi's rarity farming encourage thoughtful gameplay and active participation from users, while rewarding the best farmers for their ghostly harvests.
 
+There is currently no limit to how many interactions an Aavegotchi can perform each period, but if bot activity became a problem then the AavegotchiDAO could vote to add circuit breakers to reduce bot activity.
 
+### Rarity Farming Seasons
+
+Rarity Farming is divided into different seasons. Each season has its own competition categories, size of reward pool, and reward distribution curve.
+
+For data pertaining to the Rarity Farming Seasons, check out this [page](/rarity-farming-seasons).
+
+### Collecting Rarity Farming Rewards
+
+Rarity Farming Rewards are disbursed to your Aavegotchi inventories (Yes! Each of your Aavegotchi has their own personal inventory!).
+
+First, head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on any one of your Aavegotchi. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on it to view your Aavegotchi's inventory. You can see the amount of GHST your Gotchi has won from Rarity Farming (as well as their equipped wearables).

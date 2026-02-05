@@ -32,11 +32,12 @@ Aavegotchi уделяют много внимания распределению
 
 <ol>
 <li><a href=#token-distribution>Распределение токенов</a></li>
-<li><a href=#revenue-sharing-overview>Распределение доходов</a></li></p>
-<p><a href=#rarity-farming>Фарминг Редкости</a></p>
-<p><a href=#dao-governance>Управление DAO</a></p>
-<p><a href=#burn-baby-burn>Сжигание токенов. ГОРИ ДЕТКА ГОРИ</a></p>
-<p><a href=#development-team>Команда разработчиков</a></p>
+<li><a href=#revenue-sharing-overview>Распределение доходов</a></li>
+<p><a href=#earn-it>EARN IT</a></p>
+<p><a href=#dao-it>DAO IT</a></p>
+<p><a href=#burn-it>BURN IT</a></p>
+<p><a href=#buidl-it>BUIDL IT</a></p>
+<li><a href=#historical-changes>Historical Changes</a></li>
 </ol>
 
 </div>
@@ -66,7 +67,7 @@ GHST токен распределялся в три стадии. Это час
 
 Участники частной продажи и пресейла получили токены GHST с вестингом на 1 год, начиная с момента закрытия раунда пресейла. Спустя 180 дней состоится релиз 50% оставшихся токенов, а эмиссия остатка произойдет в течение последующих 185 дней.
 
-Подробнее об этом читайте в [Aavegotchi Вайтпейпер](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) и [Комьюнити обновления #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451).
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 
 **Публичная продажа через Изогнутую Кривую**
@@ -95,56 +96,55 @@ GHST токен распределялся в три стадии. Это час
 
 Как распределяются токены GHST, потраченные на порталы и wearables?
 
-С помощью этой диаграммы можно понять, как происходит распределение средств:
+We've made a handy diagram explaining Revenue Sharing V2:
 <div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Токеномика Aavegotchi">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Токеномика Aavegotchi">
 </div>
 
-Сейчас мы расскажем о принципе распределения более подробно.
+Read on to learn about the various categories in more detail.
 
+## EARN IT
 
-## Фарминг Редкости
-
-Одна из главных частей взаимодействия игрока и Aavegotchi — проводить время со своими Gotchi и оснащать их wearables. Для постоянной стимуляции взаимодействия с игровой экосистемой, часть доходов с продажи порталов и амуниции пойдет на вознаграждение ТОПовых фармеров редкости.
+A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). Для постоянной стимуляции взаимодействия с игровой экосистемой, часть доходов с продажи порталов и амуниции пойдет на вознаграждение ТОПовых фармеров редкости.
 
 На вознаграждения планируется выделять **40%** ото всех заработанных токенов GHST.
 
 На старте игры будет три категории вознаграждений для игроков:
 
 * 100 самых редких Aavegotchi (по [BRS](/rarity-farming#base-rarity-score))
-* Топ 100 по уровню [Kinship](/traits#kinship)
+* Top 100 [Kinship](/kinship) Scores
 * Топ 100 по [очкам опыта (XP)](/traits#experience)
 
-Для вознаграждения победителей всех трех категорий предназначено **40%** от всех заработанных GHST. Пока еще не утверждены точные проценты наград, — за них проголосуют в AavegotchiDAO.
+Для вознаграждения победителей всех трех категорий предназначено **40%** от всех заработанных GHST. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
 По мере развития игры будут добавляться другие категории.
 
-Награды будут распределяться среди лучших **каждые две недели** на основании ончейн снепшотов.
+When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
 
-## Управление DAO
+## DAO IT
 
-Власть сообщества является руководящим принципом игрового проекта Aavegotchi. В обязанности DAO будет входить управление казначейством, денежные средства которого могут быть потрачены на любую инициативу, если за нее проголосует большинство. (Может быть, картинка Waifu?)
+Власть сообщества является руководящим принципом игрового проекта Aavegotchi. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Может быть, картинка Waifu?)
 
-Первоначально **10%** выручки будут поступать в казну DAO. По мере развития DAO этот процент может увеличиться. Конечная цель состоит в том, чтобы своими решениями DAO эффективно управляла проектом и даже обновляла протокол. Хотя это, скорей всего, будет достигнуто только через пару лет (ведь проект Aavegotchi стартовал только в середине 2020 года), но команда проекта на это очень надеется.
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). По мере развития DAO этот процент может увеличиться. Конечная цель состоит в том, чтобы своими решениями DAO эффективно управляла проектом и даже обновляла протокол. Хотя это, скорей всего, будет достигнуто только через пару лет (ведь проект Aavegotchi стартовал только в середине 2020 года), но команда проекта на это очень надеется.
 
 
-## Сжигание токенов. ГОРИ ДЕТКА ГОРИ
+## BURN IT
 
 Чтобы хорошо разбираться в этом процессе, нужно познакомиться с [изогнутой кривой](/curve) GHST и с тем, как она работает. После чего вы сможете понять, как работает механизм увеличения ликвидности.
 
-**33%** всех токенов GHST, заработанных через портал и продажи цифровых объектов, будут сжигаться. Безвозвратно. Да, вы не ошиблись.
+**5%** of all GHST earned via portal and item sales will be burned. Безвозвратно. Да, вы не ошиблись.
 
-Столь высокий показатель связан с тем, что GHST — это токен с динамическим предложением. По мере активизации спроса растет предложение, поэтому с помощью регулярного сжигания не провоцируется быстрая дефляция (удешевление) токена. Обычно, дефляция — это большая проблема для токенов с фиксированным саплаем.
+GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. Обычно, дефляция — это большая проблема для токенов с фиксированным саплаем.
 
 Сжигание GHST служит дефляционным противовесом, который снижает давление на стоимость токенов, возникающее из-за выдачи игровых вознаграждений токенами GHST.
 
 Отправка GHST для сжигания также блокирует DAI в кривой связывания, создавая нижний предел цены для GHST. От этого выигрывают все стороны, так как обеспечивается лучшая ликвидность для покупателей и продавцов на кривой (говоря другими словами, снижается показатель проскальзывания slippage), уменьшается циркулирующее предложение и обеспечивается стабильность [tap-механизма DAICO](/curve#aavegotchi-daico).
 
 
-## Команда разработчиков
+## BUIDL IT
 
-Вот последняя сфера траты доходов, но не менее важная, — **17%** дохода поступает команде разработчиков. В конце концов, им нужна поддержка, чтобы они могли сосредоточиться на решении важных задач в создании DeFi и NFT продуктов для всех нас.
+Last, but most definitely not least, **40%** of revenue goes to the development team. В конце концов, им нужна поддержка, чтобы они могли сосредоточиться на решении важных задач в создании DeFi и NFT продуктов для всех нас.
 
 Как говорится, все мы люди. Плохо согласованная стимуляция разработчиков может принести больше проблем для проекта, чем ее отсутствие, и Aavegotchi надеется это предотвратить.
 
@@ -154,13 +154,18 @@ GHST токен распределялся в три стадии. Это час
 
 Кривая связывания Aavegotchi решает эту проблему, сообщество с помощью tap-механизма распределяет DAI из резерва и каждый месяц передает Pixelcraft Studios (ведущие разработчики Aavegotchi), чтобы обеспечить рабочий бюджет для поддержки проекта.
 
-Кроме того, Pixelcraft также будет получать 17% всех доходов от GHST, которые будут использоваться для стимулирования ликвидности, бесплатных раздач и других рекламных мероприятий, требующих GHST.
-
-
+Additionally, Pixelcraft will also receive 40% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
 
 **Подведем итоги**
 
 Одним из главных плюсов криптопроекта и того, что в игре постоянно появляются новые игроки, является тот факт, что это не антагонистическая игра, т. е. не проект с нулевой суммой. У всех членов сообщества и разработчиков есть шанс добиться совместного успеха, особенно в DAO. Вопрос в том, как лучше это реализовать. Понимание токеномики проекта дает нам хорошую отправную точку.
 
-Читайте и играйте. До скорой встречи на луне, Аагенты! 
+Читайте и играйте. До скорой встречи на луне, Аагенты!
 
+## Historical Changes
+
+The following table details the percentage changes in each category across Revenue Sharing versions:
+
+table_revenueSharing
+
+The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).

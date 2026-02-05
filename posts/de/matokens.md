@@ -12,55 +12,40 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on Polygon? Natürlich bekommst du maTokens!
+What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Natürlich bekommst du maTokens!
 
-Diese Seite ist eine Fortführung der [aTokens](/atokens) Seite. Zuvor haben wir uns einige aTokens besorgt. Jetzt sind wir daran interessiert, sie in maTokens umzuwandeln und sie als Sicherheit zu benutzen, um unsere Aavegotchis zu beschwören!
+There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
 
 <div class="contentsBox">
 
 **Inhalte**
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>Konvertieren von aTokens zu maTokens</a></li>
-<li><a href=#staking-matokens-into-aavegotchis>Aavegotchis mit maTokens besichern</a></li>
-<li><a href=#learn-more>Weitere Infos</a></li>
+<li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
+<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
 
-## Konvertieren von aTokens zu maTokens
+## Staking maTokens into Aavegotchis
 
-First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
+Okay, I've gotten myself some maTokens. What now?
 
-<img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
+Good work fren.
 
-Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
+The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
 
-<img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
+For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
 
-After selecting the token, key in the amount you want to transfer to Polygon. Using aUSDC as an example, key in the amount you would like to transfer to Polygon in the box highlighted in red.
+## Problems while staking Spirit Force
 
-<img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
+There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
 
-Sobald du den gewünschten Betrag eingegeben hast, klicke auf die Schaltfläche "Approve Transfer". Warte darauf, dass die Transaktion auf Ethereum durchgeführt wird.
+* You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
+* The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
 
-After the Approve transaction goes through, click the "Transfer to Polygon" button. Warte darauf, dass diese Transaktion auch auf Ethereum durchgeführt wird.
-
-Nachdem du das getan hast, warte etwa 10 Minuten, bis deine maTokens in deiner Wallet erscheinen.
-
-If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
-
-## Aavegotchis mit maTokens besichern
-
-Okay, ich habe mir ein paar maTokens besorgt. Was nun?
-
-Gut gemacht!
-
-Der nächste Schritt ist ein [Portal](/portale) mit [GHST](/ghst) zu kaufen. Portale können in der Aavegotchi dApp (Link wird beim Launch zur Verfügung gestellt) oder auf den [Sekundärmärkten](/marketplace) wie Opensea gekauft werden. Sobald du ein kostbares Portal in die Hände bekommen hast, ist es an der Zeit, den Beschwörungsprozess zu beginnen. Wenn du das Portal öffnest, werden dir 10 Gotchis präsentiert, jedes mit einem randomisierten, erforderlichen maToken. Hier kommen die maTokens ins Spiel, die du erworben hast. Hinterlege sie bei dem Gotchi, das den gleichen aToken-Typ hat und erwecke deinen neuen Freund zum Leben!
-
-Für eine detailliertere Erklärung des Öffnungsprozesses eines Portals, besuche unsere Seite über [Portale](/portals).
-
-## Weitere Informationen
+## Learn more
 
 * [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
-* Nick Mudge taucht ein in die [Technischen Details des maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+* Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)

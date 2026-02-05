@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Wearables'
-description: 'All about Aavegotchi Wearables'
+date: '2014-04-26T22:00:00.000Z'
+title: 'Элементы экипировки'
+description: 'Все об экипировке в Аавеготчи'
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -11,23 +11,31 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/wearables/sergey-blue.png">
-<p class="headerImageText">The Sergey Blue Plaid</p>
+<p class="headerImageText">Синий плед Сержа</p>
 </div>
 
-Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [minigames](https://wiki.aavegotchi.com/minigames), as well as in [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
+Элементы экипировки являются незаменимой частью игры Аавеготчи. С их помощью можно придать особый стиль вашему Готчи, а также повлиять на его черты и повысить уровень редкости. Благодаря экипировке Готчи может лучше проявлять себя в [мини-играх](/minigames) и [фарминге](/rarity-farming), получая приятные подарки за свой уровень редкости.
 
-This page contains detailed information about every wearable that has been confirmed in the Aavegotchi game.
+Элементы экипировки соответствуют стандарту ERC-1155.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist).
+На данной странице нашей ВИКИ вы можете увидеть информацию обо всех элементах экипировки, имеющихся в игровом проекте.
+
+Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
 
 For information on **Wearable Sets**, check out this [page](/sets)!
 
+*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
+
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#key>Key</a></li>
+<li><a href=#key>Расшифровка.</a></li>
+<li><a href=#voting-power>Право голоса экипировки.</a></li>
+<li><a href=#weapons>Weapons</a></li>
 <li><a href=#link-themed-set>LINK Themed Set</a></li>
 <li><a href=#aave-themed-set>Aave Themed Set</a></li>
 <li><a href=#ethereum-themed-set>Ethereum Themed Set</a></li>
@@ -51,19 +59,25 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#independent-drink-items>Independent Drink Items</a></li>
 <li><a href=#independent-head-items>Independent Head Items</a></li>
 <li><a href=#independent-body-items>Independent Body Items</a></li>
-<li><a href=#consumables>Consumables</a></li>
+<li><a href=#consumables>Расходники.</a></li>
+<li><a href=#layer-2-themed-set>Layer 2 Themed Set</a></li>
+<li><a href=#auction-wearables>Auction Wearables</a></li>
+<li><a href=#aavegotchi-x-venly-wearables>Aavegotchi x Venly Wearables</a></li>
+<li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
+<li><a href=#partnerships-set>Partnerships Set</a></li>
+<li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
 </ol>
 
 </div>
 
-## Key
+## Расшифровка
 
 Aavegotchis have four traits that can be modified by wearables.
 
-* AGG = Aggressiveness
-* NRG = Energy
-* SPK = Spookiness
-* BRN = Brain Size
+* AGG = Уровень агрессии.
+* NRG = Показатель энергии.
+* SPK = Насколько жуткий Готчи.
+* BRN = Показатель интеллекта.
 
 The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
@@ -71,11 +85,25 @@ The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
 See [Traits](/traits) for more about this topic.
 
-## Wearables [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score)
+## Предметы экипировки и [базовый показатель редкости (BRS)](/rarity-farming#base-rarity-score)
 
 Wearables can be equipped or unequipped at any time. Equipping/unequipping wearables may affect the [overall rarity](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) of an Aavegotchi:
 
 table_wearablesBRStable
+
+## Право голоса экипировки
+
+With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in [AavegotchiDAO](/dao). The voting power (measured in GHST) of a given wearable is based on its Rarity Type/[Maall](/maall) price.
+
+table_wearablesVotingPower
+
+## Weapons
+
+Certain Wearables have also been selected to be used as [Weapons](/weapons) with the Gotchiverse.
+
+Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the Aarena), Lickquidators, Enemies, and Waalls.
+
+Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
 
 ## LINK Themed Set
 
@@ -181,6 +209,40 @@ table_independentHeadTable
 
 table_independentBodyTable
 
-## Consumables
+## Расходники.
 
 table_consumablesTable
+
+## Layer 2 Themed Set
+
+The Fourth Raffle, celebrating the launch of Aavegotchi on [Polygon](/polygon).
+
+table_layer2WearablesTable
+
+## Auction Wearables
+
+The First "Bid-to-Earn Auction" was held from Thursday, 15 July to Sunday, 18 July 2021. Bid-to-Earn auctions are powered by the technologies of our frens at GBM.auction. Learn why this NFT distribution method offers huge advantages over older models by visiting their site and reading [our published Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+
+This first Aauction features two brand new sets of wearables as well as a fun new common-rarity item. Get ready for gamers, steampunks and even a cup of coffee!
+
+table_auctionWearablesTable
+
+## Aavegotchi x Venly Wearables
+
+A collaboration between Aavegotchi and Venly to introduce Aavegotchi to a massive NFT gaming audience. Read this [post](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) for more information.
+
+table_venlyWearablesTable
+
+## Haunt 2 Wearables
+
+table_haunt2Table
+
+## Partnerships Set
+
+The Fifth Raffle is inspired Aavegotchi’s frenliest partnerships.
+
+table_partnershipsTable
+
+## DeFi RPG Wearables
+
+table_DeFiRPGTable

@@ -7,6 +7,7 @@ image: "IMAGE HERE"
 contributors:
   - "appellants"
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
@@ -25,21 +26,43 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 
 <ol>
 <li><a href=#aavegotchi-related>Aavegotchi-verwandt</a></li>
+<p><a href=#aarchitect>Aarchitect</a></p>
+<p><a href=#aartist>Aartist</a></p>
 <p><a href=#aavegotchi>Aavegotchi</a></p>
-<p><a href=#frens>FRENS</a></p>
+<p><a href=#baadge>Baadge</a></p>
+<p><a href=#baard>Baard</a></p>
+<p><a href=#drop-tickets>Drop Tickets</a></p>
+<p><a href=#gotchi-pocket>Gotchi Pocket</a></p>
+<p><a href=#gotchus-alchemica-exchange>Gotchus Alchemica Exchange</a></p>
+<p><a href=#haunts>Haunts</a></p>
+<p><a href=#raffle-tickets>Raffle Tickets</a></p>
 <p><a href=#spirit-force>Spirit Force</a></p>
 <p><a href=#spirit-point>Spirit Point</a></p>
+<p><a href=#ugotchi-token>uGOTCHI Token</a></p>
 <p><a href=#wearables>Kleidungsstücke</a></p>
+<li><a href=#gotchiverse-specific>Gotchiverse-specific</a></li>
+<p><a href=#lickquidator>Lickquidator</a></p>
+<p><a href=#realm-parcel>REALM Parcel</a></p>
+<p><a href=#installations>Installations</a></p>
+<p><a href=#gotchus-alchemica>Gotchus Alchemica</a></p>
+<p><a href=#vortex>Vortex</a></p>
+<p><a href=#spillover>Spillover</a></p>
+<p><a href=#spillover-rate>Spillover Rate</a></p>
+<p><a href=#spillover-radius>Spillover Radius</a></p>
+<p><a href=#alchemical-channeling>Alchemical Channeling</a></p>
+<p><a href=#aesthetica>Aesthetica</a></p>
+<p><a href=#tile>Tile</a></p>
 <li><a href=#defi-101>DeFi 101</a></li>
+<p><a href=#amtokens>amTokens</a></p>
 <p><a href=#apy>APY</a></p>
 <p><a href=#atokens>aTokens</a></p>
-<p><a href=#collateral>Sicherheiten/Collateral</a></p>
+<p><a href=#automated-market-maker>Automated Market Maker</a></p>
+<p><a href=#collateral>Collateral</a></p>
 <p><a href=#daico>DAICO</a></p>
 <p><a href=#dao>DAO</a></p>
 <p><a href=#dex>DEX</a></p>
-<p><a href=#flash-loans>Flash Loans</a></p>
 <p><a href=#impermanent-loss>Impermanent Loss</a></p>
-<p><a href=#liquidity-pools>Liquiditätspools</a></p>
+<p><a href=#liquidity-pools>Liquidity Pools</a></p>
 <p><a href=#matokens>maTokens</a></p>
 <p><a href=#oracles>Oracles</a></p>
 <p><a href=#smart-contracts>Smart Contracts</a></p>
@@ -47,11 +70,14 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 <p><a href=#yield-farming>Yield Farming</a></p>
 <li><a href=#general-terms>Allgemeine Begriffe</a></li>
 <p><a href=#aragon>Aragon</a></p>
-<p><a href=#bell-curve>Glockenkurve</a></p>
+<p><a href=#bell-curve>Bell Curve</a></p>
+<p><a href=#chainlink-vrf>Chainlink VRF</a></p>
 <p><a href=#diamond-standard>Diamond Standard</a></p>
 <p><a href=#erc-20>ERC-20</a></p>
 <p><a href=#erc-721>ERC-721</a></p>
 <p><a href=#erc-998>ERC-998</a></p>
+<p><a href=#erc-1155>ERC-1155</a></p>
+<p><a href=#gbm-auction>GBM Auction</a></p>
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
@@ -63,165 +89,259 @@ Wenn du mit dem Lesen fertig bist und hoffentlich ein besseres Verständnis für
 
 ## Aavegotchi-verwandt
 
-### Aavegotchi
-Aavegotchis sind pixelförmige Geister, die auf der Ethereum Blockchain leben und durch den ERC-721 Standard unterstützt werden. Ihr Wert wird durch die [Seltenheitsstufe](/rarity-farming) bestimmt, die über mehrere Faktoren berechnet wird, wie z.B. Basis-Eigenschaften, Menge an [hinterlegten Sicherheiten](atokens) und ausgerüstete [Kleidungsstücke](/wearables).
+### Aarchitect
+Our community developers! Check out some of the [tools](/developers) and [mini-games](/minigames#community-created-mini-games) they have created. Get to know our Aarchitects [here](/aarchitect).
 
-### FRENS
-Punkte, die an Benutzer vergeben werden, die GHST staken. FRENS ist kein Token. Technisch gesehen handelt es sich um ein Guthaben innerhalb des Staking Contracts. FRENS sind nicht übertragbar und dienen dazu, Staker für ihren Beitrag zum Aavegotchi-Projekt zu belohnen.
+### Aartist
+Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
+
+### Aavegotchi
+Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+
+### Baadge
+Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
+
+Baadges could be earned in a variety of ways:
+
+* Getting into the Top 10/100 for [Rarity Farming](/rarity-farming)
+* Participating in an event
+* Voting in a major [AavegotchiDAO](/dao) vote
+* Breaking a [mini-game's](/minigames) high score
+* .....And many more!
+
+Keep your eyes out for more Baadges. They will be announced by the team as and when they become available.
+
+Check out the [Baadge](/baadge) page for the complete list of Baadges.
+
+### Baard
+Enjoying those lovely chiptunes in some of our mini-games? They are created by our [Baards](/baard), our community musicians!
+
+### Drop Tickets
+Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaar](/baazaar). Each Drop Ticket represents one entry into the NFT Raffles, where you can win Aavegotchi [Portals](/portals) and [REALM Parcels](/gotchiverse).
+
+Raffle Tickets could also be converted into Drop Tickets.
+
+### Gotchi Pocket
+Each Aavegotchi has a Gotchi Pocket. This serves as an inventory for them, allowing them to store equipped wearables, GHST tokens received from [rarity farming](/rarity-farming), and [Baadges](/baadge).
+
+Technically, a Gotchi Pocket is an escrow address.
+
+### Gotchus Alchemica Exchange
+
+The native Decentralized Exchange (DEX) of Aavegotchi. It will support the trading of GHST-Gotchus Alchemica pairs. Check out the [Gotchus Alchemica Exchange (GAX) page](/gotchus-alchemica-exchange) for more.
+
+### Haunts
+[Haunts](/haunt) are the editions of Aavegotchis. Haunt numbers are generated sequentially (e.g. Haunt 2 comes after Haunt 1) and these numbers are indicated on the Aavegotchi. There is no stats differences between Haunts.
+
+### Raffle Tickets
+Raffle Tickets are tickets that are used to enter Raffles to win limited edition [wearables](/wearables). Raffle tickets are consumed upon use.
+
+Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
 
 ### Spirit Force
-Spirit Force bezieht sich auf die Menge an Sicherheiten (aTokens), die im Gotchi eingeschlossen sind.
+Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
 
 ### Spirit Point
-Spirit Point bezieht sich auf einen Punkt, den ein Gotchi erhält, wenn es auflevelt. Ähnlich wie Stats-Punkte in RPG-Spielen. Du erhältst 1 Spirit Point alle 3 Level.
+Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
+
+### uGOTCHI Token
+uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+
+The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
+
+The Collection's Aavegotchis are still able to participate in Rarity Farming.
+
+On 16 May 2021, Pixelcraft introduced Unopened Portal 2, the third lowest tokenID of Haunt 1, into the uGOTCHI collection.
+
+For more details on the The Aastronauts and the uGOTCHI Token, check out the [uGOTCHI Page](/ugotchi).
 
 ### Kleidungsstücke
-Kleidung/Ausrüstung, die dein Aavegotchi trägt. Sie entsprechen dem ERC-1155 Standard.
+Clothing/equipment that your Aavegotchi wears. They conform to the [ERC-1155 standard](/glossary#erc-1155). Each wearable has their own rarity, stats that they improve or worsen, a maximum quantity, and an equipment slot that they take up.
+
+Wearables can be won in Aavegotchi raffles or bought in the [Aavegotchi Maall](/maall) with [GHST tokens](/ghst).
+
+## Gotchiverse-specific
+
+### Lickquidator
+The mortal enemies of Aavegotchis. Also, technically, their creators. Has a rapacious appetite for yield.
+
+### REALM Parcel
+
+ERC721 NFT land owned in the Gotchiverse. Can equip Installations (Aaltar, Haarvester) and Tiles. Can also be surveyed and farm Alchemica.
+
+### Installations
+ERC-1155 NFTs that can be placed on top of a REALM Parcel. Some have various purposes and utilities, and some are purely aesthetic.
+
+### Gotchus Alchemica
+The building blocks of the Gotchiverse. Used to craft Installations and Tiles. Read the [Gotchus Alchemica page](/gotchus-alchemica) for more information.
+
+### Vortex
+A powerful portal between the Nether Realm (Gotchiverse) and Ether Realm (Ethereum) through which tokens can flow.
+
+### Spillover
+Alchemica spread onto the surface of the Gotchiverse, whether by Alchemical Channeling, Reservoir emptying, or other special events.
+
+### Spillover Rate
+The percentage of Alchemica that is spilled over during Alchemical Channeling or Reservoir emptying.
+
+### Spillover Radius
+The distance that Alchemica is spilled during Alchemical Channeling or Reservoir emptying.
+
+### Alchemical Channeling
+A ritual that summons Alchemica from the Gotchiverse to fall nearby an Aavegotchi.
+
+### Aesthetica
+A subset of Installations. Purely  a e s t h e t i c .
+
+### Tile
+An ERC-1155 NFT that can be placed on a REALM parcel. Rests underneath the Installation layer.
 
 ## DeFi 101
 
-"DeFi" steht für **De**centralized **Fi**nance. Man kann es sich als ein Ökosystem von Anwendungen und Protokollen vorstellen, die ähnliche Dienste wie traditionelle Finanzinstitutionen anbieten (z.B. Kreditvergabe, Kreditaufnahme, Verzinsung von Sparguthaben, etc.). Es gibt jedoch einen entscheidenden Unterschied - DeFi zielt darauf ab, dies dezentral und ohne Drittpartei zu tun.
+"DeFi" stands for **De**centralized **Fi**nance. It can be thought of as an ecosystem of applications and protocols that provide similar services to traditional financial institutions (ie, lending, borrowing, and accruing interests from saving, amongst others). However, there is one key difference - DeFi aims to do this in a decentralized manner with no middle man.
 
+That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
 
-Das bedeutet, dass keine Banken einen Anteil an deinen potenziellen Einkünften nehmen oder dir Negativzinsen anbieten. Das bedeutet auch, dass es keinen zentralen Punkt des Versagens gibt, an dem das gesamte System kollabieren könnte. Es gibt auch keine Regeln, die von einer kleinen Gruppe mit konzentrierter Macht beschlossen und umgesetzt werden.
-
-
-Zum Zeitpunkt der Erstellung dieses Artikels (5. Dezember 2020) liegt der Gesamtwert in DeFi bei 14,24 Mrd. USD.
-
-## Wichtige Begriffe
+### amTokens
+amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
 
 ### APY
-APY steht für Annual Percentage Yield. Dies ist die reale Rendite, die du auf deine Ersparnisse, die du in ein Protokoll eingezahlt hast, erhältst. Dabei wird der Effekt des Zinseszinses berücksichtigt.
+APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
 
 ### aTokens
-aTokens sind zinstragende Tokens des [Aave Protokolls](https://aave.com/). Eine Schritt-für-Schritt-Anleitung, wie du aTokens bekommst, findest du auf unserer [aTokens](/atokens) Seite.
+aTokens are interest-bearing tokens from the [Aave Protocol](https://aave.com/). For step-by-step instructions as to how to get aTokens, please refer to our [Spirit Force](/spirit-force) page.
 
-### Sicherheiten/Collateral
-Sicherheiten sind ein ziemlich simples Konzept. Es bezieht sich auf einen Vermögenswert, den du als Garantie für einen Kreditgeber hinterlegen kannst, wenn du dir Geld von ihm leihst. Wenn du deinen Kredit nicht zurückzahlen kannst, werden deine Sicherheiten verwendet, um die Schulden zu begleichen.
+### Automated Market Maker
+A type of decentralized exchange (DEX) protocol that relies on a mathematical formula to price assets. Instead of using an order book like a traditional exchange, assets are priced according to a pricing algorithm.
 
+This formula can vary with each protocol. For example, Uniswap uses x * y = k, where x is the amount of one token in the liquidity pool, and y is the amount of the other. In this formula, k is a fixed constant, meaning the pool’s total liquidity always has to remain the same. Other AMMs will use other formulas for the specific use cases they target. The similarity between all of them, however, is that they determine the prices algorithmically.
 
-Im Kontext von DeFi könnte es ungefähr so aussehen:
+An AMM works similarly to an order book exchange in that there are trading pairs – for example, ETH/DAI. However, traders don't need to have a counterparty (another trader) on the other side to make a trade. Instead, they interact with a smart contract that “makes” the market for you.
 
+### Collateral
+Collateral is a pretty straightforward concept. It refers to an asset you might put down as a form of guarantee to a lender, when borrowing money from them. If you cannot pay back your loan, your collateral will be used to pay your debt.
 
-Sagen wir, du willst dir ein paar Assets aus einem Protokoll leihen. Dafür musst du einen Teil deines sonstigen Vermögens als Sicherheit hinterlegen. Wenn du deinen Kredit nicht zurückzahlst, wird das Protokoll deine Sicherheiten nicht an dich zurückgeben.
+In the context of DeFi, this is how things might look:
 
-Im Aavegotchi Metaverse sind Sicherheiten auch als [Spirit Force](/glossary#spirit-force) bekannt.
+Let's say you want to borrow some assets from a protocol. For this to happen, you will need to set down a portion of your other assets as collateral. If you don't pay your loan back, the protocol will not release your collateral back to you.
+
+In the Aavegotchi metaverse, collaterals are also known as [Spirit Force](/glossary#spirit-force).
 
 ### DAICO
-Steht für Decentralized Autonomous Initial Coin Offering. Es ist eine neue Fundraising-Methode, die versucht, die besten Eigenschaften einer [Dezentralen Autonomen Organisation (DAO)](/glossary#dao) mit denen eines Initial Coin Offering (ICO) zu verbinden. Dadurch soll eine Struktur geschaffen werden, die dem Token-Sale-Fundraising-Modell ein höheres Mass an Effektivität verleiht. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
+Stands for Decentralized Autonomous Initial Coin Offering. It is a new fundraising method that seeks to incorporate the best features of a [Decentralized Autonomous Organization (DAO)](/glossary#dao) with those of an Initial Coin Offering (ICO) in order to create a structure that provides a higher level of effectiveness to the token sale fundraising model. Ein DAICO ist ein Modell, bei dem die Investoren die Kontrolle über die gesammelten Gelder haben, sobald das Fundraising vorbei ist. Die Investoren können durch einen "Tap" Mechanismus Einfluss darauf nehmen, wie die Entwickler Zugang zu den Geldern haben und mit welcher Regelmässigkeit. Ausserdem können die Investoren auch für den Ausstieg aus dem Projekt stimmen und ihre Gelder zurückbekommen.
 
 ### DAO
-Auch bekannt als Dezentralized Autonomous Organization. Das sind Organisationen, deren Regeln in Smart Contracts kodiert sind und die von ihren Mitgliedern kontrolliert werden. Dies steht im Gegensatz zu traditionellen Organisationsmodellen, die oft dazu neigen, von einer kleinen Gruppe von Autoritätspersonen regiert zu werden.
+Otherwise known as a Decentralized Autonomous Organization. These are organizations that are organizations governed by rules as encoded by smart contracts and controlled by its members. This is as opposed to traditional organizational models, which often tend to be governed by a small group of authority figures.
 
-Im Kontext des AavegotchiDAO bedeutet dies, dass die Mitglieder des Ökosystems in der Lage sein werden, Vorschläge zu unterbreiten und darüber abzustimmen. Dies wird Einfluss darauf haben, wie das gesamte Ökosystem funktionieren wird. Die Mitglieder könnten zum Beispiel vorschlagen, die Anzahl der verfügbaren Portale im Laufe der Zeit zu erhöhen, neben jeder anderen Funktion, die ihrer Meinung nach der Community helfen würde.
+In the context of the AavegotchiDAO, what this means is that members of the ecosystem will be able to initiate and vote on proposals that will influence how the larger ecosystem will run. For instance, members might propose to increase the number of Portals available over time, amongst any other feature that they feel would help improve the community.
 
-Eine ausführlichere Erklärung zu DAOs findest du auf [dieser Seite](https://blockchainhub.net/dao-decentralized-autonomous-organization/).
-
-
+For more a more detailed explainer on DAOs, check out [this page](https://blockchainhub.net/dao-decentralized-autonomous-organization/) .
 
 ### DEX
-Auch bekannt als dezentrale Börse (Decentralized Exchange). Solche Plattformen ermöglichen es den Nutzern, Transaktionen direkt Peer-to-Peer abzuwickeln, um mit Hilfe von Smart Contracts Tokens in die eigene Wallet zu erhalten. Dies steht im Gegensatz zur Funktionsweise von CEXs (Centralized Exchanges), die über einen Zwischenhändler (die zentrale Börse selbst) funktionieren.
+Otherwise known as a Decentralized Exchange. Such platforms allow users to handle transactions in a peer-to-peer manner, to obtain tokens through a user's own wallet with the help of smart contracts. This is as opposed to the way CEXs (Centralized Exchanges) work, which operate through a middleman (the CEX itself).
 
+Some examples of DEXs include UniSwap, SushiSwap, and Balancer.
 
-Einige Beispiele für DEXe sind Uniswap, Mesa und Balancer.
-
-
-Einige Beispiele für CEXs sind Binance, Coinbase und OKEx.
-
-
-### Flash Loans
-Erinnerst du dich, was wir oben über Kredite und Sicherheiten geschrieben haben? Nun, Flash Loans sind eine Form von Krediten, die die Notwendigkeit von Sicherheiten umgehen. Allerdings gibt es einen Haken.
-
-Die Flash Loan muss innerhalb desselben Transaktionsblocks zurückgezahlt werden.
-
-Wenn dies nicht geschieht, wird die gesamte Transaktion aufgehoben, sodass die bis zu diesem Zeitpunkt ausgeführten Aktionen rückgängig gemacht werden. Mehr über Flash Loans kannst du [hier](https://aave.com/flash-loans/) lesen.
-
-
+Some examples of CEXs include Binance, Coinbase and OKex.
 
 ### Impermanent Loss
-Impermanent Loss tritt auf, wenn du einem Pool Liquidität zur Verfügung stellst (siehe [Liquiditätspools](/glossary#liquidity-pools)) und sich der Preis deiner hinterlegten Vermögenswerte im Vergleich zu dem Zeitpunkt, als du sie hinterlegt hast, ändert. Dies würde zu einem Verlust führen, wenn zu dem Zeitpunkt, an dem du dein Vermögen abheben möchtest, der Preis gegenüber deiner ersten Einzahlung gesunken ist. Das führt zu einem niedrigeren Dollar-Wert zum Zeitpunkt deiner Auszahlung.
+The difference between holding tokens in an [automated market maker (AMM)](/glossary#automated-market-maker) and holding them in your wallet. It occurs when the price of tokens inside an AMM diverge in any direction. The more divergence, the greater the impermanent loss. The loss is “impermanent” because as long as the relative prices of tokens in the AMM return to their original state when you entered the AMM, the loss disappears and you earn 100% of the trading fees. However, this is rarely the case. More often than not, impermanent loss becomes permanent, eating into your trade income or leaving you with negative returns. Also commonly referred to as Divergence loss.
 
+### Liquidity Pools
+These are pools of tokens that are locked in a smart contract. They are in turn used to facilitate trading by providing liquidity.
 
-
-### Liquiditätspools
-Der Begriff ist einigermassen selbsterklärend. Dies sind Pools von Tokens, die in einem Smart Contract eingeschlossen sind. Sie werden dann genutzt, um den Handel durch die Bereitstellung von Liquidität zu erleichtern.
-
-
-Für eine detailliertere Erklärung dieser Begriffe, schau dir den [Guide](https://finematics.com/liquidity-pools-explained/) von Finematics an.
+For a more detailed breakdown of these terms, check out Finematics's [guide](https://finematics.com/liquidity-pools-explained/).
 
 ### maTokens
-maTokens are [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). Sie wurden von [Nick Mudge](/team#nick-mudge) entwickelt.
+maTokens are representations of Aave V2's [aTokens](/glossary#atokens) on [Polygon](/glossary#polygon). They are developed by our very own [Nick Mudge](/team#nick-mudge).
 
 For step-by-step instructions on how to convert aTokens on Ethereum Mainnet to maTokens on Polygon, do refer to this [maTokens](/matokens) guide.
 
+maTokens are **not the same** as [amTokens](/glossary#amtokens).
+
+In the Aavegotchi game, **maTokens** are used as [Spirit Force/Collateral](/glossary#spirit-force).
+
 ### Oracles
-Damit Smart Contracts ausgeführt werden können, müssen bestimmte Bedingungen erfüllt sein. Informationen über das Vorhandensein dieser Bedingungen müssen in die Blockchain eingespeist werden, auf der sich der Contract befindet. Das liegt daran, dass Blockchains typischerweise keinen direkten Zugang zu Informationen ausserhalb der Chain haben. An dieser Stelle kommen Oracles ins Spiel. Diese Einheiten liefern die notwendigen Daten, um Smart Contracts auszulösen.
-
-
+In order for Smart Contracts to execute, certain conditions need to be met. Information about the presence of these conditions needs to be fed to the blockchain that the contract is on. This is because blockchains typically do not have ready access to information outside of the chain. This is where oracles come into the picture. These entities provide the necessary data to trigger smart contracts.
 
 ### Smart Contracts
-Im Allgemeinen ist ein Smart Contract ein selbstausführender Vertrag/Contract, bei dem die "Vertragsbedingungen" zwischen den Nutzern direkt in den Code des Vertrags selbst geschrieben werden. Wenn diese vorgegebenen Bedingungen und bestimmte Konditionen erfüllt sind, kommt der Vertrag zustande.
-
-
+Generally speaking, a smart contract is a self-executing contract with the "terms of agreement" between the users of the contract being directly written into the code of the contract itself. When these predetermined terms and certain conditions are met, the contract executes.
 
 ### Staking
-Das Staking einer Kryptowährung bedeutet im Wesentlichen, dass man diese Währung hält, um Transaktionen zu verifizieren und das Netzwerk zu unterstützen. Im Austausch dafür erhalten die Staker normalerweise eine Art Belohnung. Zum Beispiel werden in der Aavegotchi Welt die $GHST-Staker mit FRENS belohnt, mit denen sie in regelmässigen Lottieren Tickets kaufen und Preise gewinnen können.
-
-
+Staking a cryptocurrency essentially means to hold that currency, to help verify transactions and support the network. In exchange for doing so, stakers typically receive some kind of reward. In the Aavegotchi world for instance, $GHST stakers are rewarded with [GLTR](/gotchus-alchemica-exchange#gltr-token) that they can use to speed up the crafting and upgrading of their Installations in the Gotchiverse.
 
 ### Yield Farming
-Einfach ausgedrückt ist Yield Farming eine Strategie, die Nutzern das Verdienen von Belohnungen ermöglicht, indem sie ihr Vermögen in einem bestimmten Protokoll hinterlegen und verleihen.
+Very simply put, yield farming is a practice that allows users to earn rewards by depositing and lending their assets in a particular protocol.
 
-Dies kann auf verschiedene Arten geschehen, aber der häufigste Mechanismus ist, dass Einleger/Kreditgeber Coins von einem Protokoll verdienen, indem sie einfach ihre ERC-20 Token und/oder Stablecoins auf der Plattform staken. Normalerweise werden diese Belohnungen genutzt, um potenzielle Einleger und Kreditnehmer dazu zu bewegen, einer bestimmten Plattform Liquidität zuzuführen.
+This can happen in a variety of ways, but the most common mechanism is when depositers/borrowers earn coins from a protocol, by simply staking their ERC-20 tokens and/or stable coins on its platform. Usually, these rewards are used to incentivize potential depositers and borrowers to add liquidity to a particular platform.
 
 
 ## Allgemeine Begriffe
 
 ### Aragon
-Aragon ist ein Open Source, Community-getriebenes Projekt mit der Mission, die Unabhängigkeit von dezentralisierten Organisationen zu stärken, indem es Werkzeuge für deren Erfolg entwickelt.
+Aragon is an open-source, community-driven project with the mission to empower freedom by creating tools for decentralized organizations to thrive.
 
-Das Flaggschiffprodukt des Projekts ist der Aragon Client, ein Werkzeug zur Erstellung und Teilnahme an dezentralen Organisationen auf Ethereum. Das Projekt baut auch das Aragon Network, die erste digitale Jurisdiktion der Welt.
+The flagship product of the project is the Aragon client, a tool for creating and participating in decentralized organizations on Ethereum. The project is also building the Aragon Network, the world's first digital jurisdiction.
 
-Das Aragon Projekt wird von der Aragon Association verwaltet, einer Non-Profit-Organisation mit Sitz in Zug (Schweiz), die von den Besitzern der Aragon Network Token verwaltet wird.
+The Aragon project is stewarded by the Aragon Association, a non-profit entity based in Zug, Switzerland, and governed by Aragon Network Token holders.
 
-Schau dir ihre [Seite](https://aragon.org/) hier an.
+Check out their [site](https://aragon.org/) here.
 
-### Glockenkurve
-Eine Glockenkurve ist eine gängige Verteilungsart für Variablen, die auch als Normalverteilung bekannt ist. Der Begriff "Glockenkurve" stammt daher, dass der Graph, der zur Darstellung einer Normalverteilung verwendet wird, aus einer symmetrischen Kurve mit Glockenform besteht. Mehr Informationen findest du auf dieser [Seite](https://www.investopedia.com/terms/b/bell-curve.asp).
+### Bell Curve
+A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
+
+### Chainlink VRF
+A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening and raffle prizes.
+
+Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
 ### Diamond Standard
-Der Diamond Standard wurde von Teammitglied [Nick Mudge](/team#nick-mudge) erstellt. Der Diamond Standard ermöglicht es Entwicklern, Contracts mit praktisch keiner Grössenbeschränkung auf modulare und gaseffiziente Weise zu schreiben.
+The Diamond Standard is created by our very own [Nick Mudge](/team#nick-mudge). The Diamond Standard enables people to write contracts with virtually no size limit in a modular and gas-efficient way.
 
-Diamonds können bei Bedarf aktualisiert werden, ohne dass die bestehende Funktionalität neu implementiert werden muss.
+Diamonds can be upgraded on the fly without having to redeploy existing functionality.
 
-Es standardisiert Contract Interfaces und Implementierungsdetails von Diamonds und ermöglicht so Softwareintegration und Interoperabilität.
+Standardizes contract interfaces and implementation details of diamonds, enabling software integration and interoperability.
 
-Ein Diamond ist ein Contract, der die Vorgaben in diesem Standard umsetzt.
+A diamond is a contract that implements the Specification in this standard.
 
-Mehr Informationen findest du [hier](https://eips.ethereum.org/EIPS/eip-2535).
+See [here](https://eips.ethereum.org/EIPS/eip-2535) for more information.
 
 ### ERC-20
-Ein Token-Standard für fungible Token. Mit anderen Worten haben sie eine Eigenschaft, die jeden Token genau gleich (in Typ und Wert) wie einen anderen Token macht. Es bietet Funktionen wie das Übertragen von Token von einem Konto auf ein anderes, das Abrufen des aktuellen Token-Guthabens eines Kontos und auch den Gesamtvorrat der im Netzwerk verfügbaren Token. Daneben gibt es noch einige andere Funktionen, wie z.B. die Freigabe einer bestimmten Menge an Token, die von einem Drittanbieterkonto ausgegeben werden können. Weitere Informationen findest du [hier](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/).
+A token standard for fungible token, in other words, they have a property that makes each Token be exactly the same (in type and value) of another Token. It provides functionalities such as transferring tokens from one account to another, getting the current token balance of an account and also the total supply of the token available on the network. Besides these, it also has some other functionalities such as approving an amount of tokens that can be spent by a third party account. See [here](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/) for more information.
 
 ### ERC-721
-Ein freier, offener Standard, der beschreibt, wie man nicht-fungible oder einzigartige Token auf der Ethereum Blockchain baut. Während die meisten Token fungibel sind (jeder Token ist derselbe wie jeder andere Token), sind ERC-721 Token alle einzigartig.
+A free, open standard that describes how to build non-fungible or unique tokens on the Ethereum blockchain. While most tokens are fungible (every token is the same as every other token), ERC-721 tokens are all unique.
 
-Stell sie dir wie seltene, einzigartige Sammlerstücke vor.
+Think of them like rare, one-of-a-kind collectables.
 
-Eine ausführliche Erklärung, was der ERC-721 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-721).
+For a full explanation of what the ERC-721 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-721).
 
 ### ERC-998
-ERC-998 ist eine Erweiterung des [ERC-721](/glossary#erc-721) Standards, der die Fähigkeit für [nicht-fungible Token](/glossary#nft) hinzufügt, andere nicht-fungible Token und ERC-20 Tokens zu besitzen.
+ERC-998 is an extension to the [ERC-721](/glossary#erc-721) standard that adds the ability for [non-fungible tokens](/glossary#nft) to own other non-fungible tokens and ERC-20 tokens.
 
-Nicht-fungible Token, die ERC998 implementieren, implementieren auch den ERC-721 Standard.
+Non-fungible tokens that implement ERC998 also implement the ERC-721 standard.
 
-Eine vollständige Erklärung, was der ERC-998 Standard beinhaltet, findest du [hier](https://eips.ethereum.org/EIPS/eip-998).
+For a full explanation of what the ERC-998 standard entails, check it out [here](https://eips.ethereum.org/EIPS/eip-998).
+
+### ERC-1155
+A novel token standard that aims to take the best from previous standards to create a fungibility-agnostic and gas-efficient token contract. A single deployed contract may include any combination of fungible tokens, non-fungible tokens or other configurations (e.g. semi-fungible tokens).
+
+Read more [here](https://eips.ethereum.org/EIPS/eip-1155) and [here](https://docs.openzeppelin.com/contracts/3.x/erc1155).
+
+### GBM Auction
+A novel auction method in which bidders are paid an incentive when they are outbid in real-time during the auction. In short, a person taking part in a GBM auction either wins the auction or leaves with more money than they started with.
+
+GBM stands for Gonnaud-Bessire-McDonaugh.
+
+First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
+
+For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
 
 ### Metaverse
 
 A metaverse is a virtual world where you can interact with aspects of the world itself (like games or shops) as well as with other users.
 
-Some examples of metaverses include the <a href="https://wiki.aavegotchi.com/metaverse">Aavegotchi Realm</a> in addition to projects like Second Life and Decentraland.
+Some examples of metaverses include the [Gotchiverse](/gotchiverse) in addition to projects like Second Life and Decentraland.
 
 ### Non-Fungible Token
 
@@ -238,11 +358,11 @@ Read more about Polygon [here](https://matic.network/).
 
 ### Proof of Stake
 
-Proof of Stake (PoS) ist eine Art Konsens-Mechanismus, den Blockchains nutzen können, um sich auf einen einzigen wahren, historischen Datensatz zu einigen. In einer PoS Blockchain setzen Validators Stakes ein, um die Existenz von Blöcken zu bestätigen (oder zu "validieren").
+Proof of Stake (PoS) is a kind of consensus mechanism that blockchains can use to agree upon a single true record of data history. In a PoS blockchain, validators commit stake to attest (or ‘validate’) blocks into existence.
 
-Validators sind die Teilnehmer im Netzwerk, die Nodes (sogenannte Validator Nodes) betreiben, um Blöcke auf einer PoS Blockchain vorzuschlagen und zu bestätigen. Sie tun dies, indem sie Krypto (im Fall von Ethereum 2.0, ETH) im Netzwerk staken und sich zur Verfügung stellen, um zufällig ausgewählt zu werden und einen Block vorzuschlagen. Andere Validators "bescheinigen" dann, dass sie den Block gesehen haben. Wenn eine ausreichende Anzahl von Bescheinigungen für den Block gesammelt wurde, wird der Block zur Blockchain hinzugefügt. Validators erhalten Belohnungen sowohl für das erfolgreiche Vorschlagen von Blöcken (genau wie bei PoW) als auch für die Bescheinigung von Blöcken, die sie gesehen haben.
+Validators are the participants on the network who run nodes (called validator nodes) to propose and attest blocks on a PoS blockchain. They do so by staking crypto (in the case of Ethereum 2.0, ETH) on the network and make themselves available to be randomly selected to propose a block. Other validators then “attest” that they have seen the block. When a sufficient number of attestations for the block has been collected, the block is added to the blockchain. Validators receive rewards both for successfully proposing blocks (just as they do in PoW) and for making attestations about blocks that they have seen.
 
-Lies mehr über den Proof of Stake Konsensmechanismus [hier](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
+Read more about the Proof of Stake consensus mechanism [here](https://consensys.net/blog/blockchain-explained/what-is-proof-of-stake/).
 
 ### QuickSwap
 

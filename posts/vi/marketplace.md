@@ -46,11 +46,13 @@ Hãy đến và thử xem nhé! Cả người mua và người bán!
 
 ## Aavegotchi Baazaar
 
-Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Đây là trung tâm thương mại chính của tất cả các Aavegotchi, cho phép mua bán cả trên Shop Aavegotchi chính và thị trường thứ cấp để ai cũng có thể đăng bán vật phẩm của mình. Ghé qua Shop Aavegotchi để nhận được những cập nhật mới nhất về trang phục và những lọ thuốc,... nhé.
+Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Người bán của thể đăng bán vậy phẩm của mình. Với mỗi đơn hàng mới được đăng bán, người dùng sẽ trả phí là 0.1 GHST để bán trên Aavegotchi Baazaar. Việc này sẽ ngăn chặn tình trạng spam đơn hàng trên Polygon. 0.1 GHST này sẽ không về tay Pixelcraft Studios hay AavegotchiDAO. Thay vào đó, nó sẽ được gửi thẳng đến [địa chỉ đốt token](https://explorer-mainnet.maticvigil.com/address/{{BURN_ADDRESS}}/tokens) trên Polygon khi một đơn hàng được tạo ra hoặc cập nhật.
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
 Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
+
+Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar).
 
 ## Địa Chỉ Của Các Vật Phẩm
 

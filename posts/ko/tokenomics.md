@@ -32,11 +32,12 @@ contributors:
 
 <ol>
 <li><a href=#token-distribution>토큰 배분</a></li>
-<li><a href=#revenue-sharing-overview>수익 분배 개요</a></li></p>
-<p><a href=#rarity-farming>Rarity Farming</a></p>
-<p><a href=#dao-governance>DAO 거버넌스</a></p>
-<p><a href=#burn-baby-burn>소각 시스템</a></p>
-<p><a href=#development-team>개발진</a></p>
+<li><a href=#revenue-sharing-overview>수익 분배 개요</a></li>
+<p><a href=#earn-it>EARN IT</a></p>
+<p><a href=#dao-it>DAO IT</a></p>
+<p><a href=#burn-it>BURN IT</a></p>
+<p><a href=#buidl-it>BUIDL IT</a></p>
+<li><a href=#historical-changes>Historical Changes</a></li>
 </ol>
 
 </div>
@@ -66,7 +67,7 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 
 한정 판매, 특별 판매 참가자들은 특별판매가 종료되는 시점에서부터 1년에 걸쳐 구매한 GHST 토큰을 얻게 됩니다. 180일 후에는, 총 공급량의 약 50%에 해당하는 '최초 릴리스(initial release)'가 있을 예정이며, 그 후 185일 동안 잔여 공급량들이 점차 분배되는 '드립 릴리스(drip release)'가 있을 예정입니다.
 
-이에 대해 자세히 알고 싶으시다면 [ 아베고치 백서 ](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) 와 [커뮤니티 업데이트 #4 ](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451) 를 참고해주세요:)
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 
 **모두에게 열린 Bonding Curve에 따른 판매**
@@ -95,55 +96,55 @@ Curve에서 조성된 자금들은 GHST 토큰 홀더들에 의해 통제되는 
 
 Portals과 wearables에 사용된 GHST들은 어떻게 되는 걸까요?
 
-우리는 이를 여러분에게 설명하기 위한 유용한 도표를 만들었습니다.<div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "아베고치 토큰 이코노미">
+We've made a handy diagram explaining Revenue Sharing V2:
+<div class="centerImageContainer">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "아베고치 토큰 이코노미">
 </div>
 
-여러가지의 GHST 할당에 대해 자세히 알고 싶다면 게속 읽어주세요 :)
+Read on to learn about the various categories in more detail.
 
+## EARN IT
 
-## 희귀성 농사(Rarity Farming)
-
-아베고치에서 즐길 수 있는 가장 핵심적인 경험은 여러분의 고치(Gochis) 들과 시간을 보내고 그들에게 장비(wearables) 를 입혀주는 것입니다. 게임 생태계에 지속적이고 적극적인 참여를 장려하기 위해 portal 판매와 wearable로 부터 얻는 수익의 일부는 top 희귀성 농부들(rarity farmers) 에게 주어집니다.
+A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). 게임 생태계에 지속적이고 적극적인 참여를 장려하기 위해 portal 판매와 wearable로 부터 얻는 수익의 일부는 top 희귀성 농부들(rarity farmers) 에게 주어집니다.
 
 이를 위해 전체 GHST 수입의 **40%**가 플레이어 보상의 차원으로 유저들에게 배분될 것입니다.
 
 초기엔 유저 보상에 3개의 차원으로 이루어질 것입니다.
 
 * BRS에 따라 가장 희귀한 아베고치 Top 100
-* 친밀도 점수 Top 100
+* Top 100 [Kinship](/kinship) Scores
 * 경험치(XP) Top 100
 
-3개 차원에서의 보상을 모두 종합하게 되면 전체 GHST 수입의 40%가 됩니다. 각각의 비율은 현재 확정되지 않았지만 아베고치 DAO에서 토의할 것입니다.
+3개 차원에서의 보상을 모두 종합하게 되면 전체 GHST 수입의 40%가 됩니다. Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
 이외에도 게임이 계속해서 발전하게 된다면 더 많은 분야가 추가될 것입니다.
 
-이러한 보상들은 온체인 스냅샷을 통해 2주마다 유저들에게 돌아갈 것입니다.
+When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
 
-## DAO 거버넌스
+## DAO IT
 
-커뮤니티 거버넌스 역시 아베고치 경험에서 굉장히 핵심적인 요소입니다. DAO의 책무(책임) 중 일부는 가치 있다고 판단되는 안건들에 대한 자금 관리를 포함합니다. (Waifu pics, maybe?)
+커뮤니티 거버넌스 역시 아베고치 경험에서 굉장히 핵심적인 요소입니다. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
-수익의 **10%**는 처음에는 DAO의 자금으로 귀속될 것입니다. 그리고 DAO가 좀 더 성숙해지고 발전해 나간다면, 비율은 점진적으로 증가할 수 있습니다. 물론 최종적인 목표는, DAO가 아베고치의 프로토콜을 완전히 관리하고 개선할 수 있는  주체로 성장시키는 것입니다. 아베고치가 2020년 중반에야 시작된 것을 감안하면, 수년 뒤의 일일지도 모르지만 상당히 기대해볼 만한 목표입니다.
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). 그리고 DAO가 좀 더 성숙해지고 발전해 나간다면, 비율은 점진적으로 증가할 수 있습니다. 물론 최종적인 목표는, DAO가 아베고치의 프로토콜을 완전히 관리하고 개선할 수 있는  주체로 성장시키는 것입니다. 아베고치가 2020년 중반에야 시작된 것을 감안하면, 수년 뒤의 일일지도 모르지만 상당히 기대해볼 만한 목표입니다.
 
 
-## 소각 시스템(BURN BABY BURN)
+## BURN IT
 
 시작하기에 앞서, GHST의 [bonding curve](/curve) 와 메커니즘에 대해 스스로 익숙해지는 것은 상당히 이롭습니다. Then, the fun begins.
 
-포탈과 아이템 판매 수익의 **33%**는 소각될 것입니다. 영원히! 맞아요, 잘 읽은 것이 맞습니다.
+**5%** of all GHST earned via portal and item sales will be burned. 영원히! 맞아요, 잘 읽은 것이 맞습니다.
 
-이러한 상당히 높은 수치는 GHST가 역동적인 공급의 토큰이라는 사실에서 비롯됩니다. GHST의 공급은 수요에 따라 증가하므로 이러한 높은 소각률은 결코 토큰의 급격한 디플레이션(통화 수축) 을 의미하지 않습니다. 그건 고정된 공급량을 지닌 토큰에게만 해당되는 문제입니다.
+GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. 그건 고정된 공급량을 지닌 토큰에게만 해당되는 문제입니다.
 
 GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적으로 발생할 수 있는 GHST의 가격 하락 압박에 대한 디플레이션(통화 수축)의 기능으로써 균형을 잡아줍니다.
 
 소각 주소로의 GHST 전송을 통해 bonding curve 내에 DAI가 락업되면 GHST의 가격 상승이 발생합니다. 이는 모든 당사자들에게 긍정적으로 작용하게 됩니다. 왜냐하면 구매자와 판매자에겐 더 나은 유동성을 제공함으로써 슬리피지를 감소시킬 수 있고, 유통량을 감소시키며, [DAICO 탭 메커니즘(Tap Mechanism)](/curve#aavegotchi-daico)이 안정적이게끔 하기 때문입니다.
 
 
-## 개발진
+## BUIDL IT
 
-끝으로, 적어도 가장 확실하게 수익의  **17%** 가 개발진에게 돌아가고 있습니다. 무엇보다도, 개발진들이 팀에서 모두를 위한 최상의 DeFi x NFT 결과물 제작 지원에 집중할 수 있도록 하는 것은 정말 중요합니다.
+Last, but most definitely not least, **40%** of revenue goes to the development team. 무엇보다도, 개발진들이 팀에서 모두를 위한 최상의 DeFi x NFT 결과물 제작 지원에 집중할 수 있도록 하는 것은 정말 중요합니다.
 
 즉 우리 모두 사람이기에 프로토콜 개발자들을 위한 인센티브가 잘 조정되지 않는다면 프로토콜 개발은 실패로 돌아갈 수 밖에 없으며, 이것이야말로 아베고치가 막고자하는 문제입니다.
 
@@ -153,13 +154,18 @@ GHST 소각은 유저들의 보상으로 지급되는 GHST로 인해 잠재적�
 
 아베고치 bonding curve가 이러한 문제를 해결하는데, 커뮤니티가 통제하는 탭 메커니즘(Tap mechanism) 은 DAI를 매달 잔고에서 Pixelcraft Studios(메인 개발자들) 로 배분을 함으로써 적극적인 개발을 위한 예산 운용을 보장합니다.
 
-추가적으로, Pixelcraft는 GHST 수입의 17%을 받게 되는데, 이는 주로 GHST가 필요한 유동성 인센티브, 경품, 그리고 여타 홍보활동에 사용됩니다.
-
-
+Additionally, Pixelcraft will also receive 40% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
 
 **끝으로**
 
 가상화폐 세계에서 가장 중요한 것들 중 한가지, 그리고 왜 지속적인 유입이 나타나는지의 이유는 바로 이것이 결코 '제로섬' 게임이 아니기 때문입니다. 우리 모두가 함께 이득 보는 기회가 있으며 특히 DAO에서는 더욱 확실하다. 이제 어떻게 최선으로 이러한 기회를 만들어낼 것인가에 답해야 한다. 프로젝트의 토큰 이코노미를 이해하는 것은 우리에게 굉장한 출발점을 제공해줍니다.
 
-계속 읽고, 계속 플레이하라. See you one the moon soon, Aagent! 
+계속 읽고, 계속 플레이하라. See you one the moon soon, Aagent!
 
+## Historical Changes
+
+The following table details the percentage changes in each category across Revenue Sharing versions:
+
+table_revenueSharing
+
+The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).

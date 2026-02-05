@@ -6,12 +6,26 @@ description: 'Tất tần tật về Nhiệm vụ trong Aavegotchi'
 image: "missions/aagent.png"
 contributors:
   - "eris771"
+  - "unintelligent-nerd"
 ---
 
 <div class="headerImageContainer">
 <img src="/missions/aagent.png" class="headerImage">
 <p class="headerImageText">Aagents Đi Làm</p>
 </div>
+
+<div class="contentsBox">
+
+**Nội dung**
+
+<ol>
+<li><a href=#the-aagent-missions>Nhiệm Vụ Aagent</a></li>
+<li><a href=#share2earn-litepaper-campaign>Chiến Dịch Share2Earn</a></li>
+</ol>
+
+</div>
+
+## Nhiệm Vụ Aagent
 
 **CHƯƠNG TRÌNH NHIỆM VỤ AAVEGOTCHI HIỆN TẠI ĐÃ KẾT THÚC!**
 
@@ -60,3 +74,21 @@ Aavegotchi “missions” là một cách thú vị để hiểu thêm nhiều v
 Chúc mừng các bạn nha, giờ đây bạn đã là một Aagent Aavegotchi chính thức! <img src="/missions/tinyagent.png" alt = "aavegotchi agent" /> Hãy tham gia khi có thể - [Vào ngay Discord của chúng tôi để bắt đầu nào!](https://discord.com/invite/NPwnWB6)
 
 &nbsp; &nbsp;
+
+## Chiến Dịch Share2Earn
+
+Bọn mình đang hợp tác với Viral Loops, một công ty hàng đầu về hệ thống giới thiệu, để tạo ra chiến dịch ngắn hạn để các bạn có thể kiếm giải thưởng thật bằng cách mời bạn bè của mình tìm hiểu về Aavegotchi.
+
+Chiến dịch này tập trung vào việc giới thiệu rộng rãi Litepaper của Aavegotchi Realm, và giải thưởng chính sẽ là [Drop Ticket"](/metaverse#drop-tickets), một loại vé Raffle mà bọn mình đã tạo ra cho các đợt mở bán NFT.
+
+**Đây là cách tham gia**:
+
+1. Trả lời câu hỏi về Aavegotchi Realm Litepaper [tại đây](https://gotchigang.typeform.com/to/gYuY3bxN#referralcode=MU92ddy). Chỉ cần bạn trả lời được các câu hỏi ngắn và xác minh email, bạn sẽ nhận được 1 vé Rare. Vé Rare có thể được dùng để tham gia vào các sự kiện Xổ Số Trúng Trang Phục (nhưng không thêm tham gia vào sự kiện xổ số trúng Portal và REALM).
+
+2. Tham gia Chương Trình #Share2Earn. Sau khi hoàn thành câu hỏi, bạn sẽ nhận được email cho bạn biết rằng bạn đã tham gia vào Chương Trình Mời Bạn Bè, để bạn có thể bắt đầu thực hiện. Bạn sẽ kiếm được thêm một chiếc vé Rare bằng cách mời người bạn đầu tiên.
+
+3. Khi đó, chuyện vui mới bắt đầu! Hãy tiếp tục mời bạn bè tham gia kiếm vé Drop! Bạn sẽ kiếm được nhiều vé hơn mỗi khi bạn đạt được một Cột Mốc.
+
+<img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Các Cột Mốc Giải Thưởng Của Chiến Dịch Aavegotchi Share2Earn" />
+
+**CẬP NHẬT: Chương trình đã bị tạm hoãn do có bọn mình phát hiện rất nhiều hoạt động đáng ngờ của bot. Hãy theo dõi kênh Discord của bọn mình để nhận thông báo về thời gian mở lại nhé.**

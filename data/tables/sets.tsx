@@ -1,94 +1,175 @@
-
+// Enums for better type safety
+enum WearableRarity {
+  Common = "common",
+  Uncommon = "uncommon",
+  Rare = "rare",
+  Legendary = "legendary",
+  Mythical = "mythical",
+  Godlike = "godlike",
+}
 
 interface Table {
-    tableName: string
-    tableData: TableData[]
+  tableName: string;
+  tableCaption?: string;
+  tableData: TableData;
 }
 
 interface TableData {
-    headers: any
-    data: any
+  headers: string[];
+  data: string[][];
 }
 
-export const tables
-    = [
-        {
-            tableName: "sets",
-            tableCaption: "Sets",
-            tableData: {
-                headers: ["Set", "Item 1", "Item 2", "Item 3", "Item 4", "Item 5", "Set Bonus"],
-                data: [ 
-					["Infantry", `<img src="/wearables/link/camo-cap.svg" alt = "aavegotchi chainlink camo cap"/>`, `<img src="/wearables/link/camo-pants.svg" alt = "aavegotchi chainlink camo pants" />`, `<img src="/wearables/link/mk2-grenade.svg" alt = "aavegotchi chainlink mk2 grenade" />`, "-", "-", "BRS +1, AGG +1"],
-					["Trooper", `<img src="/wearables/link/snow-camo-cap.svg"  alt = "aavegotchi chainlink snow camo cap" />`, `<img src="/wearables/link/snow-camo-pants.svg" alt = "aavegotchi chainlink snow camo pants" />`, `<img src="/wearables/link/m67-grenade.svg" alt = "aavegotchi chainlink m67 grenade" />`, "-", "-", "BRS +2, AGG +1"],
-					["Sergeant", `<img src="/wearables/link/marine-cap.svg" alt = "aavegotchi chainlink marine cap" />`, `<img src="/wearables/link/marine-suit.svg" alt = "aavegotchi chainlink marine suit" />`, `<img src="/wearables/link/walkie-talkie.svg" alt = "aavegotchi chainlink walkie talkie" />`, "-", "-", "BRS +3, AGG +2"],
-					["General", `<img src="/wearables/link/link-white-cap.svg" alt = "aavegotchi chainlink white cap" />`, `<img src="/wearables/link/link-mess-dress.svg" alt = "aavegotchi chainlink mess dress" />`, `<img src="/wearables/link/link-bubbly.svg" alt = "aavegotchi chainlink bubbly" />`, "-", "-", "BRS +4, AGG +2"],
-					["Mythical Sergey", `<img src="/wearables/link/sergey-beard.svg" alt = "aavegotchi chainlink sergey beard" />`, `<img src="/wearables/link/sergey-eyes.svg" alt = "aavegotchi chainlink sergey eyes" />`, `<img src="/wearables/link/sergey-red.svg" alt = "aavegotchi chainlink red plaid" />`, "-", "-", "BRS +5, AGG +3"],
-					["Godlike Sergey", `<img src="/wearables/link/sergey-beard.svg" alt = "aavegotchi chainlink sergey beard" />`, `<img src="/wearables/link/sergey-eyes.svg" alt = "aavegotchi chainlink sergey eyes" />`, `<img src="/wearables/link/sergey-blue.svg" alt = "aavegotchi chainlink blue plaid" />`, "-", "-", "BRS +6, AGG +3"],
-					["Apex Sergey", `<img src="/wearables/link/sergey-beard.svg" alt = "aavegotchi chainlink sergey beard" />`, `<img src="/wearables/link/sergey-eyes.svg" alt = "aavegotchi chainlink sergey eyes" />`, `<img src="/wearables/link/sergey-blue.svg" alt = "aavegotchi chainlink blue plaid" />`, `<img src="/wearables/link/link-cube.svg" alt = "aavegotchi chainlink cube"/>`, "-", "BRS +6, NRG +1, AGG +3"],
-					["Aave Hero", `<img src="/wearables/aave/hero-mask.svg" alt = "aavegotchi aave hero mask" />`, `<img src="/wearables/aave/hero-shirt.svg" alt = "aavegotchi aave hero shirt" />`, `<img src="/wearables/aave/aave-plush-toy.svg" alt = "aavegotchi aave plush toy" />`, "-", "-", "BRS +1, SPK +1"],
-					["Captain Aave", `<img src="/wearables/aave/captain-aave-mask.svg" alt = "aavegotchi aave captain aave mask" />`, `<img src="/wearables/aave/captain-aave-suit.svg" alt = "aavegotchi aave captain aave suit" />`, `<img src="/wearables/aave/captain-aave-shield.svg" alt = "aavegotchi aave captain aave shield" />`, "-", "-", "BRS +2, SPK +1"],
-					["Thaave", `<img src="/wearables/aave/thaave-helmet.svg" alt = "aavegotchi aave thaave helmet" />`, `<img src="/wearables/aave/thaave-suit.svg" alt = "aavegotchi aave thaave suit" />`, `<img src="/wearables/aave/thaave-hammer.svg" alt = "aavegotchi aave thaave hammer" />`, "-", "-", "BRS +3, NRG +2"],
-					["Marc", `<img src="/wearables/aave/marc-hair.svg" alt = "aavegotchi aave marc hair" />`, `<img src="/wearables/aave/marc-outfit.svg" alt = "aavegotchi aave marc outfit" />`, `<img src="/wearables/aave/rekt-sign.svg" alt = "aavegotchi aave rekt sign" />`, "-", "-", "BRS +4, NRG +2"],
-					["Jordan", `<img src="/wearables/aave/jordan-hair.svg" alt = "aavegotchi aave jordan hair" />`, `<img src="/wearables/aave/jordan-suit.svg" alt = "aavegotchi aave jordan suit" />`, `<img src="/wearables/aave/aave-flag.svg" alt = "aavegotchi aave flag" />`, "-", "-", "BRS +5, SPK +3"],
-					["Godlike Stani", `<img src="/wearables/aave/stani-hair.svg" alt = "aavegotchi aave stani hair" />`, `<img src="/wearables/aave/stani-lifejacket.svg" alt = "aavegotchi aave stani lifejacket"/>`, `<img src="/wearables/aave/aave-boat.svg" alt = "aavegotchi aave boat"/>`, "-", "-", "BRS +6, AGG -3"],
-					["Apex Stani", `<img src="/wearables/aave/stani-hair.svg" alt = "aavegotchi aave stani hair" />`, `<img src="/wearables/aave/stani-lifejacket.svg" alt = "aavegotchi aave stani lifejacket"/>`, `<img src="/wearables/aave/aave-boat.svg" alt = "aavegotchi aave boat"/>`, `<img src="/wearables/aave/aave-flag.svg" alt = "aavegotchi aave flag" />`, "-", "BRS +6, NRG +1, AGG -3"],
-					["ETH Maxi", `<img src="/wearables/ethereum/ETH LOGO GLASSES.svg" alt = "aavegotchi ETH Logo Glasses" />`, `<img src="/wearables/ethereum/ETH TSHIRT.svg" alt = "aavegotchi ETH T-Shirt" />`, `<img src="/wearables/ethereum/32 ETH COIN.svg" alt = "aavegotchi 32 ETH Coin" />`, "-", "-", "BRS +1, BRN -1"],
-					["Foxy Meta", `<img src="/wearables/ethereum/FOXY MASK.svg" alt = "aavegotchi Foxy Mask" />`, `<img src="/wearables/ethereum/FOXY TAIL.svg" alt = "aavegotchi Foxy Tail" />`, `<img src="/wearables/ethereum/TREZOR WALLET.svg" alt = "aavegotchi Trezor Wallet" />`, "-", "-", "BRS +2, AGG -1"],
-					["Nogara the Eagle", `<img src="/wearables/ethereum/EAGLE MASK.svg" alt = "aavegotchi Eagle Mask" />`, `<img src="/wearables/ethereum/NOGARA ARMOR.svg" alt = "aavegotchi Nogara Armor" />`, `<img src="/wearables/ethereum/DAO EGG.svg" alt = "aavegotchi DAO Egg" />`, "-", "-", "BRS +3, NRG +2"],
-					["DeFi Degen", `<img src="/wearables/ethereum/APE MASK.svg" alt = "aavegotchi Ape Mask" />`, `<img src="/wearables/ethereum/HALF REKT SHIRT.svg" alt = "aavegotchi Half Rekt Shirt" />`, `<img src="/wearables/ethereum/WAIFU PILLOW.svg" alt = "aavegotchi Waifu Pillow" />`, "-", "-", "BRS +4, BRN -2"],
-					["DAO Summoner", `<img src="/wearables/ethereum/XIBOT MOHAWK.svg" alt = "aavegotchi Xibot Mohawk" />`, `<img src="/wearables/ethereum/CODERDAN SHADES.svg" alt = "aavegotchi Coderdan Shades" />`, `<img src="/wearables/ethereum/GLDNXROSS ROBE.svg" alt = "aavegotchi GldnXross Robe" />`, `<img src="/wearables/ethereum/MUDGEN DIAMOND.svg" alt = "aavegotchi Mudgen Diamond" />`, "-", "BRS +5, BRN +3"],
-					["Vitalik Visionary", `<img src="/wearables/ethereum/GALAXY BRAIN.svg" alt = "aavegotchi Galaxy Brain" />`, `<img src="/wearables/ethereum/ALL SEEING EYES.svg" alt = "aavegotchi All Seeing Eyes" />`, `<img src="/wearables/ethereum/LLAMACORN SHIRT.svg" alt = "aavegotchi Llamacorn Shirt" />`, "-", "-", "BRS +6, NRG -3"],
-					["Apex Vitalik Visionary", `<img src="/wearables/ethereum/MUDGEN DIAMOND.svg" alt = "aavegotchi Mudgen Diamond" />`, `<img src="/wearables/ethereum/GALAXY BRAIN.svg" alt = "aavegotchi Galaxy Brain" />`, `<img src="/wearables/ethereum/ALL SEEING EYES.svg" alt = "aavegotchi All Seeing Eyes" />`, `<img src="/wearables/ethereum/LLAMACORN SHIRT.svg" alt = "aavegotchi Llamacorn Shirt" />`, "-", "BRS +7, NRG -3, BRN +1"],
-					["Super Aagent", `<img src="/wearables/final wearables/55_AagentHeadset.svg" alt = "aavegotchi Aagent Headset"/>`, `<img src="/wearables/final wearables/56_AagentShirtFull.svg" alt = "aavegotchi Aagent Shirt"/>`, `<img src="/wearables/final wearables/57_AagentShades.svg" alt = "aavegotchi Aagent Shades"/>`, `<img src="/wearables/final wearables/58_AagentPistol.svg" alt = "aavegotchi Aagent Pistol"/>`, `<img src="/wearables/final wearables/59_AagentFedoraHat.svg" alt = "aavegotchi Aagent Fedora Hat"/>`, "BRS +4, NRG -1, SPK +2"],
-					["Aagent", `<img src="/wearables/final wearables/55_AagentHeadset.svg" alt = "aavegotchi Aagent Headset"/>`, `<img src="/wearables/final wearables/56_AagentShirtFull.svg" alt = "aavegotchi Aagent Shirt"/>`, `<img src="/wearables/final wearables/57_AagentShades.svg" alt = "aavegotchi Aagent Shades"/>`, "-", "-", "BRS +3, NRG -1, SPK +1"],
-					["Aagent", `<img src="/wearables/final wearables/55_AagentHeadset.svg" alt = "aavegotchi Aagent Headset"/>`, `<img src="/wearables/final wearables/56_AagentShirtFull.svg" alt = "aavegotchi Aagent Shirt"/>`, `<img src="/wearables/final wearables/57_AagentShades.svg" alt = "aavegotchi Aagent Shades"/>`, `<img src="/wearables/final wearables/58_AagentPistol.svg" alt = "aavegotchi Aagent Pistol"/>`, "-", "BRS +3, NRG -1, SPK +2"],
-					["Wizard", `<img src="/wearables/final wearables/60_WizardHat.svg" alt = "aavegotchi Common Wizard Hat"/>`, `<img src="/wearables/final wearables/64_WizardStaff.svg" alt = "aavegotchi Common Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img src="/wearables/final wearables/61_WizardHatLegendary.svg" alt = "aavegotchi Legendary Wizard Hat"/>`, `<img src="/wearables/final wearables/64_WizardStaff.svg" alt = "aavegotchi Common Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img src="/wearables/final wearables/62_WizardHatMythical.svg" alt = "aavegotchi Mythical Wizard Hat"/>`, `<img src="/wearables/final wearables/64_WizardStaff.svg" alt = "aavegotchi Common Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img src="/wearables/final wearables/63_WizardHatGodlike.svg" alt = "aavegotchi Godlike Wizard Hat"/>`, `<img src="/wearables/final wearables/64_WizardStaff.svg" alt = "aavegotchi Common Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +1, NRG +1"],
-					["Wizard", `<img src="/wearables/final wearables/60_WizardHat.svg" alt = "aavegotchi Common Wizard Hat"/>`, `<img src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt = "aavegotchi Legendary Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +1, NRG +1"],
-					["Legendary Wizard", `<img src="/wearables/final wearables/61_WizardHatLegendary.svg" alt = "aavegotchi Legendary Wizard Hat"/>`, `<img src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt = "aavegotchi Legendary Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +4, NRG +1, BRN +1"],
-					["Mythical Wizard", `<img src="/wearables/final wearables/62_WizardHatMythical.svg" alt = "aavegotchi Mythical Wizard Hat"/>`, `<img src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt = "aavegotchi Legendary Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +5, NRG +1, BRN +2"],
-					["Godlike Wizard", `<img src="/wearables/final wearables/63_WizardHatGodlike.svg" alt = "aavegotchi Godlike Wizard Hat"/>`, `<img src="/wearables/final wearables/65_WizardStaffLegendary.svg" alt = "aavegotchi Legendary Wizard Staff"/>`, `<img src="/wearables/final wearables/66_FutureWizardVisor.svg" alt = "aavegotchi Wizard Visor"/>`, "-", "-", "BRS +6, NRG +1, BRN +2"],
-					["Farmer", `<img src="/wearables/final wearables/67_FarmerStrawHat.svg" alt = "aavegotchi Farmer Straw Hat"/>`, `<img src="/wearables/final wearables/68_FarmerJeans.svg" alt = "aavegotchi Farmer Jeans"/>`, `<img src="/wearables/final wearables/69_FarmerPitchfork.svg" alt = "aavegotchi Farmer Pitchfork"/>`, "-", "-", "BRS +1, NRG -1"],
-					["Mythical Farmer", `<img src="/wearables/final wearables/67_FarmerStrawHat.svg" alt = "aavegotchi Farmer Straw Hat"/>`, `<img src="/wearables/final wearables/68_FarmerJeans.svg" alt = "aavegotchi Farmer Jeans"/>`, `<img src="/wearables/final wearables/70_FarmerHandsaw.svg" alt = "aavegotchi Farmer Handsaw"/>`, "-", "-", "BRS +5, NRG -2, BRN -1"],
-					["OKex Jaay", `<img src="/wearables/final wearables/72_JaayHairpiece.svg" alt = "aavegotchi Jaay Hairpiece"/>`, `<img src="/wearables/final wearables/73_JaayGlasses.svg" alt = "aavegotchi Jaay Glasses"/>`, `<img src="/wearables/final wearables/74_JaayHaoSuitFull.svg" alt = "aavegotchi Jaay Suit"/>`, "-", "-", "BRS +5, NRG -1, BRN -2"],
-					["OKex Jaay Hao", `<img src="/wearables/final wearables/72_JaayHairpiece.svg" alt = "aavegotchi Jaay Hairpiece"/>`, `<img src="/wearables/final wearables/73_JaayGlasses.svg" alt = "aavegotchi Jaay Glasses"/>`, `<img src="/wearables/final wearables/74_JaayHaoSuitFull.svg" alt = "aavegotchi Jaay Suit"/>`, `<img src="/wearables/final wearables/75_OKexSign.svg" alt = "aavegotchi OKex Sign"/>`, "-", "BRS +5, NRG -1, BRN -2"],
-					["Skater", `<img src="/wearables/final wearables/77_BitcoinBeanie.svg" alt = "aavegotchi Bitcoin Beanie"/>`, `<img src="/wearables/final wearables/78_SkaterJeans.svg" alt = "aavegotchi Black Jeans"/>`, `<img src="/wearables/final wearables/79_Skateboard.svg" alt = "aavegotchi Skateboard"/>`, "-", "-", "BRS +2, BRN -1"],
-					["Sushi Chef", `<img src="/wearables/final wearables/80_SushiHeadband.svg" alt = "aavegotchi Sushi Bandana"/>`, `<img src="/wearables/final wearables/81_SushiRobe.svg" alt = "aavegotchi Sushi Coat"/>`, `<img src="/wearables/final wearables/83_SushiKnife.svg" alt = "aavegotchi Sushi Knife"/>`, "-", "-", "BRS +3, AGG +2"],
-					["Sushi Chef", `<img src="/wearables/final wearables/80_SushiHeadband.svg" alt = "aavegotchi Sushi Bandana"/>`, `<img src="/wearables/final wearables/81_SushiRobe.svg" alt = "aavegotchi Sushi Coat"/>`, `<img src="/wearables/final wearables/82_SushiRoll.svg" alt = "aavegotchi Sushi Piece"/>`, "-", "-", "BRS +4, AGG +2"],
-					["Master Sushi Chef", `<img src="/wearables/final wearables/80_SushiHeadband.svg" alt = "aavegotchi Sushi Bandana"/>`, `<img src="/wearables/final wearables/81_SushiRobe.svg" alt = "aavegotchi Sushi Coat"/>`, `<img src="/wearables/final wearables/83_SushiKnife.svg" alt = "aavegotchi Sushi Knife"/>`, `<img src="/wearables/final wearables/82_SushiRoll.svg" alt = "aavegotchi Sushi Piece"/>`, "-", "BRS +4, AGG +2, SPK -1"],
-					["Gentleman", `<img src="/wearables/final wearables/84_GentlemanHat.svg" alt = "aavegotchi Gentleman Hat"/>`, `<img src="/wearables/final wearables/85_GentlemanSuitFull.svg" alt = "aavegotchi Gentleman Coat"/>`, `<img src="/wearables/final wearables/86_GentlemanMonocle.svg" alt = "aavegotchi Gentleman Monocle"/>`, "-", "-", "BRS +4, AGG -2"],
-					["Miner", `<img src="/wearables/final wearables/87_MinerHelmet.svg" alt = "aavegotchi Miner Helmet"/>`, `<img src="/wearables/final wearables/88_MinerJeans.svg" alt = "aavegotchi Miner Jeans"/>`, `<img src="/wearables/final wearables/89_MinerPickaxe.svg" alt = "aavegotchi Miner Pickaxe"/>`, "-", "-", "BRS +2, NRG +1"],
-					["Pajamas", `<img src="/wearables/final wearables/90_PajamaHat.svg" alt = "aavegotchi Pajama Hat"/>`, `<img src="/wearables/final wearables/91_PajamaPantsFull.svg" alt = "aavegotchi Pajama Shirt"/>`, `<img src="/wearables/final wearables/92_BedtimeMilk.svg" alt = "aavegotchi Bedtime Milk"/>`, "-", "-", "BRS +3, SPK -2"],
-					["Pajamas", `<img src="/wearables/final wearables/90_PajamaHat.svg" alt = "aavegotchi Pajama Hat"/>`, `<img src="/wearables/final wearables/91_PajamaPantsFull.svg" alt = "aavegotchi Pajama Shirt"/>`, `<img src="/wearables/final wearables/93_FluffyBlanket.svg" alt = "aavegotchi Fluffy Pillow"/>`, "-", "-", "BRS +3, SPK -2"],
-					["Full Pajamas", `<img src="/wearables/final wearables/90_PajamaHat.svg" alt = "aavegotchi Pajama Hat"/>`, `<img src="/wearables/final wearables/91_PajamaPantsFull.svg" alt = "aavegotchi Pajama Shirt"/>`, `<img src="/wearables/final wearables/92_BedtimeMilk.svg" alt = "aavegotchi Bedtime Milk"/>`, `<img src="/wearables/final wearables/93_FluffyBlanket.svg" alt = "aavegotchi Fluffy Pillow"/>`, "-", "BRS +4, SPK -3"],
-					["Runner", `<img src="/wearables/final wearables/94_RunnerSweatband.svg" alt = "aavegotchi Sweatband"/>`, `<img src="/wearables/final wearables/95_RunnerShorts.svg" alt = "aavegotchi Track Shorts"/>`, `<img src="/wearables/final wearables/96_WaterBottle.svg" alt = "aavegotchi Water Bottle"/>`, "-", "-", "BRS +2, NRG +1"],
-					["Runner", `<img src="/wearables/final wearables/94_RunnerSweatband.svg" alt = "aavegotchi Sweatband"/>`, `<img src="/wearables/final wearables/95_RunnerShorts.svg" alt = "aavegotchi Track Shorts"/>`, `<img src="/wearables/final wearables/118_WaterJug.svg" alt = "aavegotchi Water Jug"/>`, "-", "-", "BRS +2, NRG +1"],
-					["Runner", `<img src="/wearables/final wearables/94_RunnerSweatband.svg" alt = "aavegotchi Sweatband"/>`, `<img src="/wearables/final wearables/125_TrackSuitFull.svg" alt = "aavegotchi Track Suit"/>`, `<img src="/wearables/final wearables/96_WaterBottle.svg" alt = "aavegotchi Water Bottle"/>`, "-", "-", "BRS +2, NRG +1"],
-					["Long Distance Runner", `<img src="/wearables/final wearables/94_RunnerSweatband.svg" alt = "aavegotchi Sweatband"/>`, `<img src="/wearables/final wearables/125_TrackSuitFull.svg" alt = "aavegotchi Track Suit"/>`, `<img src="/wearables/final wearables/118_WaterJug.svg" alt = "aavegotchi Water Jug"/>`, "-", "-", "BRS +4, NRG +2"],
-					["Lady", `<img src="/wearables/final wearables/97_PillboxHat.svg" alt = "aavegotchi Pillbox Hat"/>`, `<img src="/wearables/final wearables/98_LadySkirt.svg" alt = "aavegotchi Day Dress"/>`, `<img src="/wearables/final wearables/100_LadyClutch.svg" alt = "aavegotchi Clutch"/>`, "-", "-", "BRS +4, SPK -2"],
-					["Lady", `<img src="/wearables/final wearables/97_PillboxHat.svg" alt = "aavegotchi Pillbox Hat"/>`, `<img src="/wearables/final wearables/98_LadySkirt.svg" alt = "aavegotchi Day Dress"/>`, `<img src="/wearables/final wearables/99_LadyParasol.svg" alt = "aavegotchi Parasol"/>`, "-", "-", "BRS +4, SPK -2"],
-					["Socialite", `<img src="/wearables/final wearables/97_PillboxHat.svg" alt = "aavegotchi Pillbox Hat"/>`, `<img src="/wearables/final wearables/98_LadySkirt.svg" alt = "aavegotchi Day Dress"/>`, `<img src="/wearables/final wearables/99_LadyParasol.svg" alt = "aavegotchi Parasol"/>`, `<img src="/wearables/final wearables/100_LadyClutch.svg" alt = "aavegotchi Clutch"/>`, "-", "BRS +5, NRG +2, SPK -1"],
-					["Witchy", `<img src="/wearables/final wearables/101_WitchHat.svg" alt = "aavegotchi Witchy Hat"/>`, `<img src="/wearables/final wearables/102_WitchCapeFull.svg" alt = "aavegotchi Witchy Cloak"/>`, `<img src="/wearables/final wearables/103_WitchWand.svg" alt = "aavegotchi Witchy Wand"/>`, "-", "-", "BRS +5, SPK +3"],
-					["Portal Mage", `<img src="/wearables/final wearables/104_PortalMageHelmet.svg" alt = "aavegotchi Portal Mage Helmet"/>`, `<img src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt = "aavegotchi Portal Mage Armor"/>`, `<img src="/wearables/final wearables/106_PortalMageAxe.svg" alt = "aavegotchi Portal Mage Axe"/>`, "-", "-", "BRS +4, AGG +2"],
-					["Supreme Portal Mage", `<img src="/wearables/final wearables/104_PortalMageHelmet.svg" alt = "aavegotchi Portal Mage Helmet"/>`, `<img src="/wearables/final wearables/105_PortalMageArmorFull.svg" alt = "aavegotchi Portal Mage Armor"/>`, `<img src="/wearables/final wearables/107_PortalMageBlackAxe.svg" alt = "aavegotchi Portal Mage Black Axe"/>`, "-", "-", "BRS +6, AGG +3"],
-					["Rastafarian", `<img src="/wearables/final wearables/108_RastaDreds.svg" alt = "aavegotchi Rasta Hat"/>`, `<img src="/wearables/final wearables/109_RastaShirtFull.svg" alt = "aavegotchi Rasta Shirt"/>`, `<img src="/wearables/final wearables/110_JamaicanFlag.svg" alt = "aavegotchi Jamaican Flag"/>`, "-", "-", "BRS +3, AGG -2"],
-					["Off Duty Hazmat", `<img src="/wearables/final wearables/111_HazmatHood.svg" alt = "aavegotchi Hazmat Hood"/>`, `<img src="/wearables/final wearables/112_HazmatSuitFull.svg" alt = "aavegotchi Hazmat Suit"/>`, `<img src="/wearables/final wearables/123_AppleJuice.svg" alt = "aavegotchi Apple Juice"/>`, "-", "-", "BRS +4, NRG +2"],
-					["On Duty Hazmat", `<img src="/wearables/final wearables/111_HazmatHood.svg" alt = "aavegotchi Hazmat Hood"/>`, `<img src="/wearables/final wearables/112_HazmatSuitFull.svg" alt = "aavegotchi Hazmat Suit"/>`, `<img src="/wearables/final wearables/113_UraniumRod.svg" alt = "aavegotchi Uranium Rod"/>`, "-", "-", "BRS +6, NRG +3"],
-					["Blue Vacationer", `<img src="/wearables/final wearables/115_BlueHawaiianShirtFull.svg" alt = "aavegotchi Blue Hawaiian Shirt"/>`, `<img src="/wearables/final wearables/116_Coconut.svg" alt = "aavegotchi Coconut"/>`, `<img src="/wearables/final wearables/117_DealWithItShades.svg" alt = "aavegotchi Cool shades"/>`, "-", "-", "BRS +4, NRG -2"],
-					["Red Vacationer", `<img src="/wearables/final wearables/114_RedHawaiianShirtFull.svg" alt = "aavegotchi Red Hawaiian Shirt"/>`, `<img src="/wearables/final wearables/116_Coconut.svg" alt = "aavegotchi Coconut"/>`, `<img src="/wearables/final wearables/117_DealWithItShades.svg" alt = "aavegotchi Cool shades"/>`, "-", "-", "BRS +5, NRG -2, SPK -1"],
-					["Crypto OG", "???", "???", "???", "???", "???", "BRS +4, BRN -2"],
-					["Rektboi", "???", "???", "???", "???", "???", "BRS +4, BRN -2"],
-					["Man of Culture", "???", "???", "???", "???", "???", "BRS +4, BRN -2"],
-					["Curve Surfer", "???", "???", "???", "???", "???", "BRS +4, BRN +2"],
-					["PoW Miner", "???", "???", "???", "???", "???", "BRS +3, AGG +2"],
-					["Toddler", "???", "???", "???", "???", "???", "BRS +4, AGG -2"],
-					["FU Money", "???", "???", "???", "???", "???", "BRS +6, AGG -3"],
-					["Farmer Alf", "???", "???", "???", "???", "???", "BRS +5, NRG -3"],
-					["Battle Santa", "???", "???", "???", "???", "???", "BRS +5, AGG +3"],
-					["Party Animal", "???", "???", "???", "???", "???", "BRS +5, BRN -3"]
-                ]
-            }
-        }
-    ]
+// Import the data we need
+import { setsList } from "./setsList";
+import {
+  tables as wearableTables,
+  createWearableImage as baseCreateWearableImage,
+  createForgeWearableImage,
+} from "./wearables";
+
+// Helper function that adds rarity class to the base wearable image functions
+function createWearableImage(
+  tokenId: string,
+  name: string,
+  rarity: WearableRarity,
+  useForgeStyle: boolean = false
+): string {
+  const imagePath = `/wearables/${tokenId}.svg`;
+  const altText = `aavegotchi ${name}`;
+
+  // Use the base functions from wearables.tsx
+  const baseImage = useForgeStyle
+    ? createForgeWearableImage(imagePath, altText, name)
+    : baseCreateWearableImage(imagePath, altText, name);
+
+  // Add rarity class to the img tag
+  return baseImage.replace("<img", `<img class="${rarity}"`);
+}
+
+// Create a lookup map for all wearables
+function createWearableLookup() {
+  const wearableMap = new Map<
+    string,
+    {
+      id: string;
+      name: string;
+      rarity: string;
+      useForgeStyle?: boolean;
+    }
+  >();
+
+  // Extract all wearables from all tables
+  wearableTables.forEach((table) => {
+    table.tableData.data.forEach((row) => {
+      // Row structure: [image, id, name, rarity, stats, quantity, slot]
+      if (row.length >= 4) {
+        const id = row[1] as string;
+        const name = row[2] as string;
+        const rarity = row[3] as string;
+
+        // Check if this is a forge wearable (has style="object-fit:contain" in image)
+        const imageHtml = row[0] as string;
+        const useForgeStyle = imageHtml.includes('style="object-fit:contain"');
+
+        wearableMap.set(id, {
+          id,
+          name,
+          rarity: rarity.toLowerCase() as WearableRarity,
+          useForgeStyle,
+        });
+      }
+    });
+  });
+
+  return wearableMap;
+}
+
+// Convert traits bonuses array to readable string
+function formatTraitsBonuses(traitsBonuses: number[]): string {
+  const [brs, nrg, agg, spk, brn] = traitsBonuses;
+  const bonuses: string[] = [];
+
+  if (brs !== 0) bonuses.push(`BRS ${brs > 0 ? "+" : ""}${brs}`);
+  if (nrg !== 0) bonuses.push(`NRG ${nrg > 0 ? "+" : ""}${nrg}`);
+  if (agg !== 0) bonuses.push(`AGG ${agg > 0 ? "+" : ""}${agg}`);
+  if (spk !== 0) bonuses.push(`SPK ${spk > 0 ? "+" : ""}${spk}`);
+  if (brn !== 0) bonuses.push(`BRN ${brn > 0 ? "+" : ""}${brn}`);
+
+  return bonuses.join(", ");
+}
+
+// Generate set entry from setsList data
+function createSetEntry(
+  setName: string,
+  wearableIds: number[],
+  traitsBonuses: number[],
+  wearableLookup: Map<string, any>
+): string[] {
+  const itemImages: string[] = [];
+
+  // Get wearable data for each ID
+  wearableIds.forEach((id) => {
+    const wearable = wearableLookup.get(id.toString());
+    if (wearable) {
+      const image = createWearableImage(
+        wearable.id,
+        wearable.name,
+        wearable.rarity,
+        wearable.useForgeStyle || false
+      );
+      itemImages.push(image);
+    } else {
+      console.warn(`Wearable with ID ${id} not found`);
+      itemImages.push("-");
+    }
+  });
+
+  // Pad with "-" to ensure we have exactly 5 item slots
+  while (itemImages.length < 5) {
+    itemImages.push("-");
+  }
+
+  // Format the set bonuses
+  const setBonuses = formatTraitsBonuses(traitsBonuses);
+
+  return [setName, ...itemImages.slice(0, 5), setBonuses];
+}
+
+// Constants for headers
+const SETS_HEADERS = [
+  "Set",
+  "Item 1",
+  "Item 2",
+  "Item 3",
+  "Item 4",
+  "Item 5",
+  "Set Bonus",
+];
+
+// Factory function for creating the table
+function createSetsTable(
+  tableName: string,
+  tableCaption: string,
+  data: string[][],
+  headers: string[] = SETS_HEADERS
+): Table {
+  return {
+    tableName,
+    tableCaption,
+    tableData: {
+      headers,
+      data,
+    },
+  };
+}
+
+// Generate all sets data
+function generateSetsData(): string[][] {
+  const wearableLookup = createWearableLookup();
+
+  return setsList.map((set) =>
+    createSetEntry(set.name, set.wearableIds, set.traitsBonuses, wearableLookup)
+  );
+}
+
+export const tables = [createSetsTable("sets", "Sets", generateSetsData())];

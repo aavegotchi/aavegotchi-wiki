@@ -27,8 +27,7 @@ In einer typischen TBC steigt der Preis, wenn das Angebot des Tokens steigt, und
 <li><a href=#aavegotchi-bonding-curve>Aavegotchi Bonding Curve</a></li>
 <li><a href=#aavegotchi-daico>Aavegotchi DAICO</a></li>
 <li><a href=#aavegotchi-token-supply-dynamics>Aavegotchi Token Angebots-Dynamik</a></li>
-<li><a href=#arbitrage>Arbitrage</a></li>
-<li><a href=#learn-more>Weitere Infos</a></li>
+<li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
@@ -87,14 +86,11 @@ Das Aavegotchi Projekt hat die Token Bonding Curve durch einen DAICO auf Aragon 
 Die erste Version des [AavegotchiDAO](/dao) startete im Tandem mit der GHST Distribution auf der Bonding Curve. GHST Nutzer hatten die Macht, über die Erhöhung / Beibehaltung der Mittel abzustimmen, die durch den Tap Mechanismus der Token Bonding Curve (TBC) Reserven an Pixelcraft Studios (dem Team hinter Aavegotchi) ausgeschüttet werden, um die Entwicklung zu unterstützen. Der erste Vorschlag des AavegotchiDAO, den Aavegotchi DAICO Tap von 50'000 DAI auf 100'000 DAI pro Monat zu erhöhen, wurde am 18. Oktober 2020 mit 99% Zustimmung angenommen.
 
 ## Aavegotchi Token Angebots-Dynamik
-In unserer obigen Diskussion über die Token Bonding Curve / DAICO haben wir gelernt, dass das Gesamtangebot des GHST Tokens dynamisch ist. Wenn Investoren ihre DAI nutzen, um GHST aus der Bonding Curve zu kaufen, werden neue GHST Token erschaffen und das Gesamtangebot an zirkulierenden GHST steigt. Das Umgekehrte gilt natürlich auch. Wenn Nutzer ihr GHST zurück in die Bonding Curve verkaufen, erhalten sie einen entsprechenden Betrag in DAI, basierend auf dem vorherrschenden GHST Preis auf der Bonding Curve.
+In unserer obigen Diskussion über die Token Bonding Curve / DAICO haben wir gelernt, dass das Gesamtangebot des GHST Tokens dynamisch ist. When investors purchase GHST using DAI from the bonding curve, new GHST tokens are minted and the total supply of circulating GHST would increase. When GHST tokens are sold back into the bonding curve, the GHST tokens would be burnt, the seller would receive an equivalent amount in DAI based on the prevailing GHST price on the bonding curve, and the circulating supply of GHST tokens would decrease.
 
 Die Inflation von GHST Tokens durch Nettokäufe auf der Bonding Curve ist positiv mit dem GHST Preis korreliert. **Die Bonding Curve wurde mathematisch so programmiert, dass der Preis von GHST steigt, wenn das zirkulierende Angebot an GHST zunimmt.**
 
-## Arbitrage
-Nutzer, die KYC durchgeführt haben, werden in der Lage sein, die GHST Preisunterschiede zwischen der Token Bonding Curve und anderen dezentralen Börsen (DEX) wie Uniswap und Balancer zu arbitrieren. Laut [Investopedia](https://www.investopedia.com/terms/a/arbitrage.asp) ist "Arbitrage der Kauf und Verkauf eines Vermögenswertes, um von einer Preisdifferenz zwischen den Märkten zu profitieren. Es ist also ein Handel, der durch die Ausnutzung der Preisunterschiede von identischen oder ähnlichen Finanzinstrumenten auf verschiedenen Märkten oder in verschiedenen Formen profitiert. Arbitrage existiert als Ergebnis von Marktineffizienzen und würde daher nicht existieren, wenn alle Märkte perfekt effizient wären." Dies ist deshalb möglich, da DEXe mit ihrer eigenen Automated Market Maker (AMM) Formel ausgestattet sind und die Netto-Kauf-/Verkaufsaktionen von GHST Tokens auf diesen DEXen zu Preisen führen würden, die von der Token Bonding Curve abweichen. Ein erfahrener Investor könnte es erwägen, solche Ineffizienzen im Markt auszunutzen (*Alpha Leak*).
-
-## Weitere Infos
+## Learn More
 
 * Mehr über [Aragon Fundraising und Bonding Curves!](https://fundraising.aragon.black/components/bonding-curve)
 

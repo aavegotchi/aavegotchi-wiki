@@ -12,43 +12,21 @@ contributors:
 <p class="headerImageText">maTokens!</p>
 </div>
 
-What do you get when you take those interest-bearing aTokens and put them on Polygon? Why you get maTokens, of course!
+What do you get when you take those interest-bearing aTokens and put them on [Polygon](/glossary#polygon)? Why you get maTokens, of course!
 
-This page is a continuation of the [aTokens](/atokens) page. Previously, we have gotten ourselves some aTokens. Now, we are interested in converting them into maTokens and using them as collateral to summon our Aavegotchi frens!
+There are multiple ways to get your hands on some maTokens. In this page, we will introduce the various ways.
 
 <div class="contentsBox">
 
 ** 목차 **
 
 <ol>
-<li><a href=#converting-atokens-into-matokens>aToken을 maToken으로 전환하기</a></li>
 <li><a href=#staking-matokens-into-aavegotchis>Staking maTokens into Aavegotchis</a></li>
+<li><a href=#problems-while-staking-spirit-force>Problems while staking Spirit Force</a></li>
 <li><a href=#learn-more>Learn More</a></li>
 </ol>
 
 </div>
-
-## aToken을 maToken으로 전환하기
-
-First, head over to the [Bridge to Polygon](https://aavegotchi.com/bridge) on the Aavegotchi DApp.
-
-<img class = "bodyImage" src = "/matokens/bridge-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
-
-Next, click on the token image (circled in red below) to open a dropdown menu of tokens.
-
-<img class = "bodyImage" src = "/matokens/select-atoken-to-convert.png" alt = "Aavegotchi Bridge to Matic" />
-
-After selecting the token, key in the amount you want to transfer to Polygon. Using aUSDC as an example, key in the amount you would like to transfer to Polygon in the box highlighted in red.
-
-<img class = "bodyImage" src = "/matokens/amount-to-transfer-to-matic.png" alt = "Aavegotchi Bridge to Matic" />
-
-Once you have keyed in the desired amount, click the "Approve Transfer" button. Wait for the transaction to go through on Ethereum.
-
-After the Approve transaction goes through, click the "Transfer to Polygon" button. Wait for this transaction to go through on Ethereum as well.
-
-After you have done that, give it 10 minutes or so for your maTokens to appear in your wallet.
-
-If you are using Metamask and would like to learn how to configure Polygon on it, do check out the [Polygon Guide](/polygon) for step-by-step instructions as to how to do so.
 
 ## Staking maTokens into Aavegotchis
 
@@ -59,6 +37,13 @@ Good work fren.
 The next step is to purchase a [portal](/portals) using [GHST](/ghst). Portals could be purchased in the Aavegotchi DApp (link will be provided at launch) or on the [Secondary Markets](/marketplace) such as Opensea. Once you've gotten your hands on a precious portal, it is time to begin the summoning process. Upon opening the portal, you will be presented with 10 Gotchis, each with a randomized required maToken/collateral. Here's where the maToken you have acquired comes in. Stake it in the Gotchi that has the same collateral type and bring your fren to life!
 
 For a more detailed explanation of the portal-opening process, check out our [portals](/portals) page.
+
+## Problems while staking Spirit Force
+
+There are 2 situations where users are not allowed to stake their collateral into a Gotchi:
+
+* You need to make an approval transaction before a smart contract is allowed to use your ERC-20 token. Most likely, the user has manually set the allowance limit too low. To rectify this suation, increase the allowance limit
+* The user is using the collateral on Aave for borrowing and staking it would lower their Health Factor and possibly cause their position to be liquidated. To rectify this situation, either reduce/close your borrowed position or top up with the required collateral
 
 ## Learn more
 

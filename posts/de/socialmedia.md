@@ -26,6 +26,8 @@ Willkommen bei der Aavegotchi Fam! Unsere Community ist eine lebendige Gruppe, d
 <li><a href=#Twitter>Twitter</a></li>
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
+<li><a href=#Blog>Blog</a></li>
+<li><a href=#Twitch>Twitch</a></li>
 <li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
 </ol>
 
@@ -64,9 +66,19 @@ Unser Discord ist auch ein grossartiger Ort für alle, die allgemeine Fragen hab
 
 <p style="margin-left: 4.8em">Komm für die Memes und bleib für die Community! Mach eine Pause und hab eine schöne Zeit auf dem Aavegotchi Reddit, wo unsere tollen Memer sind! Viel Spass beim Entspannen für den Tag.</p>
 
-&nbsp;
+&nbsp;<a name="Blog"></a>
 
-Wir freuen uns, dich zu begrüssen! Head over to any of our channels to learn more.
+<a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Keep up with us on our blog!**</a>
+
+<p style="margin-left: 4.8em">Keep up with the latest Gotchi-news on our blog!</p>
+
+&nbsp;<a name="Twitch"></a>
+
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Watch the Gotchiverse live on our Twitch!**</a>
+
+<p style="margin-left: 4.8em">Watch live gameplay footage on our Twitch!</p>
+
+We look forward to welcoming you, fren! Head over to any of our channels to learn more.
 
 ## Aavegotchi Malaysia
 

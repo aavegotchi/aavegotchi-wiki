@@ -1,0 +1,306 @@
+<svg width="102.23438" height="100.5625" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 64 64">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_7">
+   <svg id="svg_13" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <style>.gotchi-primary{fill:#0000B9;}.gotchi-secondary{fill:#D4DEF8;}.gotchi-cheek{fill:#F696C6;}.gotchi-eyeColor{fill:#51FFA8;}.gotchi-primary-mouth{fill:#0000B9;}.gotchi-sleeves-up{display:none;}.gotchi-handsUp{display:none;}.gotchi-handsDownOpen{display:block;}.gotchi-handsDownClosed{display:none;}
+.gotchi-bg {
+    display:none;
+  }
+
+
+
+
+svg {
+  animation-name:down;
+  animation-duration:0.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-timing-function: steps(1);
+}
+
+.gotchi-shadow {
+  animation: up 0.5s infinite linear steps(2);
+   animation-name:up;
+   animation-duration:0.5s;
+   animation-iteration-count: infinite;
+   animation-timing-function: linear;
+   animation-timing-function: steps(2);
+}
+
+.gotchi-wearable {
+  animation-name:down;
+  animation-duration:0.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-timing-function: steps(1);
+}
+
+
+
+.gotchi-handsDownClosed, .gotchi-handsUp, .gotchi-handsDownOpen, .gotchi-handsDownClosed, .gotchi-body, .gotchi-eyeColor, .gotchi-collateral, .gotchi-cheek, .gotchi-primary-mouth, .gotchi-wearable, .gotchi-sleeves   {
+   animation-name:down;
+   animation-duration:0.5s;
+   animation-iteration-count: infinite;
+   animation-timing-function: linear;
+   animation-timing-function: steps(2);
+}
+
+.wearable-hand {
+  animation-name:down !important;
+  animation-duration:0.5s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-timing-function: steps(2);
+}
+
+@keyframes downHands {
+  from {
+    transform: translate(0px, -4px);
+  }
+ to {
+    transform: translate(0px, -3px);
+  }
+}
+
+
+@keyframes up {
+  from {
+    transform: translate(0px, 0);
+  }
+ to {
+    transform: translate(0px, -1px);
+  }
+}
+
+
+@keyframes down {
+ from {
+   transform: translate(0px, 0);
+    }
+ to {
+      transform: translate(0px, 1px);
+    }
+}</style>
+    <g id="svg_14" class="gotchi-bg">
+     <defs fill="#fff">
+      <mask id="svg_1">
+       <path id="svg_15" d="m0,0l64,0l0,32l-64,0l0,-32z" fill="url(#svg_2)"/>
+      </mask>
+      <pattern height="4" width="4" patternUnits="userSpaceOnUse" id="svg_6">
+       <path id="svg_16" d="m0,0l1,0l0,1l-1,0l0,-1zm2,2l1,0l0,1l-1,0l0,-1z"/>
+      </pattern>
+      <pattern height="2" width="2" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_4">
+       <path id="svg_17" d="m0,0l1,0l0,1l-1,0l0,-1z"/>
+      </pattern>
+      <pattern height="1" width="8" y="0" x="-2" patternUnits="userSpaceOnUse" id="svg_5">
+       <path id="svg_18" d="m0,0l1,0l0,1l-1,0l0,-1zm2,0l1,0l0,1l-1,0l0,-1zm2,0l1,0l0,1l-1,0l0,-1z"/>
+      </pattern>
+      <pattern height="4" width="4" y="0" x="0" patternUnits="userSpaceOnUse" id="svg_3">
+       <path id="svg_19" d="m0,0l1,0l0,1l-1,0l0,-1zm0,2l1,0l0,1l-1,0l0,-1zm1,0l0,-1l1,0l0,1l-1,0zm1,0l1,0l0,1l-1,0l0,-1zm0,-1l1,0l0,-1l-1,0l0,1zm1,2l1,0l0,1l-1,0l0,-1z"/>
+      </pattern>
+      <pattern height="32" width="64" patternUnits="userSpaceOnUse" id="svg_2">
+       <path id="svg_20" d="m4,4l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1zm7,0l1,0l0,1l-1,0l0,-1z"/>
+       <path id="svg_21" d="m0,8l64,0l0,7l-64,0l0,-7z" fill="url(#svg_6)"/>
+       <path id="svg_22" d="m0,16l64,0l0,1l-64,0l0,-1z" fill="url(#svg_4)"/>
+       <path id="svg_23" d="m0,18l64,0l0,1l-64,0l0,-1z" fill="url(#svg_5)"/>
+       <path id="svg_24" d="m22,18l15,0l0,1l-15,0l0,-1zm-22,2l64,0l0,3l-64,0l0,-3z" fill="url(#svg_4)"/>
+       <path id="svg_25" d="m0,24l64,0l0,8l-64,0l0,-8z" fill="url(#svg_3)"/>
+      </pattern>
+     </defs>
+     <path id="svg_26" d="m0,0l64,0l0,32l-64,0l0,-32z" fill="#fff"/>
+     <path id="svg_27" d="m0,0l64,0l0,32l-64,0l0,-32z" mask="url(#svg_1)" class="gotchi-secondary" fill="#dea8ff"/>
+     <path id="svg_28" d="m0,32l64,0l0,32l-64,0l0,-32z" class="gotchi-secondary" fill="#dea8ff"/>
+     <path id="svg_29" d="m0,64l64,0l0,-32l-64,0l0,32z" fill="#fff" mask="url(#svg_1)"/>
+    </g>
+    <g id="svg_30" class="gotchi-body">
+     <g id="svg_31" class="gotchi-primary">
+      <path id="svg_32" d="m21,12l2,0l0,-2l-4,0l0,2l1,0l1,0z"/>
+      <path id="svg_33" d="m19,14l0,-2l-2,0l0,2l1,0l1,0zm6,-4l2,0l0,-2l-4,0l0,2l1,0l1,0z"/>
+      <path id="svg_34" d="m29,8l8,0l0,-2l-10,0l0,2l1,0l1,0zm16,6l2,0l0,-2l-2,0l0,1l0,1z"/>
+      <path id="svg_35" d="m48,14l-1,0l0,39l-2,0l0,2l4,0l0,-41l-1,0zm-11,-4l4,0l0,-2l-4,0l0,1l0,1z"/>
+      <path id="svg_36" d="m41,12l4,0l0,-2l-4,0l0,1l0,1zm-24,41l0,-39l-2,0l0,41l4,0l0,-2l-1,0l-1,0z"/>
+      <path id="svg_37" d="m24,51l-5,0l0,2l5,0l0,-1l0,-1z"/>
+      <path id="svg_38" d="m27,53l-3,0l0,2l5,0l0,-2l-1,0l-1,0zm18,-2l-5,0l0,2l5,0l0,-1l0,-1z"/>
+      <path id="svg_39" d="m35,51l-6,0l0,2l6,0l0,-1l0,-1z"/>
+      <path id="svg_40" d="m38,53l-3,0l0,2l5,0l0,-2l-1,0l-1,0z"/>
+     </g>
+     <g id="svg_41" class="gotchi-secondary">
+      <path id="svg_42" d="m18,43l0,6l2,0l0,-1l2,0l0,1l2,0l0,2l-5,0l0,2l-2,0l0,-39l2,0l0,1l-1,0l0,26l0,2z"/>
+      <path id="svg_43" d="m27,51l-3,0l0,2l5,0l0,-2l-1,0l-1,0zm11,0l-3,0l0,2l5,0l0,-2l-1,0l-1,0z"/>
+      <path id="svg_44" d="m35,49l-2,0l0,-1l-2,0l0,1l-2,0l0,2l6,0l0,-1l0,-1zm-10,-38l2,0l0,-1l-4,0l0,1l1,0l1,0zm-4,2l2,0l0,-1l-4,0l0,1l1,0l1,0zm24,31l0,5l-1,0l0,-1l-2,0l0,1l-2,0l0,2l5,0l0,2l2,0l0,-39l-2,0l0,29l0,1z"/>
+      <path id="svg_45" d="m37,8l-10,0l0,1l5,0l0,1l5,0l0,-1l0,-1zm8,4l-4,0l0,2l4,0l0,-1l0,-1z"/>
+      <path id="svg_46" d="m41,10l-4,0l0,2l4,0l0,-1l0,-1z"/>
+     </g>
+     <path id="svg_47" fill="#fff" d="m44,14l-3,0l0,-2l-4,0l0,-2l-5,0l0,-1l-5,0l0,2l-4,0l0,2l-4,0l0,2l-1,0l0,34l2,0l0,-1l2,0l0,1l2,0l0,2l5,0l0,-2l2,0l0,-1l2,0l0,1l2,0l0,2l5,0l0,-2l2,0l0,-1l2,0l0,1l1,0l0,-35l-1,0z"/>
+    </g>
+    <path id="svg_48" d="m21,32l0,2l2,0l0,-2l-1,0l-1,0zm21,0l-1,0l0,2l2,0l0,-2l-1,0z" class="gotchi-cheek"/>
+    <g id="svg_49">
+     <g id="svg_50" class="gotchi-primary-mouth">
+      <path id="svg_51" d="m33,34l-4,0l0,2l6,0l0,-2l-1,0l-1,0z"/>
+     </g>
+    </g>
+    <g id="svg_52" class="gotchi-shadow">
+     <path id="svg_53" fill="#000" d="m25,58l-6,0l0,1l1,0l0,1l24,0l0,-1l1,0l0,-1l-1,0l-19,0z" opacity="0.25"/>
+    </g>
+    <g id="svg_54" class="gotchi-eyeColor">
+     <path id="svg_55" d="m28,22l-1,0l0,-1l-1,0l-1,0l-1,0l-1,0l0,1l-1,0l0,1l-1,0l0,1l0,1l0,1l0,1l1,0l0,1l1,0l0,1l1,0l1,0l1,0l1,0l0,-1l1,0l0,-1l1,0l0,-1l0,-1l0,-1l0,-1l-1,0l0,-1zm-1,2l0,1l0,1l-1,0l0,1l-1,0l-1,0l0,-1l-1,0l0,-1l0,-1l1,0l0,-1l1,0l1,0l0,1l1,0z"/>
+     <path id="svg_56" d="m42,23l0,-1l-1,0l0,-1l-1,0l-1,0l-1,0l-1,0l0,1l-1,0l0,1l-1,0l0,1l0,1l0,1l0,1l1,0l0,1l1,0l0,1l1,0l1,0l1,0l1,0l0,-1l1,0l0,-1l1,0l0,-1l0,-1l0,-1l0,-1l-1,0zm-1,2l0,1l-1,0l0,1l-1,0l-1,0l0,-1l-1,0l0,-1l0,-1l1,0l0,-1l1,0l1,0l0,1l1,0l0,1z"/>
+    </g>
+    <g id="svg_57" class="gotchi-collateral">
+     <path id="svg_58" fill="#0000b9" d="m34,13l0,-1l-4,0l0,1l-1,0l0,1l-1,0l0,1l-1,0l0,4l1,0l0,1l1,0l0,1l1,0l0,1l4,0l0,-1l1,0l0,-1l1,0l0,-1l1,0l0,-4l-1,0l0,-1l-1,0l0,-1l-1,0zm-2,1l1,0l0,1l1,0l0,1l1,0l0,2l-1,0l0,1l-1,0l0,1l-2,0l0,-1l-1,0l0,-1l-1,0l0,-2l1,0l0,-1l1,0l0,-1l1,0z"/>
+    </g>
+    <g id="svg_8" class="gotchi-wearable wearable-body">
+     <svg id="svg_59" y="32" x="12">
+      <path id="svg_60" d="m35,1l0,1l-2,0l0,1l-2,0l0,1l-2,0l0,1l-2,0l0,1l-2,0l0,1l-10,0l0,-1l-2,0l0,-1l-2,0l0,-1l-2,0l0,-1l-2,0l0,-1l-2,0l0,-1l-2,0l0,22l4,0l0,-2l5,0l0,2l5,0l0,-2l6,0l0,2l5,0l0,-2l5,0l0,2l4,0l0,-22l-2,0z"/>
+      <g id="svg_61" fill="#fff">
+       <path id="svg_62" d="m32,9l1,0l0,1l-1,0l0,-1z"/>
+       <path id="svg_63" d="m30,8l0,1l-1,0l0,1l2,0l0,-1l1,0l0,-1l-2,0zm-11,8l0,1l2,0l0,-1l-2,0zm6,-11l0,1l2,0l0,-1l-2,0zm-12,0l0,1l2,0l0,-1l-2,0z"/>
+       <path id="svg_64" d="m25,6l-3,0l0,2l-1,0l0,6l-2,0l0,-6l-1,0l0,-2l-3,0l0,1l2,0l0,2l1,0l0,6l4,0l0,-6l1,0l0,-2l2,0l0,-1z"/>
+      </g>
+     </svg>
+    </g>
+    <g id="svg_65" class="gotchi-handsDownClosed">
+     <g id="svg_66" class="gotchi-primary">
+      <path id="svg_67" d="m19,42l1,0l0,1l-1,0l0,-1zm1,-6l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_68" d="m21,37l1,0l0,1l-1,0l0,-1zm5,3l0,4l1,0l0,-4l-1,0zm-5,3l-1,0l0,1l2,0l0,-1l-1,0z"/>
+      <path id="svg_69" d="m24,44l-2,0l0,1l4,0l0,-1l-1,0l-1,0zm1,-5l-1,0l0,1l2,0l0,-1l-1,0z"/>
+      <path id="svg_70" d="m23,38l-1,0l0,1l2,0l0,-1l-1,0z"/>
+     </g>
+     <g id="svg_71" class="gotchi-secondary">
+      <path id="svg_72" d="m19,43l1,0l0,1l-1,0l0,-1zm5,2l-2,0l0,1l4,0l0,-1l-1,0l-1,0z"/>
+      <path id="svg_73" d="m27,41l0,3l1,0l0,-3l-1,0zm-6,3l-1,0l0,1l2,0l0,-1l-1,0z"/>
+      <path id="svg_74" d="m26,44l1,0l0,1l-1,0l0,-1zm-7,-3l-1,0l0,2l1,0l0,-1l0,-1z"/>
+     </g>
+     <g id="svg_75" class="gotchi-primary">
+      <path id="svg_76" d="m44,42l1,0l0,1l-1,0l0,-1zm-1,-6l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_77" d="m42,37l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_78" d="m42,39l0,-1l-2,0l0,1l1,0l1,0zm0,4l0,1l2,0l0,-1l-1,0l-1,0z"/>
+      <path id="svg_79" d="m40,44l-2,0l0,1l4,0l0,-1l-1,0l-1,0z"/>
+      <path id="svg_80" d="m38,42l0,-2l-1,0l0,4l1,0l0,-1l0,-1z"/>
+      <path id="svg_81" d="m40,40l0,-1l-2,0l0,1l1,0l1,0z"/>
+     </g>
+     <g id="svg_82" class="gotchi-secondary">
+      <path id="svg_83" d="m42,44l0,1l2,0l0,-1l-1,0l-1,0zm-5,-2l0,-1l-1,0l0,3l1,0l0,-1l0,-1z"/>
+      <path id="svg_84" d="m40,45l-2,0l0,1l4,0l0,-1l-1,0l-1,0z"/>
+      <path id="svg_85" d="m37,44l1,0l0,1l-1,0l0,-1zm7,-1l1,0l0,1l-1,0l0,-1z"/>
+     </g>
+    </g>
+    <g id="svg_86" class="gotchi-handsDownOpen">
+     <g id="svg_87" class="gotchi-primary">
+      <path id="svg_88" d="m14,40l1,0l0,1l-1,0l0,-1zm-1,-6l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_89" d="m14,33l1,0l0,1l-1,0l0,-1zm-2,2l1,0l0,1l-1,0l0,-1zm-5,3l1,0l0,4l-1,0l0,-4zm5,3l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_90" d="m8,42l4,0l0,1l-4,0l0,-1zm0,-5l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_91" d="m10,36l2,0l0,1l-2,0l0,-1z"/>
+     </g>
+     <g id="svg_92" class="gotchi-secondary">
+      <path id="svg_93" d="m14,39l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_94" d="m12,40l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_95" d="m8,41l4,0l0,1l-4,0l0,-1z"/>
+     </g>
+     <path id="svg_96" fill="#fff" d="m8,38l0,3l4,0l0,-1l2,0l0,-1l1,0l0,-5l-1,0l0,1l-1,0l0,1l-1,0l0,1l-2,0l0,1l-2,0z"/>
+     <g id="svg_97" class="gotchi-primary">
+      <path id="svg_98" d="m49,40l1,0l0,1l-1,0l0,-1zm1,-6l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_99" d="m49,33l1,0l0,1l-1,0l0,-1zm2,2l1,0l0,1l-1,0l0,-1zm5,3l1,0l0,4l-1,0l0,-4zm-6,3l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_100" d="m52,42l4,0l0,1l-4,0l0,-1zm2,-5l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_101" d="m52,36l2,0l0,1l-2,0l0,-1z"/>
+     </g>
+     <g id="svg_102" class="gotchi-secondary">
+      <path id="svg_103" d="m49,39l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_104" d="m50,40l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_105" d="m52,41l4,0l0,1l-4,0l0,-1z"/>
+     </g>
+     <path id="svg_106" fill="#fff" d="m54,38l0,-1l-2,0l0,-1l-1,0l0,-1l-1,0l0,-1l-1,0l0,5l1,0l0,1l2,0l0,1l4,0l0,-3l-2,0z"/>
+    </g>
+    <g id="svg_107" class="gotchi-handsUp">
+     <g id="svg_108" class="gotchi-secondary">
+      <path id="svg_109" d="m50,38l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_110" d="m49,39l1,0l0,1l-1,0l0,-1zm2,-2l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_111" d="m52,36l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_112" d="m54,35l2,0l0,1l-2,0l0,-1z"/>
+     </g>
+     <path id="svg_113" fill="#fff" d="m52,32l0,1l-2,0l0,1l-1,0l0,5l1,0l0,-1l1,0l0,-1l1,0l0,-1l2,0l0,-1l2,0l0,-3l-4,0z"/>
+     <g id="svg_114" class="gotchi-primary">
+      <path id="svg_115" d="m49,33l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_116" d="m50,32l2,0l0,1l-2,0l0,-1zm0,7l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_117" d="m49,40l1,0l0,1l-1,0l0,-1zm2,-2l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_118" d="m52,37l2,0l0,1l-2,0l0,-1zm0,-6l4,0l0,1l-4,0l0,-1z"/>
+      <path id="svg_119" d="m56,32l1,0l0,4l-1,0l0,-4z"/>
+      <path id="svg_120" d="m54,36l2,0l0,1l-2,0l0,-1z"/>
+     </g>
+     <g id="svg_121" class="gotchi-secondary">
+      <path id="svg_122" d="m13,38l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_123" d="m14,39l1,0l0,1l-1,0l0,-1zm-2,-2l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_124" d="m10,36l2,0l0,1l-2,0l0,-1z"/>
+      <path id="svg_125" d="m8,35l2,0l0,1l-2,0l0,-1z"/>
+     </g>
+     <path id="svg_126" fill="#fff" d="m8,32l0,3l2,0l0,1l2,0l0,1l1,0l0,1l1,0l0,1l1,0l0,-5l-1,0l0,-1l-2,0l0,-1l-4,0z"/>
+     <g id="svg_127" class="gotchi-primary">
+      <path id="svg_128" d="m14,33l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_129" d="m12,32l2,0l0,1l-2,0l0,-1zm1,7l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_130" d="m14,40l1,0l0,1l-1,0l0,-1zm-2,-2l1,0l0,1l-1,0l0,-1z"/>
+      <path id="svg_131" d="m10,37l2,0l0,1l-2,0l0,-1zm-2,-6l4,0l0,1l-4,0l0,-1z"/>
+      <path id="svg_132" d="m7,32l1,0l0,4l-1,0l0,-4z"/>
+      <path id="svg_133" d="m8,36l2,0l0,1l-2,0l0,-1z"/>
+     </g>
+    </g>
+    <g id="svg_9" class="gotchi-wearable wearable-head">
+     <svg id="svg_134" y="6" x="15">
+      <path id="svg_135" fill="#301800" d="m32,8l0,-2l-2,0l0,-2l-4,0l0,-2l-4,0l0,-2l-10,0l0,2l-4,0l0,2l-4,0l0,2l-2,0l0,2l-2,0l0,10l2,0l0,-1l2,0l0,-1l2,0l0,-1l2,0l0,-1l6,0l0,-1l3,0l0,-1l2,0l0,-1l2,0l0,-1l1,0l0,-1l1,0l0,-1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,2l2,0l0,-10l-2,0z"/>
+      <path id="svg_136" fill="#462300" d="m32,9l0,-1l-1,0l0,-1l-1,0l0,-1l-1,0l0,-1l-3,0l0,-1l-1,0l0,-1l-3,0l0,-1l-1,0l0,-1l-8,0l0,1l-1,0l0,1l-3,0l0,1l-1,0l0,1l-3,0l0,1l-1,0l0,1l-1,0l0,1l-1,0l0,1l-1,0l0,8l1,0l0,-1l2,0l0,-1l2,0l0,-1l2,0l0,-1l6,0l0,-1l3,0l0,-1l2,0l0,-1l2,0l0,-1l1,0l0,-1l1,0l0,-1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,-7l-1,0z"/>
+      <path id="svg_137" fill="#965c43" d="m21,4l-2,0l0,-1l-6,0l0,1l5,0l0,1l2,0l0,1l2,0l0,-1l-1,0l0,-1zm-2,3l-2,0l0,-1l-3,0l0,-1l-7,0l0,1l-1,0l0,1l2,0l0,-1l5,0l0,1l3,0l0,1l2,0l0,1l2,0l0,-1l-1,0l0,-1zm-4,2l-3,0l0,-1l-6,0l0,1l-2,0l0,1l-1,0l0,1l2,0l0,-1l2,0l0,-1l4,0l0,1l3,0l0,1l2,0l0,-1l-1,0l0,-1zm-3,2l-6,0l0,1l-2,0l0,1l-1,0l0,1l2,0l0,-1l2,0l0,-1l4,0l0,1l2,0l0,-1l-1,0l0,-1zm19,0l0,-1l-1,0l0,-1l-1,0l0,-1l-1,0l0,-1l-1,0l0,-1l-2,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,1l1,0l0,-2l-1,0z"/>
+     </svg>
+    </g>"&gt;
+    <g id="svg_10">
+     <svg id="svg_138" y="32" x="12">
+      <g id="svg_139">
+       <g id="svg_140" class="gotchi-sleeves gotchi-sleeves-left gotchi-sleeves-up">
+        <path id="svg_141" d="m37,9l1,0l0,-1l1,0l0,-1l1,0l0,-7l-2,0l0,1l-1,0l0,8z"/>
+       </g>
+       <g id="svg_142" class="gotchi-sleeves gotchi-sleeves-left gotchi-sleeves-down">
+        <path id="svg_143" d="m37,9l1,0l0,1l2,0l0,-7l-1,0l0,-1l-1,0l0,-1l1,0l0,-1l-2,0l0,9z"/>
+       </g>
+       <g id="svg_144" class="gotchi-sleeves gotchi-sleeves-right gotchi-sleeves-up">
+        <path id="svg_145" d="m3,1l-1,0l0,-1l-2,0l0,7l1,0l0,1l1,0l0,1l1,0l0,-8z"/>
+       </g>
+       <g id="svg_146" class="gotchi-sleeves gotchi-sleeves-right gotchi-sleeves-down">
+        <path id="svg_147" d="m3,0l-2,0l0,1l1,0l0,1l-1,0l0,1l-1,0l0,7l2,0l0,-1l1,0l0,-9z"/>
+       </g>
+      </g>
+     </svg>
+    </g>
+    <g id="svg_11" class="gotchi-wearable wearable-hand wearable-hand-left">
+     <svg id="svg_148" y="27" x="0">
+      <path id="svg_149" fill="#003a87" d="m15,8l0,-2l-1,0l0,-2l-1,0l0,-1l-1,0l0,-1l-1,0l0,-1l-1,0l0,-1l-4,0l0,1l-1,0l0,1l-1,0l0,1l-1,0l0,1l-1,0l0,2l-1,0l0,2l-1,0l0,8l1,0l0,2l1,0l0,1l1,0l0,1l1,0l0,1l2,0l0,1l4,0l0,-1l2,0l0,-1l1,0l0,-1l1,0l0,-1l1,0l0,-2l1,0l0,-8l-1,0z"/>
+      <path id="svg_150" fill="#0093ff" d="m14,8l0,-2l-1,0l0,-2l-1,0l0,-1l-1,0l0,-1l-1,0l0,-1l-4,0l0,1l-1,0l0,1l-1,0l0,1l-1,0l0,2l-1,0l0,2l-1,0l0,8l1,0l0,2l1,0l0,1l1,0l0,1l2,0l0,1l4,0l0,-1l2,0l0,-1l1,0l0,-1l1,0l0,-2l1,0l0,-8l-1,0z"/>
+      <path id="svg_151" fill="#46cdff" d="m12,8l0,-2l-1,0l0,-2l-1,0l0,-1l-2,0l0,-1l-3,0l0,1l-1,0l0,1l-1,0l0,2l-1,0l0,2l-1,0l0,8l1,0l0,2l1,0l0,1l1,0l0,1l4,0l0,-1l2,0l0,-1l2,0l0,-2l1,0l0,-8l-1,0z"/>
+      <g id="svg_152" fill="#a3e6ff">
+       <path id="svg_153" d="m5,2l1,0l0,1l-1,0l0,-1z"/>
+       <path id="svg_154" d="m4,3l1,0l0,1l-1,0l0,-1z"/>
+       <path id="svg_155" d="m3,4l1,0l0,2l-1,0l0,-2zm-2,4l1,0l0,8l-1,0l0,-8z"/>
+       <path id="svg_156" d="m2,16l1,0l0,2l-1,0l0,-2z"/>
+       <path id="svg_157" d="m3,18l1,0l0,1l-1,0l0,-1z"/>
+       <path id="svg_158" d="m4,19l2,0l0,1l-2,0l0,-1zm-2,-13l1,0l0,2l-1,0l0,-2z"/>
+      </g>
+      <g id="svg_159" fill="#fff">
+       <path id="svg_160" d="m3.5,10.5l1,0l0,-1l-2,0l0,5l2,0l0,-1l-1,0l0,-3z"/>
+       <path id="svg_161" d="m4.5,10.5l1,0l0,3l-1,0l0,-3zm4,2l-1,0l0,-2l1,0l0,-1l-2,0l0,5l1,0l0,-1l1,0l0,1l1,0l0,-4l-1,0l0,2zm2,-3l0,5l3,0l0,-5l-3,0zm2,4l-1,0l0,-3l1,0l0,3z"/>
+      </g>
+     </svg>
+    </g>
+    <g id="svg_12" class="gotchi-wearable wearable-hand wearable-hand-right">
+     <svg id="svg_162" y="31" x="7">
+      <g id="svg_163" transform="scale(-1, 1) translate(-50, 0)">
+       <path id="svg_164" fill="#00f" d="m5,3l0,-1l-1,0l0,-2l-2,0l0,2l-1,0l0,1l-1,0l0,9l1,0l0,1l4,0l0,-1l1,0l0,-9l-1,0z"/>
+       <path id="svg_165" fill="#0000cb" d="m2,0l0,1l2,0l0,-1l-2,0z"/>
+       <g id="svg_166" fill="#fff">
+        <path id="svg_167" enable-background="new" d="m4,3l0,-1l-2,0l0,1l-1,0l0,9l4,0l0,-9l-1,0z"/>
+        <path id="svg_168" enable-background="new" opacity="0.5" d="m4,3l0,-1l-2,0l0,1l-1,0l0,9l4,0l0,-9l-1,0z"/>
+       </g>
+       <path id="svg_169" enable-background="new" fill="#c3ffff" opacity="0.5" d="m1,5l0,7l4,0l0,-7l-4,0z"/>
+      </g>
+     </svg>
+    </g></svg>
+  </g>
+ </g>
+</svg>

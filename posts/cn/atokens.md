@@ -13,21 +13,21 @@ contributors:
 <p class="headerImageText">关于aTokens</p>
 </div>
 
-aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在存入时被铸造，赎回时被烧毁。 Atokens与存入Aave协议的基础资产价值1:1挂钩。 aTokens 可以自由存储、转移和交易。 请参阅 [Aave FAQ](https://docs. aave. com/faq/) 以了解更多关于Aave议定的信息。
+Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
 
-那么aTokens如何与Aavegotchi相关？ 每一个 Aavegotchi 都必须通过一个 [传送门](/pages/portals), 并且必须先由 aToken 担保，然后才能投入生命！ 没有例外！ 这就是为什么你需要aTokens和这个页面将为你提供一些有用的信息，说明什么是可用的 aTokens 以及你如何得到它们。
+So what exactly is Spirit Force?
 
-当Aavegotchi从Ethereum Mainnet转移到[ Matic网络 ](/glossary#matic-network)时，这些aTokens也需要在Matic网络上可用。 我们将内置相应技术[Nick Mudge](/team#nick-mudge)，从而将它们连接到Matic网络上。 Matic网络上的aTokens被称为maTokens。
+Initially, the Aavegotchi game was designed to be on Ethereum Mainnet. During that time, Spirit Force refers to aTokens. They are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
-从玩家的角度来看，玩Aavegotchi包括：
+Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we needed aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge **Aave V2 aTokens** from Ethereum Mainnet over to Polygon. These are known as **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
 
-1. 首先获得一些aTokens
-2. 将aTokens转换为maTokens
-3. 开启传送门后，用maTokens作为抵押品，召唤出Aavegotchi
+Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
 
-在本页中，我们将指导你学习aTokens的方法
+This page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
-在Aavegotchi中，"精神力"、"抵押品"、"aTokens "和 "maTokens "这几个词的意思是一样的。
+Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+
+In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
 <div class="contentsBox">
 
@@ -45,47 +45,46 @@ aTokens 是来自 [Aave 协议](https://aave.com) 的计息令牌。 它们在�
 
 ## 关于
 
-当基础资产借给借款人时，aToken将会实时计息，而利润会直接进入你的钱包!  说真的，你可以看到你的余额每分钟都在增长。
+While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
-aTokens可以分为两类。(1) 加密货币，或 (2) 稳定币。 加密货币是由加密技术确保其安全的数字或虚拟货币。 大多数加密货币是基于区块链技术的去中心化网络--由不同的计算机网络执行的分布式账本。 稳定币是一类通过与美元（USD）等外部参照物挂钩，从而达到价格稳定的加密货币。 不同稳定币的挂钩基础机制不同，每个稳定币都有自己的风险特征。
+aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
-
-以下 [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) （加密货币和稳定币）可在Aave协议上使用。 “Aavegotchi支持一览”表示给定的aToken是否可以用于Aavegotchi游戏。 支持的aToken列表尚未最终确定；将通过twitter投票/DAO投票，根据玩家的需求，从而增加更多Aavegotchi游戏的aToken总类。
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## 稳定币
 
-稳定币表
+table_stablecoins
 
 ## 加密货币
 
-加密货币表
+table_cryptocurrencies
 
 ## 获取 aTokens
 
-*以下步骤取自Aave Medium的 [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) 。 为了方便读者阅读，在此进行了复制。*
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
 
-1). 首先从 <a href = "https://app.aave.com/">Aave Protocol</a>  开始吧!
+1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
-2). 在这里，你有几个选项来链接你的加密钱包，这取决于你有哪种类型的钱包。
+2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). 在你使用Aave协议之前，你需要先拥有一些加密资产。 可用的加密资产列表，在上述 <a href=#stablecoins>Stablecoins</a>  和 <a href=#cryptocurrencies>Cryptocurrencies</a> 列表当中已经有所展示。
+3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
-如果您没有任何加密资产，但您想加入其中，您需要将您的法币（正常货币，如美元、欧元等）转换为加密资产（如上述之一）。
+If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
-幸运的是，Aave最近推出了一个一站式将法币兑换成加密货币平台，因而你可以直接在Aave协议应用中购买加密资产!  现在，仅需要几分钟时间，您可以使用Transak或Ramp Instant通过信用卡或借记卡或电汇，购买您想要的资产（见下文）。
+Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). 当您将钱包连接到平台后，您可以将资产存入Aave协议。 当您点击 "存款（Deposit） "时，界面会显示您钱包里有哪些可以入金的资产。 然后选择您想存入的资产，选择存入的金额，然后就完成了!  * 注意：在实际存款交易发生之前，会有一个 "批准（Approve） "交易。 这是为了允许存款合约能够调用您存入的相应资产。</p>
+4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-只要您的存款交易通过，您就坐享存款利息了。 现在你应该可以在您的钱包中看到相应资产的aToken版本。
+As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
 ## 将aTokens转化成maTokens
 
-拿到你的aTokens了吗？ 很好！
+Got your aTokens? Good!
 
-让我们前往 [maTokens](/matokens) 页面进行第二步！
+Let's head over to the [maTokens](/matokens) page for Step 2!

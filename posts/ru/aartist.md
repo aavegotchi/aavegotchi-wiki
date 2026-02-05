@@ -1,18 +1,18 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Aartists'
-description: 'Get to know our Aavegotchi Aartists here!'
+date: '2014-04-26T22:00:00.000Z'
+title: 'Создатели контента в Аавеготчи'
+description: 'Заходи, чтобы узнать все о наших креаторах'
 ---
 
-You know what's groovy? Our community aartists! Get to know them (and their creations) here!
+Знаете, что круто? Талант наших создателей контента! Познакомьтесь с ними и их творениями на этой странице!
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#aartists>Aartists</a></li>
+<li><a href=#aartists>Создатели контента (Aartists)</a></li>
 <li><a href=#cawito>Cawito</a></li>
 <li><a href=#esveebee>Esveebee</a></li>
 <li><a href=#ka-wai-leong>Ka Wai Leong</a></li>
@@ -25,54 +25,54 @@ You know what's groovy? Our community aartists! Get to know them (and their crea
 
 </div>
 
-## Aartists
+## Создатели контента (Aartists)
 
 table_aartist
 
 ## Cawito
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_cawito
 
 ## Esveebee
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_esveebee
 
 ## Ka Wai Leong
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_kawaileong
 
 ## Qurka
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_qurka
 
 ## Rod
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_rod
 
 ## ShadowLord Obeeus
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_shadowlordobeeus
 
 ## SnottySnake
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_snottysnake
 
 ## Vanilladelphia
 
-Designed the following wearables:
+Разработал дизайн для следующих предметов экипировки:
 
 table_vanilladelphia

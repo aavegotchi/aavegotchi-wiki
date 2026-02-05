@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+date: '2014-04-26T22:00:00.000Z'
+title: 'Аавегочи'
+description: 'Введение в Аавеготчи ВИКИ'
 image: "aavegotchi.png"
 contributors:
   - "cinnabarhorse"
@@ -10,62 +10,62 @@ contributors:
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/aavegotchi.png" alt="aavegotchi" />
-<p class="headerImageText">Aavegotchi</p>
+<img class="headerImage" src="/aavegotchi.png" alt="Аавеготчи" />
+<p class="headerImageText">Аавеготчи</p>
 </div>
 
-**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with interest-generating [aTokens](/atokens) and interact with the Aavegotchi [metaverse](/metaverse). It is a unique combination of [Decentralized Finance (DeFi)](/glossary#defi-101) and NFTs.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). Это уникальное сочетание двух технологий — DeFi и NFT.
 
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the [**ERC-721**](/glossary#erc-721) standard. Their value is determined by rarity level, which is calculated via multiple factors, such as base [traits](/traits), amount of staked collateral/aTokens, and equipped [wearables](/wearables).
+Аавеготчи (сокращенно — Готчи) — это пиксельные призраки, населяющие игру. Так как проект построен на блокчене Ethereum, каждый Готчи соответствует стандарту [**ERC-721**](/glossary#erc-721). Его ценность определяется уровнем редкости. Он рассчитывается при помощи нескольких факторов. В их числе — базовые [характеристики](/traits), количество залогов/аТокенов, находящихся в пуле, а также имеющаяся [экипировка](/wearables).
 
-To level up their Aavegotchis, players can participate in a variety of activities including mini-games, governance, and meetups. Aavegotchis can also increase their rarity level by equipping in-game wearables and leveling up.
+Игроки могут повышать уровень своих Готчи, принимая участие в различных мероприятиях. Это [мини-игры](/minigames), голосование за управление проектом, а также участие в различных собраниях (митапах). Также, как мы уже говорили, уровень редкости Готчи можно повысить, добавив ему экипировку.
 
-Rare Aavegotchis not only have higher secondary [marketplace](/marketplace) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
+Редкие Готчи не только имеют высокую ценность и быстро продаются на вторичном [рынке](/baazaar). С их помощью удается лучше фармить в [мини-игре](/rarity-farming), в рамках которой самые редкие Готчи получают токены GHST.
 
-Aavegotchi is governed by [AavegotchiDAO](/dao) that manages all funds generated through the [GHST token](/ghst) distribution.
+Игровой проект Аавеготчи управляется децентрализованной организацией AavegotchiDAO. Под управлением ее членов находятся токены GHST, распределенные на нужды проекта.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#about-aavegotchis>About Aavegotchis</a></li>
-<li><a href=#aavegotchi-value>Aavegotchi Value</a></li>
-<li><a href=#the-aavegotchi-universe>The Aavegotchi Universe</a></li>
+<li><a href=#about-aavegotchis>О Готчи.</a></li>
+<li><a href=#aavegotchi-value>Ценность Готчи.</a></li>
+<li><a href=#the-aavegotchi-universe>Метавселенная Аавеготчи.</a></li>
 </ol>
 
 </div>
 
-## About Aavegotchis
-Aavegotchis are rare crypto-collectibles living on the Ethereum blockchain, backed by the ERC-721 standard used in popular blockchain games such as CryptoKitties, Axie Infinity, and Cryptovoxels. Aavegotchis possess three attributes that determine their overall value and rarity within the Aavegotchi universe: **collateral stake, traits, and wearables.**
+## О Готчи
+Готчи — редкие крипто-коллекционные призраки, живущие на блокчейне Ethereum. Они являются стандартным  ERC-721 токеном - таким же, который используется в большинстве популярных блокчейн-играх, как CryptoKitties, Axie Infinity и Cryptovoxels. Готчи обладают тремя атрибутами, определяющими их ценность и уровень редкости в игровой Метавселенной Аавеготчи: **стейкинговое обеспечение, характеристики и носимая экипировка**.
 
-*  **Collateral stake:** Each Aavegotchi ERC721 NFT manages an escrow contract address that holds an Aave-backed ERC20 collateral, or “aToken”. [aTokens](/atokens) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Thus, the amount of aTokens held in the Aavegotchi’s escrow address grows over time.
+*  **Стейкинговое обеспечение:** каждый Готчи является NFT-объектом стандарта ERC-721. [aTokens](/spirit-force) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. Так что постепенно число aTokens, хранящихся в кошельке в Авеготчи, увеличивается.
 
 
-*  **Traits:** Aavegotchis possess multiple traits that influence their rarity, their performance in mini-games, and the wearables they can equip. Some are generated randomly upon birth, and others depend on user interactions with the Aavegotchi. **See [Traits](/traits).**
+*  **Характеристики:** Готчи имеют множество черт, обуславливающих их редкость и влияющих на игровые показатели, эффективность в мини-играх, а также выбор предметов экипировки, которые можно для них использовать. Некоторые характеристики генерируются случайным образом при рождении, а другие зависят от действий игрока и его взаимодействия с Готчи. **См. [Характеристики](/traits).**
 
-    * **Random Traits**: Upon birth, every Aavegotchi is assigned several random trait values using the ChainLink VRF random number generator. Trait values are distributed on a bell-curve, and each trait is assigned a value of Common, Uncommon, Rare, or Mythical depending on its rarity.
+    * **Случайные характеристики.** Каждый Готчи при рождении получает несколько характеристик, которые выбираются с помощью генератора случайных чисел ChainLink VRF. Эти характеристики распределяются по колоколообразной кривой. При этом каждая характеристика Готчи получает один из нижеперечисленных классов: Обычный, Необычный, Редкий или Мифический. Класс характеристик влияет на уровень редкости Готчи.
 
-    *  **Kinship**: “Kinship” is not randomly assigned, but rather starts at a fixed value (50) upon birth and increases or decreases based on various factors, such as how long the Aavegotchi has been with the same owner, and how often the owner interacts with it.
+    *  **Сродство.** Сродство (“Kinship”) не назначается случайным образом. В самом начале, при рождении каждого нового Готчи, этот параметр устанавливается на фиксированном уровне — 50 баллов. В дальнейшем, с течением времени, этот показатель может как расти, так и падать. На это влияет несколько факторов. Например, если Готчи дольше остается с одним и тем же хозяином и регулярно взаимодействует с ним — за это баллы сродства постоянно добавляются.
 
-    *  **Experience:** Aavegotchis level up as they gain more experience by voting in AavegotchiDAO and participating in mini-games. Every three levels, Aavegotchis receive one [Spirit Point](/glossary#spirit-point) that can be allocated towards increasing or decreasing a certain trait.
+    *  **Опыт.** Данный показатель меняется в процессе голосования в AavegotchiDAO, а также участия в мини-играх. Каждые три уровня игры приносят Готчам одно [очко Духа](/glossary#spirit-point), с помощью которого можно увеличить или уменьшить какую-то характеристику.
 
-* **Wearables** In addition to managing the aToken escrow, Aavegotchis also extend the [ERC998 Composables standard](/glossary#erc-998), which allows them to manage child NFTs, known as wearables in the Aavegotchi ecosystem. Not every wearable can be equipped by every Aavegotchi. Some wearables may be exclusively equipped by Aavegotchis staked with certain collaterals, those of a certain level, and those with certain traits. Some wearables can increase or decrease certain traits of an Aavegotchi. For example, equipping a sword may slightly boost an Aavegotchi’s aggressiveness, whereas equipping a Bob Marley shirt may decrease its energy level.
+* **Экипировка.** Помимо стандарта ERC-721, необходимого для стейкинга, в Аавеготчи также используется стандарт [ERC998 Composables](/glossary#erc-998), позволяющий Готчи управлять дочерними NFT — носимыми предметами, то есть экипировкой. Каждому Готчи подходят не все, а строго определенные предметы. Для ношения одних должны быть в наличии определенные аксессуары, другие предназначены для призраков с определенным уровнем развития и характеристиками. Экипировка также влияет на характеристики, уменьшая или увеличивая те или иные черты. Например, если взять меч, Готчи станет более агрессивным, а, к примеру, рубашка Боба Марли может понизить показатель энергии вашего призрака.
 
-The relationship between Collateral stake, Traits, Wearables, and Kinship is best represented by an Onion Diagram (see below). Each layer builds upon the previous layers, with the sum being the Aavegotchi itself!
+Между всеми вышеперечисленными показателями — стейкинговым обеспечением, характеристиками, родством, опытом и экипировкой, есть связь. Ее можно проследить на этой луковидной диаграмме. Каждый слой базируется на предыдущих, и в комплексе получается ваш уникальный Готчи!
 
-<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Onion Diagram" />
+<img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Луковидная диаграмма Аавеготчи" />
 
-## Aavegotchi Value
-The valuation of an Aavegotchi comes from both from its intrinsic value and from its rarity value.
+## Ценность Готчи
+Этот показатель напрямую зависит как от внутренней стоимости призрака, так и от редкости.
 
-* **Intrinsic value** Intrinsic value is the denominated value of the Aavegotchi’s staked collateral. If the Aavegotchi is staked with 10 aDAI, then the intrinsic value would be 10 aDAI, plus whatever extra aDAI has accrued from the Lending Pool. Initially, only [ERC20](/glossary#erc-20) tokens listed on the Aave platform (aTokens) will be available as collaterals. However, once AavegotchiDAO launches, the community will be able to vote on which new collaterals to allow.
+* **Внутренняя стоимость** приравнивается к стоимости залога за Готчи (цены токенов, находящихся в стейкинге). Если ставка составляет 10 aDAI, то внутренняя стоимость будет составлять эти поставленные 10 aDAI, а также проценты (средства, полученные в качестве вознаграждения из кредитного пула). В самом начале ставку можно делать токенами [ERC20](/glossary#erc-20), перечисленными на платформе Aave (aTokens). Когда будет запущено АавеготчиDAO, сообщество вправе проголосовать за другие токены, которые могут использоваться для стейкинга.
 
-* **Rarity value** Rarity value is determined by calculating the rareness of each Aavegotchi’s traits and equipped wearables within the Aavegotchi universe. Unlike other NFT games, rarity is not a fixed value in Aavegotchi. It can change over time as Aavegotchis level up and equip different wearables. Thus, a rare Aavegotchi one week could become common, and vice versa, depending on the overall distribution of traits and wearables within the Aavegotchi universe. This enables a novel concept known as “rarity farming”, which is explained in [this page](/rarity-farming).
+* **Редкость** также влияет на ценность Готчи. Этот показатель рассчитывается путем сложения редкости каждой характеристики Готчи, а также присутствующей экипировки. В отличие от других NFT-игр, уровень редкости в Аавеготчи не является постоянной величиной и может меняться по мере повышения уровня Готчи и добавления новой экипировки. То есть, сегодняшний редкий Готчи через пару дней может потерять такой статус. Такая стратегия направлена на то, чтобы давать возможность всем желающим игрокам, даже тем, кто недавно присоединился к проекту, выращивать раритетные Готчи и постоянно повышать их ценность. Подробней про фарминг смотрите на [этой странице](/rarity-farming).
 
-## The Aavegotchi Universe
-The Aavegotchi Universe encompasses all the elements that allow Aavegotchis to operate:
-* [Portals](/portals)
-* [GHST Utility Token](/ghst)
-* [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+## Метавселенная Аавеготчи
+Включает в себя все элементы, которые помогают игре функционировать:
+* [Порталы.](/portals)
+* [Токен-утилита GHST.](/ghst)
+* [АавеготчиDAO.](/dao)
+* [Вселенная Аавеготчи.](/gotchiverse)

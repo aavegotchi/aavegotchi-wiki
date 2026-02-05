@@ -1,266 +1,441 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Milestones'
-description: 'Milestones of the Aaavegotchi Project'
+date: "2020-04-23T07:00:00.000Z"
+title: "Milestones"
+description: "Milestones of the Aaavegotchi Project"
 contributors: ["unintelligent-nerd"]
 ---
 
-## [Aavegotchi Launch Date confirmed!](https://aavegotchi.medium.com/aavegotchi-confirms-march-2-launch-date-32cc95f59c33)
-* On 24 February 2021, the Aavegotchi team confirmed that Aavegotchi is set to launch on Tuesday, March 2 at 10am EST / 11pm SGT. 
-* The launch event will take place at Aavegotchi.com and feature an NFT (non-fungible token) drop that releases 10,000 Aavegotchi Portals for the public. 
-* Dubbed “Haunt One,” this launch release marks the first time fans of the game will be able to summon Aavegotchis.
-<p></p>
+<div class="contentsBox">
 
-## [Chainlink VRF is live on Polygon!](https://aavegotchi.medium.com/chainlink-vrf-launches-on-polygon-enabling-provably-rare-aavegotchis-d03e36698795)
-* The wait is over! Chainlink VRF is now live on Polygon as of 23 February 2021!
-<p></p>
+**Contents**
 
-## [New GHST-USDC Liquidity Pool is live!](https://twitter.com/aavegotchi/status/1362423023656001537)
-* The GHST-USDC pool launched on 18 February 2021. Now you can make FRENS in this new pool!
-<p></p>
+<ol>
+<li><a href=#year-2024>Year 2024</a></li>
+<li><a href=#year-2023>Year 2023</a></li>
+<li><a href=#year-2022>Year 2022</a></li>
+<li><a href=#year-2021>Year 2021</a></li>
+<li><a href=#year-2020>Year 2020</a></li>
+</ol>
 
-## [AavegotchiDAO's treasury hits the 100k Milestone!](https://twitter.com/aavegotchi/status/1361690024958300170)
-* On 16 February 2021, the AavegotchiDAO's treasury hit the 100k DAI milestone. AavegotchiDAO earns 0.3% of all trades on the Aavegotchi Bonding Curve on Ethereum Mainnet. This is the current source of all DAO funds.
-<p></p>
+</div>
 
-## [Why Aavegotchi chose Polygon](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)
-* Why did Aavegotchi chose Polygon as a Layer 2 solution? Get the scoop here! Article posted on 16 February 2021.
-<p></p>
+## Year 2024
 
-## [Monthly GHST purchase program & new LP token vote](https://aavegotchi.medium.com/pixelcraft-studios-ghst-purchase-schedule-confirmed-ghst-usdc-lp-pair-vote-9e603fd7b1c1)
-* Last month, the AavegotchiDAO concluded a successful proposal to increase the tap emission from 100,000 DAI per month to 150,000 DAI per month, with the understanding that the extra 50,000 DAI would be used by Pixelcraft Studios (the lead developers of Aavegotchi) to purchase GHST from the curve.
-* Starting this month, Pixelcraft Studios will begin purchasing GHST from the Ethereum mainnet bonding curve!
-* A Snapshot vote to make the GHST-USDC LP token eligible to earn FRENS! Come and cast your votes fam!
-* Article published on 8 February 2021.
-<p></p>
 
-## [Wait! What?! An Aavegotchi NFT Marketplace](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
-* On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) will be launching alongside Portals and Wearables when the game goes live in February! 
-<p></p>
+## [14 Ebic New Wearables Are Coming!](https://blog.aavegotchi.com/14-stunning-new-wearables/)
 
-## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)
-* Heya Frens! Need help with migrating GHST to Polygon and reap those sweet sweet rewards? We have a guide for you! Published on 25 January 2021.
-<p></p>
+- In July 2024, AavegotchiDAO hosted a community design competition where talented artists flexed their pixel-crafting skills to create fourteen new Wearable Schematics.
+- Now, these unique Wearables are about to hit the Gotchiverse, and to make things even more exciting, 10% of them will be distributed through the first-ever DAO Forge Competition!
+  <p></p>
 
-## [Aavegotchi Improvement Proposals 2 and 3!](https://aavegotchi.medium.com/aavegotchi-community-update-20-9803a6fdc8f5)
-* On 21 January 2021, Aavegotchi Improvement Proposals (AGIPs) 2 and 3 votes smash quorum with 8hrs remaining!
-* GHST Staking Contract on Polygon to launch alongside the bridge from Mainnet to Polygon
-* Growth of the Korean, French, and Spanish Aavegotchi Communities! Woot woot!
-<p></p>
+## [A new partnership with Camelot](https://blog.aavegotchi.com/camelot-launching-on-geist/)
 
-## [aTokens live on Polygon Network!](https://twitter.com/coderdannn/status/1351902787919986693)
-* Our Diamond Boy, [Nick Mudge](/team#nick-mudge), has done it! He has successfully bridged aTokens onto Polygon on 20 January 2021!
-<p></p>
+- Aavegotchi is excited to announce a new partnership with Camelot, creators of the Orbital Liquidity Network, and the largest decentralized exchange (DEX) on Arbitrum.
+- This collaboration will power liquidity on Geist, our upcoming Layer 3 blockchain, allowing decentralized exchange of value to an ecosystem of curated games and dapps.
+- Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
+  <p></p>
 
-## [Voting on Aragon is now live!](https://twitter.com/aavegotchi/status/1351159786109341698)
-* On 18 January 2021, the team announced that the two new AavegotchiDAO proposals are now live on Aragon for voting. The voting period lasts 72 hours.
-<p></p>
+## [Introducing the Geist Blockchain!](https://blog.aavegotchi.com/introducing-geist/)
 
-## [GHST token live on Polygon](https://aavegotchi.medium.com/ghst-token-live-on-matic-100k-usd-liquidity-migration-incentives-announced-faq-2590daa25d73)
-* On 11 January 2021, the Aavegotchi team announced the launch of the GHST token on Polygon
-* There are Liquidity Migration Incentives up for grabs as well!
-<p></p>
+- Previously codenamed “Gotchichain”, Geist is the first members-only blockchain, built for gaming.
+- It will be a new L3 powered by Base, Arbitrum, Alchemy, and of course, Aavegotchi.
+- Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
+  <p></p>
 
-## [Calling all devs!](https://aavegotchi.medium.com/hack-with-aavegotchi-calling-all-devs-e609d4de9006)
-* The Aavegotchi team will be sponsoring MarketMake, the epic ETH Global hackathon, with 4000 GHST in rewards (and some sweet XP bonuses for your future Aavegotchis).
-<p></p>
+## [Aavegotchi July Highlights](https://blog.aavegotchi.com/aavegotchi-july-highlights/)
 
-## [Aavegotchi postpones Mainnet Launch](https://aavegotchi.substack.com/p/aavegotchi-community-update-19)
-* Mainnet launch on 4 January 2021 has been postponed due to extreme network congestion :(
-* The community voted and made the decision to launch on Polygon at a later date
-* Aagent missions have finally concluded! 
-* Aavegotchi Shop Wearables revealed! Head over [here](/wearables) to see them
-* Aavegotchi looking for Aambassadors!
-<p></p>
+- Gotchi Guardians have a fiery new map, play and earn in Spirit Force Arena, 3D wearables and moar in this July update!
+  <p></p>
 
-## [Rarity Farming 101](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8)
-* What you need to know about the upcoming Rarity Farming! Announced on 2 January 2021.
-<p></p>
+## [Rarity Farming Season 9](https://blog.aavegotchi.com/rarity-farming-season-9/)
 
-## [aUNI and aYFI selected as Aavegotchi collaterals](https://twitter.com/aavegotchi/status/1345026523263238145)
-* The people have spoken! On 1 January 2021, it was announced that the majority of voters have voted in aUNI and aYFI as the next Aavegotchi collaterals!
-<p></p>
+- Rarity Farming Season 9 will begin on August 10th, 2024 at 10AM EST/2PM UTC!
+- Dress your Gotchis up and farm dat GHST!
+  <p></p>
 
-## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
-* Ready up frens! This 29 December 2020 announcement is biiigg!
-* Raffle 3 (Ethereum-Theme) wearables revealed! Raffle starts on 31 December 2020 on our New Year's Eve Party!
-* Yessss, there's another party on New Year's Eve!
-* The Final Mission is released! You are now Moovie Staars frens!
-<p></p>
+## [Two new ways to Play and Earn!](https://blog.aavegotchi.com/two-new-ways-to-play-and-earn/)
 
-## [Update: Helping a Fren out](https://twitter.com/aavegotchi/status/1343184902083121157)
-* On 27 December 2020, we tabulated the amount collected for santagotchi.eth. We raised more than 10k to help our Fren who lost his funds.
-<p></p>
+- HyperPlay has just launched their Questing platform, featuring Gotchi Guardians and Spirit Force Arena
+- Play the games for at least 5 minutes a day for 2 days straight and get rewarded with GHST!
+- Apart from earning GHST over the next month, you can also earn Game7 Credits by diving into any of the quests happening on HyperPlay or the Game7 platform!
+  <p></p>
 
-## [Vote for the next aToken!](https://twitter.com/aavegotchi/status/1341054376132034564)
-* Starting from 22 December 2020, vote for the next two aTokens to be added into Aavegotchi on Twitter and Snapshot.
-* Featuring aBUSD, aSUSD, aYFI, and aUNI!
-<p></p>
+## [Aavegotchi Wearables in 3D!](https://blog.aavegotchi.com/finally-they-are-done/)
 
-## [Helping our rekt fren](https://twitter.com/aavegotchi/status/1339738554906243072)
-* Announcement on 18 December 2020. Help our rekt fren out by donating more than $20 worth of any ERC20 token and receive a Santagotchi Hat!
-<p></p>
+- Aavegotchi wearables are now in 3D!
+  <p></p>
 
-## [Aave-Themed Raffle Concludes!](https://aavegotchi.medium.com/aavegotchi-community-update-17-dcc973821f3)
-* Community update published on 12 December 2020!
-* 4 January 2021 Aavegotchi launch date confirmed!
-* Aave-themed Raffle was a smashin' success! a 66% increase in tickets entered compared to the Chainlink-themed Raffle
-* Binance lists GHST token
-* Help a Fren out! A Fren sent his entire LINK holdings into the GHST staking contract :(
-* GHST 3 Month Anniversary Paarrttaaay on 14 December 2020!
-* Jesse's presentation with CGC on "INTEROPERABLE AVATARS FOR THE GREAT WEB3 MMORPG" (Watch it on-demand on our [media](/posts/media) page here!)
-<p></p>
+## [Earn GHST playing Spirit Force Arena](https://blog.aavegotchi.com/now-you-can-earn-ghst-playing-sfa-battle-royale/)
 
-## [Aavegotchi Gameplay set to launch on 4 January 2021](https://www.coindesk.com/defi-game-aavegotchi-preps-for-jan-4-mainnet-launch-with-nft-auctions)
-* On 12 December 2020, Coindesk publishes an article featuring the launch of Aavegotchi Gameplay on 4 January 2021. Are you excited? I'm excited!
-<p></p>
+- You can now stake GHST in Battle Royale Matches in the Spirit Force Arena!
+- Earn Badges when you stake GHST, win, or lose!
+  <p></p>
 
-## [Aave announces bonus Aave NFTs in the upcoming Aavegotchi Raffle](https://medium.com/aave/an-aave-campfire-chat-with-aavegotchis-founders-892a238eadb9)
-* On 6 December 2020, Aave announces an Aave * Aavegotchi Fireside Chat on 8 December 2020 to kick-off the Aave-themed Raffle
-* The Aave-themed Raffle will include bonus Frens4Ever NFTs! Catch a CoderDangotchi and a Jessegotchi if you can!
-<p></p>
+## [New map in Gotchi Guardians](https://blog.aavegotchi.com/new-map-mount-oomf/)
 
-## [Aavegotchi Scholars! Aavegotchi Wiki is here!](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)
-* Launch of Aavegotchi Wiki on 27 November 2020. Aagents, we need your help to populate the wiki!
-* Aavegotchi nominated twice at 2020 NFT Awards. Woohoo!
-* Beep! Aavegotchi hiring a game developer! Interested parties join the fam!
-<p></p>
+- Mount Oomf, the fiery source of all FOMO within our spectral world, will feature as the second map in Gotchi Guardians!
+  <p></p>
 
-## [Peek a boo! Aave-Themed Raffle Prize List](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0)
-* A sneak peek of the Aavevengers Superhero wearables on 25 November 2020.
-* Featuring Marc, Jordan, and Stani-gotchi wearables too!
-<p></p>
+## [Aavegotchi June Highlights](https://blog.aavegotchi.com/aavegotchi-june-highlights/)
 
-## [Aave invests in Aavegotchi!](https://medium.com/aave/aave-takes-stake-in-aavegotchis-pixelcraft-studios-a136fbe475f)
-* Aave officially announced their investment in Pixelcraft Studios on 23 November 2020
-* FYI Pixelcraft Studios is the main development team for Aavegotchi 
-<p></p>
+- Did you know that Alchemica is now live on Base? What about Gotchi Battler Rarity Farming Season 8?
+- Find out the latest alpha in this Aavegotchi June Highlights blog post!
+  <p></p>
 
-## [Awwww. Aavegotchi Fanfiction <3](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
-* An Aavegotchi ❤ Chainlink Fan Fiction, written by our very own aapprentice [appellants](https://twitter.com/sinkielinkie)! Published on 20 November 2020.
-<p></p>
+## [Alchemica Tokens are Now Live on Base!](https://blog.aavegotchi.com/alchemica-is-now-live-on-base/)
 
-## [Everyone is a winner!](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-* With bated breath, everyone waited for the Chainlink VRF to work its magic on 13 November 2020. Then the results came in.........everyone is a winner!
-<p></p>
+- As of today, it is now possible to transfer your Alchemica (and GLTR!) from Polygon to Base via our new chain abstraction tech, powered by Socket Protocol.
+  <p></p>
 
-## [Ready up frens!](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-* Get ready frens! A step-by-step guide for the upcoming raffles - Published on 9 November 2020!
-<p></p>
+## [Get Ready Gotchi Battlers - Rarity Farming Season 8 Tournaments are upon us!](https://blog.aavegotchi.com/get-ready-gotchi-battlers-rarity-farming-season-8-tournaments-are-upon-us/)
 
-## [The Haaaaallooweeeen Paartaay was a blast!](https://aavegotchi.medium.com/aavegotchi-community-update-15-3e63b3b0426c)
-* A recap of the Aawesome Haalloween Paartay was published on 4 November 2020!
-* Announcement of the costume contest winners!
-* Test raffle live on Kovan testnet
-<p></p>
+- We're excited to announce the upcoming tournaments for Rarity Farming Season 8, featuring a massive 150,000 GHST prize pool, as well as new updates to give you even more ways to strategize and compete with your ghostly besties.
+- This season introduces double-elimination tournaments, the ability to have two substitutes per team, and a preparation phase between each round for strategic adjustments. Whether you're a seasoned battler or a fresh contender, this season offers the perfect stage to showcase your skills and claim your share of the epic prize pools.
+  <p></p>
 
-## [Build your own Gotchi!](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)
-* Launch of Aavegotchi Builder on 29 October 2020, an interactive mini-app where you can play with Aavegotchi traits and simulate what your Aavegotchi would look like with wearables.
-<p></p>
+## [Aavegotchi May Highlights](https://blog.aavegotchi.com/aavegotchi-may-highlights/)
 
-## [Haaaaallooweeeen Paaarrtayy](https://aavegotchi.medium.com/get-spooky-with-aavegotchi-this-friday-oct-30th-c38eb4420039)
-* More details on the Haaaalloween Paaarty were announced on 28 October 2020
-* Virtual Costume Contest!
-* With music from Harrison First and meet n greets with Cherry, OpenSea, and Polygon. Paartty gonna get kicked off with Aave's own Stani Kulechov.
-<p></p>
+- Spirit Force Arena Duels, Pirates and Aliens in Gotchi Guardians, and Walter...Who, and more in this May update!
+  <p></p>
 
-## [Moar fun! Moar excitement!](https://aavegotchi.medium.com/aavegotchi-community-update-14-859a88b1bc6a)
-* Beep! Beep! The team announced on 25 October 2020 that a Haalllooowwweeen party will be held on Friday, 30 October 2020. Be there or be square!
-* Announcing the Mission 9 Contest Winners
-<p></p>
+## [Come At Me Fren!](https://blog.aavegotchi.com/spirit-force-arena-duels-a-new-mode-exclusively-on-base/)
 
-## [Something's brewing.....](https://aavegotchi.medium.com/prizes-quantities-for-nov-10-raffle-revealed-faq-86ea6f644c5c)
-* On 23 October 2020, the team announced the first of 3 pre-Mainnet GHST Staking Raffles will be happening on Nov. 10!
-* This Raffle is LINK-themed, to celebrate our partnership with Chainlink and usage of Chainlink VRF.
-<p></p>
+- Starting on May 29th, you can stake GHST and face off in one-on-one battles in the Spirit Force Arena
+- For a limited time only, play a duel in the first week of launch to unlock the Spirit Force Week 1 Badge and prove you were there before Aavegotchi scaled from smol GHST wagers all the way up to millions of GHST wagered daily.
+  <p></p>
 
-## [Strap on and here we go!](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
-* GHST staking is now live on Mainnet on 20 October 2020
-<p></p>
+## [New Release! What Happens When Pirates Meet Aliens?](https://blog.aavegotchi.com/new-update-pirates-vs-aliens/)
 
-## [I test in test! Audits passed](https://aavegotchi.medium.com/aavegotchi-community-update-13-cd8ceeb1083b)
-* Important announcement on 18 October 2020! [GHST Staking audit report](https://certificate.quantstamp.com/full/aavegotchi-ghst-staking) complete — no exploits!
-* GHST Staking launching on Mainnet within 72 hours
-* AavegotchiDAO’s first onchain vote passes with 99% YES!
-* Aavegotchi wins the OKex DeFi + NFT listing contest
-<p></p>
+- The latest Gotchi Guardians build is here!
+- Let's welcome the Pirate, a cunning and strategic Economy Guardian known for resource accumulation and daring exploits on the high seas. With his trusty Treasure Map and Glittering Blunderbuss, the Pirate navigates the battlefield with finesse and flair.
+  <p></p>
 
-## [AavegotchiDAO in da house](https://aavegotchi.medium.com/vote-with-ghst-aavegotchidaos-inaugural-proposal-opens-oct-15-80fa623d88a9)
-* Hear ye! Hear ye! Vote with ye GHST on 14 October 2020! AavegotchiDAO’s Inaugural Proposal: Tap Increase for Scaling Sprint!
-<p></p>
+## [Aavegotchi Dev Update - April 2024](https://blog.aavegotchi.com/aavegotchi-dev-update-april-2024/)
 
-## [Spoookyy. Welcome our frens from their portals](https://aavegotchi.medium.com/aavegotchi-dev-update-2-8750b11d5d5a)
-* 13 October 2020 is the day. Welcome our spooky frens from their portals on Kovan testnet. Whooooo!
-<p></p>
+- Gotchichain chose to settle on Base, Spirit Force Arena has gotten EBIC updates, Gotchi Guardians leveled up with a whole new progression system, and moar in this April 2024 Update!
+- Update: Ultimately, Aavegotchi migrated to Base and Gotchichain was not launched.
+  <p></p>
 
-## [Ready for it? Aavegotchi Meme Contest Winners!](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)
-* Announcin' da winners of the Mission 8 Aavegotchi Meme Contest on 10 October 2020! Stoked!
-* Open call for Aavegotchi Aartists
-<p></p>
+## [3 New Features Now Live in the Aavegotchi Auction House](https://blog.aavegotchi.com/3-new-features-now-live-in-the-aavegotchi-auction-house/)
 
-## [Special edition OKex wearables](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)
-* Important announcement on 7 October 2020! Get ye hands on the special edition Aavegotchi x OKex Wearable NFTs by depositing GHST on OKex
-<p></p>
+- Ever wished you could snag that must-have collectible without the wait? The new “Buy It Now” option lets you do just that!
+- Tired of lowball opening bids? We've got you covered! Now, you can set a minimum starting bid to kick things off right.
+- For those looking to sell more liquid assets, our new “Low (0.5%-2%)” incentives preset might be perfect.
+  <p></p>
 
-## [Uniswap GHST-ETH pair staking live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-11-cf7e6f656c1e)
-* Launch of the Uniswap LP staking of the GHST-ETH pair on Kovan testnet on 2 October 2020
-* Gotchi memes flooooding Aavegooootchi Reddit!
-<p></p>
+## [GHST Token Is Now Live on Base](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/)
 
-## [GHST Staking live on Kovan testnet!](https://aavegotchi.medium.com/stake-ghst-make-frens-96502967d40)
-* STAKE GHST AND MAKE FRIENDS!!!!! Went live on Kovan testnet on 29 September 2020!
-<p></p>
+- GHST token, the eco-governance token of the Aavegotchi Crypto Gaming protocol, is now live for trading on Base!
+- This expansion marks GHST's evolution into a multichain token and paves the way for even deeper integrations within the Base and Coinbase ecosystems.
+  <p></p>
 
-## [Portals live on Kovan testnet!](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)
-* Aavegotchi portals are live on Kovan testnet as at 25 September 2020!
-* AavegotchiDAOs tap’s maiden voyage: adding GHST liquidity on Uniswap
-* Winners announced for Mission 7 "Just DAO it!"
-<p></p>
+## [Aavegotchi chooses Base as settlement layer for Gotchichain](https://blog.aavegotchi.com/aavegotchi-chooses-base-as-settlement-layer-for-gotchichain/)
 
-## [Aavegotchi and Chainlink are frens!](https://aavegotchi.medium.com/aavegotchi-game-mechanics-make-full-use-of-chainlink-vrf-3eb01ceaeaca)
-* FRENS WITH CHAINLINK! On 24 September 2020, Coderdan explains what is Chainlink's Verifiable Random Function (VRF) and how Aavegotchi is using it
-* See this [helpful Chainlink article](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) for a more in-depth explanation of the Chainlink VRF
-<p></p>
+- Gotchichain, our upcoming Layer 3 (L3) rollup dedicated to Aavegotchi gaming, will use Base as its settlement layer
+- Base is a leading EVM-compatible Layer 2 (L2) chain developed by Coinbase that offers a safe, low-cost, and developer-friendly way to develop onchain, while still remaining strongly aligned with Ethereum.
+- Update: Ultimately, Aavegotchi migrated to Base and Gotchichain was not launched.
+  <p></p>
 
-## [Presale sold out in under a minute!](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)
-* $GHST launched on Mainnet on 14 September 2020! Pre-sale soollllldddd ouuuuttt in under a minute! :O
-* GHST token held by over 2000 unique addresses! This is yuuuugggeeeee
-<p></p>
+## [Are you ready for Rarity Farming Season 8?!?!](https://blog.aavegotchi.com/rarity-farming-season-8/)
 
-## [Pre-sale news! Fresh off the press!](https://aavegotchi.medium.com/aavegotchi-ghst-token-distribution-pre-launch-primer-58f0c06ab045)
-* On 10 September 2020, juicccyy news concerning the upcoming Pre-Sale was released to the public!
-<p></p>
+- Rarity Farming Season 8 is commencing on March 16th, 2024 at 10AM EST/2PM UTC!
+- This season comes with the Gotchi Battler category too! Form your team and aim for the top!
+  <p></p>
 
-## [Launch of Bonding Curve on Rinkeby testnet](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)
-* On 3 September 2020, the Aavegotchi Token Bonding Curve (TBC) was launched on Rinkeby testnet
-<p></p>
+## [January 2024 Dev Update!](https://blog.aavegotchi.com/aavegotchi-dev-update-january-2024/)
 
-## [First Ask Me Anything (AMA) by Aavegotchi](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)
-* Aavegotchi's very first Ask Me Anything (AMA) was held on 1 September 2020
-<p></p>
+- Launch details for the Aavegotchi Gaming Console!
+- Updates on the 3D Gotchiverse!
+- ....And tons of new games to look forward to!
+  <p></p>
 
-## [Private sale soollllldddd ouuuuttt!](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)
-* Private sale sold out on 20 August 2020
-* Launch of Aavegotchi [Telegram chat!](https://t.me/aavegotchi)
-* Launch of [Official Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view)
-<p></p>
+## [3 Gotchi Battler tournaments to pit your Gotchis to the test!](https://blog.aavegotchi.com/enter-now-three-epic-tournaments-one-massive-100-000-prize-pool/)
 
-## [Aapprentices enter the fray!](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)
-* On 13 August 2020, Shadowcrypto, Vanilladelphia.eth, Hackingmoneyph and Unintelligent_nerd joins the fray as Aavegotchi Aapprentices!
-* Aavegotchi Aagents is over 120 members strong!
-<p></p>
+- Form your team of 5 Gotchis and get ready to rumble!
+  <p></p>
 
-## [JC Crown joins the team and launch of Aavegotchi Missions](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)
-* On 29 July 2020, JC Crown joins the Aavegotchi team!
-* Launch of Aavegotchi Missions on the same date!
-<p></p>
+## Year 2023
 
-## [Nick Mudge joins the team](https://aavegotchi.medium.com/aavegotchi-community-update-2-d995189ff1a4)
-* Nick Mudge joins the team on 22 July 2020
-<p></p>
+## [5 Exciting New Developments Coming to Aavegotchi in 2024](https://blog.aavegotchi.com/5-exciting-new-developments-coming-to-aavegotchi-in-2024/)
 
-## [First Aavegotchi post on Medium](https://aavegotchi.medium.com/aavegotchi-weekly-update-1-2195bd16da33)
-* On 14 July 2020, the first Aavegotchi post was published on Medium!
-* Xibot joins the team!
-<p></p>
+- Frens, are you ready for the Aavegotchi Gaming Console, GHST Staking 2.0, Aavegotchi Gaming Console NFT Mint, More Game Releases, and Expansion of the Baazaar in 2024?!?!
+  <p></p>
+
+## [The 2023 Godlike Green Aavegotchi Holiday Sweater!](https://blog.aavegotchi.com/the-2023-godlike-green-aavegotchi-holiday-sweater/)
+
+- Gotchigang, are you ready to get your hands on the 2023 Godlike Green Aavegotchi Holiday Sweater?!?!
+  <p></p>
+
+## [Eighteen new Wearable Schematics are hot off the presses, ready for forging 🔥](https://blog.aavegotchi.com/terrifying-nightmare-fuel-now-heres-how-to-get-them/)
+
+- Voted on by AavegotchiDAO, these eighteen new Schematics fill the trait gaps in all six rarity levels, ensuring your Gotchi has the widest range of wearable combinations to choose from
+- In line with the method proposed in AGIP90, this new batch of Schematics will be distributed 40% via FRENS Raffle, and 60% via Geodes
+- The Raffle will be held December 13-16. Beginning at 2:30PM UTC on December 13, it ends at 2:30PM UTC on December 16th, coinciding with the Aavegotchi community hangout
+  <p></p>
+
+## [Spirit Force Arena is soft launching first on HyperPlay!](https://blog.aavegotchi.com/spirit-force-arena-is-soft-launching-first-on-hyperplay/)
+
+- Spirit Force Arena, the first Battle Royale game from Aavegotchi, will list on HyperPlay with an exclusive early access DEMO version starting November 17th at 5PM UTC (9AM PST)!
+  <p></p>
+
+## [Test Your Skill in the Arena Playtest](https://blog.aavegotchi.com/happening-now-test-your-skill-in-the-arena-playtest/)
+
+- The much-awaited Aavegotchi Arena Playtest has officially begun!
+- Download the build and try it out
+  <p></p>
+
+## [Rarity Farming Season 7 is upon us!](https://blog.aavegotchi.com/farming-frenzy-announcing-a-new-season-of-rarity-farming/)
+
+- Dress up your gotchis and farm that yield in Rarity Farming Season 7
+- Commencing on 31 October 2023!
+  <p></p>
+
+## [Aavegotchi Halloween Party!](https://blog.aavegotchi.com/boo-your-invitation-to-the-aavegotchi-halloween-2023-party/)
+
+- Save the date for the Aavegotchi Halloween Party on Oct 28!
+- Plenty of fun activities including an IRL Costume Contest, Online Art Contest, First 3D playtest, GHST Airdrops, and moar!
+  <p></p>
+
+## [October 2023 Dev Update](https://blog.aavegotchi.com/aavegotchi-dev-update-october-2023/)
+
+- New Gotchi Guardians towers, Gotchiverse Aarena NPC Lickquidators, and moar in this October update!
+  <p></p>
+
+## [Aavegotchi partners with CARV!](https://blog.aavegotchi.com/a-massive-new-gotchi-gaming-partner-has-just-arrived/)
+
+- CARV is the latest gaming partner to team up with Aavegotchi!
+- They are the 'first of a kind' gaming credential protocol that has generated a lot of buzz in both on-chain and off-chain gaming communities
+  <p></p>
+
+## [The Aavegotchi x Sandbox shared Metaverse experience](https://blog.aavegotchi.com/this-is-what-happens-when-metaverses-collide/)
+
+- Are you ready to experience Aavegotchi in The Sandbox? 👀
+- It's gonna go live on October 25th in The Sandbox, with TWO claimable airdrops.
+  <p></p>
+
+## [A new partnership with GameSwift!](https://blog.aavegotchi.com/game-tech-spotlight-announcing-a-new-partnership-with-gameswift/)
+
+- Aavegotchi is now partnering with GameSwift, a pioneering modular gaming blockchain built on zkEVM technology, and one of the world’s leading Web3 gaming aggregators!
+- As part of the partnership, GameSwift will showcase on its platform both of Aavegotchi’s much-anticipated upcoming releases: **Gotchi Guardians**, a fusion of high-stakes survival and tower defense game, and the **Gotchiverse Arena**, a multiplayer battle-royale deathmatch game deeply integrated with the Aavegotchi IP
+  <p></p>
+
+## [The Gotchi Gaming Revolution has arrived!](https://blog.aavegotchi.com/its-official-the-aavegotchi-gaming-revolution-has-just-arrived/)
+
+- Did you know that Aavegotchi is gonna become the next Steam and Epic Games?
+- Come and sample the games in the newwwww Game Center! 👀
+  <p></p>
+
+## [Aavegotchi September 2023 Dev Updates!](https://blog.aavegotchi.com/aavegotchi-dev-update-september-2023/)
+
+- New Aarena features, cool new stuff for Gotchi Guardians, and moar in this September dev update!
+  <p></p>
+
+## [August 2023 Dev Update!](https://blog.aavegotchi.com/aavegotchi-dev-update-august-2023/)
+
+- Have you seen the 3D Gotchiverse?
+- 3D Aarena, flying Gotchis, and Gotchi Guardians.........soon!
+  <p></p>
+
+## [Let's welcome Andy Tudor, our new Gotchiverse Game Director](https://blog.aavegotchi.com/game-industry-titan-wants-to-bring-aavegotchi-to-the-mainstream/)
+
+- Andy is widely recognized and respected within the gaming community and is probably best known for his work on film & TV titles _Fast & Furious_, _The Walking Dead_, and _24_, as well as racing franchises _Need For Speed_, _Test Drive_, and the crowd-funded/crowd-powered _Project CARS_.
+  <p></p>
+
+## [Aavegotchi's Brand Refresh!](https://blog.aavegotchi.com/everything-you-need-to-know-about-aavegotchis-new-look/)
+
+- HAPPY 3RD AAVEGOTCHI BIRTHDAY FRENS!
+- Aavegotchi has a new look too 😉 Check out the brand refresh!
+  <p></p>
+
+## [Aavegotchi Dev Updates — July 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-july-2023/)
+
+- 3rd Aanniversary Birthday Party, Gotchichain, 3D Aavegotchis and moar in this July 2023 Dev update!
+  <p></p>
+
+## [Aavegotchi Forge Unleashes the Mystical Power of Geodes](https://blog.aavegotchi.com/aavegotchi-forge-unleashes-the-mystical-power-of-geodes/)
+
+- Unveil the mysteries of geodes
+- What surprises await? 👀
+  <p></p>
+
+## [Rarity Farming Season 6 (announcement)](https://blog.aavegotchi.com/announcing-aavegotchi-rarity-farming-season-6/)
+
+- On 2023-06-16, Pixelcraft announced Rarity Farming Season 6 ("round 6" of Gotchi UBI).
+  <p></p>
+
+## [Gotchi Heroes XP Tournament (announcement)](https://blog.aavegotchi.com/gotchi-heroes-debuts-xp-tournament-on-june-17-earn-xp-rewards-ghst-and-exclusive-packs/)
+
+- On 2023-06-14, Pixelcraft announced the Gotchi Heroes XP Tournament starting 2023-06-17.
+- The XP event ran in two rounds, each with a separate leaderboard.
+- Player prizes/rewards were available (see blog post for details).
+  <p></p>
+
+## [Aavegotchi Dev Update - June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/)
+
+- Let's hear from the Shippooorrrs at Pixelcraft Studios!
+- Ebic news about Gotchi Guardians and the migration to Unity
+  <p></p>
+
+## [Aavegotchi partners with OnePlanet!](https://blog.aavegotchi.com/aavegotchi-oneplanet-partnership/)
+
+- Aavegotchi partners with OnePlanet, an NFT launchpad and marketplace on Polygon!
+  <p></p>
+
+## [Aavegotchi heading for Consensus 2023!](https://blog.aavegotchi.com/yee-haw-aavegotchi-heads-to-texas-for-consensus/)
+
+- Aavegotchi will be at Consensus 2023 in Austin, Texas next week!
+- There will be aavesome Gotchi swag and merch!
+  <p></p>
+
+## [7 new Core Props to vote for!](https://blog.aavegotchi.com/vote-now-aavegotchidao-core-proposals-agip-76-77-78-2/)
+
+- Gotchigang, your votes are needed for 7 new Core Props!
+  <p></p>
+
+## [Vote on AGIPs 72 - 75 now!](https://blog.aavegotchi.com/agip-72-73-74-75/)
+
+- Four more AGIPs to vote on! 4 sets of XP rewards to earn!
+  <p></p>
+
+## [March 2023 Update](https://blog.aavegotchi.com/aavegotchi-march-2023-update/)
+
+- It's the monthly update from our shippooorrrs! Find out what's cookin' in March 2023!
+  <p></p>
+
+## [Aavegotchi in the News](https://blog.aavegotchi.com/aavegotchi-in-the-news/)
+
+- Aavegotchi is featured on Coindesk, Cointelegraph, and Yahoo Finance, and many moar!
+  <p></p>
+
+## [Let's vote on AGIPs 70 & 71 now!](https://blog.aavegotchi.com/core-proposals-agip-70-and-71/)
+
+- Two new Core Proposals are live for voting on the official Aavegotchi Snapshot: Alchemica + GLTR Taskforce Funding and Gotchi Lodge 2023 Budget Revision
+  <p></p>
+
+## [Gaming Industry Veteran Joins Pixelcraft Studios as Game Director](https://blog.aavegotchi.com/gaming-industry-veteran-joins-pixelcraft-jason-slama/)
+
+- Gotchigang, let's welcome Jason Slama as Pixelcraft's new Game Director!
+- Slama previously worked as Game Director at Gwent, a popular card game based on The Witcher
+  <p></p>
+
+## [Launch of Gotchi Miner game!](https://blog.aavegotchi.com/gotchi-miner-launches/)
+
+- Join the first ever Gotchi Miner public tournament from March 28th to April 4th, 2023!
+- The top players will receive amazing rewards, including NFT wearables and FAKE Gotchi NFTs from the popular Hall of Fame series
+  <p></p>
+
+## [Web 3 Gaming Studio Inverse Worlds to Develop on Aavegotchi's Supernet](https://blog.aavegotchi.com/inverse-worlds-to-develop-on-aavegotchis-supernet/)
+
+- Inverse Worlds is coming to Gotchichain!
+- The web3 game studio, which focuses on building social metaverses, has big plans for development on Aavegotchi’s own Polygon Supernet.
+  <p></p>
+
+## [Introducing Gotchichain: Aavegotchi X Polygon Supernets](https://blog.aavegotchi.com/introducing-gotchichain-aavegotchi-x-polygon-supernets/)
+
+- Gotchichain is gonna be a dedicated blockchain for all things Aavegotchi!
+- It is powered by Polygon Supernets and will be launching in early Q3 2023!
+  <p></p>
+
+## [Aavegotchi partners with Magic Eden!](https://blog.aavegotchi.com/aavegotchi-nfts-are-now-available-on-magic-eden/)
+
+- Aavegotchi NFTs have launched on Magic Eden, one of the largest NFT Marketplaces on Polygon!
+- To celebrate this major moment in Gotchi history, Aavegotchi and Magic Eden are offering a 20,000 MATIC prize pool for the top traders of the Aavegotchi collections on Magic Eden’s marketplace!
+  <p></p>
+
+## [2 new Core Proposals to vote on!](https://blog.aavegotchi.com/new-aavegotchidao-proposals-live/)
+
+- Vote to fund fireball.gg to develop guilds! Vote to secure protocol rewards!
+  <p></p>
+
+## [Aavegotchi February 2023 Update!](https://blog.aavegotchi.com/aavegotchi-february-2023-update/)
+
+- Launch of the Aavegotchi Forge! Rarity Farming Season 5 Rounds 1 & 2! GotchiGang at ETH Denver! And moar!
+  <p></p>
+
+## [The Great GHST Migration](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
+
+- We are gonna turn off the bonding curve!
+- Here's what you need to know/do!
+  <p></p>
+
+## [Vote on AGIP 67!](https://blog.aavegotchi.com/agip-67-now-live/)
+
+- Gotchigang, it's time to vote on the Curve Transition Plan
+  <p></p>
+
+## [Vote on AGIPs 64, 65, & 66](https://blog.aavegotchi.com/agip-64-65-66/)
+
+- To close or not to close the bonding curve? What's the split for the Curve DAI? Form the Curve Transition Team? Let's vote on these matters now!
+  <p></p>
+
+## [The Aavegotchi Forge is going live on 22 Feb 2023!](https://blog.aavegotchi.com/aavegotchi-forge-launch-dates-confirmed/)
+
+- Craftooorrrs, hope you have been accumulating wearables for crafting! ;)
+  <p></p>
+
+## [Vote on AGIPs 62 & 63 now!](https://blog.aavegotchi.com/agip-62-63-now-live/)
+
+- Gotchigang, let's cast our votes on funding the paartnership with Infinity Keys and Sandbox, respectively!
+  <p></p>
+
+## [Vote on AGIP 61 nao!](https://blog.aavegotchi.com/core-proposal-agip-61/)
+
+- Cast your votes on launching the Aavegotchi Forge!
+  <p></p>
+
+## [Aavegotchi January 2023 Update](https://blog.aavegotchi.com/aavegotchi-january-2023-update/)
+
+- Our shippooorrrsss have been busy shipping. Check out what they have shipped in Jan 2023 here!
+  <p></p>
+
+## [Vote on AGIPs 59 and 60 now!](https://blog.aavegotchi.com/agip-59-60-live/)
+
+- Let's vote whether to set the 2023 DTF Budget and to send Gotchi Lodge to ETH Denver!
+  <p></p>
+
+## [Rarity Farming Season 5 is here!](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-5-is-coming/)
+
+- Deck out your gotchis in bling-bling and win some GHST in Rarity Farming Season 5!
+  <p></p>
+
+## [Aavegotchi 2023 Roadmap!](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
+
+- What's in store for Aavegotchi in 2023?
+- Read all about it here!
+  <p></p>
+
+## [Vote on AGIPs 57 and 58 now!](https://blog.aavegotchi.com/two-core-proposals-live/)
+
+- AGIP 57 — Establish the “Core Framework” Guiding Wearable Release - Forge Proposal
+- AGIP 58 — Launch Round 2 Parcel VRF Rolls
+  <p></p>
+
+## [Aavegotchi has a new CMO!](https://blog.aavegotchi.com/top-metaverse-marketing-executive-joins-aavegotchi-as-chief-marketing-officer/)
+
+- Meet Nigel Carlos, the man who helped propel Alien Worlds to the top of the DappRadar rankings!
+  <p></p>
+
+## [Aavegotchi Forge 101](https://blog.aavegotchi.com/aavegotchi-forge-101/)
+
+- In January 2023, the Forge team published Forge 101 ahead of the Forge launch on 2023-02-22.
+- Get the lowdown on how to forge and smelt here!
+  <p></p>
+
+## [AGIP 51 revote. Vote on AGIPs 54-56](https://blog.aavegotchi.com/vote-agip-51-54-55-56/)
+
+- Revote on AGIP 51 - Election for DAO Foundation’s Directors/Multisig-Signers
+- 3 more completely new AGIPs to vote on!
+  <p></p>
+
+## Year 2022
+
+Click [here](/milestones-2022)
+
+## Year 2021
+
+Click [here](/milestones-2021)
+
+## Year 2020
+
+Click [here](/milestones-2020)

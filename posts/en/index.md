@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">The Aavegotchi Wiki</p>
 </div>
 
@@ -18,21 +18,33 @@ This humble Wiki is the central knowledge point for everything Aavegotchi, maint
 
 ## New to Aavegotchi?
 
-Head to [Introduction](https://wiki.aavegotchi.com/introduction) for a high-level overview of the Aavegotchi game. 
+
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game. 
 
 ## Popular Pages
-* [Gameplay](/gameplay) -- Introduction to the Aavegotchi game
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
 * [Staking](/staking) -- Learn how to stake GHST to make FRENS
 * [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Games](/games) -- Play some Games with your Aavegotchi
 * [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## Other Useful Pages
 
-* [Team](https://wiki.aavegotchi.com/team) -- See who's building Aavegotchi
-* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi Whitepaper V1.1](https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/) -- The Aavegotchi Whitepaper providing an in-depth view of the project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the Gotchiverse, where Gotchis frolic and go on aadventures
 
 ## Contribute
 

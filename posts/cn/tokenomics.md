@@ -32,11 +32,12 @@ Wiki这一部分将首先带你了解GHST的代币发行，然后详细说明如
 
 <ol>
 <li><a href=#token-distribution>代币分配</a></li>
-<li><a href=#revenue-sharing-overview>收入分配概览</a></li></p>
-<p><a href=#rarity-farming>稀有度挖矿</a></p>
-<p><a href=#dao-governance>DAO 治理</a></p>
-<p><a href=#burn-baby-burn>销毁机制</a></p>
-<p><a href=#development-team>开发团队</a></p>
+<li><a href=#revenue-sharing-overview>收入分配概览</a></li>
+<p><a href=#earn-it>EARN IT</a></p>
+<p><a href=#dao-it>DAO IT</a></p>
+<p><a href=#burn-it>BURN IT</a></p>
+<p><a href=#buidl-it>BUIDL IT</a></p>
+<li><a href=#historical-changes>Historical Changes</a></li>
 </ol>
 
 </div>
@@ -66,7 +67,7 @@ GHST 预销售于2020年9月14日举行，时限为14天或售完，时间以先
 
 私募和预售的参与者将从预售轮结束后开始，一年释放获得GHST代币。 180天后，初次释放的金额大约相当于总金额的50%。 随后在今后185天内陆续释放剩余的代币。
 
-关于这个问题的更多详细信息，请参阅 [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://stackoverflow.com/questions/3912694/using-markdown-how-do-i-center-an-image-and-its-caption/43691451)。
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 
 **公开联合曲线销售**
@@ -95,55 +96,55 @@ GHST 预销售于2020年9月14日举行，时限为14天或售完，时间以先
 
 在传送门和可穿戴设备获得的GHST会如何处理？
 
-我们制作了一个方便的图表，为您简要地分解了一下：<div class="centerImageContainer">
-<img class="centerImage" src="/tokenomics/ghstcircle.png" alt = "Aavegotchi tokenomics">
+We've made a handy diagram explaining Revenue Sharing V2:
+<div class="centerImageContainer">
+<img class="centerImage" src="/tokenomics/ghst-circle-of-win-v2.png" alt = "Aavegotchi tokenomics">
 </div>
 
-继续阅读以更详细地了解各种分配。
+Read on to learn about the various categories in more detail.
 
+## EARN IT
 
-## 稀有度挖矿
-
-Aavegotchi游戏体验的核心部分是要花时间陪伴Gotchi，并为他们配置一些可穿戴装备。 为了激励玩家持续积极地参与到游戏的生态系统中，传送门和可穿戴设备所获得的部分收入将用于奖励顶级稀有度挖矿农民。
+A core  part of the Aavegotchi experience is spending time with your Gotchis and equipping them with wearables in [rarity farming](/rarity-farming). 为了激励玩家持续积极地参与到游戏的生态系统中，传送门和可穿戴设备所获得的部分收入将用于奖励顶级稀有度挖矿农民。
 
 为此，所有赚取的GHST的 **40%** 通过玩家奖励回馈给玩家。
 
 最初，玩家奖励将分为三类：
 
 * 前100名最稀有的Aavegotchis(由 [BRS](/rarity-farming#base-rarity-score))
-* [亲属](/traits#kinship) 分数前 100 名
+* Top 100 [Kinship](/kinship) Scores
 * [经验值 (XP)](/traits#experience)前 100 名
 
-这三个类别总共将达到所有GHST收入的 **40%**。 每个类别的确切百分比尚未确认，将在AavegotchiDAO中讨论。
+这三个类别总共将达到所有GHST收入的 **40%**。 Exact percentages for each category will be confirmed before the start of each season of rarity farming.
 
 随着游戏继续发展，将添加更多类别。
 
-这些奖励将通过链上快照每 **两周分发一次。**
+When a rarity farming season is live, these rewards will be distributed **every two weeks** via onchain snapshots.
 
 
-## DAO 治理
+## DAO IT
 
-社区治理也是Aavegotchi经验的核心原则。 该组织的部分职责包括管理财政，用于它认为有价值的任何倡议。 (Waifu pics, maybe?)
+社区治理也是Aavegotchi经验的核心原则。 Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
-收入的**10%** 最初将分配给DAO国库。 随着DAO的不断成熟，该百分比最终可能会增加。 当然，最终目标是使DAO发展成为一个完全有能力管理甚至升级协议的实体。 虽然这可能仍然需要几年时间（Avegotchi只是在2020年中期开始），但仍然需要向前看。
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). 随着DAO的不断成熟，该百分比最终可能会增加。 当然，最终目标是使DAO发展成为一个完全有能力管理甚至升级协议的实体。 虽然这可能仍然需要几年时间（Avegotchi只是在2020年中期开始），但仍然需要向前看。
 
 
-## 销毁机制
+## BURN IT
 
 首先，最好让自己了解一下GHST的 [联合曲线](/curve) 及其工作原理。 然后，有趣的事情就开始了。
 
-售卖传送门和物品赚取的GHST**33%** 将会被销毁。 永远销毁 是的，你没看错。
+**5%** of all GHST earned via portal and item sales will be burned. 永远销毁 是的，你没看错。
 
-这个数字之所以如此之高，是因为GHST是一种动态供应的象征。 其供应量随着需求的增加而增加，这意味着这种高烧速率不会导致代币迅速通货紧缩。 这是一种固定供应的代币问题。
+GHST is a token with a dynamic supply. Its supply increases with demand, meaning that the burn rate does not entail the rapid deflation of the token. 这是一种固定供应的代币问题。
 
 销毁GHST是对GHST价格下行压力的一种通缩平衡，因为以GHST的形式发放游戏奖励的形式可能会造成这种压力。
 
 将GHST直接发送到销毁地址，并将DAI锁在联合曲线内，为GHST制造一个底部上涨的支撑。 这对各方来说都是一个净利好，因为它能让曲线上的买家和卖家有更好的流动性（更少的滑点），降低流通供应，并为 [DAICO水龙头机制](/curve#aavegotchi-daico)提供稳定性。
 
 
-## 开发团队
+## BUIDL IT
 
-最后，但最绝对不是最不重要的， **17%** 的收入流向开发团队。 毕竟，养活我们的开发团队很重要，以确保他们能够专注于帮助这里的每个人打造最好的DeFi x NFT体验。
+Last, but most definitely not least, **40%** of revenue goes to the development team. 毕竟，养活我们的开发团队很重要，以确保他们能够专注于帮助这里的每个人打造最好的DeFi x NFT体验。
 
 害，我们都是人啊。 对协议开发者的激励措施不到位，是导致协议失败的巨大因素，也是Aavegotchi希望防止的问题。
 
@@ -153,13 +154,18 @@ Aavegotchi游戏体验的核心部分是要花时间陪伴Gotchi，并为他们�
 
 基于以上两点思考，Aavegotchi 联合曲线解决了这一问题——我们社区管理的水龙头机制每月从保留地向Pixelcraft Studios（Aavegotchi的主要开发者）分发DAI，以确保积极开发的工作预算。
 
-此外，Pixelcraft还将获得全部GHST收入的17%，主要用于流动资金奖励、赠品和其他需要GHST的推广活动。
-
-
+Additionally, Pixelcraft will also receive 40% of all GHST revenue, to be used mainly for liquidity incentives, giveaways, and other promotional activities that require GHST.
 
 **写在最后**
 
 这是一个关于加密节点的最佳部分，以及你为什么不断看到添加新玩家的原因——它不是零和游戏。 我们所有人都有机会共同取得成果，特别是在DAO中。 问题是，我们如何才能最好地实现这一点。 理解一个项目的代币经济模型，为我们打下了一个非常棒的起点。
 
-继续读，继续玩。 我们月球见，特工们。 
+继续读，继续玩。 我们月球见，特工们。
 
+## Historical Changes
+
+The following table details the percentage changes in each category across Revenue Sharing versions:
+
+table_revenueSharing
+
+The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).

@@ -13,19 +13,19 @@ contributors:
 <p class="headerImageText">The aETH aToken / Đồng aETH (aToken của Ethereum)</p>
 </div>
 
-aToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com). Chúng được đúc thông qua hoạt động gửi tiền vào giao thức và sẽ bị đốt khi rút tiền. Những đồng aToken được gắn với giá trị của những tài sản được gửi vào Aave Protocol theo tỷ lệ 1:1. những đồng aToken này có thể được tự do lưu giữ, chuyển khoản, và giao dịch. Xem phần [FAQ ](https://docs.aave.com/faq/)của Aave để có thêm nhiều thông tin về Aave Protocol.
+Mỗi Gotchi đều tồn tại nhờ vào Spirit Force. Khi mở [portal](/portals), người triệu hồi (bạn chứ ai nữa!) sẽ có thể ấn định Spirit Force vào Gotchi của mình để có thể triệu hồi người bạn mới chào đời!
 
-Vậy những đồng aToken liên quan như thế nào với Aavegotchi? Mỗi Aavegotchi phải được triệu hồi thông qua một [Portal (cánh cổng)](/pages/portals), và phải được ký gửi bằng một đồng aToken (giá trị từ 10 đến 1000 Dai) trước khi chúng được kích hoạt! Không có ngoại lệ! Đó là lý do tại sao bạn cần phải có aToken và trang này sẽ cho bạn một số thông tin bổ ích về những đồng aToken đang khả dụng và cách để sở hữu chúng.
+Vậy thì Spirit Force chính xác là gì?
 
-Khi Aavegotchi chuyển đổi từ Ethereum Mainnet sang [Matic Network](/glossary#matic-network), những aToken này cần phải được chuyển lên theo. Thiên tài gõ code gà nhà và cũng là boi kim cương của chúng tôi, anh [Nick Mudge](/team#nick-mudge) đã thành công trong việc kết nối chúng với Matic Network. aToken trên Matic Network được biết đến với tên gọi maToken.
+Ban đầu, game Aavegotchi được thiết kế để chơi trên Ethereum Mainnet. Trong suốt thời gian ấy, Spirit Force chính là aToken. AToken là những token có thể sinh lợi tức từ[ Aave Protocol (Giao thức Aave)](https://aave.com). Chúng được đúc thông qua hoạt động gửi tiền vào giao thức và sẽ bị đốt khi rút tiền. Những đồng aToken được gắn với giá trị của những tài sản được gửi vào Aave Protocol theo tỷ lệ 1:1. những đồng aToken này có thể được tự do lưu giữ, chuyển khoản, và giao dịch. Xem phần [FAQ ](https://docs.aave.com/faq/)của Aave để có thêm nhiều thông tin về Aave Protocol.
 
-Từ góc độ của một người chơi, khi chơi game Aavegotchi, họ sẽ phải:
+Do phí gas trên Ethereum Mainnet cực cao nên việc triển khai Aavegotchi đã được chuyển sang [Polygon](/glossary#polygon), một giải pháp Layer 2. Việc chuyển đổi sang Polygon giúp các giao dịch được hoàn thành một cách nhanh chóng với phí giao dịch gần như bằng không. Điều này dễ đến việc chúng mình cần phải mang aToken lên Polygon. Những thiên tài trong làng code và diamondboi của bọn mình, [Nick Mudge](/team#nick-mudge) đã có thể chuyển **Aave V2 aTokens** từ Ethereum Mainnet sang Polygon. Chúng được gọi là **maTokens**. Aavegotchi thuộc về thế hệ Haunt 1 sử dụng **maTokens** làm Linh Lực.
 
-1. Sở hữu aToken
-2. Chuyển đổi aToken thành maToken
-3. Sau khi mở Portal, họ cần sử dụng maToken để làm vật thế chấp nhằm triệu hồi Aavegotchi
+Sau đó, Aave đã tự chuyển chúng sang Polygon. Tokens từ thị trường của Aave được gọi là **amTokens.** Từ Haunt 2 trở đi, Linh Lực trong Aavegotchis sẽ được thay thế bằng **amTokens**.
 
-Trong trang này, bọn mình sẽ giới thiệu với các bạn cách để tương tác với aToken.
+Đó là lý do tại sao bạn cần phải có aToken và trang này sẽ cho bạn một số thông tin bổ ích về những đồng aToken đang khả dụng và cách để sở hữu chúng.
+
+Hãy lưu ý điều này nếu bạn **cần maToken** để triệu hồi Gotchi trên Polygon. Có rất nhiều cách để nhận maToken mà không cần phải thông qua aToken. Tuy nhiên, để mang tính đại diện, bọn mình sẽ giới thiệu cách để sở hữu aToken tại đây.
 
 Trong Aavegotchi, thuật ngữ "Spirit Force", "Collateral", và "aToken" có chung ý nghĩa.
 
@@ -49,12 +49,11 @@ Khi những tài sản có giá trị được mang đi cho vay, những đồng
 
 aToken có thể được chia ra thành một trong hai loại: (1) tiền điện tử, hoặc (2) stablecoin. Tiền điện tử là những loại tiền tệ kỹ thuật số hoặc mã hoá được bảo mật bằng thuật toán. Nhiều loại tiền điện tử là những mạng lưới phân tán được dựa trên công nghệ blockchain - một loại sổ cái phân tán vận hành bởi những mạng lưới máy tính khác nhau. Những đồng stablecoin là một loại tiền điện tử được thiết kế để giữ giá ổn định bằng cách gán chúng với một tài sản bên ngoài ví dụ như đồng đô la Mỹ (USD). Cơ chế gán giá trị phía sau của những stablecoin sẽ khác nhau, và mỗi cách gán sẽ có những rủi ro nhất định.
 
-
 Những đồng [aToken (tiền điện tử và stablecoin) ](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances)sau đây hiện đang có mặt trên Aave Protocol. Cột *Được hỗ trợ bở Aavegotchi *cho biết những đồng aToken sẽ được dùng trong trò chơi Aavegotchi hay không. Danh sách những đồng aToken dùng trong trò Aavegotchi được dựa trên nhu cầu của người chơi.
 
 ## Stablecoin
 
-table_stablecoins (https://docs. google. com/document/d/11HwrEYrrt5jAjssTGzTa0yqgFJKeGx-Oi-Co5btQXbE/edit? usp=sharing)
+table_stablecoins
 
 ## Tiền mã hoá
 
@@ -78,7 +77,7 @@ May thay, gần đây Aave đã giới thiệu một cổng tắt để chuyển
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Khi bạn sẽ kết nối ví với nền tảng, bạn có thể gửi một tài sản vào Aave Protocol. Khi bạn nhấp vào “deposit”, giao diện sẽ cho bạn thấy lượng tài sản có sẽ để bạn có thể ký gửi. Sau đó, bạn hãy chọn loại tài sản mà bạn muốn gửi, chọn số lượng tiền và sau đó voliá, bạn đã thành công! Chú ý: Sẽ có một giao dịch “approve” trước khi giao dịch gửi tiền diễn ra. Việc này sẽ cho phép hợp đồng ký gửi sử dụng số tiền mà bạn đang ký gửi
+4). Khi bạn sẽ kết nối ví với nền tảng, bạn có thể gửi một tài sản vào Aave Protocol. Khi bạn nhấp vào “deposit”, giao diện sẽ cho bạn thấy lượng tài sản có sẽ để bạn có thể ký gửi. Sau đó, bạn hãy chọn loại tài sản mà bạn muốn gửi, chọn số lượng tiền và sau đó voliá, bạn đã thành công! *Chú ý: Sẽ có một giao dịch “approve” trước khi giao dịch gửi tiền diễn ra. Việc này sẽ cho phép hợp đồng ký gửi sử dụng số tiền mà bạn đang ký gửi.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
@@ -88,4 +87,4 @@ Sau khi giao dịch ký gửi của bạn đã hoàn tất, bạn sẽ được 
 
 Có aToken rồi đúng hem? Hay lắm!
 
-Giờ chuyển sang trang[maTokens](/matokens) page để đi đến Bước 2 nhé!
+Giờ chuyển sang trang [maTokens](/matokens) page để đi đến Bước 2 nhé!

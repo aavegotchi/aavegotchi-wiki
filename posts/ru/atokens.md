@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2014-04-26T22:00:00.000Z'
 title: 'aTokens'
-description: 'Все об Aavegotchi aTokens'
+description: 'Все об аТокенах (aTokens) в Аавеготчи'
 image: "atokens/aETH.svg"
 contributors:
   - "unintelligent-nerd"
@@ -10,82 +10,81 @@ contributors:
 
 <div class="headerImageContainer">
 <img class="headerImage" src="/atokens/aETH.png">
-<p class="headerImageText">Токен aETH</p>
+<p class="headerImageText">Про аТокены (aTokens)</p>
 </div>
 
-аТокен — приносящий процентный доход токен платформы [Aave Protocol](https://aave.com). При внесении депозита происходит эмиссия, а при снятии средств — его сжигание. Токены aTokens привязаны 1:1 к цене базового актива, депонированного в протоколе Aave Protocol. Ими можно распоряжаться по своему усмотрению — хранить, передавать и обменивать. Читайте [Aave FAQ](https://docs.aave.com/faq/), чтобы узнать больше об экосистеме Aave Protocol.
+Для каждого Готчи важна Духовная сила (Spirit Force). Открывая [portal](/portals), игрок наполняет своего призрака Духовной силой, буквально вдыхая в него жизнь, чтобы Готчи появился в игре.
 
-Как связаны друг с другом aTokens и Aavegotchi? Каждый Aavegotchi призывается через специальный [Портал](/pages/portals) и обязательно должен быть сперва обеспечен с помощью aToken! Без исключений! Вот почему вам понадобятся aTokens, а на этой странице вы найдете исчерпывающую информацию о том, какие токены есть и как их получить.
+Так что собой представляет Духовная сила?
 
-Когда Aavegotchi переместится из главной сети Ethereum в [Matic Network](/glossary#matic-network), аТокены также должны быть перемещены в эту сеть. Наш штатный гений программирования и просто золотце [Nick Mudge](/team#nick-mudge) связал их мостом с Matic Network. аТокены в сети Matic Network называются маТокенами.
+Согласно первоначальной задумке игровой проект Аавеготчи был разработан для основной сети блокчейна Ethereum. Поэтому изначально Духовная сила была токеном. Это были процентные токены [Aave Protocol](https://aave.com). Они чеканились при внесении депозита и сжигались после возврата средств. аТокены в соотношении 1:1 привязывались к цене базового актива, внесенного в качестве депозита в протокол Aave. Токены данного типа свободно хранились, обменивались, передавались. Хотите узнать подробнее, — смотрите [FAQ Aave](https://docs.aave.com/faq/), чтобы получить больше информации по данной теме.
 
-С точки зрения игрока для игры необходимо:
+Впоследствии, из-за повышения платы за газ в основной сети, было принято решение запускать игру на [Polygon](/glossary#polygon) — сети решений второго уровня (L2) блокчейна Ethereum. От этого игра только выиграла, ведь на Polygon практически нулевая комиссия и быстрые транзакции. As a result of this move, we needed aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge **Aave V2 aTokens** from Ethereum Mainnet over to Polygon. These are known as **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
 
-1. Получить немного аТокенов
-2. Сконвертировать аТокены в маТокены
-3. После открытия портала использовать маТокены в качестве обеспечения для призыва готчи
+Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
 
-На этой странице мы расскажем вам о способах использования aTокенов.
+This page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
-В Aavegotchi понятия "Сила духа" ("Spirit Force"), "обеспечение" ("Collateral"), "аТокены" и "маТокены" обозначают одно и тоже.
+Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+
+In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#about>О токене</a></li>
-<li><a href=#stablecoins>Стейблкоины</a></li>
-<li><a href=#cryptocurrencies>Криптовалюты</a></li>
+<li><a href=#about>Об аТокене.</a></li>
+<li><a href=#stablecoins>Стейблкоины.</a></li>
+<li><a href=#cryptocurrencies>Криптовалюты.</a></li>
 <li><a href=#getting-atokens>Получение аТокенов</a></li>
-<li><a href=#converting-atokens-into-matokens>Конвертация аТокенов в маТокены</a></li>
+<li><a href=#converting-atokens-into-matokens>Конвертация аТокенов в маТокены.</a></li>
 </ol>
 
 </div>
 
-## О токене
+## Про аТокен
 
-Когда заемщик одалживает деньги у занимателя, аТокены зарабатывают для вас проценты прямо на счет в кошельке! Проследить этот процесс можно в режиме реального времени, наблюдая, как каждую минуту увеличивается ваш баланс.
+While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
-aТокены классифицируются двумя категориями: (1) криптовалюты или (2) стейблкоины. Криптовалюты — это защищенные криптографически цифровые или виртуальные валюты. В большинстве своем, это блокчейн-проекты, основанные на технологии распределенного реестра и поддерживаемые разрозненной сетью компьютеров. Стейблкоины — класс криптовалют, которые стремятся предложить стабильность цен за счет привязки к базовому активу, например, к доллару США (USD). У каждого стейблкоина разный принцип привязки, от которого зависит риск-профиль инвестирования.
+aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
-
-В таблице ниже вы можете увидеть, какие [аТокены](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (криптовалюты и стейблкоины) доступны в рамках протокола Aave. В столбце *Поддерживается Aavegotchi* вы можете увидеть, станет ли данный токен доступным для геймплея. Список поддерживаемых токенов обновляется. По запросу игроков будут проводится голосования в Twitter и в DAO, чтобы добавить больше поддерживаемых токенов в геймлей Aavegotchi.
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## Стейблкоины
 
-талбица стейблкойны
+table_stablecoins
 
 ## Криптовалюты
 
-таблица криптовалюты
+table_cryptocurrencies
 
 ## Получение аТокенов
 
-*Приводим пошаговую стратегию из гайда [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834), размещенного в блоге Aave на платформе Medium. Он воспроизведен здесь для вашего удобства.*
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
 
-1). Перейдите на <a href = "https://app.aave.com/">Aave Protocol</a>, чтобы начать!
+1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
-2). Привяжите свой кошелек, выбрав один из нижеуказанных способов:
+2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Чтобы пользоваться всеми преимуществами протокола Aave Protocol, нужно иметь некоторую сумму цифровых активов. Список доступных активов размещен в секциях <a href=#stablecoins>стейблкоины</a> и <a href=#cryptocurrencies>криптовалюты</a>.
+3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
-Если у вас нет криптоактивов, можно обменять свою фиатную валюту (доллар, евро — то есть обычные деньги) на цифровой актив (как один из вышеперечисленных).
+If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
-К вашему счастью, Aave недавно представили возможность купить криптовалюту прямо в приложении Aave Protocol! Например, Transak или Ramp Instant, где можно купить криптовалюту, заплатив со счета кредитной или дебетовой карты или сделав банковский перевод буквально за считанные минуты (смотрите ниже).
+Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Как только вы подключили кошелек к платформе, вы можете сделать депозит в Aave Protocol. При нажатии специальной кнопки “deposit”, в интерфейсе можно увидеть, какие криптовалюты есть у вас в кошельке, и выбрать подходящую для внесения депозита. Когда вы определились с валютой депозита, выставляете количество монет и вуаля, вы это сделали! *Примечание: сначала появится транзакция разрешения ("approve"), только потом пройдет транзакция зачисления. Это делается для предоставления разрешения депозитному контракту на использование именно этого выбранного вами актива.*
+4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-Как только будет сделан депозит, по нему вам будет начислена процентная ставка. А в кошельке сможете увидеть токены аТокен.
+As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
 ## Конвертация аТокенов в маТокены
 
-У вас уже есть аТокены? Отлично!
+Got your aTokens? Good!
 
-Погнали на страницу [маТокены](/matokens) для шага 2!
+Let's head over to the [maTokens](/matokens) page for Step 2!

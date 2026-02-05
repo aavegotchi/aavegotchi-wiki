@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">Das Aavegotchi Wiki</p>
 </div>
 
@@ -17,23 +17,34 @@ Dieses bescheidene Wiki ist der zentrale Wissenspunkt für alles, was mit Aavego
 
 ## Neu bei Aavegotchi?
 
-Unter [Einführung](https://wiki.aavegotchi.com/introduction) findest du eine Übersicht über das Aavegotchi-Spiel.
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## Beliebte Seiten
-* [Gameplay](/gameplay) -- Einführung in das eigentliche Aavegotchi-Spiel
-* [GHST](/ghst) -- Mehr über den Öko-Governance Token von Aavegotchi erfahren
-* [Staking](/staking) -- Informationen zum Staking von GHST, das FRENS generiert
-* [DAO](/dao) -- Alles, was es über den AavegotchiDAO zu wissen gibt
-* [Rarity Farming](/rarity-farming) -- Spiel Aavegotchi und verdiene Belohnungen!
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## Andere nützliche Seiten
 
-* [Team](https://wiki.aavegotchi.com/team) -- Erfahren, wer Aavegotchi entwickelt
-* [Roadmap](https://wiki.aavegotchi.com/roadmap) -- Die aktuelle Roadmap von Aavegotchi
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi Whitepaper V1.1](https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/) -- The Aavegotchi Whitepaper providing an in-depth view of the project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the Gotchiverse, where Gotchis frolic and go on aadventures
 
-## Mitwirken
+## Contribute
 
 Jeder kann zum Wiki beitragen, du benötigst nur Schreibrechte für unser [Github](https://github.com/aavegotchi/aavegotchi-wiki).
 

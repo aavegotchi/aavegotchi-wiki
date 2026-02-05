@@ -13,6 +13,8 @@ Nói một cách ngắn gọn, Polygon là giải pháp mở rộng Layer 2 củ
 
 Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Uniswap và cùng chào đón những tương tác (gần như miễn phí) trên ngôi nhà mới nhé!
 
+Chuyển nhà đến Polygon là một lựa chọn đúng đắn. [Nick](/team#nick-mudge) đã cho bọn mình thấy rằng bọn mình đã giúp người chơi [tiết kiệm hơn 14 triệu đô la tiền phí bằng cách này](https://twitter.com/mudgen/status/1372245486535639040).
+
 <div class="contentsBox">
 
 **Nội dung**
@@ -20,8 +22,7 @@ Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Un
 <ol>
 <li><a href=#why-polygon->Tại sao lại dùng Polygon?</a></li>
 <li><a href=#adding-polygon-to-your-metamask>Thêm Polygon vào Metamask</a></li>
-<li><a href=#bridging-assets-to-polygon>Kết nối tài sản đến Polygon</a></li>
-<li><a href=#bridging-assets-back-to-ethereum-mainnet>Chuyển tài sản về lại Ethereum Mainnet</a></li>
+<li><a href=#matic-faucet>Matic Wallet</a></li>
 </ol>
 
 </div>
@@ -32,13 +33,13 @@ Aavegotchi Mainnet xém tí được triển khai vào ngày 4 tháng Giêng 202
 
 Rõ ràng là game có thể được khởi chạy trên Mainnet của Ethereum. Nhưng bởi Polygon đang làm việc cùng với những dự án NFT khác (ví dụ như Opensea) rồi nên lựa chọn này cũng dễ hiểu. Cộng đồng đã thể hiện quan điểm của mình và 76% trong số họ đã bỏ phiếu để game được triển khai trên Polygon.
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+Để thao luận nhiều hơn về vấn đề này, mời bạn tìm hiểu thêm tại [bài viết ](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) trên Medium này nhé.
 
 ## Thêm Polygon vào Metamask
 
-Let’s get started with the fun stuff! To use Polygon, you first need to add it to your Metamask wallet.
+Hãy cùng nhau bắt đầu cuộc vui nhé! Để dùng Polygon, việc đầu tiên bạn cần làm là kết nối với ví Metamask.
 
-1). Open the extension and click the “Ethereum Mainnet” button on the top.
+1). Mở Metamask ra rồi nhấp vào nút "Ethereum Mainnet" trên đỉnh.
 
 <img class = "bodyImage" src = "/polygon/metamask.png" alt = "Metamask" />
 
@@ -56,53 +57,20 @@ Chain ID: 137
 
 Currency Symbol (optional): MATIC
 
-Block Explorer URL (optional): https://explorer.matic.network/
+Block Explorer URL (tuỳ chọn): https://explorer.matic.network/
 
 Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save".
 
-4). There’s no step four, you’re already done! You can now switch between Ethereum Mainnet and Polygon by clicking the button from step 1.
+4). Không có bước 4 đâu nha, bạn đã làm xong rồi á! Giờ bạn có thể chuyển đổi qua lại giữa Ethereum Mainnet và Polygon bằng cách nhấp vào nút vừa nhắc trong bước 1.
 
-## Kết nối tài sản đến Polygon
-Alright you got Metamask set up and are ready to dive right in. But before you need some assets on Polygon. We’re going to use the [Proof of Stake (PoS)](/glossary#proof-of-stake) Polygon Bridge to transfer our funds from Ethereum Mainnet to Polygon. If you only want to transfer your GHST, ignore all of the following steps and use our simple Aavegotchi Bridge [here](https://aavegotchi.com/bridge).
+## Matic Wallet
 
-So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
+Bạn cần có token MATIC để giao dịch trên Polygon.
 
-1). Head over to [https://wallet.matic.network/](https://wallet.matic.network/) and login with Metamask. Make sure you’re in the “Wallet” tab, it should look something like this:
+Đây là danh sách một số faucet MATIC giúp bạn nhận MATIC miễn phí để giao dịch:
 
-<img class = "bodyImage" src = "/polygon/matic-wallet.png" alt = "Matic Wallet" />
+* [Matic Supply](https://matic.supply/)
 
-2). **DO NOT** click the “Switch to Plasma” button. That’s the wrong bridge and needs 7 days to withdraw. Instead add the asset you want to transfer on the right side. I have already added USDC so you can see it in my wallet.
+* [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
 
-<img class = "bodyImage" src = "/polygon/matic-wallet-add-token.png" alt = "Adding Token to Matic Wallet" />
-
-3). On the left side click “Matic Wallet” and “Deposit”.
-
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit.png" alt = "Depositing Token to Matic Wallet" />
-
-4). Click “Continue to Deposit” and select your asset here:
-
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit2.png" alt = "Depositing Token to Matic Wallet" />
-
-5). Enter how much of it you’d like to bridge and click the big blue button.
-
-<img class = "bodyImage" src = "/polygon/matic-wallet-deposit3.png" alt = "Depositing Token to Matic Wallet" />
-
-Aaaaaand that’s it! Just confirm the transaction in Metamask and you’re done. It can take up to 10 minutes for the tokens to arrive in your Polygon address. You should get 0.1 MATIC airdropped if you transfer a stablecoin and open [Quickswap](https://quickswap.exchange/), the largest DEX on Polygon. (That’s enough for 1000s of transactions, Polygon is aavesome!)
-
-If you need help with anything you can join the Aavegotchi [Discord](https://discord.com/invite/rttCTkZ) and ask a fellow community member.
-
-## Chuyển tài sản về lại Ethereum Mainnet
-
-What about bridging our assets back to Ethereum Mainnet? Is there a way to do it?
-
-Yes, there is a way to transfer your assets back to Ethereum Mainnet!
-
-Head over to the [Aavegotchi Bridge](https://aavegotchi.com/bridge) again.
-
-<img class = "bodyImage" src = "/polygon/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
-
-At the right hand side of the screen, there is an image of a token as well as a box where you can input an amount in. Click on the image of the token and a display of available tokens will appear. Select the [maToken](/matokens) which you want to bridge back to Ethereum Mainnet. After that, key in the desired amount in the box and hit the "Transfer to Ethereum" button.
-
-Withdrawing from Polygon takes approximately 30 minutes. Sometimes, it might take longer. After the withdrawal is complete, you still need to click the "CLAIM ON ETHEREUM" button to get your tokens back on Ethereum Mainnet.
-
-Currently, the Aavegotchi Bridge supports the transfer of maTokens from Polygon to Ethereum Mainnet. In time to come, it will support Aavegotchis (ERC-721) and Wearables (ERC-1155) as well.
+Nếu faucet không hoạt động, hãy vào Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6)và đi vào kênh #matic-requests để nhận được MATIC từ những người bạn khác nhé.

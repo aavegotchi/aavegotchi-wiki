@@ -1,48 +1,48 @@
 ---
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
-title: 'Gameplay'
-description: 'Intrduction to Aavegotchi Gameplay'
+title: 'Геймплей'
+description: 'Введение в игру Аавеготчи'
 ---
 
-Aavegotchi has a truly unique gameplay that consists of multiple elements, blending together NFTs and DeFi.
+Игровой проект Аавеготчи умело комбинирует элементы DeFi и NFT, обеспечивая интересный и нетривиальный геймплей.
 
 <div class="contentsBox">
 
-Содержание:
+**Содержание**
 
 <ol>
-<li><a href=#ghst-token>GHST Token</a></li>
-<li><a href=#portals>Portals</a></li>
-<li><a href=#wearables>Wearables</a></li>
-<li><a href=#rarity-farming>Rarity Farming</a></li>
-<li><a href=#minigames>Minigames</a></li>
+<li><a href=#ghst-token>Токен GHST</a></li>
+<li><a href=#portals>Порталы</a></li>
+<li><a href=#wearables>Экипировка.</a></li>
+<li><a href=#rarity-farming>Фарминг.</a></li>
+<li><a href=#minigames>Мини-игры.</a></li>
 </ol>
 
 </div>
 
 ## GHST token
 
-[GHST](https://wiki.aavegotchi.com/en/ghst) is the native governance token and the base currency of the Aavegotchi ecosystem that unlocks the most aawesome features of the game. You can stake it to get FRENS and convert them into Raffle tickets, buy Portals and wearables, earn more GHST (coming soon!) and much more.
+GHST является токеном управления и базовой валютой экосистемы Аавеготчи, с помощью которой геймерам становятся доступны самые потрясающие игровые функции. Например, можно заниматься стейкингом GHST и получать FRENS, которые обменивать на лотерейные билеты.
 
-You can buy GHST via Aavegotchi [bonding curve](https://wiki.aavegotchi.com/en/curve) or one of your favourite exchanges.
+За них можно выигрывать и покупать порталы и экипировку, зарабатывать больше GHST (скоро!) И это далеко неполный перечень возможностей. Приобрести токены GHST можно из кривой связывания Авеготчи или на удобной для вас бирже.
 
-## Portals
+## Порталы
 
-A [Portal](https://wiki.aavegotchi.com/en/portals) is a device you need to summon your Aavegotchi from the Nether realm and start playing. A Portal allows you to choose from 10 different Aavegotchis with randomly generated traits and add intrinsic value to it by staking Aave-backed ERC20 tokens, or [aTokens](https://wiki.aavegotchi.com/en/atokens) to it.
+Это [устройства](https://wiki.aavegotchi.com/en/portals), необходимые для того, чтобы вызвать Готчи и начать играть в Аавеготчи. При открытии портала генерируется десять различных призраков по случайному сценарию. Они имеют рандомные характеристики и нуждаются в залоге, который повысит их внутреннюю ценность. Залог делается в токенах стандарта ERC20, поддерживаемых Aave, или [аТокенах](https://wiki.aavegotchi.com/en/atokens).
 
-You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace such as OpenSea for approximately 100 GHST.
+Продаются порталы в приложении Aavegotchi dApp или на внешних NFT-рынках, например — OpenSea. Стоимость составляет 100 GHST.
 
-## Wearables
+## Элементы экипировки
 
-[Wearables](https://wiki.aavegotchi.com/en/wearables) are an important part of the Aavegotchi gameplay. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
+[Носимые устройства](https://wiki.aavegotchi.com/en/wearables) — также важная часть игрового процесса. Экипируя Готчи, можно повысить его показатели базовой редкости и изменить черты, что положительно влияет на прохождение мини-игр и фарминг.
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+Носимые устройства можно покупать на первичном (Молл) и вторичном (Базар) рынках, а также выигрывать в [лотерею](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60), покупая специальные лотерейные билеты.
 
-## Rarity farming
+## Фарминг
 
-[Rarity farming](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) is a minigame that rewards the owners of the rarest Aavegotchis with GHST tokens. The goal is to create an Aavegotchi with the highest Final Rarity Score, determined by the rareness of its traits and wearables.
+Данный [процесс](https://wiki.aavegotchi.com/en/rarity-farming#final-rarity-score) является одной из мини-игр, цель которой — сделать своего Готчи одним из самых редких, получая за это награду в GHST. Стоит учесть, что на показатели призраков влияют не только базовые характеристики перса, но и его экипировка. Она может как улучшать, так и ухудшать черты.
 
-After the end of each period, which length will be determined by AavegotchiDAO, the owners of the rarest Aavegotchis will receive a distribution of GHST rewards.
+Награды за фарминг выдаются регулярно (по прошествии периода, определенного AavegotchiDAO). Владельцам самых редких призраков начисляется вознаграждение в токенах GHST.
 
-## Minigames
+## Мини-игры

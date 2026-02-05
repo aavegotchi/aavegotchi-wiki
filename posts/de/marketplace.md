@@ -46,15 +46,17 @@ Komm und teste dein Geschick! Käufer und Verkäufer gleichermassen!
 
 ## Aavegotchi Baazaar
 
-Der Aavegotchi Baazaar ist der offizielle Marktplatz für Aavegotchi. Es ist der Hauptknotenpunkt für den gesamten Aavegotchi-Handel und beherbergt sowohl den primären Aavegotchi-Shop als auch den sekundären Markt für alle Besitzer, die ihre Objekte verkaufen möchten. Besuche den Aavegotchi Shop für die neuesten Veröffentlichungen von Kleidungsstücken, Tränken, etc.
+The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sellers can list their items for sale. There will be a listing fee of 0.1 GHST for every new listing on the Aavegotchi Baazaar. This is to prevent spam listings on Polygon. This 0.1 GHST goes neither to Pixelcraft Studios nor to AavegotchiDAO. Instead, it will be sent directly to the [burn address](https://explorer-mainnet.maticvigil.com/address/{{BURN_ADDRESS}}/tokens) on Polygon when a listing is created or updated.
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Bazaar" />
 
 Mehr Informationen findest du auf dieser [Seite](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f).
 
+The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+
 ## Adressen der Kollektionen
 
-Die folgende Tabelle zeigt die offiziellen Smart Contract Adressen für die verschiedenen Aavegotchi Assets. Bevor du einen Kauf auf einem Marktplatz tätigst, solltest du den Contract des Vermögenswertes, den du kaufen möchtest, mit dem entsprechenden Contract in der untenstehenden Tabelle abgleichen (z.B. wenn du beabsichtigst, ein Lotterie-Ticket zu kaufen, überprüfe die Adresse des Ticket-Contracts, bevor du fortfährst).
+The following table displays the official smart contract addresses for the various Aavegotchi assets. Before making any purchase on any marketplace, do verify the contract of the asset you are purchasing against the relevant contract in the table below (e.g. if you are intending to purchase a Raffle Ticket, check against the Raffle Tickets contract address before proceeding).
 
 table_smartcontracts
 

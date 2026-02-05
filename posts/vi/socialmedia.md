@@ -26,6 +26,8 @@ Chào mừng các bợn đến với đại gia đình Aavegotchi! Cộng đồn
 <li><a href=#Twitter>Twitter</a></li>
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
+<li><a href=#Blog>Blog</a></li>
+<li><a href=#Twitch>Twitch</a></li>
 <li><a href=#aavegotchi-malaysia>Aavegotchi Malaysia</a></li>
 </ol>
 
@@ -64,7 +66,17 @@ Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho nh�
 
 <p style="margin-left: 4.8em">Đến để chế hình và ở lại vì chúng mình! Thư giãn một tẹo và thưởng thức những phút giây tuyệt vời tại Aavegot Reddit nhé, bởi đây là nơi trú ngụ của những cao thủ chế meme đấy! Hãy cười thật đã đời trong những ngày tẻ nhạt nhé.</p>
 
-&nbsp;
+&nbsp;<a name="Blog"></a>
+
+<a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Hãy kết nối với blog của bọn mình nhé!**</a>
+
+<p style="margin-left: 4.8em">Kết nối với tin tức Gotchi mới nhất tại blog của chúng tôi!</p>
+
+&nbsp;<a name="Twitch"></a>
+
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Hãy xem live Gotchiverse trên Twitch của bọn mình!**</a>
+
+<p style="margin-left: 4.8em">Cùng xem live gamplay trên Twitch!</p>
 
 Bọn mình đang trông các bạn quá đây này! Hãy vào bất kỳ kênh nào của bọn mình để tìm hiểu thêm nhé.
 

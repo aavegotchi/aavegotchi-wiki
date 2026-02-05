@@ -3,7 +3,7 @@ author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
 description: 'All about Aavegotchi Portals'
-contributors: ["appellants"]
+contributors: ["appellants", "unintelligent-nerd"]
 image: "portals/portal.gif"
 ---
 
@@ -28,6 +28,7 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 <li><a href=#buying-a-portal>Buying a Portal</a></li>
 <li><a href=#opening-your-portal>Opening your Portal</a></li>
 <li><a href=#claiming-an-aavegotchi>Claiming an Aavegotchi</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
 <li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
@@ -36,16 +37,25 @@ So put on your wizard cap – it’s time to learn more about Portals and the Aa
 
 ## Buying a Portal
 
-Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal. You can acquire this either from the [official Aavegotchi Dapp](https://aavegotchi.com/buy-portal), or an external marketplace such as [OpenSea](https://opensea.io/). 
 
-If you’re purchasing it from the Aavegotchi Dapp, each portal will cost approximately 100 GHST. These devices will also be released in ‘Haunts’ (editions). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
+Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
+
+You can acquire portals in one of the following ways:
+
+* In an [Aauction](/aauction)
+* In a [Drop Ticket Raffle](/tickets)
+* At the [Baazaar](/baazaar)
+
+Aauctions and Raffles are time-limited events. If you miss out on them, the only other way to purchase portals is through the Baazaar, our secondary marketplace.
+
+Portals are released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## Opening your Portal
 
 Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
-After purchasing the portal, the very next step is to open it. Opening the portal occurs on the [Matic Network](/glossary#matic-network) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
+After purchasing the portal, the very next step is to open it. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
 
 Here's a handy flow chart that summarizes the process:
 
@@ -65,11 +75,11 @@ More information on rarity farming can be found [here](/rarity-farming).
 
 ## Claiming an Aavegotchi
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of Spirit Force ([aTokens](/atokens)) to the Portal. These aTokens can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly through the [Aavegotchi UI](/spirit-force#buying-matokens-amtokens).
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value. 
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The [maTokens/amTokens](/spirit-force#buying-matokens-amtokens) you stake to it provide this intrinsic value. 
 
-**For more information on aTokens, see [aTokens](/atokens).**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
 Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
@@ -87,10 +97,15 @@ if (rarityScore < 300) return 10;
 
 For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
 
-You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
+You can increase or decrease the Spirit Force (staked maToken/amToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the maToken/amToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
+## Interacting with your Aavegotchi
+
+Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
+
+Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
 ## Transferring your Aavegotchi
 
@@ -103,7 +118,3 @@ If you wish to retrieve the staked collateral backing your Aavegotchi, you have 
 2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral. 
 
 **Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
-
-
-
-

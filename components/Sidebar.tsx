@@ -110,11 +110,14 @@ const Sidebar = (props: SidebarProps) => {
                             <div className="category">{category.name}</div>
 
                             {category.items.map((item: Item) => {
-                                return (
-                                    <Link href="/[lang]/[pageID]" as={`/${languageCode}/${item.href}`}>
+								const url = item.href.startsWith("https") ? item.href : `/${languageCode}/${item.href}`;
+								const href = item.href.startsWith("https") ? item.href : "/[lang]/[pageID]";
+								const img = item.href === "https://blog.aavegotchi.com" ? "blog" : item.href;
+								return (
+                                    <Link href={href} as={url}>
                                         <a>
                                             <li className="flexRow">
-                                                <img className="sideBarIcon" src={`/icons/${item.href}.svg`} />
+                                                <img className="sideBarIcon" src={`/icons/${img}.svg`} />
 
                                                 <div className="name">
                                                     {item.name}

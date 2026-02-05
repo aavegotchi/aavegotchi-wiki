@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">아베고치 위키</p>
 </div>
 
@@ -17,23 +17,34 @@ image: "icons/introduction.svg"
 
 ## 아베고치가 처음이신가요?
 
-아베고치 게임에 대한 전체적인 개요는 [인트로](https://wiki.aavegotchi.com/introduction)페이지에서 찾아보실 수 있습니다.
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## 인기 페이지들
-* [게임플레이](/gameplay) -- 아베고치 게임 소개
-* [GHST](/ghst) -- 아베고치 생태계의 가버넌스 토큰에 대해 알아보기
-* [스테이킹](/staking) -- FRENS 포인트를 얻기 위한 GHST 스테이킹 알아보기
-* [DAO](/dao) -- 아베고치DAO에 대해 알아야 할 모든 것
-* [희귀도 파밍](/rarity-farming) -- 아베고치를 플레이하고 보상을 얻으세요!
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## 다른 유용한 페이지들
 
-* [팀](https://wiki.aavegotchi.com/team) -- 누가 아베고치를 만들고있는지 확인해보세요
-* [로드맵](https://wiki.aavegotchi.com/roadmap) -- 아베고치의 최신 로드맵
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi Whitepaper V1.1](https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/) -- The Aavegotchi Whitepaper providing an in-depth view of the project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the Gotchiverse, where Gotchis frolic and go on aadventures
 
-## 기여하기
+## Contribute
 
 [Github](https://github.com/aavegotchi/aavegotchi-wiki)에서 권한을 받아 누구나 Wiki에 기여할 수 있습니다.
 

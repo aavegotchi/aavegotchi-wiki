@@ -26,6 +26,8 @@ contributors:
 <li><a href=#Twitter>Twitter</a></li>
 <li><a href=#Telegram>Telegram</a></li>
 <li><a href=#Reddit>Reddit</a></li>
+<li><a href=#Blog>Blog</a></li>
+<li><a href=#Twitch>Twitch</a></li>
 <li><a href=#aavegotchi-malaysia>Aavegotchi 马来西亚</a></li>
 </ol>
 
@@ -64,13 +66,23 @@ Discord 对于有疑问的小伙伴来说也是一个很好的平台，加入其
 
 <p style="margin-left: 4.8em">为表情包而来，为社区而留下！ 休息一下，与我们伟大的 memers 一起，在 Aavegotchi Reddit 上尽情玩耍吧。 赚钱的同时不要忘记开怀大笑～</p>
 
-&nbsp;
+&nbsp;<a name="Blog"></a>
 
-朋友，我们期待你的到来！ 来到我们的平台了解更多关于我们的故事。
+<a href="https://blog.aavegotchi.com/" target = "_blank"><img class="socialmedia" src="/socialmedia/blog.svg" alt = "aavegotchi Blog" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Keep up with us on our blog!**</a>
+
+<p style="margin-left: 4.8em">Keep up with the latest Gotchi-news on our blog!</p>
+
+&nbsp;<a name="Twitch"></a>
+
+<a href="https://www.twitch.tv/directory/game/Aavegotchi%3A%20Gotchiverse" target = "_blank"><img class="socialmedia" src="/socialmedia/twitch.png" alt = "aavegotchi Twitch" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Watch the Gotchiverse live on our Twitch!**</a>
+
+<p style="margin-left: 4.8em">Watch live gameplay footage on our Twitch!</p>
+
+We look forward to welcoming you, fren! Head over to any of our channels to learn more.
 
 ## Aavegotchi 马来西亚
 
-Aavegotchi 马来西亚是 Aavegotchi 大家庭是为马来西亚朋友专门打造的胜地！ 看看我们的 [Facebook 组群](https://www.facebook.com/groups/aavegotchimalaysia)！ 马来西亚大使 Buzz Lightyear / Jason Chew 欢迎你！
+Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
 
 
 

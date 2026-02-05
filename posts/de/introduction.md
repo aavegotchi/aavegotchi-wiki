@@ -14,13 +14,13 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** ist ein DeFi-basiertes Krypto-Sammelspiel, das von Pixelcraft Studios mit Sitz in Singapur entwickelt wurde. Es erlaubt Spielern, Charaktere in Form von [nicht fungiblen Tokens (NFTs)](/glossary#non-fungible-token) durch zinstragende [aTokens](/atokens) zum Leben zu erwecken und mit dem Aavegotchi [Metaverse](/metaverse) zu interagieren. Es ist eine einzigartige Kombination aus [Decentralized Finance (DeFi)](/glossary#defi-101) und NFTs.
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). Es ist eine einzigartige Kombination aus [Decentralized Finance (DeFi)](/glossary#defi-101) und NFTs.
 
 Aavegotchis sind pixelförmige Geister, die auf der Ethereum-Blockchain leben - gestützt durch den [**ERC-721**](/glossary#erc-721) Standard. Der Wert eines Geistes wird durch seine Seltenheit festgelegt, die anhand von mehreren Faktoren berechnet wird. Dazu gehören z.B. Basis-[Eigenschaften](/traits), Menge der hinterlegten Sicherheiten/aTokens, sowie ausgerüstete [Kleidungsstücke](/wearables).
 
-Um ihre Aavegotchis hochzuleveln, können Spieler an einer Vielzahl von Aktivitäten teilnehmen, darunter Minispiele, Governance und Meetups. Aavegotchis können ihre Seltenheitsstufe auch verbessern, indem sie Kleidungsstücke ausrüsten oder auf ein höheres Level aufsteigen.
+To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis können ihre Seltenheitsstufe auch verbessern, indem sie Kleidungsstücke ausrüsten oder auf ein höheres Level aufsteigen.
 
-Seltene Aavegotchis haben nicht nur einen höheren Wert auf sekundären [Marktplätzen](/marketplace), es ermöglicht ihnen auch eine bessere Leistung im [Rarity Farming](/rarity-farming) – ein Minispiel, das die seltensten Aavegotchis mit GHST Tokens belohnt.
+Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens.
 
 Aavegotchi wird vom [AavegotchiDAO](/dao) geleitet, das auch alle finanziellen Mittel verwaltet, die durch die Distribution von [GHST Tokens](/ghst) generiert werden.
 
@@ -39,7 +39,7 @@ Aavegotchi wird vom [AavegotchiDAO](/dao) geleitet, das auch alle finanziellen M
 ## Über Aavegotchis
 Aavegotchis sind seltene Krypto-Sammelobjekte, die auf der Ethereum-Blockchain leben. Sie basieren auf dem ERC-721 Standard, der für beliebte Blockchain-Spiele wie CryptoKitties, Axie Infinity und Cryptovoxels verwendet wird. Aavegotchis besitzen drei Attribute, die ihren Gesamtwert und ihre Seltenheit innerhalb des Aavegotchi-Universums beeinflussen: **Hinterlegte Sicherheiten, Eigenschaften und Kleidungsstücke.**
 
-*  **Hinterlegte Sicherheiten:** Jeder Aavegotchi NFT verwaltet eine Escrow-Adresse, die eine Aave-basierte Sicherheit in Form von „aTokens“ (einem ERC-20) enthält. [aTokens](/atokens) generieren eine Rendite über den Lending-Pool von Aave, der die Menge an aTokens im Wallet erhöht. So steigt im Laufe der Zeit die Anzahl aTokens, die in der Escrow-Adresse des Aavegotchis aufbewahrt werden.
+*  **Hinterlegte Sicherheiten:** Jeder Aavegotchi NFT verwaltet eine Escrow-Adresse, die eine Aave-basierte Sicherheit in Form von „aTokens“ (einem ERC-20) enthält. [aTokens](/spirit-force) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. So steigt im Laufe der Zeit die Anzahl aTokens, die in der Escrow-Adresse des Aavegotchis aufbewahrt werden.
 
 
 *  **Eigenschaften:** Aavegotchis besitzen mehrere Eigenschaften, die ihre Seltenheit, ihre Leistung in Minispielen und die ausrüstbaren Kleidungsstücke beeinflussen. Einige werden bei ihrer Geburt zufällig generiert und andere hängen von Interaktionen mit dem Aavegotchi ab. **Siehe [Eigenschaften](/traits).**
@@ -68,4 +68,4 @@ Das Aavegotchi-Universum umfasst alle Elemente, die das Funktionieren der Aavego
 * [Portale](/portals)
 * [GHST Utility Token](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi Realm](/metaverse)
+* [Aavegotchi Realm](/gotchiverse)

@@ -13,11 +13,21 @@ Aavegotchis level up as they gain more Experience (XP). But exactly how much XP 
 **Contents**
 
 <ol>
+<li><a href=#gaining-xp>Gaining XP</a></li>
 <li><a href=#formula>Formula</a></li>
 <li><a href=#experience-table>Experience Table</a></li>
+<li><a href=#claiming-xp>Claiming XP</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
+
+## Gaining XP
+
+Aavegotchis receive experience (XP) for:
+* Voting in [AavegotchiDAO](/dao)
+* Participating in events held on Aavegotchi Discord (a Typeform will be released during the event for people to complete to receive XP for their Gotchis)
+* Playing [mini-games](/minigames) (only during certain periods as announced on Discord)
 
 ## Formula
 The following formula is used to determine the XP required for the next level:
@@ -40,3 +50,16 @@ The maximum level that an aavegotchi could attain is 99. Any changes to the maxi
 
 table_XP
 
+## Claiming XP
+
+XP has to be claimed manually at the airdrop page here: https://dapp.aavegotchi.com/u/[XXXXX]/airdrops.
+
+Replace the [XXXXX] with your wallet address in the URL above.
+
+After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvement-proposals), all Aavegotchis you owned at the block the AGIP was created are eligible for the XP claim. There is a bulk claim ("CLAIM ALL") function that allows you to claim the XP for all AGIPs you have voted on. If the CLAIM ALL function fails, you can claim the XP for each AGIP individually.
+
+## Tracking XP received
+
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
+
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).

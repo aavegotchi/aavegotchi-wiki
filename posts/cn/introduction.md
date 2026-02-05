@@ -14,14 +14,14 @@ contributors:
 <p class="headerImageText">Aavegotchi</p>
 </div>
 
-**Aavegotchi** 是一个 DeFi 赋能的加密收藏品游戏，由设立在新加坡的 Pixelcraft Studios 团队开发，玩家可以质押 [aTokens](https://wiki. aavegotchi. com/atokens) 产生[ Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars 与 Aavegotchi [元宇宙](https://wiki. aavegotchi. com/metaverse) 进行交互。 它是 [去中心化金融（DeFi）](/glossary#defi-101) 和 NFT 的绝妙组合。
+**Aavegotchi** is a DeFi-enabled crypto collectibles game developed by Singapore-based Pixelcraft Studios that allows players to stake [Non-fungible tokens (NFTs)](/glossary#non-fungible-token) avatars with [interest-generating tokens](/spirit-force) and interact with the Aavegotchi [metaverse](/gotchiverse). 它是 [去中心化金融（DeFi）](/glossary#defi-101) 和 NFT 的绝妙组合。
 
 Aavegotchis 是生活在以太坊区块链上的像素幽灵，使用
 ERC-721** 标准。 它的价值由其稀有度决定。很多种因素会影响稀有度，例如特质，质押品/aTokens 的数量，以及其 [可穿戴设备](/traits)的配置等等。</p> 
 
-玩家可以参与如小型游戏，治理和集会等活动来提升 Aavegotchis 的等级。 Aavegotchis 也可以通过升级游戏穿戴设备来提升稀有度。 
+To level up their Aavegotchis, players can participate in a variety of activities including [mini-games](/minigames), governance, and meetups. Aavegotchis 也可以通过升级游戏穿戴设备来提升稀有度。 
 
-稀有的 Aavegotchis 不仅在二级市场价值更高，他们还能让 Aavegotchi 在 [稀有度挖矿](/marketplace)中表现得更好----一个用 GHST 代币奖励最稀有的 Aavegotchis 的小游戏。 
+Rare Aavegotchis not only have higher secondary [baazaar](/baazaar) value, they also enable the Aavegotchi to perform better in [rarity farming](/rarity-farming)—a minigame that rewards the rarest Aavegotchis with GHST tokens. 
 
 Aavegotchi 由 [AavegotchiDAO](/dao) 治理，通过 [GHST 代币](/ghst) 分发对应的投票权管理资金。
 
@@ -41,7 +41,7 @@ Aavegotchi 由 [AavegotchiDAO](/dao) 治理，通过 [GHST 代币](/ghst) 分发
 
 Aavegotchis 是生活在以太坊区块链上的稀有加密收藏品，它也采用了流行区块链游戏如 CryptoKitties，Axie Infinity 和 Cryptovoxels 等普遍使用的ERC-721标准。 三项指标：质押、特性和可穿戴设备，决定了 Aavegotchis 在 Aavegotchi 宇宙中的整体价值和稀有度。
 
-*  **质押：**每个 Aavegotchi ERC721 NFT 背后都有一个托管合约地址，该地址质押了 Aave 支持的 ERC20 抵押品，或 "aToken"。 [aTokens](/atokens) 通过 Aave's LendingPool 产生借贷收益，它会自动在钱包中增加 aTokens 的数量。 因此，Aavegotchi 的托管地址中持有的 aTokens 的数量会随着时间的推移而增加。 
+*  **质押：**每个 Aavegotchi ERC721 NFT 背后都有一个托管合约地址，该地址质押了 Aave 支持的 ERC20 抵押品，或 "aToken"。 [aTokens](/spirit-force) generate yield via Aave’s LendingPool, which increases the quantity of aTokens held in the wallet. 因此，Aavegotchi 的托管地址中持有的 aTokens 的数量会随着时间的推移而增加。 
 
 *  **特质：** Aavegotchis 拥有多种特质，这些特质会影响他们的稀有度，在小游戏中的表现以及他们可以装备的可穿戴设备。 有些特质是在出生时就随机生成的，有些则取决于玩家与 Aavegotchi 的互动。 **查看[特质](/traits).**
   
@@ -76,4 +76,4 @@ Aavegotchi 宇宙为 Aavegotchis 提供了想要的一切：
 * [传送门](/portals)
 * [GHST 实用代币](/ghst)
 * [AavegotchiDAO](/dao)
-* [Aavegotchi 领地](/metaverse)
+* [Aavegotchi 领地](/gotchiverse)

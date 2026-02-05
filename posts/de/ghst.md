@@ -38,7 +38,7 @@ Anreize für Nutzer spielen in jedem Projekt eine grosse Rolle. In diesem Fall b
 
 Spieler müssen GHST kaufen und es im Prozess der Beschwörung und Ausbildung von Aavegotchis ausgeben. Ein Teil davon wird direkt zurück an den DAO überwiesen, um die Entwicklung des Ökosystems weiter zu finanzieren. Gleichzeitig wird ein Teil auch als Belohnung für kluges Management des DAO und als Belohnung für das Betreiben von Rarity Farming verteilt.
 
-Weitere Informationen findest du auf den Seiten unter "Tokenomics" in der Sidebar.
+For more information, make sure to check out the [Tokenomics page](/tokenomics).
 
 ## GHST verwenden
 Was kannst du mit GHST machen, ausser es zu kaufen und dich zu wundern, "when moon"? Eine ganze Menge, und wenn du erst einmal die verschiedenen Möglichkeiten zur Nutzung von GHST kennengelernt hast, haben wir das Gefühl, dass du den Verkauf noch einmal überdenken wirst.
@@ -51,20 +51,29 @@ Dazu gehören:
 * [GHST staken](/staking), FRENS generieren, Tickets kaufen und Lotterie-Preise gewinnen
 
 ## GHST kaufen
-Halte dein Wallet (vorzugsweise Metamask) bereit - es gibt zwei Möglichkeiten, um GHST Tokens zu kaufen.
+Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
 
-Du kannst es entweder direkt von der [Curve](/curve) kaufen (dies erfordert allerdings KYC, was Bürger der Vereinigten Staaten und Chinas leider ausschliesst); oder es von einer [Börse](https://www.coingecko.com/en/coins/aavegotchi#markets) kaufen - mehrere DEXe wie [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) und [Matcha](https://matcha.xyz/markets/GHST), sowie CEXe wie [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) und [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro), bieten GHST an.
+* Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
+* Buying it from Decentralized Exchanges on Ethereum Mainnet such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST)
+* Buying it from Decentralized Exchanges on Polygon such as [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+* Buying it from Centralized Exchanges such as [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
 
-Achte darauf, dass du auch die richtige Token-Adresse verwendest: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550). **Bitte überprüfe diesen Link mit anderen offiziell veröffentlichten Aavegotchi Quellen - es schadet nie, vorsichtig zu sein.**
+Make sure you get the correct token address as well.
+
+On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
+
+On Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
+
+**Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 
 ## GHST verdienen
-Nicht jeder ist ein Whale, und das ist auch in Ordnung - es gibt genugn zu tun in den DeFi-Meeren.
+Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
 
-Es gibt mehrere Möglichkeiten, um GHST zu verdienen. Diese beinhalten:
+There are several ways to grind it out and earn GHST. Dazu gehören:
 
-* [Rarity Farming](/rarity-farming) betreiben
-* Nimm am [AavegotchiDAO](/dao) teil und stimm ab
-* In Minispielen mitmachen und gewinnen (bald mehr Infos dazu)
+* Engaging in [rarity farming](/rarity-farming)
+* Participate and vote in [AavegotchiDAO](/dao)
+* Playing and winning in [mini-games](/minigames) (more information TBC)
 
 
 

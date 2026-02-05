@@ -5,6 +5,7 @@ title: 'Portale'
 description: 'Alles über Aavegotchi Portale'
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 image: "portals/portal.gif"
 ---
 
@@ -27,53 +28,62 @@ Setz also deinen Zauberhut auf - es ist Zeit, mehr über Portale und den Aavegot
 <li><a href=#buying-a-portal>Ein Portal kaufen</a></li>
 <li><a href=#opening-your-portal>Dein Portal öffnen</a></li>
 <li><a href=#claiming-an-aavegotchi>Ein Aavegotchi beschwören</a></li>
-<li><a href=#transferring-your-aavegotchi>Dein Aavegotchi transferieren</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Interacting with your Aavegotchi</a></li>
+<li><a href=#transferring-your-aavegotchi>Transferring your Aavegotchi</a></li>
 </ol>
 
 </div>
 
 ## Ein Portal kaufen
 
-Bevor du dein pixeliges Geisterbaby aufziehen kannst, musst du es über ein Portal herbeirufen. Diese kannst du entweder über die [offizielle Aavegotchi dApp](https://aavegotchi.com/buy-portal), oder einen externen Marktplatz wie [OpenSea](https://opensea.io/) erwerben.
+Before you can raise your pixelated ghost baby, you’ll need to summon it via a Portal.
 
-Wenn du es über die Aavegotchi dApp kaufst, kostet jedes Portal ungefähr 100 GHST. Diese werden ausserdem in "Haunts" (Editionen) veröffentlicht. Der erste Haunt wird 10'000 Portale zur Verfügung stellen. Danach wird der [AavegotchiDAO](/dao) über Entscheidungen zu den einzelnen Haunts abstimmen. Zum Beispiel können sich Portalpreise und -mengen als Ergebnis von Entscheidungen und Abstimmungen des DAO in Zukunft ändern.
+You can acquire portals in one of the following ways:
+
+* In an [Aauction](/aauction)
+* In a [Drop Ticket Raffle](/tickets)
+* At the [Baazaar](/baazaar)
+
+Aauctions and Raffles are time-limited events. If you miss out on them, the only other way to purchase portals is through the Baazaar, our secondary marketplace.
+
+Portals are released in ["Haunts" (editions)](/haunt). The first haunt will offer 10,000 Portals up for grabs. After this, the [AavegotchiDAO](/dao) will continue to vote on decisions relating to separate haunts. For instance, portal prices and quantities may change in the future, as a result of decisions and voting from the DAO.
 
 
 ## Dein Portal öffnen
 
-Super! Du bist gerade dabei, dein Portal zu kaufen. Hier kommt das ~ Portal Beschwörungsritual ~ ins Spiel. Dies ist der Mechanismus, durch den du dein Aavegotchi beschwören kannst.
+Sweet! You're about to purchase your portal. This is where the ~ Portal Summoning Ritual ~ comes into play. This is the mechanism through which you will be able to summon your Aavegotchi.
 
-Nachdem du das Portal gekauft hast, ist der nächste Schritt, es zu öffnen. Das Öffnen des Portals erfolgt auf dem [Matic Netzwerk](/glossary#matic-network), wo die Spieler eine Transaktion signieren müssen. Nachdem die Transaktion signiert wurde, wird die [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) im Hintergrund aufgerufen. Wenn die Funktion ausgeführt wird, wird dem Portal eine Zufallszahl zugewiesen, wodurch sichergestellt wird, dass die Eigenschaften des Aavegotchi nachweislich zufällig sind.
+After purchasing the portal, the very next step is to open it. Opening the portal occurs on [Polygon](/glossary#polygon) where gamers have to sign a transaction. After the transaction is signed, the [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) is called behind-the-scenes. When the function is executed, the portal will be assigned a random number, ensuring that the Aavegotchi's traits will be provably random.
 
-Hier ist ein praktisches Flowchart, das den Prozess zusammenfasst:
+Here's a handy flow chart that summarizes the process:
 
 <img class = "bodyImage" src = "/portals/opening-an-aavegotchi-portal.png" alt = "Process of opening an Aavegotchi Portal" />
 
-Nachdem du ein Portal geöffnet hast, siehst du 10 verschiedene Aavegotchis, von denen du eines aus dem Nether Realm herbeirufen kannst. Du musst 1 aus den 10 von ihnen auswählen, um es zu beschwören. Der Rest wird leider verschwinden.
+After opening a portal, you will see 10 different Aavegotchis for you to choose from, to call forth from the Nether realm. You will have to choose 1 out of the 10 of them to summon. The rest, unfortunately, will vanish.
 
-Diese Aavegotchis haben alle verschiedene, zufällig generierte Eigenschaften. Während du durch deine Optionen klickst, kannst du diese Eigenschaften und den [Base Rarity Score](/rarity-farming#base-rarity-score) deines Aavegotchis sehen. Dies ist der Seltenheitswert, den dein Aavegotchi anfangs erhält, basierend auf den anfänglichen Eigenschaften, die es bei der Beschwörung hat. Dieser Seltenheitswert kann später durch eine Reihe von Aktivitäten verändert werden, z.B. indem du dein Aavegotchi mit Kleidungsstücken ausstattest.
+These Aavegotchis all bear different randomly generated traits. As you toggle through your options, you can view these traits and your Aavegotchi’s [Base Rarity Score](/rarity-farming#base-rarity-score). This is a rarity score that is initially given to your Aavegotchi, based on the initial traits it has upon summoning. This rarity score can later be modified through a range of activities, such as equipping your Aavegotchi with wearables.
 
-Du kannst dir die Bandbreite der Eigenschaften und Seltenheitswahrscheinlichkeiten in dieser Tabelle hier ansehen:
+You can check out the trait range and rarity probabilities in this table here:
 
 table_PortalTraitTable
 
 
-Mehr Informationen zum Rarity Farming findest du [hier](/rarity-farming).
+More information on rarity farming can be found [here](/rarity-farming).
 
 
 ## Ein Aavegotchi beschwören
 
-Um ein Aavegotchi aus dem Portal zu beschwören, musst du die erforderliche Menge an Spirit Force ([aTokens](/atokens)) in das Portal geben. Diese aTokens können direkt über [Aave](https://aave.com/) oder DEXe wie Uniswap erworben werden.
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly via [Aave](https://aave.com/) or DEXes like Uniswap.
 
-Zusätzlich zu ihrem monetären Wert, der durch Knappheit und den Markt bestimmt wird, hat jedes Aavegotchi auch einen inneren Wert. Die aTokens, die du dafür hinterlegst, liefern diesen inneren Wert.
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The aTokens you stake to it provide this intrinsic value.
 
-**Für weitere Informationen über aTokens, siehe [aTokens](/atokens).**
+**For more information on Spirit Force, see [here](/spirit-force).**
 
-Im Allgemeinen hängt die minimale Menge an Spirit Force (Sicherheiten) vom Base Rarity Scores des Aavegotchi ab, das du beschwören willst. Je höher die Punktzahl, desto mehr Sicherheiten werden benötigt.
+Generally speaking, the minimum amount of Spirit Force (collateral) depends on the Base Rarity Score of the Aavegotchi you want to summon. The higher the score, the more collateral it requires.
 
-Der Mindestbetrag der erforderlichen Sicherheiten liegt bei 10 DAI, während der Höchstbetrag bei 1000 DAI liegt.
+The minimum amount of collateral required is 10 DAI worth, while the maximum is 1000 DAI worth of collateral.
 
-Die Formel, die verwendet wird, um die Menge an benötigter Spirit Force (Sicherheiten) zu bestimmen, lautet wie folgt:
+The formula which is used to determine the amount of Spirit Force (collateral) needed is as follows:
 
 ```
 if (rarityScore < 300) return 10;
@@ -83,25 +93,26 @@ if (rarityScore < 300) return 10;
         else if (rarityScore >= 581) return 1000;
 ```
 
-Wenn der Base Rarity Score zum Beispiel weniger als 300 beträgt, musst du Sicherheiten im Wert von mindestens 10 DAI hinterlegen, um das Gotchi zu beschwören.
+For example, if the Base Rarity Score is less than 300, you need to stake at least 10 DAI worth of the collateral to summon the Gotchi.
 
-Du kannst die Spirit Force (hinterlegte Menge an aTokens) deines Aavegotchis später über die Aavegotchi dApp UI erhöhen oder verringern.
+You can increase or decrease the Spirit Force (staked aToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-Um dein Gotchi zu beschwören, musst du 2 Transaktionen durchführen. Zuerst musst du dem Smart Contract die Genehmigung erteilen, um den aToken in deinem Wallet auszugeben. Die anschliessende Transaktion ermöglicht es dir, das Aavegotchi zu beschwören.
+To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the aToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
+## Interacting with your Aavegotchi
 
-## Dein Aavegotchi transferieren
+Once you have claimed your Gotchi, the next thing to do is to...........*drum rolls*..........play with your Aavegotchi!
 
-Wenn du ein Aavegotchi auf einen neuen Besitzer überträgst (wenn du es tauschst), werden auch die hinterlegten Sicherheiten übertragen, ebenso wie alle Gegenstände und Kleidungsstücke im Inventar des Aavegotchis. Das passiert, wenn du dein Aavegotchi auf einem Online-Marktplatz wie OpenSea handelst.
+Check out the [Aavegotchi Profile Page](/aavegotchi-profile) for how to do so!
 
-Wenn du die hinterlegten Sicherheiten, die dein Aavegotchi sichern, zurückholen möchtest, hast du zwei Möglichkeiten:
+## Transferring your Aavegotchi
+
+Transferring an Aavegotchi to a new owner (when you trade it) also transfers the staked collateral behind it, as well as any items and wearables in the Aavegotchi's inventory. This happens when you trade your Aavegotchi on an online marketplace such as OpenSea.
+
+If you wish to retrieve the staked collateral backing your Aavegotchi, you have two options:
 
 1. **Reduziere die Menge der Sicherheiten** in deinem Aavegotchi (aber nicht unter seinen Mindesteinsatz).
 
 2. **Verbrenn dein Aavegotchi**, lass es zurück in den Nether Realm und bekomm alle deine Sicherheiten zurück.
 
-**Bevor du dein Aavegotchi auf Sekundärmärkten wie OpenSea zum Verkauf anbietest, solltest du dein Aavegotchi über die dApp UI "sperren", damit der Käufer sicher sein kann, dass alle Besitztümer des Aavegotchis mit übertragen werden.**
-
-
-
-
+**Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**

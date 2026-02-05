@@ -14,13 +14,19 @@ contributors:
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
-Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](https://wiki.aavegotchi.com/minigames), cũng như trong [rarity farming](https://wiki.aavegotchi.com/rarity-farming).
+Trang phục là yếu tố quan trọng trong game Aavegotchi. Bên cạnh việc ban cho các bé Aavegotchi một diện mạo thời trang thì wearable cũng giúp tăng các chỉ số đặc điểm và độ hiếm của Aavegotchi, giúp chúng thể hiện tốt hơn trong các [minigames](/minigames), cũng như trong [rarity farming](/rarity-farming).
+
+Trang phục là những vật phẩm theo chuẩn ECR-1155.
 
 Trang này có chứa những thông tin chi tiết về mỗi loại wearable đã được xác nhận trong game Aavegotchi.
 
-Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng aartist](/aartist) của nhóm bọn mình.
+Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng aartist](/aartist) của nhóm bọn mình. Mỗi món trang phục có 4 góc nhìn khác nhau (trước, phải, trái, và sau).
+
+<img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Góc Nhìn" />
 
 Để có thêm thông tin về **Set Đồ Wearable**, hãy xem qua [trang này nhé](/sets)!
+
+*Chú ý: Có một số vật phẩm (IDs 162-198, 210) không được thể hiện trên trang này do chúng không phải là trang phục. Chúng là [Baadges](/baadge) và Ảnh Nền Haunt 1.*
 
 <div class="contentsBox">
 
@@ -28,6 +34,8 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 
 <ol>
 <li><a href=#key>Then Chốt</a></li>
+<li><a href=#voting-power>Quyền bỏ phiếu</a></li>
+<li><a href=#weapons>Vũ Khí</a></li>
 <li><a href=#link-themed-set>Trang Phục Chủ Đề Link</a></li>
 <li><a href=#aave-themed-set>Trang Phục Chủ Đề Aave</a></li>
 <li><a href=#ethereum-themed-set>Trang Phục Chủ Đề Ethereum</a></li>
@@ -41,7 +49,7 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#gentleman-wearables-set>Bộ Trang Phục Chủ Đề Gentleman</a></li>
 <li><a href=#miner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
 <li><a href=#pajamas-wearables-set>Bộ Trang Phục Chủ Đề Jajamas</a></li>
-<li><a href=#runner-wearables-set>Bộ Trang Phục Chủ Đề Miner</a></li>
+<li><a href=#runner-wearables-set>Bộ Trang Phục Chủ Đề Runner</a></li>
 <li><a href=#lady-wearables-set>Bộ Trang Phục Chủ Đề Lady</a></li>
 <li><a href=#witchy-wearables-set>Bộ Trang Phục Chủ Đề Phù Thuỷ</a></li>
 <li><a href=#portal-wearables-set>Bộ Trang Phục Chủ Đề Portal</a></li>
@@ -51,7 +59,13 @@ Wearables được thiết kế bởi [Xibot](/team#xibot) và [cộng đồng a
 <li><a href=#independent-drink-items>Vật Phẩm Đồ Uống Độc Lập</a></li>
 <li><a href=#independent-head-items>Vật Phẩm Dành Cho Phần Đầu Độc Lập</a></li>
 <li><a href=#independent-body-items>Vật Phẩm Độc Lập Cho Phần Thân</a></li>
-<li><a href=#consumables>Consumables</a></li>
+<li><a href=#consumables>Vật phẩm tiêu hao</a></li>
+<li><a href=#layer-2-themed-set>Trang Phục Chủ Đề Layer 2</a></li>
+<li><a href=#auction-wearables>Trang Phục Đấu Giá</a></li>
+<li><a href=#aavegotchi-x-venly-wearables>Trang Phục Aavegotchi x Venly</a></li>
+<li><a href=#haunt-2-wearables>Trang Phục Haunt 2</a></li>
+<li><a href=#partnerships-set>Trang phục Đối Tác</a></li>
+<li><a href=#defi-rpg-wearables>Trang Phục DeFi RPG</a></li>
 </ol>
 
 </div>
@@ -76,6 +90,20 @@ Xem [Đặc điểm](/traits) để hiểu thêm về chủ đề này.
 Phụ kiện có thể được trang bị hoặc tháo trang bị bất kỳ lúc nào. Trang bị/Tháo trang bị phụ kiện có thể ảnh hưởng đến [độ hiếm chung](https://wiki.aavegotchi.com/en/rarity-farming#base-rarity-score) của một Aavegotchi:
 
 table_wearablesBRStable
+
+## Quyền bỏ phiếu
+
+Với việc [GIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price) được thông qua, giờ đây trang phục sẽ có quyền bỏ phiếu trong [AavegotchiDAO](/dao). Sức mạnh bỏ phiếu (được tính bằng GHST) của một món trang phục dựa trên giá gốc của vật phẩm trong [Maall](/maall).
+
+table_wearablesVotingPower
+
+## Vũ Khí
+
+Một số Trang Phục nhất định cũng có thể được chọn để sử dụng như [Vũ Khí](/weapons) trong Gotchiverse.
+
+Vũ khí là những trang phụ cầm tay thuộc dạng Đánh Gần hoặc Đánh Xa. Những Trang Phục đặc biệt này có thể gây sát thương lên Gotchi (trong Đấu Trường), Lickquidator, Kẻ Thù, và Những Bức Tường.
+
+Mỗi Vũ Khí đều sẽ gắn liền với những lợi ích đặc biệt, ví dụ như tăng sát thương lên Tường, tăng sát thương lên Lickquidator, tăng tốc độ đánh, hoặc những lợi ích khác.
 
 ## Trang Phục Chủ Đề Link
 
@@ -141,7 +169,7 @@ table_minerWearablesTable
 
 table_pajamasWearablesTable
 
-## Bộ Trang Phục Chủ Đề Miner
+## Bộ Trang Phục Chủ Đề Runner
 
 table_runnerWearablesTable
 
@@ -181,6 +209,40 @@ table_independentHeadTable
 
 table_independentBodyTable
 
-## Consumables
+## Vật phẩm tiêu hao
 
 table_consumablesTable
+
+## Trang Phục Chủ Đề Layer 2
+
+Sự Kiện Raffle Lần 4, được tổ chức để kỷ niệm việc Aavegotchi được khởi chạy trên [Polygon](/polygon).
+
+table_layer2WearablesTable
+
+## Trang Phục Đấu Giá
+
+Sự kiện "Đấu Giá Kiếm Tiền" đầu tiên đã được tổ chức vào hôm thứ Năm, ngày 15 tháng 7 năm 2021. Đấu Giá Kiếm tiền được vận hành theo mô hình đấu giá của GBM. Hãy xem thêm những ưu điểm to lớn trong việc phân phối NFT từ mô hình này so với các mô hình cũ bằng cách truy cập vào trang wen và đọc [bài viết Medium](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29) của chúng tôi.
+
+Chương trình đấu giá đầu tiên có sự xuất hiện của hai bộ trang phục mới cũng như một vật phẩm có độ hiếm common. Hãy sẵn sàng cho các gamer, steampunk và thậm chí là một cốc cà phê!
+
+table_auctionWearablesTable
+
+## Trang Phục Aavegotchi x Venly
+
+Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://aavegotchi. medium. com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
+
+table_venlyWearablesTable
+
+## Trang Phục Haunt 2
+
+table_haunt2Table
+
+## Trang phục Đối Tác
+
+Sự kiện đấu giá Thứ Năm được truyền cảm hứng bởi những đối tác thân thiện nhất của Aavegotchi.
+
+table_partnershipsTable
+
+## Trang Phục DeFi RPG
+
+table_DeFiRPGTable

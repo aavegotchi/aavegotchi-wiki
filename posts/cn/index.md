@@ -7,7 +7,7 @@ image: "icons/introduction.svg"
 ---
 
 <div class="headerImageContainer">
-<img class="headerImage" src="/icons/introduction.svg">
+<img class="headerImage" src="/icons/introduction.png">
 <p class="headerImageText">Aavegotchi 百科</p>
 </div>
 
@@ -17,23 +17,34 @@ Aavegotchi 百科是一部全方位的 Aavegotchi 操作指南，由贡献者团
 
 ## 初来乍到？
 
-点击 [简介](https://wiki.aavegotchi.com/introduction) 快速了解 Aavegotchi 游戏。
+Head to [Introduction](/introduction) for a high-level overview of the Aavegotchi game.
 
 ## 热门链接
-* [游戏玩法](/gameplay) -- Aavegotchi 游戏简介
-* [GHST](/ghst) -- Aavegotchi 的生态治理代币
-* [质押](/staking) -- 学习如何质押 GHST 获得 FRENS
-* [DAO](/dao) -- 深入了解 AavegotchiDAO
-* [稀有度挖矿](/rarity-farming) -- 边玩边赚
+* [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
+* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [DAO](/dao) -- Everything there is to know about AavegotchiDAO
+* [Wearables](/wearables) -- Fashion for your Aavegotchi
+* [Mini-Games](/minigames) -- Play some mini-games with your Aavegotchi
+* [Rarity Farming](/rarity-farming) -- Play Aavegotchi and earn rewards!
+* [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
+* [Recipes](/recipes) -- Recipes for all ya crafting needs
+* [The Forge](/forge) -- Craftooorrrs, what do we have here? ;)
 
 ## 相关链接
 
-* [团队](https://wiki.aavegotchi.com/team) -- Aavegotchi 核心成员
-* [路线图](https://wiki.aavegotchi.com/roadmap) -- Aavegotchi 最新版路线图
+* [Team](/team) -- See who's building Aavegotchi
+* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
+* [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
+* [Directory](/directory) -- Listing of every page in the Wiki
 
+## Litepapers
 
+* [Aavegotchi Litepaper](https://docs.google.com/document/d/1aTijRP1Rd_Z8iu6IISWCct7TWRdzK3x-lfrucgM_7Cg/edit#heading=h.el8lgo9q7kkr) -- The Original Litepaper summarizing the key points of the Aavegotchi Project
+* [Aavegotchi Whitepaper V1.1](https://docs.google.com/document/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/) -- The Aavegotchi Whitepaper providing an in-depth view of the project
+* [Aavegotchi REALM Litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) -- The Newest Litepaper introducing the Gotchiverse, where Gotchis frolic and go on aadventures
 
-## 为社区做出更多贡献
+## Contribute
 
 欢迎社区小伙伴们为 Aavegotchi 百科添砖加瓦，点击 [Github](https://github.com/aavegotchi/aavegotchi-wiki) 链接获取写入权限。
 

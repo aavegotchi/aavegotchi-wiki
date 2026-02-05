@@ -6,6 +6,7 @@ description: 'See who&#8217s building the Aavegotchi Game'
 image: "team/aavegotchi-team-photo.png"
 contributors:
   - "vanilladelphia"
+  - "unintelligent-nerd"
 ---
 
 
@@ -21,67 +22,228 @@ Bạn muốn biết ai đúng sau những bé gotchi đáng yêu đúng không? 
 **Nội dung**
 
 <ol>
-<li><a href=#coder-dan>Coder Dan</a></li>
-<li><a href=#jesse>Jesse</a></li>
-<li><a href=#xibot>Xibot</a></li>
-<li><a href=#nick-mudge>Nick Mudge</a></li>
-<li><a href=#jc>JC</a></li>
-<li><a href=#origins>Nguồn gốc</a></li>
+<li><a href=#summoners>Triệu hồi sư</a></li>
+<p><a href=#coder-dan>Coder Dan</a></p>
+<p><a href=#jesse>Jesse</a></p>
+<p><a href=#xibot>Xibot</a></p>
+<p><a href=#nick-mudge>Nick Mudge</a></p>
+<li><a href=#aadvisors>Aadvisors</a></li>
+<p><a href=#stani>Stani</a></p>
+<p><a href=#les>Les</a></p>
+<p><a href=#mauvis>Mauvis</a></p>
+<li><a href=#team>Team</a></li>
+<p><a href=#nigel---chief-marketing-officer>Nigel - Chief Marketing Officer</a></p>
+<p><a href=#nyankong---game-director>NyanKong - Game Director</a></p>
+<p><a href=#mark---gotchiverse-backend-lead>Mark - Gotchiverse Backend Lead</a></p>
+<p><a href=#favabeans---senior-cloud-architect>Favabeans - Senior Cloud Architect</a></p>
+<p><a href=#aris---gotchiverse-frontend-lead>Aris - Gotchiverse Frontend Lead</a></p>
+<p><a href=#shohan---gotchiverse-frontend>Shohan - Gotchiverse Frontend</a></p>
+<p><a href=#candoizo---frontend>Candoizo - Frontend</a></p>
+<p><a href=#wit1990---senior-solidity-engineer>Wit1990 - Senior Solidity Engineer</a></p>
+<p><a href=#thrax---media-production>Thrax - Media Production</a></p>
+<p><a href=#bigflex---social-media-manager>BigFlex - Social Media Manager</a></p>
+<p><a href=#zeke---technical-artist>Zeke - Technical Artist</a></p>
+<p><a href=#jc---business-development>JC - Business Development</a></p>
+<li><a href=#origins>Team Gốc</a></li>
 </ol>
 
 </div>
 
-## Coder Dan
+## Triệu hồi sư
+
+### Coder Dan
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/coderdan.jpg" alt = "Daniel Mathieu">
-<p class="leftImageText"><a href="https://twitter.com/coderdannn">@coderdann</a></p>
+<p class="leftImageText"><a href="https://twitter.com/coderdannn" target="_blank">@coderdann</a></p>
 </div>
+
 Dan hay còn gọi là Coder Dan, là một lập trình viên full stack và là người sáng lập ra Yield Hero, một dapp DeFi cho phép người dùng chuyển lợi nhuận từ AAVE sang bất kỳ địa chỉ nào mà họ muốn. Anh cũng duodjc biết đến với vai trò chủ đạo trong việc phát triển nền tảng NFT đầu tiên cho phép stake ERC721 được stake với ERC20, Bullionix. Daniel sống tại Fujian, China và thành thạo tiếng Trung Quốc. Ngoài làm việc trong ngành công nghệ, Dan còn là một grow hacker đã giúp cho Aavegotchi có được khởi đầu tốt đẹp với hơn 10 nghìn lượt theo dõi trên Twitter và 6000 cư dân Discord năng động. Trong quá khứ, thương hiệu của anh trên Weibo, Bilibili, và WeChat Official đã bùng nổ với hơn 1,5 triệu lượt follow.
 
-## Jesse
+### Jesse
 
 <div class="leftFlexContainer">
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jesse-wizard-hat.png" alt = "Jesse Johnson">
-<p class="leftImageText"><a href="https://twitter.com/gldnXross">@GldnXross</a></p>
+<p class="leftImageText"><a href="https://twitter.com/gldnXross" target="_blank">@GldnXross</a></p>
 </div>
-Jesse, AKA GldnXross là một người sáng lập sản phẩm chủ chốt, đã có vai trò dẫn dắt việc phát triển một vài nền tảng NFT nổi tiếng đến ngày nay, ví dụ như nền mint ra NFT đầu tiên là Mitable, hiện đang hoạt động trên cả Ethereum và Zilliqua. Anh cũng là người sáng lập ra ý tưởng Value-Staked NFTs được nhắc đến phía trên, với vai trò là người sáng lập ra Bullionix.io, công ty đầu tiên chào bán những vật sưu tầm kỹ thuật số 3D có độ phân giải cao, được stake với những đồng stablecoin vàng. Trước khi làm việc với các dapp trên Ethereum, Jesse đã hoạt động mạnh mẽ trong lĩnh vực sàn giao dịch tài sản kỹ thuật số với vai trò head of international development cho ZB Group và trước đó làm việc ở vị trí chuyên viên sát nhập và phát triển sản phẩn Motorola cho Đợn vị Điện Thoại Di Động của Lenovo tại Trung Quốc.
 
-## Xibot
+Jesse, AKA GldnXross là một người sáng lập sản phẩm chủ chốt, đã có vai trò dẫn dắt việc phát triển một vài nền tảng NFT nổi tiếng đến ngày nay, ví dụ như nền mint ra NFT đầu tiên là Mintable, hiện đang hoạt động trên cả Ethereum và Zilliqua. Anh cũng là người sáng lập ra ý tưởng Value-Staked NFTs được nhắc đến phía trên, với vai trò là người sáng lập ra Bullionix.io, công ty đầu tiên chào bán những vật sưu tầm kỹ thuật số 3D có độ phân giải cao, được stake với những đồng stablecoin vàng. Trước khi làm việc với các dapp trên Ethereum, Jesse đã hoạt động mạnh mẽ trong lĩnh vực sàn giao dịch tài sản kỹ thuật số với vai trò head of international development cho ZB Group và trước đó làm việc ở vị trí chuyên viên sát nhập và phát triển sản phẩn Motorola cho Đợn vị Điện Thoại Di Động của Lenovo tại Trung Quốc.
+
+### Xibot
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/xi-bot-spaceman.jpg" alt = "Xibot">
-<p class="leftImageText"><a href="https://twitter.com/xavieriturralde">@xavieriturralde</a></p>
+<p class="leftImageText"><a href="https://twitter.com/xavieriturralde" target="_blank">@xavieriturralde</a></p>
 </div>
+
 Xavier Iturralde aka xibot, là một trong những nghệ sĩ và doanh nhân thành công nhất của lĩnh vực Crypto Art. Những tác phẩm pixel độc đáo của anh đã lấy được sự chú ý cũng những trader NFT trên OpenSea và Rarible. Token $PIXEL đột phá của anh cũng là một trong những token xã hội đầu tiên vẫn giữ vững và thể hiện rằng NFT được gán với token xã hội là những hình mẫu có chân. Những người được truyền cảm hứng từ anh ta cũng là một lý do cho sự fomo mà đội nhóm toàn sao sáng của Aavegotchi nhận được.
 
-## Nick Mudge
+### Nick Mudge
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/nick-mudge.jpg" alt = "Nick Mudge">
-<p class="leftImageText"><a href="https://twitter.com/mudgen">@mudgen</a></p>
+<p class="leftImageText"><a href="https://twitter.com/mudgen" target="_blank">@mudgen</a></p>
 </div>
+
 Nick Mudge là một trong những lập trình viên solidity thành công nhất trên Etherum. Mudge chính là tác giả của tiêu chuẩn kết hợp ERC998, một trong những khía cạnh quan trọng nhất của game Aavegotchi, cho phép một NFT "bố mẹ" có thể trang bị và mang NFT "con cháu" đi theo chung với mình. Gần đây nhất, Mudge đã điều hành một công cuộc nghiên cứu về Ethereum và phát triển một thứ gọi là Diamond Standard. Tiêu chuẩn này cho phép những đột phá lớn dành cho những hợp đồng có thể nâng cấp được và nhanh chóng được sử dụng bởi những DAO tập trung vào quyền quản trị.
 
-## JC
+## Aadvisors
+
+### Stani
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/stani-kulechov.png" alt = "Stani Kulechov">
+<p class="leftImageText"><a href="https://twitter.com/StaniKulechov" target="_blank">Stani</a></p>
+</div>
+
+Stani là nhà sáng lập và CEO của Aave. Ông là một thương nhân với nhiều kinh nghiệm trong việc phát triển công nghệ crypto, blockchain, và trong giới fintech. Stani cũng là một người mentor của nhiều nhà sáng lập và cố vấn của các ICO và dự án blockchain và đã phát biểu tại nhiều sự kiện FinTech, Blockchain, và tiền mã hóa, đặc biệt là những chủ đề liên quan đến Ethereum Smart Contracts.
+
+### Les
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/les.jpg" alt = "Les">
+<p class="leftImageText"><a href="https://twitter.com/lesborsai" target="_blank">Les</a></p>
+</div>
+
+Les Borsai (sinh năm 1968) là một nhà kinh doanh công nghệ sống tại Los Angeles, người quản lý và quảng bá âm nhạc và cố vấn tiền mã hoá, blockchain và công nghệ âm nhạc. Ông bắt đầu sự nghiệp trong ngành âm nhạc và giải trí, hoạt động trong ngành quản lý nghệ sĩ và marketing, sau khi lần đầu được công nhận là người quảng bá cho brave tại giới underground Southern California vào cuối năm 1980. Ông giữ nhiều chức vụ tại Avalon Attractions (hiện tại là Live Nation Entertainment|Live Nation), MCA Records, và Bill Silva Entertainment trước khi bắt đầu công ty quản lý nghệ nghĩ Modern Artist Management. Khách hàng của anh bao gồm những ca sĩ nhạc đồng quê nổi tiếng như Wynonna Judd, nghệ sĩ pop Jason Mraz, và nhóm Burning Brides, The Icarus Line và Unwritten Law, cùng nhiều nghệ sĩ khác.
+
+Vào cuối những năm 2000, Borsai đã tham gia vào những ngành công nghiệp khác, bao gồm âm nhạc, tiền mã hoá, và blockchain. Ông đã đồng sáng lập ra công ty phát triển ứng dụng cho iPhoen là gridMob vào năm 2008 cũng như SongLily vào năm 2012, một công ty nền tảng kỹ thuật số đơn giản hoá chứng chỉ âm nhạc cho các nhà phát triển game và ứng dụng điện thoại. Sau khi trở thành người đầu tư sớm vào nền tảng tiền điện tử Ethereum, ông đã trở thành cố vấn cho các công ty blockchain và năm 2018 ông đã đồng sáng lập ra Wave-Financial, một công ty quản lý tài sản kỹ thuật số.
+
+### Mauvis
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/mauvis.jpg" alt = "Mauvis">
+<p class="leftImageText"><a href="https://twitter.com/krunkosaurus" target="_blank">Mauvis</a></p>
+</div>
+
+Mauvis là một Người Xây Dựng & Học hỏi suốt đời, đã làm việc và khởi xướng các công ty khởi nghiệp công nghệ trong 15 năm qua. Anh ấy chuyên về kiến trúc các hệ thống có khả năng mở rộng cao và được biết đến với vai trò là cựu CTO của CoinMarketCap, nơi anh ấy đã mở rộng nền tảng lên 100 trang Alexa hàng đầu. Hiện anh ấy đang cư trú tại Singapore với vợ và chú cho Pháp mang tên là Loofy.
+
+## Team
+
+### Nigel - Chief Marketing Officer
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/nigel-carlos.png" alt = "Nigel Carlos">
+<p class="leftImageText"><a href="https://twitter.com/nigelcarlos" target="_blank">Nigel Carlos</a></p>
+</div>
+
+With over 15 years of experience in leadership positions at global advertising agencies, advising scale-up blockchain projects – Carlos comes to Aavegotchi with a proven track record of success in the web3 games industry. Prior to joining the company, he served as Director of Marketing for Dacoco, publisher of Alien Worlds, one of the most played metaverse platforms globally (currently the largest decentralized NFT metaverse by monthly active users source: DappRadar) and a founding member of the Open Metaverse Alliance for Web3 (OMA3).
+
+Carlos led the strategic direction of world-class brand marketing and drove business growth with impactful multi-channel strategies. He also planned and executed campaigns with established game studios like Ubisoft, Sega and Rockstar Games in previous agency roles.
+
+### NyanKong - Game Director
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/nyankong.png" alt = "NyanKong">
+<p class="leftImageText"><a href="https://twitter.com/senntertain" target="_blank">NyanKong</a></p>
+</div>
+
+Christian Senn, aka NyanKong or kurisu, has spent 30 years helping to create games using game design, art, and animation for the console, PC, arcade, mobile, tabletop, and VR markets. His love for creating interactive entertainment keeps his overactive imagination busy while his need to positively connect with teams and audiences keeps his social heart happy. Christian's main responsibility within the Pixelcraft team is to design and create artwork for the Realm within which frens can explore and enjoy for years to come.
+
+### Mark - Gotchiverse Backend Lead
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/mark.jpg" alt = "Mark">
+<p class="leftImageText">Mark</p>
+</div>
+
+Mark has been building out successful startup platforms with intimate teams for over 15 years. Mark's full stack engineering expertise and ability to translate company vision into thoughtfully executed web products and services has contributed to numerous successful product launches and acquisitions including as former CIO of CoinMarketCap.
+
+### Favabeans - Senior Cloud Architect
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/favabeans.png" alt = "Favabeans">
+<p class="leftImageText">Favabeans</p>
+</div>
+
+Pete Clark, aka favabeans or haussenfeffer, has spent most of his 26 years in the tech industry co-founding startups and building their software from scratch.  He loves architecting, coding, and profiling backend services for peak performance, as well as designing and scaling the infrastructure upon which those services run.  While he was at CoinMarketCap, he built the company's real-time data ingestion and analytics systems and infrastructure, as well as their websocket APIs, upon which Yahoo's cryptocurrency page happens to be powered.  He is a dad of two wonderful boys, a lover of animals, boating, and the ocean in general.  He's also an avid retro video gamer, as well as a card and board gamer, and... a bit of a gaming historian to boot! (Can you name the only video game in history, in which Nintendo's Mario is the bad guy?) His primary focus within the Pixelcraft team is architecting and coding the Realm's backend and ensuring it scales for the masses.
+
+### Aris - Gotchiverse Frontend Lead
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/aris.png" alt = "Aris">
+<p class="leftImageText"><a href="https://twitter.com/Aristiddd" target="_blank">Aris</a></p>
+</div>
+
+Aris aka PixellLab, fullstack dev &  Gotchiverse architect. Traveller in the heart but currently based in Romania in the middle of Transilvania ( boo ). Joined blockchain tech with Aavegotchi in early feb 2021 pre Haunt 1, prob first FE dev hired by Pixelcraft Studios. I started gotchiverse project from scratch and I know the ins and outs of the project like the back of my hand, daily working on all realm fronts. Currently managing the realm dev team.
+
+### Shohan - Gotchiverse Frontend
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/shohan.png" alt = "Shohan">
+<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
+</div>
+
+I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.
+
+### Candoizo - Frontend
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/candoizo.png" alt = "Candoizo">
+<p class="leftImageText"><a href="https://twitter.com/candoizo" target="_blank">Candoizo</a></p>
+</div>
+
+Candoizo, aka candoizo, is a software developer dedicated to making it easy for the community of builders to take Aavegotchi by storm! His experience varies from time as a penetration tester and building community-driven projects, alll stemming from a drive to unbreak things for the people.
+
+History suggests he was raised in the Canadian wilderness on competitive games and devotion to building legendary tools. With past projects like Hauntgg, CoinVanity, and all over iOS there is no shortage of friends who would attest to this factual origin story. In the next episode our legendary trainer Coder Dan was able to capture his heart and skill for the Pixelcraft team using his groundbreaking game concept and standout community!
+
+### Wit1990 - Senior Solidity Engineer
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/wit1990.jpg" alt = "Witt1990">
+<p class="leftImageText"><a>Witt1990</a></p>
+</div>
+
+William joined Aavegotchi in May 2021. Work experiences with blockchain startups for 4 years, helping to build and expand technology-based businesses from the ground up. As a professional smart contract engineer, he enjoys architect and implementing smart contracts from ideas only. After joining, he worked for many core features - haunt 2, gotchi lending, ERC721 buy order.
+
+### Thrax - Media Production
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/thrax.png" alt = "Thrax">
+<p class="leftImageText"><a href="https://twitter.com/thrax_nft" target="_blank">Thrax</a></p>
+</div>
+
+Hailing from the mysterious lands of the Middle-east, Thrax is a mixed-media content creator and VFX artist who started his career in graphic design. After quickly finding that the corpo life wasn’t to his taste, he transitioned into producing video, and was lucky enough to work with clients all over the world. A few years went by, and somehow he found his way to the Aavegotchi land auction. Nowadays Thrax is responsible for creating whatever visual content our summoners require, helping to spread the Gotchi Gospel far and wide.
+
+### BigFlex - Social Media Manager
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/bigflex.jpg" alt = "BigFlex">
+<p class="leftImageText"><a href="https://twitter.com/FlexLack" target="_blank">BigFlex</a></p>
+</div>
+
+Alex, aka Big Flex, is already well known within the GotchiGang community. As a social media specialist, with a Bachelor’s Degree in Marketing, Big Flex discovered Aavegotchi and devoured as much information as possible, spending countless hours learning about the project and participating in the community. It was inevitable that he would become more involved. Since joining the team as Social Media Manager, he immediately made a positive impact on Aavegotchi’s social media presence. Big Flex’s main focus is spreading the Gotchi Gospel far and wide.
+
+### Zeke - Technical Artist
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/team/zeke.jpg" alt = "Zeke">
+<p class="leftImageText"><a href="https://twitter.com/zekeatchan" target="_blank">Zeke</a></p>
+</div>
+
+Zeke works closely with the game director and frontend team to create Aavegotchi's art production workflow. He develops and maintains the Gotchiverse game tools and pipelines. This includes optimising completed game assets, porting it to the game engine, and creating systems that bring the Gotchiverse to life.
+
+### JC - Business Development
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/jc-crown.jpg" alt = "JC Crown">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown">JC Crown</a></p>
+<p class="leftImageText"><a href="https://www.linkedin.com/in/jccrown" target="_blank">JC Crown</a></p>
 </div>
-Jc là một chiến lược gia phát triển kinh doanh và và người đam mê blokchain, với một kho tàn kinh nghiệm trong việc kết nối và networking với những bộ óc thông suốt nhất trong lĩnh vực tiền mã hoá. Là một hành viên có đầu óc kinh doanh và biết tự tạo động lực cho bản thân, anh đã thể hiện tài năng của mình trong việc xây dựng nên những mối quan hệ, anh hưởng đến những mối hợp tác chiến lược, phát triển những kênh bán hàng mới, và sử sự social media và viral marketing với độ hiệu quả đáng kinh ngạc. Một trong những niềm đam mê lớn của ông ông là giới thiệu và quản bá những công ty mới và hỗ trợ họ khởi nghiệp. Sự hăng hái của anh dành cho ngành này dựa trên một niềm tin không đổi dời về sức mạnh to lớn cả công nghệ blockchain.
 
-## Nguồn gốc
-### Đội Nhóm Không Tưởng Tập Hợp
-Đây đội ngũ phía sau những bức ảnh chế.  Một đội nhóm không tưởng đối với những tiêu chuẩn của mọi người, sẽ sớm ra tay nắm trọn thế giới. Câu chuyện sau đây kể lại khá chính xác tình muốn giúp cả team tìm được nhau.  Được dẫn truyện đầy nghệ thuật bởi Vanilladelphia.eth Aapprentice et al.
+Jc is a business development strategist and blockchain enthusiast, with a wealth of experience connecting and networking with some of the brightest minds in the cryptocurrency space. An entrepreneurial and self-motivated team player, he has demonstrated talent for building relationships, influencing strategic partnerships, developing new sales channels, and using social media and viral marketing with remarkable effectiveness. One of his biggest passions is introducing and promoting new companies and assisting them with their start-ups. His enthusiasm for the space is based on an unshakable belief in the disruptive power of blockchain technology.
 
-Vào khoảng năm 2011... hoặc là 2012 gì đó.  Coder Dan mới vừa học xong cao đẳng nghề thì anh đã quyết định theo đuổi đam mê của mình.  Bán kẹo kéo, trên một bờ biển của Trung Quốc.  Dan biết rằng họ sẽ không chỉ đưa cho một kẻ ăn bám già cõi xấu xí một công việc xịn xò như thế, đặc biệt là đối với một người nước ngoài như anh.  Đó là lúc mà người anh hùng cũng chúng ta quyết định rằng anh sẽ có một công việc thật sự, và trở thành một người nổi tiếng trên Youtube... và đó là những gì mà anh ta làm.  Lướt nhanh đến vài năm sau, và Coderdan trẻ tuổi đã sẵn sàng để trở lại bãi biển.
+## Team Gốc
 
-"Đến lúc bán kéo rồi" Dan nói.
+### The Dream Team Assembles
+This is the team, behind the meme.  A dream team by anyone's standards, poised to take over the world. The following story is a fairly accurate account of how the team came together.  Artfully quilled by Vanilladelphia.eth Aapprentice et al.
 
-Và anh ta là một người bán hàng tuyệt vời!  Dù không may là anh ta đã không đủ giỏi giang để bán kẹo trên bãi biển, thế những chàng trai đã va phải vào ánh mắt của một người trẻ tuổi cũng đứng gần đó là Jesse, AKA GldnXross.  Hai người nhanh chóng trở thành bồ tèo của nhau, nô đùa cùng nhau, và nên những bản nhạc tuyệt vời.  May mắn thay, con đường là ăn không mấy khả quan nên cặp đôi đã cùng nhau làm những điều vĩ đại hơn...
+The year was 2011... or maybe 2012.  Coder Dan had just finished his college career, when he decided to pursue his real passion.  Selling candy, on a beach in China.  Dan knew they wouldn't just hand this prestegeious job out to any old schlub, especially a foreigner like him.  That's when our hero decided he'd better get a real job, and become a Youtube celebrity... and that's just what he did.  Fast forward after a couple of years, and young Coderdan was ready to go back to the beach.
 
-Khi những gã hay mơ này quyết định rằng họ sẽ tạo ra một phiên bản on chain cho một thứ đồ chơi kinh điển từ thập niên 90 thì ai cũng bảo là họ bị điên.  Nhưng Coder Dan đã nghe được điều này trước đây, và họ ĐÃ đúng.  họ không thế làm được điều này, chỉ với hai người.  Họ cần những gì tốt nhất, xịn nhất, đỉnh của đỉnh... nhưng mà ai mới được?  "Xibot!" Dan nói ngay.  "Nếu có ai đó có thể bắt được những tinh tuý trong một trò chơi kinh điển đáng yêu nằm trong trái tim chúng ta thì chỉ có anh chàng này mà thôi!".  "Hmm, nhưng mà hợp đồng thông minh thì sao?" GldnXross nói.  Tất nhiên sẽ không ai có thể đủ giỏi để mang TOÀN BỘ những thứ này lên chuỗi được! "Có một người như thế đấy" Dan nói. "người này yêu thích hợp đồng thông minh vô cùng, anh ta viết hợp đồng thông minh cho các hợp đồng thông minh."  "Đợi đã, tôi nghe tên người này rồi..." GldnXross bảo "Nick Mudge!"  "Còn về cộng đồng thì sao? Chắc chắn chúng ta sẽ cần ai đó tuyệt vời để có thể đánh bay bọn lừa đảo và giúp đỡ những ai thiếu hiểu biết!"  Dan nhìn lên... "Tôi từng nghe về một người, với sự điềm tĩnh của một vị thánh, và chiếc búa của Thor." Tên của anh ta hả? JC Crown.
+"It's time to sell some candy" Said Dan.
 
-Và đây là cách mà các người hùng tập hợp, một số chi tiết đã được điều chỉnh theo thời gian.
+And what a salesman he was!  Although unfortunately he wasn't good enough to sell candy on the beach, the young man stuck his bell with such vigor it caught the eye of another young bystander Jesse, AKA GldnXross.  The two became fast frens, frolicking together, and making wonderful music.  Luckily for us, the maiyatang didn't work out, and the duo went on to much greater things...
+
+When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
+
+So this is how our heroes assembled, some details have been edited for time.

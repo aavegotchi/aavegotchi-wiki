@@ -5,6 +5,7 @@ title: 'Portals'
 description: 'Tất tần tật về Portal trong Aavegotchi'
 contributors:
   - "appellants"
+  - "unintelligent-nerd"
 image: "portals/portal.gif"
 ---
 
@@ -27,6 +28,7 @@ Vậy nên hãy mang lên mình chiếc áo choàng ma thuật - đã đến lú
 <li><a href=#buying-a-portal>Mua Portal</a></li>
 <li><a href=#opening-your-portal>Mở Portal</a></li>
 <li><a href=#claiming-an-aavegotchi>Nhận Aavegotchi</a></li>
+<li><a href=#interacting-with-your-aavegotchi>Tương tác với các Gotchi</a></li>
 <li><a href=#transferring-your-aavegotchi>Chuyển Aavegotchi Sang Địa Chỉ Khác</a></li>
 </ol>
 
@@ -34,16 +36,24 @@ Vậy nên hãy mang lên mình chiếc áo choàng ma thuật - đã đến lú
 
 ## Mua Portal
 
-Trước khi nuôi nấng những bé ma pixel, bạn sẽ phải triệu hồi chúng thông qua một cách cổng. Bạn có thể mua được nó thông qua [Dapp chính thức của Aavegtochi](https://aavegotchi.com/buy-portal), hoặc thị trường bên ngoài ví dụ như [OpenSea](https://opensea.io/).
+Trước khi nuôi nấng những bé ma pixel, bạn sẽ phải triệu hồi chúng thông qua một cách cổng.
 
-Nếu bạn mua từ Dapp của Aavegotchi, mỗi cánh cổng sẽ có giá gần 100 GHST. Những thiết bị này sẽ được tra mắt trong sự kiện 'Haunts' (nhiều phiên bản). Sự kiện haunt đầu tiên sẽ chào bán chỉ 10.000 Portals. Sau đó, [AavegotchiDAO](/dao) sẽ tiếp tục vote để ra những quyết định liên quan đến những sự kiện haunt riêng biệt. Ví dụ, giá cánh cổng và số lượng có thể thay đổi trong tương lai, là kết quả của các quyết định và biểu quyết từ DAO.
+Bạn có thể sở hữu portal theo những cách dưới đây:
+
+* Trong sự kiện [Aauction](/aauction)
+* Trong sự kiện [Xổ Số Vé Drop](/tickets)
+* Tại [Baazaar](/baazaar)
+
+Aauctions và Raffles là các sự kiện giới hạn thời gian. Nếu bạn bỏ lỡ chúng, cách duy nhất khác để mua portal là thông qua Baazaar, thị trường thứ cấp của chúng tôi.
+
+Các thiết bị này cũng sẽ được công bố trong ["Haunts" (editions)](/haunt). Sự kiện haunt đầu tiên sẽ chào bán chỉ 10.000 Portals. Sau đó, [AavegotchiDAO](/dao) sẽ tiếp tục vote để ra những quyết định liên quan đến những sự kiện haunt riêng biệt. Ví dụ, giá cánh cổng và số lượng có thể thay đổi trong tương lai, là kết quả của các quyết định và biểu quyết từ DAO.
 
 
 ## Mở Portal
 
 Ngon lành! Bạn sắp có thể mua cổng rồi nhé. Đây là lúc ~ Portal Summoning Ritual ~ (Nghi Lễ Triệu Hồi Qua Cánh Cổng) được triển khai. Cơ chế này giúp bạn có thể triệu hồi Aavegotchi cho mình.
 
-Sau khi mua portal, bước kế tiếp là mở nó ra. Portal sẽ được mở ra trên [Matic Network](/glossary#matic-network) khi người chơi ký vào một giao dịch. Sau khi giao dịch được kí, [Chainlink Verifiable Randomness Function (VRF)](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/) sẽ được thực thi "phía sau cánh gà.". Sau khi hoàn thành, portal sẽ được chỉ định một số ngẫu nhiên để đảm bảo các chỉ số của Aavegotchi được ngẫu nhiên một cách công khai.
+Sau khi mua portal, bước kế tiếp là mở nó ra. Portal sẽ được mở ra trên [Matic Network](/glossary#polygon) khi người chơi ký vào một giao dịch. Sau khi giao dịch được kí, [Chainlink Verifiable Randomness Function (VRF)](/glossary#chainlink-vrf) sẽ được thực thi "phía sau cánh gà.". Sau khi hoàn thành, portal sẽ được chỉ định một số ngẫu nhiên để đảm bảo các chỉ số của Aavegotchi được ngẫu nhiên một cách công khai.
 
 Đây là một biểu đồ tóm tắt quá trình:
 
@@ -58,16 +68,16 @@ Bạn có thể xem nhóm đặc điểm và tỷ lệ hiếm trong bản ở đ
 table_PortalTraitTable
 
 
-Bạn có thể xem thêm và cơ chế này tại [đây](/rarity-farming).
+Xem thêm thông tin về rarity farming tại [đây](/rarity-farming).
 
 
 ## Nhận Aavegotchi
 
-Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng Spirit Force được yêu cầu ([ các aToken](/atokens)) vào trong Portal. AToken có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
+Để nhận Aavegotchi từ portal, bạn cần phải stake một lượng [Spirit Force](/spirit-force) được yêu cầu vào trong Portal. Linh Lực có thể được mua trực tiếp thông qua [Aave](https://aave.com/) hoặc những DEX như Uniswap.
 
 Cùng với giá trị tiền tệ như được định hình bởi độ hiếm và lực mua của thị trường, mỗi Aavegotchi cũng sẽ có một giá trị nội tại. Atoken mà bạn stake sẽ cung cấp giá trị nội tại này.
 
-**Để có thêm nhiều thông tin hơn về aToken, hãy xem qua [aTokens](/atokens).**
+**Để có thêm nhiều thông tin về Spirit Force, hãy xem qua [tại đây](/spirit-force).**
 
 Nói chung là, lượng Spirit Force (tài sản ký gửi) thấp nhất phụ thuộc vào Base Rarity Score của Aavegotchi mà bạn muốn triệu hồi. Điểm càng cao, tiền ký gửi phải càng nhiều.
 
@@ -89,6 +99,11 @@ Bạn có thể tăng hoặc giảm Spirit Force (lượng aToken được stake
 
 Để nhận được Gotchi, bạn cần phải thực hiện 2 giao dịch. Đầu tiên, bạn cần phải cho phép hợp đồng thông minh dùng aToken trong ví bạn. Giao dịch sau đó sẽ cho phép bạn nhận được Aavegotchi.
 
+## Tương tác với các Gotchi
+
+Một khi bạn đã nhận được Gotchi, việc kế tiếp bạn cần làm là........*tèn ten*..........chơi với Aavegotchi của bạn!
+
+Hãy xem qua[Trang Thông Tin của Aavegotchi](/aavegotchi-profile) để biết cách làm nhé!
 
 ## Chuyển Aavegotchi Sang Địa Chỉ Khác
 
@@ -101,7 +116,3 @@ Nếu bạn muốn nhận lại số tài sản ký gửi được stake trong A
 2. **Burn Aavegotchi**, trả đĩa bay để Aavegotchi bay về Nether Realm và trả lại hết tài sản ký gửi.
 
 **Trước khi bán Aavegotchi trên một thị trường thứ cấp như OpenSea, hãy "lock" Aavegotchi trong trong giao diện người dùng của Dapp, để tất cả những trang bị của Aavegotchi đều được chuyển khoản theo.**
-
-
-
-

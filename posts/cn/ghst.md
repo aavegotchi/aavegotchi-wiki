@@ -38,7 +38,7 @@ contributors:
 
 玩家必须购买GHST，并在召唤和训练Aavegotchis的过程中进行消费。 其中一部分会直接转回DAO，继续资助生态系统的发展。 同时，部分价值也会作为DAO中明智治理的奖励，以及从事稀有度挖矿的奖励进行分配。
 
-更多信息，请务必查看侧边栏 "Tokenomics "下的页面。
+For more information, make sure to check out the [Tokenomics page](/tokenomics).
 
 ## 使用 GHST
 除了买GHST，然后想知道他什么时候涨上天之外，你能用GHST做什么呢？ 很多哦，一旦你了解了GHST的各种使用方法，我们感觉你可能会重新考虑抛售。
@@ -51,20 +51,29 @@ contributors:
 * [质押GHST](/staking), 获取FRENS，购买抽奖券然后赢取抽奖奖品。
 
 ## 购买GHST
-准备好你的钱包(最好是Metamask) - 有两种主要方法购买GHST 令牌。
+Get your wallets (preferably Metamask) ready - there are a couple of ways to buy GHST tokens:
 
-你可以直接从 [联合曲线](/curve) 购买GHST（需要KYC，另外需要注意的是，美国和中国的公民不允许参与）；或者从[交易所](https://www.coingecko.com/en/coins/aavegotchi#markets) 购买GHST--DEXs如 [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) 和 [Matcha](https://matcha.xyz/markets/GHST)，以及CEXs如 [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1)和 [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)。
+* Buying it straight from the [curve](/curve) on Ethereum Mainnet (though this requires KYC, which unfortunately precludes citizens of the United States and China)
+* Buying it from Decentralized Exchanges on Ethereum Mainnet such as [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) and [Matcha](https://matcha.xyz/markets/GHST)
+* Buying it from Decentralized Exchanges on Polygon such as [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+* Buying it from Centralized Exchanges such as [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1) and [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
 
-确保你也得到正确的代币地址。0x3F382DbD960E3a9bbCeaE22651E88158d2791550 **请将此链接与其他官方发布的Aavegotchi来源进行对比验证--小心无大错。**
+Make sure you get the correct token address as well.
+
+On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
+
+On Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
+
+**Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 
 ## 获得GHST
-不是每个人都是鲸鱼，这很好——在DeFi领域有很多东西可以去做。
+Not everyone is a whale, and that's fine - there's plenty in the DeFi seas to go around.
 
-有几种方法可以帮助你获得GHST。 这些包括：
+There are several ways to grind it out and earn GHST. 这些包括：
 
-* 参与 [稀有度挖矿](/rarity-farming)
-* 在 [AavegotchiDAO 中参与投票](/dao)
-* 参与并在迷你游戏中获胜(更多信息 TBC)
+* Engaging in [rarity farming](/rarity-farming)
+* Participate and vote in [AavegotchiDAO](/dao)
+* Playing and winning in [mini-games](/minigames) (more information TBC)
 
 
 

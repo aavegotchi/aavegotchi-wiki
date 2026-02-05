@@ -25,7 +25,7 @@
 }
 
 .common {
-    color: var(--rarity-common);
+  color: var(--rarity-common);
 }
 .uncommon {
   color: var(--rarity-uncommon);
@@ -43,6 +43,24 @@
   color: var(--rarity-godlike);
 }
 
+img.common {
+    border: 4px solid var(--rarity-common);
+}
+img.uncommon {
+  border: 4px solid var(--rarity-uncommon);
+}
+img.rare {
+  border: 4px solid var(--rarity-rare);
+}
+img.legendary {
+  border: 4px solid var(--rarity-legendary);
+}
+img.mythical {
+  border: 4px solid var(--rarity-mythical);
+}
+img.godlike {
+  border: 4px solid var(--rarity-godlike);
+}
 
 body {
    background-color: var(--background-color);
@@ -261,6 +279,16 @@ a:hover {
     font-size: 16px;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+hr {
+	background: linear-gradient(to bottom right, #FA34F3, #8F17F9);
+	height: 5px;
+}
+
+SVG {
+    display: block;
+    max-height: 100%;
 }
 
 table {

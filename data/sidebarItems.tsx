@@ -5,6 +5,10 @@ export const items: Category[] = [
     {
         name: "Start Here Fren",
         items: [
+			{
+				name: "Home",
+				href: "index"
+			},
             {
                 name: "Introduction",
                 href: "introduction"
@@ -13,6 +17,10 @@ export const items: Category[] = [
 				name: "Tutorials",
 				href: "tutorials"
 			},
+			{
+				name: "Contracts",
+				href: "contracts"
+			},			
             {
                 name: "FAQ",
                 href: "faq"
@@ -21,6 +29,10 @@ export const items: Category[] = [
                 name: "Glossary",
                 href: "glossary"
             },
+			{
+				name: "Directory",
+				href: "directory"
+			}
         ]
     },
 
@@ -36,17 +48,13 @@ export const items: Category[] = [
                 href: "tokenomics"
             },
             {
-                name: "Bonding Curve",
-                href: "curve"
-            },
-            {
-                name: "aTokens",
-                href: "atokens"
+                name: "Spirit Force",
+                href: "spirit-force"
             },
             {
                 name: "Staking",
                 href: "staking"
-            },
+            }
         ]
 
     },
@@ -66,20 +74,38 @@ export const items: Category[] = [
                 name: "Wearables",
                 href: "wearables"
             },
+			{
+				name: "Sets",
+				href: "sets"
+			},
+			{
+				name: "Recipes",
+				href: "recipes"
+			},
             {
                 name: "Rarity Farming",
                 href: "rarity-farming"
             },
-
+			{
+				name: "Games",
+				href: "games"
+			},
             {
-                name: "Metaverse",
-                href: "metaverse"
-            },
+                name: "Gotchiverse",
+                href: "gotchiverse"
+            },			
             {
                  name: "Marketplace",
                  href: 'marketplace'
-            }
-
+            },
+			{
+				name: "Arena",
+				href: "spirit-force-arena"
+			},
+			{
+				name: "Forge",
+				href: "forge"
+			}
         ]
     },
 
@@ -90,14 +116,22 @@ export const items: Category[] = [
                 name: "AavegotchiDAO",
                 href: "dao"
             },
+			{
+				name: "Guilds",
+				href: "guild"
+			},
+			{
+				name: "Blog",
+				href: "https://blog.aavegotchi.com"
+			},
             {
                 name: "Social Media",
                 href: "socialmedia"
             },
             {
-                name: "Missions",
-                href: "missions"
-            },
+                name: "Bridge",
+                href: "bridge"
+            },            
             {
                 name: "Contests",
                 href: "contests"

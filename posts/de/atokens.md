@@ -13,21 +13,21 @@ contributors:
 <p class="headerImageText">Der aETH aToken</p>
 </div>
 
-aTokens sind zinstragende Tokens des [Aave Protokolls](https://aave.com). Sie werden bei Einzahlung erstellt und bei Einlösung verbrannt. Die aTokens sind 1:1 an den Wert des Basiswerts gekoppelt, der im Aave Protokoll hinterlegt ist. aTokens können frei aufbewahrt, übertragen und gehandelt werden. Weitere Informationen zum Aave Protokoll gibt es im [Aave FAQ](https://docs.aave.com/faq/).
+Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
 
-Inwiefern sind aTokens also relevant für Aavegotchi? Jedes Aavegotchi muss durch ein [Portal](/pages/portals) beschwört und mit einem aToken besichert werden, bevor es zum Leben erweckt wird! Keine Ausnahmen! Deshalb brauchst du aTokens und diese Seite wird dir hilfreiche Informationen darüber geben, welche aTokens es gibt und wie du sie bekommst.
+So what exactly is Spirit Force?
 
-Als Aavegotchi vom Ethereum Mainnet auf das [Matic Network](/glossary#matic-network) verschoben wurde, mussten diese aTokens auch auf dem Matic Network verfügbar sein. Unser hauseigenes Coding-Genie, [Nick Mudge](/team#nick-mudge) aka Diamondboi, hat es geschafft, sie auf das Matic Network zu übertragen. aTokens auf dem Matic Network werden als maTokens bezeichnet.
+Initially, the Aavegotchi game was designed to be on Ethereum Mainnet. During that time, Spirit Force refers to aTokens. They are interest-bearing tokens from the [Aave Protocol](https://aave.com). They are minted upon deposit and burned when redeemed. The aTokens are pegged 1:1 to the value of the underlying asset that is deposited in the Aave protocol. aTokens can be freely stored, transferred, and traded. See the [Aave FAQ](https://docs.aave.com/faq/) for more information on the Aave Protocol.
 
-Vom Standpunkt eines Spielers beinhaltet Aavegotchi:
+Due to high gas fees on Ethereum Mainnet, the launch of the Aavegotchi game was shifted to [Polygon](/glossary#polygon), a layer 2 solution. The benefits of shifting to Polygon include near-zero transaction fees and near-instant transactions. As a result of this move, we needed aTokens on Polygon as well. Our in-house coding genius and diamondboi, [Nick Mudge](/team#nick-mudge) managed to bridge **Aave V2 aTokens** from Ethereum Mainnet over to Polygon. These are known as **maTokens**. Aavegotchis belonging to Haunt 1 use **maTokens** as their Spirit Force.
 
-1. Einige aTokens besorgen
-2. Konvertieren von aTokens zu maTokens
-3. Nach dem Öffnen eines Portals mit maTokens als Sicherheit ein Aavegotchi beschwören
+Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as **amTokens.** From Haunt 2 onwards, the Spirit Force for Aavegotchis will use **amTokens** instead.
 
-Auf dieser Seite werden wir dir den Umgang mit den aTokens näher bringen.
+This page will provide you with some helpful information on what are the available aTokens and how do you get them.
 
-Im Aavegotchi-Universum bedeuten die Begriffe "Spirit Force", "Sicherheit/Collateral", "aTokens" und "maTokens" das Gleiche.
+Do note that you eventually **need maTokens** to summon your Gotchis on Polygon. There are various ways to get maTokens without needing to go through aTokens. However, for the sake of representativeness, we explain how to get aTokens here.
+
+In Aavegotchi, the terms "Spirit Force", "Collateral", "aTokens", and "maTokens" mean the same thing.
 
 <div class="contentsBox">
 
@@ -45,12 +45,11 @@ Im Aavegotchi-Universum bedeuten die Begriffe "Spirit Force", "Sicherheit/Collat
 
 ## Über
 
-Während der zugrundeliegende Vermögenswert an Kreditnehmer verliehen wird, generieren aTokens in Echtzeit Zinsen, direkt in deinem Wallet! Wirklich, man kann jede Minute sehen, wie das Guthaben wächst.
+While the underlying asset is loaned out to borrowers, aTokens accrue interest in real time, directly in your wallet! Seriously, you can watch your balance grow every minute.
 
-aTokens können in eine von zwei Kategorien eingeteilt werden: (1) Kryptowährungen oder (2) Stablecoins. Kryptowährungen sind digitale oder virtuelle Währungen, die durch Kryptographie gesichert sind. Viele Kryptowährungen sind dezentralisierte Netzwerke, die auf der Blockchain-Technologie basieren - ein verteiltes Hauptbuch, das durch ein dezentrales Netzwerk von Computern betrieben wird. Stablecoins sind eine Klasse von Kryptowährungen, die Preisstabilität zu bieten versuchen, indem sie an einen externen Referenzwert wie den US Dollar (USD) gekoppelt sind. Der zugrundeliegende Mechanismus der Kopplung unterscheidet sich von Stablecoin zu Stablecoin, wobei jeder sein eigenes Risikoprofil hat.
+aTokens can be classified into one of two categories: (1) cryptocurrencies, or (2) stablecoins. Cryptocurrencies are digital or virtual currencies that are secured by cryptography. Many cryptocurrencies are decentralized networks based on blockchain technology—a distributed ledger enforced by a disparate network of computers. Stablecoins are a class of cryptocurrencies that attempts to offer price stability by being pegged to an external reference such as the US Dollar (USD). The underlying mechanism of pegging differs across stablecoins, with each having its own risk profile.
 
-
-Die folgenden [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (Kryptowährungen und Stablecoins) sind im Aave Protokoll verfügbar. Die *Supported by Aavegotchi* Spalte zeigt an, ob ein gegebener aToken für das Aavegotchi Gameplay verfügbar sein wird. Die Liste der unterstützten aTokens ist noch nicht endgültig; es wird Twitter-Abstimmungen/DAO-Abstimmungen geben, um weitere aTokens mit entsprechender Nachfrage hinzuzufügen.
+The following [aTokens](https://docs.aave.com/developers/deployed-contracts/deployed-contract-instances) (cryptocurrencies and stablecoins) are available on the Aave Protocol. The *Supported by Aavegotchi* column indicates whether a given aToken will be available for Aavegotchi gameplay. The list of supported aTokens are not finalized; there will be twitter votes/DAO votes to add in more aTokens for Aavegotchi gameplay based on player demand.
 
 ## Stablecoins
 
@@ -62,30 +61,30 @@ table_cryptocurrencies
 
 ## aTokens bekommen
 
-*Die folgenden Schritte wurden vom [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) des Aave Medium-Accounts übernommen. Wir haben es hier für den Komfort des Lesers übertragen.*
+*The following steps are taken from the [Zero to Hero Guide 2.0](https://medium.com/aave/zero-to-hero-guide-2-0-dadce0f3e834) from Aave Medium. It has been replicated here for the reader's convenience.*
 
-1). Besuche das <a href = "https://app.aave.com/">Aave Protokoll</a> um loszulegen!
+1). Head over to the <a href = "https://app.aave.com/">Aave Protocol</a> to get started!
 
-2). Hier gibt es einige Optionen, um verschiedene Arten von Krypto Wallets zu verknüpfen:
+2). Here you have a few options to link your crypto wallet, depending on which type of wallet you have:
 
 <img src = "/atokens/connect-your-wallet.png" alt = "aave" class="bodyImage" />
 
-3). Bevor du das Aave Protokoll nutzen kannst, musst du einige Krypto-Assets besitzen. Die Liste der verfügbaren Krypto-Assets wird in den Abschnitten <a href=#stablecoins>Stablecoins</a> und <a href=#cryptocurrencies>Kryptowährungen</a> oben aufgeführt.
+3). Before you can use Aave Protocol, you’re going to want to have some crypto assets. The list of available crypto assets are shown in the <a href=#stablecoins>Stablecoins</a> and the <a href=#cryptocurrencies>Cryptocurrencies</a> sections above.
 
-Wenn du keine Kryptowährung besitzt, aber trotzdem mitspielen willst, musst du Fiat-Währung ("normales" Geld wie US Dollar, Euro, etc.) in ein kryptografisches Asset (wie eines der oben genannten) umwandeln.
+If you don’t own any crypto but you want to join the fun, you’ll need to convert your fiat currency (normal money, like dollars, euros, etc.) into a cryptographic asset (like one of the above).
 
-Zum Glück hat Aave vor kurzem eine Fiat-zu-Krypto Onramp entwickelt, mit der du Krypto-Assets direkt über die Aave Anwendung kaufen kannst! Jetzt kannst du Transak oder Ramp Instant nutzen, um das Asset deiner Wahl direkt mit einer Kredit-/Debitkarte oder per Überweisung in nur wenigen Minuten zu kaufen (siehe unten).
+Lucky for you, Aave recently introduced a fiat to crypto onramp where you can buy crypto assets directly from the Aave Protocol application! Now you can use Transak or Ramp Instant to buy the asset of your choice directly with a credit or debit card or wire transfer in just a few minutes (see below).
 
 <img src = "/atokens/buy-with-fiat.png" alt = "aave" class="bodyImage" />
 
-4). Sobald du dein Wallet mit der Plattform verbunden hast, kannst du ein Asset in das Aave Protokoll einzahlen. Wenn du auf "Deposit" klickst, zeigt dir das Interface, was du in deinem Wallet zur Verfügung hast. Du wählst dann den Vermögenswert aus, den du einzahlen möchtest, legst den Betrag fest und voilá, du hast es geschafft! *Hinweis: Es wird eine Genehmigungstransaktion geben, bevor die eigentliche Einzahlung stattfindet. Damit erteilst du dem Smart Contract die Erlaubnis, den bestimmten Vermögenswert zu nutzen.*
+4). Once you have connected your wallet to the platform, you can deposit an asset into Aave Protocol. When you click “deposit”, the interface will show you what you have available in your wallet to deposit. You then select the asset you would like to deposit, choose how much to deposit, and then voilá, you’ve done it! *Note: there will be an "approve" transaction before the actual deposit transaction takes place. This is to grant permission to the deposit contract to use that particular asset you are depositing.*
 
 <img src = "/atokens/deposit.gif" alt = "aave" class="bodyImage" />
 
-Sobald deine Einzahlungstransaktion abgeschlossen ist, profitierst du von den Einlagezinsen. Die aToken-Version des Assets kann nun in deinem Wallet gesehen werden.
+As soon as your deposit transaction goes through, you benefit from the deposit interest rate. The aToken version of the asset can now be seen in your wallet.
 
 ## Konvertieren von aTokens zu maTokens
 
-Hast du deine aTokens? Super!
+Got your aTokens? Good!
 
-Gehen wir zur [maTokens](/matokens) Seite für Schritt 2!
+Let's head over to the [maTokens](/matokens) page for Step 2!

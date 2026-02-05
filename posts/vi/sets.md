@@ -13,6 +13,14 @@ Chào mấy fen! Bạn có biết rằng nếu *những món wearable nhất đ�
 
 Hãy gom thật nhiều GHST đi nhé! Bạn sẽ cần dùng đến đấy!
 
+Màu viền xung quan trang phục cho biết độ hiếm của chúng:
+* <p style="color:#806AFB">Thường: Xanh Hoa Ngô</p>
+* <p style="color:#98DBE5">Phi thường: Màu Lá Nước</p>
+* <p style="color:#59BCFF">Hiếm: Xanh Malibu</p>
+* <p style="color:#FFC36B">Huyền Thoại: Koromiko</p>
+* <p style="color:#FF96FF">Thần Thoại: Lavender Rose</p>
+* <p style="color:#51FFA8">Thần Thánh: Aquamarine</p>
+
 <div class="contentsBox">
 
 **Nội dung**
@@ -26,7 +34,7 @@ Hãy gom thật nhiều GHST đi nhé! Bạn sẽ cần dùng đến đấy!
 
 ## Then Chốt
 
-* [Basic Rarity Score (BRS)](/rarity-farming#base-rarity-score) Từ Wearables
+* BRS = [Base Rarity Score](/rarity-farming#base-rarity-score)
 * AGG = Aggressiveness (Hiếu Chiến)
 * NRG = Energy (Năng Lượng)
 * SPK = Spookiness (Đáng Sợ)

@@ -29,8 +29,10 @@ Trang wiki này sẽ giải thích cách mà bạn có thể tương tác trong 
 <li><a href=#calculating-rarity>Cách tính Rarity</a></li>
 <p><a href=#base-rarity-score>Base Rarity Score</a></p>
 <p><a href=#absolute-rarity-score>Absolute Rarity Score</a></p>
-<p> <a href=#final-rarity-score>Final Rarity Score</a></p>
+<p><a href=#final-rarity-score>Final Rarity Score</a></p>
 <li><a href=#rewards>Phần thưởng</a></li>
+<p><a href=#rarity-farming-seasons>Các Mùa Rarity Farming</a></p>
+<p><a href=#collecting-rarity-farming-rewards>Thu Thập Phần Thưởng Từ Rarity Farming</a></p>
 </ol>
 
 </div>
@@ -40,9 +42,9 @@ Có nhiều cách để bạn có thể tham gia vào hoạt động rarity farm
 
 * **Hãy cẩn thận khi chọn một Aavegotchi với đặc điểm hiếm trong quá trình triệu hồi**
 
-* **Trang bị [wearables](/posts/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
+* **Trang bị [wearables](/wearables) để có thể điều chỉnh đặc điểm cho Aavegotchi của mình**
 
-* **Tương tác với minigame**
+* **Tương tác trong [mini-games](/minigames)**
 
 Để có nhiều thông tin hơn, hãy theo dõi đường link dẫn ở phần sidebar.
 
@@ -54,19 +56,28 @@ Có hai loại điểm độ hiếm trong trò chơi - Base Rarity Score (dành 
 
 ### Base Rarity Score
 
-Base Rarity Score (BRS) có được từ độ hiếm tổng quan của cả đặc điểm và những phụ kiện được trang bị cho Aavegotchi.
+Base Rarity Score (BRS) có được từ tổng số điểm độ hiếm trait của Aavegotchi, các trang bị đã mặc lên và [tuổi](/aging-mechanic) của chúng.
 
 #### Trait BRS
 
 BRS của các trait thuộc về Aavegotchi được tính theo công thức:
 
-<p style="margin-left: 4.8em"><b>Trait BRS = traitValue >= 50 ? traitValue : 100-traitValue </b> (trong ngôn ngữ code)</p> 
-<p style="margin-left: 4.8em"><i>Nếu giá trị của trait nhiều hơn hoặc bằng 50, BRS = giá trị của trait. </i></p> 
-<p style="margin-left: 4.8em"><i>Nếu giá trị của trait nhỏ hơn 50, BRS = 100 - giá trị của trait. </i></p>
+```
+if (number < 50) return 100 - number;
+    else return number + 1;
+```
+
+*Nếu giá trị đặc tính **thấp hơn** 50, thì BRS = 100 - giá trị đặc tính*
+
+*Nếu giá trị đặc tính **cao hơn** 50, thì BRS = giá trị đặc tính + 1*
 
 #### Wearables BRS
 
-Wearables BRS thì lại dựa vào độ hiếm của nó. Ví dụ [wearables](https://wiki.aavegotchi.com/en/wearables) rare sẽ cho 5BRS và wearables godlike sẽ cho 50 BRS.
+Wearables BRS thì lại dựa vào độ hiếm của nó. Ví dụ [wearables](/wearables) rare sẽ cho 5BRS và wearables godlike sẽ cho 50 BRS.
+
+#### Age
+
+Khi Gotchi lớn lên, chúng sẽ nhận thêm BRS. Để có thêm thông tin, hãy xem qua trang [Cơ chế trưởng thành](/aging-mechanic).
 
 ### Absolute Rarity Score
 
@@ -81,14 +92,19 @@ Ví dụ về cách tính Final Rarity Score được thể hiện phía dưới
 table_RarityScoreCalculationTable
 <p style="margin-left: 2.8em"><i>BRS là viết tắt của Base Rarity Score; ARS là viết tắt của Absolute Rarity Score</i></p>
 
+**Công thức tính ARS vẫn chưa hoàn chỉnh. Do đó, giá trị trên cột ARS chỉ mang tính chất tượng trưng.**
+
 ## Phần thưởng
 
-Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hết nhất với **Final Rarity Score cao nhất** sẽ nhận được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
+Trong mỗi giai đoạn (AavegotchiDAO sẽ quyết định thời lượng), một vài Aavegotchi hết nhất với <b>Final Rarity Score cao nhất</b> sẽ nhận được thưởng GHST (có được từ tất cả những đợt sale bao gồm cả GHST) mà có thể nhận từ người chủ của mình.
 
 Khi mới bắt đầu, sẽ có ba loại Phần Thưởng cho Người Chơi:
-* Top 100 Aavegotchi hiếm nhất (theo BRS, ARS, sắp tiến hành)
-* Top 100 Aavegotchi Có Điểm [Kinship](/traits#kinship) Cao Nhất
-* Top 100 [Nhiều Experience (XP)](/traits#experience) Nhất
+
+* Aavegotchi Rarity Scores (tính bằng BRS, ARS sẽ được thêm trong mùa sau)
+* Top [Điểm Kinship](/traits#kinship) Cao Nhất
+* [Kinh nghiệm](/traits#experience)
+
+Với mỗi hạng mục, giải thưởng dành cho rarity farming sẽ được phân phối dựa trên đường cong giảm dần, trong đó chỉ một số Aavegotchi trên đỉnh có thể kiếm được nhiều hơn những Gotchi nằm ở phần dưới của đường cong. Sẽ có những điểm cắt mà ở Gotchi nào ở dưới điểm đó sẽ không nhận được phần thưởng. Vậy nên hãy cố gắng hết sức để nằm ở trên điểm cắt đó. Thế nào rồi bạn cũng thắng được chút ít mà thôi! (Xem thêm về [Rarity Farming Season 1](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8), top 5000 Gotchi trong mỗi hạng mục sẽ nhận được giải thưởng từ rarity farming).
 
 Lượng phần thưởng phân bổ cho từng hạng mục sẽ được quyết định bởi AavegotchiDAO.
 
@@ -102,5 +118,14 @@ Giải thưởng GHST dành cho Rarity Farming được tài trợ bằng cách 
 
 Hiện tại thì không có giới hạn đối với số lần tương tác mà một Aavegotchi có thể thực hiện trong mỗi giai đoạn, những nếu một hoạt động nào đó của bot trở thành vấn đề thì AavegotchiDAO có thể vote để thêm biện pháp ngăn chặn chúng.
 
+### Các Mùa Rarity Farming
 
+Rarity Farming được chia thành các mùa khác nhau. Mỗi mùa có các hạng mục riêng, kích thước quỹ giải thưởng và đường cong phân bố giải thưởng.
 
+Để xem dữ liệu phần thưởng Rarity Farming của các mùa, hãy xem qua [trang](/rarity-farming-seasons) này.
+
+### Thu Thập Phần Thưởng Từ Rarity Farming
+
+Phần Thưởng Dành cho Rarity Farming đã được trả về ví của Aavegotchi (Đúng vậy! Mỗi Gotchi có riêng cho mình một túi hành trang cá nhân!).
+
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Nhấp vào đó để xem túi đồ của Aavegotchi. Bạn có thể xem được lượng GHST mà Gotchi nhận được từ Rarity Farming (cũng như những món vật phẩm đã được trang bị).
