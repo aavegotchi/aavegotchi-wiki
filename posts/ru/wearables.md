@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2014-04-26T22:00:00.000Z'
-title: 'Элементы экипировки'
-description: 'Все об экипировке в Аавеготчи'
+date: "2014-04-26T22:00:00.000Z"
+title: "Элементы экипировки"
+description: "Все об экипировке в Аавеготчи"
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -14,19 +14,19 @@ contributors:
 <p class="headerImageText">Синий плед Сержа</p>
 </div>
 
-Элементы экипировки являются незаменимой частью игры Аавеготчи. С их помощью можно придать особый стиль вашему Готчи, а также повлиять на его черты и повысить уровень редкости. Благодаря экипировке Готчи может лучше проявлять себя в [мини-играх](/minigames) и [фарминге](/rarity-farming), получая приятные подарки за свой уровень редкости.
+Элементы экипировки являются незаменимой частью игры Аавеготчи. С их помощью можно придать особый стиль вашему Готчи, а также повлиять на его черты и повысить уровень редкости. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Элементы экипировки соответствуют стандарту ERC-1155.
 
 На данной странице нашей ВИКИ вы можете увидеть информацию обо всех элементах экипировки, имеющихся в игровом проекте.
 
-Design of the wearables are done by [Xibot](/team#xibot) and our team of [community aartists](/aartist). Each wearable comes with 4 different views (front, right, left, and back).
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. Each wearable comes with 4 different views (front, right, left, and back).
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi Wearables - 4 Views" />
 
 For information on **Wearable Sets**, check out this [page](/sets)!
 
-*Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background.*
+_Note: There are some objects (IDs 162-198, 210) that are not reflected on this page as they are not wearables. These objects are [Baadges](/baadge) and the Haunt 1 Background._
 
 <div class="contentsBox">
 
@@ -66,6 +66,10 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 <li><a href=#haunt-2-wearables>Haunt 2 Wearables</a></li>
 <li><a href=#partnerships-set>Partnerships Set</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG Wearables</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
+<li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -74,14 +78,14 @@ For information on **Wearable Sets**, check out this [page](/sets)!
 
 Aavegotchis have four traits that can be modified by wearables.
 
-* AGG = Уровень агрессии.
-* NRG = Показатель энергии.
-* SPK = Насколько жуткий Готчи.
-* BRN = Показатель интеллекта.
+- AGG = Уровень агрессии.
+- NRG = Показатель энергии.
+- SPK = Насколько жуткий Готчи.
+- BRN = Показатель интеллекта.
 
 The traits of "Eye Color" and "Eye Shape" cannot be modified by wearables.
 
-*Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!*
+_Note: Negative values do not mean the trait is getting "weaker". Aavegotchi traits are distributed on a bell curve, so the extremes (0,1) and (99,100) are actually the best!_
 
 See [Traits](/traits) for more about this topic.
 
@@ -139,7 +143,7 @@ table_farmerWearablesTable
 
 ## Santa Wearables Set
 
-One of our friends accidentally send 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
@@ -246,3 +250,19 @@ table_partnershipsTable
 ## DeFi RPG Wearables
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table
+
+## Gotchigang Wearables
+
+table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable

@@ -22,6 +22,7 @@ Alchemical Channeling (occasionally referred to as a “Gotchi UBI”) is a basi
 <li><a href=#how-to-channel-alchemica>How to channel Alchemica</a></li>
 <li><a href=#how-much-alchemica-will-i-receive>How much Alchemica will I receive</a></li>
 <li><a href=#limits-on-alchemical-channeling>Limits on Alchemical Channeling</a></li>
+<li><a href=#alchemical-channeling-and-kinship-burning>Alchemical Channeling and Kinship Burning</a></li>
 </ol>
 
 </div>
@@ -48,7 +49,7 @@ Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 
 
 The final amount is then divided into two portions – the amount the Gotchi (or its owner) receives directly, and the amount that spills nearby.
 
-Higher level Alchemical Aaltars reduce the [spillover rate](/glossary#spillover-rate) by 5% per level.
+Higher level Alchemical Aaltars reduce the [spillover rate](/glossary#spillover-rate) by 10% per level.
 
 table_aaltarAndSpilloverRate
 
@@ -59,3 +60,7 @@ Every Aavegotchi is eligible to engage in Alchemical Channeling once every 24 ho
 However, Alchemical Channeling does take a toll on the Alchemical Aaltar, which means it needs to recharge between channelings. Higher level Aaltars have more Spirit energy, which allows them to engage in Alchemical Channeling with a shorter cooldown:
 
 table_aaltarLevelAndAlchemicalChannelings
+
+## Alchemical Channeling and Kinship Burning
+
+Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 [kinship](/kinship) point burn for each alchemical channeling event.

@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
-date: '2020-10-13T07:00:00.000Z'
-title: 'Ponts de connexion'
-description: 'Le pont Aavegotchi (et d''autres ponts pour transférer des actifs vers et depuis Polygon)'
+date: "2025-09-18T00:00:00.000Z"
+title: "Ponts de connexion"
+description: "Le pont Aavegotchi (et d'autres ponts pour transférer des actifs vers et depuis Polygon)"
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -28,6 +28,7 @@ Pour faciliter le transfert des actifs, Pixelcraft studios a créé le pont Aave
 <li><a href=#decentralized-bridges>Ponts décentralisés</a></li>
 <p><a href=#polygon-bridge>Pont Polygon</a></p>
 <p><a href=#umbria-narni-bridge>Pont Umbria Narni</a></p>
+<p><a href=#base-bridges>Base Bridges</a></p>
 <li><a href=#centralized-bridges>Ponts centralisés</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
@@ -39,7 +40,8 @@ Pour faciliter le transfert des actifs, Pixelcraft studios a créé le pont Aave
 
 ## Le pont Aavegotchi
 
-Le pont Aavegotchi est le pont officiel créé par Pixelcraft Studios. Actuellement, il permet le transfert des jetons ERC-20 et des actifs ERC-721 (Aavegotchis) du réseau principal Ethereum vers le réseau Polygon et vice versa. Le pont pour ERC-1155s ([Objets portables](/wearables)) arrivera sous peu.
+
+Le pont Aavegotchi est le pont officiel créé par Pixelcraft Studios. Historically it supported transfers between Ethereum and Polygon. As of 2024-2025, Aavegotchi has migrated to Base; for GHST to Base, use the canonical Ethereum↔Base bridge or fast bridges.
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Le pont Aavegotchi" />
 
@@ -66,7 +68,8 @@ Le même concept s'applique pour l'envoi d'actifs depuis Polygon Network vers Et
 ## Ponts décentralisés
 
 ### Pont Polygon
-Le pont Polygon fut le premier pont entre Ethereum et Polygon. Il est le pont officiel de l'équipe Polygon, et utilise un modèle de validateur pour transférer des actifs entre Ethereum et Polygon. Ce pont de connexion peut transférer des jetons $GHST, mais ne peut pas transférer les actifs NFT.
+
+Le pont Polygon fut le premier pont entre Ethereum et Polygon. Il est le pont officiel de l'équipe Polygon, et utilise un modèle de validateur pour transférer des actifs entre Ethereum et Polygon. This bridge can transfer \$GHST tokens, but cannot bridge NFT assets.
 
 Pour ceux qui veulent utiliser le Pont Polygon, voici les étapes à franchir:
 
@@ -83,7 +86,8 @@ Cela peut prendre jusqu'à 10 minutes pour que les jetons arrivent dans votre ad
 Si vous avez besoin d'aide pour quoi que ce soit vous pouvez rejoindre le [Discord](https://discord.com/invite/rttCTkZ) Aavegotchi et demander à un autre membre de la communauté.
 
 ### Pont Umbria Narni
-Le pont Narni Bridge est une nouvelle solution de pont créée par Umbria Network, qui utilise un modèle de pont de liquidité pour réduire le coût de passerelle de 90 %. Le pont Narni réalise les transactions en environ 5 minutes et coûte environ 40 $ (100 GWEI) pour transférer des jetons GHST entre l'Ethereum et Polygon. Actuellement, seuls les jetons ERC-20 sont compatibles avec le pont Narni; les NFTs ne peuvent pas être transférés.
+
+Le pont Narni Bridge est une nouvelle solution de pont créée par Umbria Network, qui utilise un modèle de pont de liquidité pour réduire le coût de passerelle de 90 %. The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately \$40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. Actuellement, seuls les jetons ERC-20 sont compatibles avec le pont Narni; les NFTs ne peuvent pas être transférés.
 
 Pour utiliser le pont Umbria Narni, veuillez vous suivre les étapes suivantes :
 
@@ -110,6 +114,15 @@ Enfin, vous recevrez deux ticks roses, ce qui signifie que votre transaction a �
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
 Si vous avez des questions à propos du pont Umbria Narni, ou si vous souhaitez discuter avec un membre de l'équipe de développement, rejoignez le canal [Discord d'Ombrie](https://discord.gg/8Ms7Cr4)
+
+### Base Bridges
+
+For GHST on Base:
+
+- Canonical bridge (Ethereum↔Base): Superbridge
+- Fast bridges (Polygon↔Base): Bungee, Jumper (availability subject to providers)
+
+Refer to the official blog post “GHST Token Is Now Live on Base” for current guidance.
 
 ## Ponts centralisés
 

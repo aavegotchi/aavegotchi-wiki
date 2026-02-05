@@ -1,69 +1,74 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Đường Dẫn Aavegotchi Wiki'
-description: 'Đường Dẫn Aavegotchi Wiki'
+date: "2020-04-23T07:00:00.000Z"
+title: "Đường Dẫn Aavegotchi Wiki"
+description: "Đường Dẫn Aavegotchi Wiki"
 contributors:
   - "unintelligent-nerd"
 ---
 
+
 Đây là danh sách những trang có trong Aavegotchi Wiki:
 
-* [Aambassador](/aambassador)
+- [Aambassador](/aambassador)
 
-* [Aarcade Taask Force](/aarcade-taask-force)
+- [Aarcade Taask Force](/aarcade-taask-force)
 
-* [Aarchitect](/aarchitect)
+- [Aarchitect](/aarchitect)
 
-* [Aarena](/aarena)
+- [Aartists](/aartist)
 
-* [Aartists](/aartist)
+- [Aauction](/aauction)
 
-* [Aauction](/aauction)
+- [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+- [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+- [Vật Trang Trí](/aesthetica)
 
-* [Vật Trang Trí](/aesthetica)
+- [Aging Mechanic](/aging-mechanic)
 
-* [Aging Mechanic](/aging-mechanic)
+- [Alchemical Channeling](/alchemical-channeling)
 
-* [Alchemical Channeling](/alchemical-channeling)
+- [Huy Hiệu](/baadge)
 
-* [Huy Hiệu](/baadge)
+- [Nhạc Sĩ Baard](/baard)
 
-* [Nhạc Sĩ Baard](/baard)
+- [Bridge](/bridge)
 
-* [Baazaar](/baazaar)
+- [Cuộc thi](/contests)
 
-* [Bridge](/bridge)
+- [Contracts](/contracts)
 
-* [Cuộc thi](/contests)
+- [Bonding Curve](/curve)
 
-* [Contracts](/contracts)
+- [AavegotchiDAO](/dao)
 
-* [Bonding Curve](/curve)
+- [Biệt Đội Ngân Quỹ DAO](/dao-treasury-taask-force)
 
-* [AavegotchiDAO](/dao)
+- [Developers](/developers)
 
-* [Biệt Đội Ngân Quỹ DAO](/dao-treasury-taask-force)
+- [DROPT - The Fallen Gotchi](/dropt)
 
-* [Developers](/developers)
+- [Estaates](/estaates)
 
-* [Estaates](/estaates)
+- [Eye Shape](/eye-shape)
 
-* [Eye Shape](/eye-shape)
+- [FAQ](/faq)
 
-* [FAQ](/faq)
+- [Forge](/forge)
 
-* [Forge](/forge)
+- [Games](/games)
 
-* [Gaame Jaam](/gaame-jaam)
+- [Gaame Jaam](/gaame-jaam)
 
 * [Token GHST](/ghst)
 
 * [Thuật Ngữ](/glossary)
+
+* [Gotchi Battler](/gotchi-battler)
+
+* [Gotchi Heroes](/gotchi-heroes)
 
 * [Gotchi Lending](/gotchi-lending)
 
@@ -83,9 +88,11 @@ contributors:
 
 * [Kinship](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maTokens](/matokens)
+* [Lore](/lore)
+
+* [Marketplace](/marketplace)
 
 * [Media](/media)
 
@@ -125,9 +132,13 @@ contributors:
 
 * [Linh Lực](/spirit-force)
 
+* [Spirit Force Arena](/spirit-force-arena)
+
 * [Spirit Force History](/spirit-force-history)
 
 * [Staking](/staking)
+
+* [Strategotchi](/strategotchi)
 
 * [Team](/team)
 

@@ -24,7 +24,7 @@ Hãy đến ngay phần [Giới thiệu](/introduction) để xem qua một bài
 * [Staking](/staking) -- Học cách stake GHST để có FRENS
 * [DAO](/dao) -- Mọi thứ cần biết về AavegotchiDAO
 * Mua [wearables](/wearables) để triệu hồi Aavegotchis
-* [Mini-Games](/minigames) -- Hãy chơi một số mini-games với Aavegotchi của bạn nhé
+* [Games](/games) -- Play some Games with your Aavegotchi
 * [Rarity Farming](/rarity-farming) -- Chơi game Aavegotchi và kiếm giải thưởng!
 * [Gotchiverse](/gotchiverse) -- Access the Gotchiverse where your lil frens frolic
 * [Recipes](/recipes) -- Recipes for all ya crafting needs

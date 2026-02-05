@@ -1,8 +1,8 @@
 ---
 author: Dev Barnyard
-date: '2020-10-13T07:00:00.000Z'
-title: 'ブリッジ'
-description: 'Aavegotchiブリッジ（Polygonとの間でアセットを転送するため）'
+date: "2025-09-18T00:00:00.000Z"
+title: "ブリッジ"
+description: "Aavegotchiブリッジ（Polygonとの間でアセットを転送するため）"
 contributors:
   - "barneychambers"
   - "unintelligent-nerd"
@@ -28,6 +28,7 @@ contributors:
 <li><a href=#decentralized-bridges>分散型ブリッジ</a></li>
 <p><a href=#polygon-bridge>Polygonブリッジ</a></p>
 <p><a href=#umbria-narni-bridge>Umbria Narniブリッジ（ウンブリア・ナルニ）</a></p>
+<p><a href=#base-bridges>Base Bridges</a></p>
 <li><a href=#centralized-bridges>中央集権化ブリッジ</a></li>
 <p><a href=#ascendex>AscendEX</a></p>
 <p><a href=#transak>Transak</a></p>
@@ -39,7 +40,8 @@ contributors:
 
 ## Aavegotchiブリッジ
 
-Aavegotchiブリッジは、Pixelcraftスタジオによって作成された公式のブリッジです。 現在、ERC-20トークンとERC-721アセット（ゴッチ）をEthereumメインネットからPolygonネットワークに、またはその逆に転送できます。 ERC-1155ウェアラブルのブリッジングはまもなく登場します。
+
+Aavegotchiブリッジは、Pixelcraftスタジオによって作成された公式のブリッジです。 Historically it supported transfers between Ethereum and Polygon. As of 2024-2025, Aavegotchi has migrated to Base; for GHST to Base, use the canonical Ethereum↔Base bridge or fast bridges.
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
 
@@ -66,7 +68,8 @@ Aavegotchiブリッジは、[こちら](https://aavegotchi.com/bridge)からア�
 ## 分散型ブリッジ
 
 ### Polygonブリッジ
-Polygonブリッジは、EthereumとPolygonの間に作成された最初のクロスチェーンブリッジでした。 これはPolygonチームの公式ブリッジであり、バリデーターモデルを使用して、EthereumとPolygonの間でアセットを転送します。 このブリッジは$GHSTトークンを転送できますが、NFTアセットをブリッジすることはできません。
+
+Polygonブリッジは、EthereumとPolygonの間に作成された最初のクロスチェーンブリッジでした。 これはPolygonチームの公式ブリッジであり、バリデーターモデルを使用して、EthereumとPolygonの間でアセットを転送します。 This bridge can transfer \$GHST tokens, but cannot bridge NFT assets.
 
 Polygonブリッジを使用したい場合は、次の手順を実行してください。
 
@@ -83,7 +86,8 @@ Polygonブリッジを使用したい場合は、次の手順を実行してく�
 何かサポートが必要な場合は、Aavegotchi [ Discord ](https://discord.com/invite/rttCTkZ)に参加して、フレンリーなコミュニティに聞いてください。
 
 ### Umbria Narniブリッジ（ウンブリア・ナルニ）
-Narniブリッジは、ウンブリアネットワークによって作成された新しいブリッジソリューションであり、流動性ブリッジモデルを使用して、ブリッジのコストを最大90％削減します。 Narniブリッジは約5分でトランザクションを解決し、EthereumとPolygonのブロックチェーン間でGHSTトークンを転送するのに約〜100 GWEIかかります。 現在、ERC-20トークンのみがNarniブリッジと互換性があります。 NFTはブリッジできません。
+
+Narniブリッジは、ウンブリアネットワークによって作成された新しいブリッジソリューションであり、流動性ブリッジモデルを使用して、ブリッジのコストを最大90％削減します。 The Narni bridge resolves transactions in approximately 5 minutes, and costs approximately \$40 (100 GWEI) to transfer GHST tokens between the Ethereum and Polygon blockchains. 現在、ERC-20トークンのみがNarniブリッジと互換性があります。 NFTはブリッジできません。
 
 Umbria Narniブリッジを使用するには、次の手順を参照してください。
 
@@ -110,6 +114,15 @@ Umbria Narniブリッジを使用するには、次の手順を参照してく�
 <img class="bodyImage" src='/bridge/umbria-confirmation.png' />
 
 Umbria Narniブリッジについて質問がある場合、または開発者チームのサポートメンバーとチャットしたい場合は、[Umbria Discordチャネル](https://discord.gg/8Ms7Cr4)に連絡してください。
+
+### Base Bridges
+
+For GHST on Base:
+
+- Canonical bridge (Ethereum↔Base): Superbridge
+- Fast bridges (Polygon↔Base): Bungee, Jumper (availability subject to providers)
+
+Refer to the official blog post “GHST Token Is Now Live on Base” for current guidance.
 
 ## 中央集権化ブリッジ
 

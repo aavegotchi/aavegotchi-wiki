@@ -20,6 +20,7 @@ contributors:
 <li><a href=#what-is-kinship>キンシップとは</a></li>
 <li><a href=#kinship-levels>キンシップのレベル</a></li>
 <li><a href=#kinship-and-alchemical-channeling>キンシップとアルケミカ・チャネリング</a></li>
+<li><a href=#kinship-burning>Kinship Burning</a></li>
 </ol>
 
 </div>
@@ -60,3 +61,6 @@ table_alchemicaReceivedPerChanneling
 
 すべてのAavegotchiは**24時間に1度**アルケミカル・チャネリングを行うことができます。
 
+## Kinship Burning
+
+Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 kinship point burn for each alchemical channeling event.

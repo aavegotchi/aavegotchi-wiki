@@ -31,6 +31,7 @@ contributors:
 <p><a href=#raffle-1>Raffle 1</a></p>
 <p><a href=#raffle-2>Raffle 2</a></p>
 <li><a href=#fake-gotchis-card-raffle>FAKE Gotchis Card Raffle</a></li>
+<li><a href=#forge-schematics-raffle>Forge Schematics Raffle</a></li>
 <li><a href=#chart>Chart</a></li>
 </ol>
 
@@ -71,6 +72,9 @@ contributors:
 
 ## FAKE Gotchis Card Raffle
 [9 - 12 November 2022](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/) table_fakeGotchisCardRaffle
+
+## Forge Schematics Raffle
+[10 - 13 March 2023](https://twitter.com/aavegotchi/status/1633150524785586200) table_forgeSchematicsRaffle
 
 ## Chart
 

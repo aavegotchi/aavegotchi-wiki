@@ -1,8 +1,8 @@
 ---
 author: Coder Dan
-date: '2020-04-23T07:00:00.000Z'
-title: 'ウェアラブル'
-description: 'Aavegotchiウェアラブルについて'
+date: "2020-04-23T07:00:00.000Z"
+title: "ウェアラブル"
+description: "Aavegotchiウェアラブルについて"
 image: "wearables/sergey-blue.png"
 contributors:
   - "cinnabarhorse"
@@ -14,19 +14,19 @@ contributors:
 <p class="headerImageText">セルゲイの青いタータンチェック</p>
 </div>
 
-Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です。 Aavegotchiにファッションセンスを与えるだけでなく、Aavegotchiの特性やレアリティスコアを上げ、[ミニゲーム](/minigames)や[レアリティファーミング](/rarity-farming)をより有利に進めることができます。
+Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です。 Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 ウェアラブルはERC-1155規格に準拠しています。
 
 このページでは、Aavegotchiのゲーム内で確認されているすべてのウェアラブルについて、詳細な情報を掲載しています。
 
-ウェアラブルのデザインは、[Xibot](/team#xibot)と[コミュニティアーティスト](/aartist)が担当しています。 各ウェアラブルには4つのビュー（正面、右側、左側、背面）があります。
+Design of the wearables are done by [Xibot](/team#xibot), our team of [community aartists](/aartist), and the [Forge](/forge) team. 各ウェアラブルには4つのビュー（正面、右側、左側、背面）があります。
 
 <img class="bodyImage" src="/wearables/aavegotchi-wearables-4-views.png" alt="Aavegotchi ウェアラブル - 4件のビュー" />
 
 **ウェアラブルセット**に関する情報は、[こちらのページ](/sets)をご覧ください。
 
-*注：一部のオブジェクト（IDナンバー162-198、210）はウェアラブルではないため、このページには反映されていません。 これらのオブジェクトは、[バッジ](/baadge)とハウント1の背景です。*
+_注：一部のオブジェクト（IDナンバー162-198、210）はウェアラブルではないため、このページには反映されていません。 これらのオブジェクトは、[バッジ](/baadge)とハウント1の背景です。_
 
 <div class="contentsBox">
 
@@ -66,6 +66,10 @@ Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です�
 <li><a href=#haunt-2-wearables>ハウント2・ウェアラブル</a></li>
 <li><a href=#partnerships-set>パートナーシップ・セット</a></li>
 <li><a href=#defi-rpg-wearables>DeFi RPG・ウェアラブル</a></li>
+<li><a href=#forge-wearables>Forge Wearables</a></li>
+<li><a href=#forge-wearables-2>Forge Wearables 2</a></li>
+<li><a href=#gotchigang-wearables>Gotchigang Wearables</a></li>
+<li><a href=#base-wearables>Base Wearables</a></li>
 </ol>
 
 </div>
@@ -74,14 +78,14 @@ Aavegotchiのゲームにおいて、ウェアラブルは重要な要素です�
 
 Aavegotchiは4つの特性を持っており、ウェアラブルによって変更することができます。
 
-* AGG＝攻撃性
-* NRG＝エネルギー
-* SPK = 不気味さ（おどろおどろしさ）
-* BRN = 脳の大きさ
+- AGG＝攻撃性
+- NRG＝エネルギー
+- SPK = 不気味さ（おどろおどろしさ）
+- BRN = 脳の大きさ
 
 「目の色（Eye Color）」と「目の形（Eye Shape）」の特性はウェアラブルで変更することはできません。
 
-*注意：マイナスの数値は、特性が「弱くなる」ことを意味するものではありません。 Aavegotchiの特性はベル曲線で分布しているので、極端な(0,1)と(99,100)が実は一番良いのです！*
+_注意：マイナスの数値は、特性が「弱くなる」ことを意味するものではありません。 Aavegotchiの特性はベル曲線で分布しているので、極端な(0,1)と(99,100)が実は一番良いのです！_
 
 詳しくは、[特性](/traits)を参照してください。
 
@@ -139,7 +143,7 @@ table_farmerWearablesTable
 
 ## サンタ・ウェアラブルセット
 
-我々の友人の一人が誤ってGHSTステーキング・コントラクトに4000 LINK (~$50,000)を送信してしまいました。 私たちは、彼を助けるためにコミュニティから資金を集めました。 SantaGotchi.ethに20ドル分以上のERC20トークン（どのタイプでも）を寄付した人全員に、限定版サンタゴッチハットをエアドロップすることにしました。 詳しくは[こちら](https://twitter.com/aavegotchi/status/1339738554906243072)をご覧ください。 ウェアラブルの画像は近日公開予定です！ サンタのウェアラブルセットの他のアイテムも、近日公開予定です。
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. 私たちは、彼を助けるためにコミュニティから資金を集めました。 SantaGotchi.ethに20ドル分以上のERC20トークン（どのタイプでも）を寄付した人全員に、限定版サンタゴッチハットをエアドロップすることにしました。 詳しくは[こちら](https://twitter.com/aavegotchi/status/1339738554906243072)をご覧ください。 ウェアラブルの画像は近日公開予定です！ サンタのウェアラブルセットの他のアイテムも、近日公開予定です。
 
 table_santaWearablesTable
 
@@ -246,3 +250,19 @@ table_partnershipsTable
 ## DeFi RPG・ウェアラブル
 
 table_DeFiRPGTable
+
+## Forge Wearables
+
+table_forgeWearablesTable
+
+## Forge Wearables 2
+
+table_forgeWearables2Table
+
+## Gotchigang Wearables
+
+table_gotchigangWearablesTable
+
+## Base Wearables
+
+table_baseWearablesTable
