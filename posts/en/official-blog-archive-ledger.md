@@ -73,4 +73,4 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 - Wiki target: `posts/en/aavegotchi-improvement-proposals-2022.md` → “Co-Sponsoring the GoodGhosting Pool”
 - Status: **partial** (proposal details already present; added blog announcement citation)
 
-PR: (pending)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/384
