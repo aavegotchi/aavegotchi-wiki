@@ -105,6 +105,24 @@ The top 3 costumes won 100, 50, and 25 GHST, respectively.
 
 <img class="bodyImage" src="/contests/genie-gotchi.png">
 
+## Gotchiverse Halloween Decorating Contest (October 2022)
+
+In October 2022, Pixelcraft Studios ran a Gotchiverse parcel decorating contest with a **10,000 GHST** prize pool. See: https://blog.aavegotchi.com/gotchiverse-halloween-contest-features-10k-ghst-in-prizes-up-for-grabs/
+
+Prize distribution (as announced):
+- Special prizes (highest-ranked parcel in each size):
+  - Top Spacious: 1,000 GHST
+  - Top Reasonable: 750 GHST
+  - Top Humble: 500 GHST
+- Top 100 ranked parcels (including the three above):
+  - 1st: 1,000 GHST
+  - 2nd: 750 GHST
+  - 3rd: 500 GHST
+  - 4th: 300 GHST
+  - 5th: 200 GHST
+  - 6th–10th: 100 GHST
+  - 11th–100th: 50 GHST
+
 ## DeFi RPG Wearables Meme Contest
 
 ### <span style="color:gold">1st place: Thrax</span>
@@ -120,6 +138,14 @@ The top 3 costumes won 100, 50, and 25 GHST, respectively.
 <img class="bodyImage" src="/contests/occams_schick.png">
 
 ## Mosaic Tiles Aart Contest
+
+The contest winners and prize distribution were announced in an official blog post on **October 1, 2022**: https://blog.aavegotchi.com/gotchiverse-mosaic-tiles-art-contest-winners-confirmed/
+
+**Prizes (as announced):**
+- 1st: **5,000 GHST**
+- 2nd: **3,500 GHST**
+- 3rd: **1,500 GHST**
+- 4th–10th: in-game wearables (see source for the full list)
 
 ### <span style="color:gold">1st place: Notorious BTC</span>
 
