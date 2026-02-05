@@ -721,6 +721,8 @@ SZN 5: October - November
 
 SZN 6: February - March 2023
 
+Governance announcement (June 22, 2022): [[VOTE] AGIP 31, 32, 33, 34, 35 & 36](https://blog.aavegotchi.com/new-core-props-live/)
+
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/launch-of-rf-szn4/3875)
 
 Option 1: Yes, formally start RF Szn 4
@@ -765,6 +767,8 @@ A brief overview of why this is good for GHST:
 None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
 
 Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
+
+Governance announcement (June 22, 2022): [[VOTE] AGIP 31, 32, 33, 34, 35 & 36](https://blog.aavegotchi.com/new-core-props-live/)
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/use-dyst-voting-power-for-the-vqi-qi-pool/4010)
 
@@ -818,6 +822,8 @@ This topic has been discussed at length. For a full understanding, I highly enco
 Given the amount of time invested in recreating this recipe, there are few contingencies.
 
 The reduction in alchemica inflation also means a reduced ROI (in terms of alchemica, not necessarily $$$)
+
+Governance announcement (June 22, 2022): [[VOTE] AGIP 31, 32, 33, 34, 35 & 36](https://blog.aavegotchi.com/new-core-props-live/)
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/something-aint-right-with-installation-upgrades-resolved-and-in-progress/3715)
 
@@ -897,6 +903,8 @@ If the CoreProp passes, the token swap should process in a predictable way. I su
 
 * Pixelcraft Studios shall make an announcement in Aavegotchi Discord confirming the reception of the DAI, thus concluding the token swap.
 
+Governance announcement (June 22, 2022): [[VOTE] AGIP 31, 32, 33, 34, 35 & 36](https://blog.aavegotchi.com/new-core-props-live/)
+
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/token-swap-1-75m-dai-from-aavegotchidao-for-ghst-from-pixelcraft-studios/3769)
 
 Option 1: Yes, perform a swap of 1.75M DAI
@@ -938,6 +946,8 @@ My thoughts are that it's generally not ideal to do a token sale in the middle o
 
 However, the DAO has voted to do this sale, and it passed overwhelmingly, so the DAO will also need to vote to delay it."
 
+Governance announcement (June 22, 2022): [[VOTE] AGIP 31, 32, 33, 34, 35 & 36](https://blog.aavegotchi.com/new-core-props-live/)
+
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/delay-the-3rd-land-auction/4063)
 
 Option 1: Yes, delay LAND 3 Release
@@ -978,6 +988,8 @@ Imo this would:
 * Overall make the Gotchiverse in its current form more interesting
 
 Lastly, I would like to note one thing. This proposal suggests introducing the Hot Zone mechanic as soon as spillover is resumed. However, the reverse is not the case. This proposal is not a vote to turn spillover back on, I merely believe it to be one piece in the larger puzzle.
+
+Governance announcement (June 22, 2022): [[VOTE] AGIP 31, 32, 33, 34, 35 & 36](https://blog.aavegotchi.com/new-core-props-live/)
 
 Details on the AGIP can be found [here](https://dao.aavegotchi.com/t/utilizing-the-channeling-hot-zone/4055)
 

@@ -252,7 +252,7 @@ contributors: ["unintelligent-nerd"]
 <p></p>
 
 ## [Memers, you ready?](https://blog.aavegotchi.com/introducing-the-aavegotchi-meme-bounty-program/)
-* Aavegotchi launches an ongoing meme bounty program!
+* On Feb 20, 2022, Aavegotchi launched a meme bounty program.
 * If your meme gets selected, winners will get a **100 GHST** bounty for image memes, and **200 GHST** bounty for video memes directly to your address after the post is live.
 <p></p>
 
