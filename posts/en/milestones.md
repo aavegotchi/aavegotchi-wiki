@@ -187,14 +187,13 @@ contributors: ["unintelligent-nerd"]
 
 ## [Rarity Farming Season 7 is upon us!](https://blog.aavegotchi.com/farming-frenzy-announcing-a-new-season-of-rarity-farming/)
 
-- Dress up your gotchis and farm that yield in Rarity Farming Season 7
-- Commencing on 31 October 2023!
+- On 2023-10-27, Pixelcraft announced Rarity Farming Season 7, which began on 2023-10-31.
   <p></p>
 
 ## [Aavegotchi Halloween Party!](https://blog.aavegotchi.com/boo-your-invitation-to-the-aavegotchi-halloween-2023-party/)
 
-- Save the date for the Aavegotchi Halloween Party on Oct 28!
-- Plenty of fun activities including an IRL Costume Contest, Online Art Contest, First 3D playtest, GHST Airdrops, and moar!
+- On 2023-10-18, Pixelcraft announced the Aavegotchi Halloween Party, which took place on 2023-10-28 in the Aavegotchi Discord.
+- Activities included an IRL Costume Contest, Online Art Contest, first Gotchiverse3D playtest, GHST airdrops, and more.
   <p></p>
 
 ## [October 2023 Dev Update](https://blog.aavegotchi.com/aavegotchi-dev-update-october-2023/)
