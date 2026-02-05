@@ -74,3 +74,39 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 - Status: **partial** (proposal details already present; added blog announcement citation)
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/384
+
+---
+
+## 2022-02-01 — Aavegotchi GHST Token Is Now Live on Aave.com
+
+- Blog URL: https://blog.aavegotchi.com/aavegotchi-ghst-token-is-now-live-on-aave-com/
+
+### Durable claims → wiki mapping
+
+1) **2022-02-01: GHST became available to deposit and borrow on the Aave Polygon Market** (historic listing; early example of Aave cross-chain governance)
+- Wiki target: `posts/en/ghst.md` → “Historical milestones”
+- Status: **present**
+
+2) **Historical timeline items referenced GHST’s bonding-curve launch (2020) and the Ethereum→Polygon migration (2021)**
+- Wiki target: `posts/en/ghst.md` → “Total supply” (bonding curve history) + “Buying GHST” (chain availability)
+- Status: **present** (covered elsewhere; no additional durable facts needed from this post)
+
+PR: (this batch)
+
+---
+
+## 2023-03-22 — Let the Great GHST Migration Begin!
+
+- Blog URL: https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/
+
+### Durable claims → wiki mapping
+
+1) **2023-03-22: AGIP64 and AGIP65 were described as having passed on Snapshot, with planned follow-up on-chain Aragon votes** (close the bonding curve; allocate Curve DAI)
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2023.md` → “AGIP #64” and “AGIP #65”
+- Status: **present** (blog context + citation added)
+
+2) **Historical bridge guidance for Polygon→Ethereum GHST migration for quorum/voting** (time-to-withdraw + “claim on Ethereum” step were called out as UX facts at the time)
+- Wiki target: `posts/en/bridge.md` → “Aavegotchi Bridge”
+- Status: **present** (added as explicitly historical/time-bound note with citation)
+
+PR: (this batch)

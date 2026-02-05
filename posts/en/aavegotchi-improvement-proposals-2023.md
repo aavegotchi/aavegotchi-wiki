@@ -842,6 +842,8 @@ table_agip64
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0x6cabf7712786db0f3a954fe03e84c44a12d4b14aa2fb5243c606607bf6296bf1)
 
+Historical blog context (2023-03-22): After AGIP64/65 passed on Snapshot, the team published a guide for bridging GHST back to Ethereum in preparation for the on-chain Aragon votes to close the bonding curve and allocate the Curve DAI. Source: [Let the Great GHST Migration Begin! (2023-03-22)](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
+
 <hr>
 
 ### 25/25/25/25 Split for Curve DAI
@@ -882,6 +884,8 @@ Option 2: No, find another way
 table_agip65
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/?ref=the-curve#/proposal/0xdae48a92f83f8317dac11e1f28475ce38f6cf9b1986695b6d229e50ca24c03ea)
+
+Historical blog context (2023-03-22): The team’s “Great GHST Migration” post described the planned two-step on-chain vote process (freeze the curve by delisting DAI collateral; then transfer Curve DAI to external wallets/multisigs per AGIP65) and encouraged participants to bridge GHST back to Ethereum to meet quorum. Source: [Let the Great GHST Migration Begin! (2023-03-22)](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
 
 <hr>
 

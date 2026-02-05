@@ -43,6 +43,8 @@ The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Hist
 
 Sources: [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/); [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
 
+Historical note (2023-03-22): During the on-chain governance process to close the GHST bonding curve, the team published a step-by-step guide for bridging GHST from Polygon back to Ethereum for voting/quorum purposes (and noted Polygon→Ethereum withdrawals could take ~2–3 hours, sometimes longer, plus a final “claim on Ethereum” step). Source: [Let the Great GHST Migration Begin! (2023-03-22)](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
+
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge">
 
 The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
