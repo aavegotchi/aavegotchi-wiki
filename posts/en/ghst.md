@@ -18,6 +18,10 @@ Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of
 
 GHST is live on Base. Aavegotchi has migrated to Base.
 
+## Historical milestones
+
+- **2022-02-01:** GHST became available to **deposit and borrow on the Aave Polygon Market** (a historic listing and one of the early examples of Aave cross-chain governance in action). Source: [Aavegotchi GHST Token Is Now Live on Aave.com (2022-02-01)](https://blog.aavegotchi.com/aavegotchi-ghst-token-is-now-live-on-aave-com/)
+
 GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
@@ -45,7 +49,7 @@ For more information, make sure to check out the [Tokenomics page](/tokenomics).
 
 ## Total supply
 
-GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token; the curve was turned off on **2023-03-11**. (Source: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/))
+GHST was initially launched using a “bonding curve” mechanism where GHST was backed by DAI. However, in 2023, the AavegotchiDAO [voted to remove the bonding curve](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve) and make GHST a free-floating token; the curve was turned off on **2023-03-11**. After the bonding curve was closed, the ~30M DAI collateral backing it was distributed per the terms of AGIP-65. (Sources: [Aavegotchi Dev Update — June 2023](https://blog.aavegotchi.com/aavegotchi-dev-update-june-2023/); [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
 
