@@ -18,6 +18,10 @@ Holding GHST grants the owner voting power in [AavegotchiDAO](/dao) at a rate of
 
 GHST is live on Base. Aavegotchi has migrated to Base.
 
+## Historical milestones
+
+- **2022-02-01:** GHST became available to **deposit and borrow on the Aave Polygon Market** (a historic listing and one of the early examples of Aave cross-chain governance in action). Source: [Aavegotchi GHST Token Is Now Live on Aave.com (2022-02-01)](https://blog.aavegotchi.com/aavegotchi-ghst-token-is-now-live-on-aave-com/)
+
 GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
