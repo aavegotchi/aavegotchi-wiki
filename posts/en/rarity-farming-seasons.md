@@ -22,6 +22,8 @@ Rarity Farming is organized into different seasons. Here's the data for each sea
 <li><a href=#season-7>Season 7</a></p>
 <li><a href=#season-8>Season 8</a></p>
 <li><a href=#season-9>Season 9</a></p>
+<li><a href=#season-10>Season 10</a></p>
+<li><a href=#season-11>Season 11</a></p>
 <li><a href=#ghst-distribution-by-season>GHST Distribution by Season</a></p>
 <li><a href=#references>References</a></p>
 </ol>
@@ -161,6 +163,29 @@ Rarity Farming Season 9 was held from Saturday, 10 August 2024 - Saturday, 5 Oct
 
 [Spreadsheet of Rarity Farming Season 9 Rewards](https://docs.google.com/spreadsheets/d/1z0-duUZ8GqyQySzKInDstZkdgmHskbgw3U2PyxQFhuY/)
 
+## Season 10
+
+Rarity Farming Season 10 (“Season X”) was announced as live in January 2025.
+
+The official Season 10 announcement references:
+- **1.5 million GHST**
+- **300K GHST**
+
+Source:
+- [Get Xcited–Rarity Farming Season X Is Live! (2025-01-08)](https://blog.aavegotchi.com/rarity-farming-season-10/)
+
+## Season 11
+
+Rarity Farming Season 11 was announced as live in August 2025, with the official post stating that the season would be hosted on **Base**.
+
+The official Season 11 announcement references:
+- **3 million GHST**
+- **1.5 million GHST**
+- **300K GHST**
+
+Source:
+- [Rarity Farming Season 11 is live now on Base! (2025-08-26)](https://blog.aavegotchi.com/rarity-farming-season-11-is-live-now-on-base/)
+
 ## GHST Distribution by Season
 
 table_rarityFarmingSeasons
@@ -184,3 +209,7 @@ table_rarityFarmingSeasons
 * [Rarity Farming Season 8 Blog post](https://blog.aavegotchi.com/rarity-farming-season-8/)
 
 * [Rarity Farming Season 9 Blog post](https://blog.aavegotchi.com/rarity-farming-season-9/)
+
+* [Rarity Farming Season 10 Blog post](https://blog.aavegotchi.com/rarity-farming-season-10/)
+
+* [Rarity Farming Season 11 Blog post](https://blog.aavegotchi.com/rarity-farming-season-11-is-live-now-on-base/)
