@@ -105,6 +105,12 @@ REALM parcels that are adjacent to one another can be used to form [estaates](/e
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Aavegotchi REALM Parcel Sizes">
 
+## Land auctions and raffles (historical)
+
+- **2022-05 (AGIP 30):** a governance proposal proposed scheduling **Gotchiverse Land Auction/Raffle #3** in **June 2022**, with **8,000 parcels** total (70% auction / 30% raffle) and a proposed revenue distribution.
+  - Source: https://blog.aavegotchi.com/vote-agip-29-30/
+  - Note: this section records the *historical proposal details*; it does not assert the final executed parameters.
+
 ## REALM Gameplay
 
 <div class="headerImageContainer">

@@ -52,3 +52,39 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 - Status: **present**
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
+
+---
+
+## 2023-02-01 — Core Proposals AGIP 57 & 58 Hit the AavegotchiDAO Snapshot Page
+
+- Blog URL: https://blog.aavegotchi.com/two-core-proposals-live/
+
+### Durable claims → wiki mapping
+
+1) **2023-02-01: AGIP 57 (“Core Framework”) was live for vote as a framework for managing future wearable emissions / core releases (Forge context)**
+- Wiki target: `posts/en/forge.md` → “Governance and history”
+- Status: **present** (added historical note + citation)
+
+2) **2023-02-01: AGIP 58 (“Launch Round 2 Parcel VRF Rolls”) was live for vote**
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2023.md` → “Launch Round 2 Parcel VRF Rolls”
+- Status: **present** (blog citation added)
+
+PR: (this PR)
+
+---
+
+## 2022-05-21 — AavegotchiDAO [VOTE] AGIP 29 & 30
+
+- Blog URL: https://blog.aavegotchi.com/vote-agip-29-30/
+
+### Durable claims → wiki mapping
+
+1) **2022-05: AGIP 29 proposed switching solo alchemical channeling from a strict 24-hour cooldown to a UTC-day window (00:00 → 23:59 UTC)**
+- Wiki target: `posts/en/alchemical-channeling.md` → “How much…” + “Limits on Alchemical Channeling”
+- Status: **present** (added window wording + historical note + citation)
+
+2) **2022-05: AGIP 30 proposed scheduling Gotchiverse Land Auction/Raffle #3 in June 2022 (incl. 8,000 parcels; 70/30 auction/raffle; proposed revenue distribution)**
+- Wiki target: `posts/en/gotchiverse.md` → “Land auctions and raffles (historical)”
+- Status: **present** (added historical proposal note + citation)
+
+PR: (this PR)
