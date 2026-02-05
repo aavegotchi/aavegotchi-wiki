@@ -53,4 +53,4 @@ table_poaps
 
 ## Xem Bộ sưu tập POAP
 
-Để xem bộ sưu tập POAP của bạn, hãy truy cập vào[https://app.poap.xyz/](https://app.poap.xyz/) và kết nối với MetaMask.
+Để xem bộ sưu tập POAP của bạn, hãy truy cập vào[https://collectors.poap.xyz/](https://collectors.poap.xyz/) và kết nối với MetaMask.
