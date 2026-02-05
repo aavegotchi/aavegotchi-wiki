@@ -91,7 +91,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/384
 - Wiki target: `posts/en/ghst.md` → “Total supply” (bonding curve history) + “Buying GHST” (chain availability)
 - Status: **present** (covered elsewhere; no additional durable facts needed from this post)
 
-PR: (this batch)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/385
 
 ---
 
@@ -109,4 +109,4 @@ PR: (this batch)
 - Wiki target: `posts/en/bridge.md` → “Aavegotchi Bridge”
 - Status: **present** (added as explicitly historical/time-bound note with citation)
 
-PR: (this batch)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/385
