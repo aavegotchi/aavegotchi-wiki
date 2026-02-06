@@ -88,3 +88,39 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
 - Status: **present** (added historical proposal note + citation)
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
+
+---
+
+## 2022-05-31 — $GLTR: Fast-Track Your Gotchiverse Upgrades
+
+- Blog URL: https://blog.aavegotchi.com/gltr-spending-live/
+
+### Durable claims → wiki mapping
+
+1) **2022-05-31: GLTR described as a fair-launch liquidity reward token (“tokenized time”) with primary utility: burning GLTR to reduce crafting/upgrading times (1 GLTR ≈ 1 Polygon block)**
+- Wiki target: `posts/en/gotchus-alchemica-exchange.md` → “GLTR Token”
+- Status: **partial** (core facts were already present; blog citation added in this batch)
+
+2) **Tokenomics: max supply 1T; 100% distribution to liquidity rewards over 30 years; ~10% in first year; halvings ~every 4 years (as described at the time)**
+- Wiki target: `posts/en/gotchus-alchemica-exchange.md` → “GLTR Token”
+- Status: **partial** (facts were present; blog citation added in this batch)
+
+3) **Official contract addresses published (Polygon): GLTR token + GLTR staking contract**
+- Wiki target: `posts/en/gotchus-alchemica-exchange.md` → “GLTR Token” → “Contract addresses (Polygon, historical)”
+- Status: **present** (added as historical + citation)
+
+PR: (pending)
+
+---
+
+## 2022-06-03 — Binance Enables GHST Deposits and Withdrawals on Polygon
+
+- Blog URL: https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/
+
+### Durable claims → wiki mapping
+
+1) **2022-06-03: Binance announced enabling GHST deposits/withdrawals on Polygon (historical accessibility milestone)**
+- Wiki target: `posts/en/ghst.md` → “Historical milestones”
+- Status: **present** (added historical note + citation)
+
+PR: (pending)
