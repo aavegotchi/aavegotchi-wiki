@@ -17,6 +17,8 @@ Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle 
 
 The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the lickquidators, their creators.
 
+Design docs (historical): [Gotchiverse Game Bible](/gotchiverse-game-bible) (announced 2022-01-14; hosted on GitHub; time-bound schedules may be superseded).
+
 <a name="Realm"></a>
 
 <div class="contentsBox">
