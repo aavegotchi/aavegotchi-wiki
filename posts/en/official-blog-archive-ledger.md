@@ -88,3 +88,35 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/386
 - Status: **present** (framed as plan/target at the time)
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/386
+
+---
+
+## 2023-03-22 — Let the Great GHST Migration Begin!
+
+- Blog URL: https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/
+
+### Durable claims → wiki mapping
+
+1) **2023-03-22: AGIP64 (Close the GHST Bonding Curve) + AGIP65 (25/25/25/25 Split for Curve DAI) were described as moving from Snapshot to formal on-chain Aragon votes on Ethereum (historical process + context)**
+- Wiki target: `posts/en/ghst.md` → “Total supply”
+- Status: **present** (now cited as historical context; step-by-step bridging instructions intentionally not copied)
+
+2) **On-chain curve turnoff described as a two-step process (delist DAI collateral; approve transfer of DAI from the curve treasury), after which GHST would no longer be minted/burned via the curve contract**
+- Wiki target: `posts/en/ghst.md` → “Total supply”
+- Status: **partial** (high-level effect is covered; the Aragon mechanics/2-step breakdown is not currently detailed)
+
+PR: TBD
+
+---
+
+## 2022-02-01 — Aavegotchi GHST Token Is Now Live on Aave.com
+
+- Blog URL: https://blog.aavegotchi.com/aavegotchi-ghst-token-is-now-live-on-aave-com/
+
+### Durable claims → wiki mapping
+
+1) **2022-02-01: GHST became available to deposit and borrow on the Aave Polygon Market (historic listing; first cross-chain governance utilization for Aave)**
+- Wiki target: `posts/en/ghst.md` → “Historical milestones”
+- Status: **present**
+
+PR: TBD
