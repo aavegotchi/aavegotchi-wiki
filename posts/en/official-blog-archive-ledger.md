@@ -124,3 +124,51 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/387
 - Status: **present** (added historical note + citation)
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/387
+
+---
+
+## 2023-03-22 — Let the Great GHST Migration Begin!
+
+- Blog URL: https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/
+
+### Durable claims → wiki mapping
+
+1) **2023-03-22: Aragon on-chain vote quorum described as 8% of total GHST supply at vote creation**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+2) **2023-03-22: Pixelcraft aimed for 12% of GHST supply present on Ethereum before initiating Aragon voting (to help ensure quorum)**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+3) **2023-03-22: Shutdown described as two votes (delist DAI collateral to freeze curve trading; then approve/transfer DAI reserve to an external wallet/multisig for distribution)**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+4) **2023-03-22: XP incentive described — 100 XP per vote per Aavegotchi for wallets participating in both on-chain votes (conditional on quorum)**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+PR: (pending)
+
+---
+
+## 2022-05-28 — Aavegotchi Staking: A Step-by-Step Guide to Staking GHST and Earning FRENS
+
+- Blog URL: https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
+
+### Durable claims → wiki mapping
+
+1) **2022-05-28: FRENS described as non-transferable/not purchasable rewards inside the staking contract; used to buy raffle tickets**
+- Wiki target: `posts/en/staking.md` → “Historical: GHST staking for FRENS (pre-sunset)”
+- Status: **present** (added historical note + citation)
+
+2) **2022-05-28: Five staking options described at the time (GHST; GHST-QUICK; GHST-USDC; GHST-WETH; GHST-MATIC)**
+- Wiki target: `posts/en/staking.md` → “Historical: GHST staking for FRENS (pre-sunset)”
+- Status: **present** (added historical note + citation)
+
+3) **2022-05-28: Baseline single-sided GHST staking described as 1 FREN/day per GHST; rates could change over time**
+- Wiki target: `posts/en/staking.md` → “Historical: GHST staking for FRENS (pre-sunset)”
+- Status: **present** (added historical note + citation)
+
+PR: (pending)
