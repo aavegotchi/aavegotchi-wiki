@@ -109,7 +109,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
 - Wiki target: `posts/en/gotchus-alchemica-exchange.md` → “GLTR Token” → “Contract addresses (Polygon, historical)”
 - Status: **present** (added as historical + citation)
 
-PR: (pending)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/387
 
 ---
 
@@ -123,4 +123,4 @@ PR: (pending)
 - Wiki target: `posts/en/ghst.md` → “Historical milestones”
 - Status: **present** (added historical note + citation)
 
-PR: (pending)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/387
