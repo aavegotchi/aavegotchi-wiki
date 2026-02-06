@@ -15,11 +15,22 @@ Note: FRENS has been sunset. Stake liquidity to earn GLTR instead via the GLTR s
 
 Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
+## Historical: FRENS-era staking
+
+This section captures **historical** staking mechanics from the period when staking GHST (and certain LP positions) earned **FRENS**.
+
+- **2022-05-28:** Pixelcraft published a staking guide describing FRENS as a **non-transferable** balance tracked in the staking contract. At the time, FRENS could be converted into raffle tickets and used in NFT raffles (Portals, Wearables, Gotchiverse land). Source: [“Aavegotchi Staking: A Step-by-Step Guide to Staking GHST and Earning FRENS” (2022-05-28)](https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/)
+- The same guide described **five** FRENS-earning staking options (as of publication): **GHST**, **GHST-QUICK**, **GHST-USDC**, **GHST-WETH**, **GHST-MATIC**. (Source above.)
+- The guide described a then-current baseline of **1 FREN per day per GHST** for single-sided staking, and noted that rates were subject to change by the FRENS committee. (Source above.)
+
+> Note: These details are time-bound and may be superseded by later tokenomics changes (including the later shift to GLTR incentives).
+
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
+<li><a href=#historical-frens-era-staking>Historical: FRENS-era staking</a></li>
 <li><a href=#gltr>GLTR</a></li>
 <li><a href=#staking-for-gltr>Staking for GLTR</a></li>
 </ol>
