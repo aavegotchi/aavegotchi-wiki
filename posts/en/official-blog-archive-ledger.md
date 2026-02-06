@@ -88,3 +88,43 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
 - Status: **present** (added historical proposal note + citation)
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
+
+---
+
+## 2023-03-22 — Let the Great GHST Migration Begin!
+
+- Blog URL: https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/
+
+### Durable claims → wiki mapping
+
+1) **2023-03-22: Closing the GHST bonding curve was described as requiring two Aragon on-chain votes** (delist DAI collateral; then approve an external wallet to transfer the DAI treasury for distribution per DAO direction)
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2023.md` → “Close the GHST Bonding Curve” → Process
+- Status: **present** (added historical note + citation)
+
+2) **2023-03-22: Quorum context / bridging rationale** (Aragon quorum requirement described as 8% of total GHST supply; motivation for coordinating a migration of GHST back to Ethereum for voting)
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2023.md` → “Close the GHST Bonding Curve” → Process
+- Status: **partial** (quorum/bridge rationale present; newly added additional process detail + blog citation)
+
+PR: (this PR)
+
+---
+
+## 2022-05-28 — Aavegotchi Staking: A Step-by-Step Guide to Staking GHST and Earning FRENS
+
+- Blog URL: https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
+
+### Durable claims → wiki mapping
+
+1) **2022-05-28: Staking GHST earned FRENS (non-transferable) used for raffle tickets / NFT raffles** (historical mechanics)
+- Wiki target: `posts/en/staking.md` → “Historical: FRENS-era staking”
+- Status: **present** (added historical framing + citation)
+
+2) **2022-05-28: The guide described five FRENS-earning staking options** (GHST; GHST-QUICK; GHST-USDC; GHST-WETH; GHST-MATIC)
+- Wiki target: `posts/en/staking.md` → “Historical: FRENS-era staking”
+- Status: **present**
+
+3) **2022-05-28: Baseline described as 1 FREN/day per GHST for single staking, with rates subject to change**
+- Wiki target: `posts/en/staking.md` → “Historical: FRENS-era staking”
+- Status: **present**
+
+PR: (this PR)

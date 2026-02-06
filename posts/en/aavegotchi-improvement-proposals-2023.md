@@ -802,6 +802,8 @@ This CoreProp and a DAI distribution CoreProp must both pass in order to confirm
 
 *Achieving quorum on our on-chain vote requires 8% of total GHST supply to participate. That means GHST holders need to coordinate migrating GHST back to Ethereum between now and the vote so that we can honor the AGIP and successfully close the Curve.
 
+Historical note (2023-03-22): Pixelcraft described the “turn off the bonding curve” process as requiring **two Aragon on-chain votes**: (1) delist DAI as collateral in the bonding curve contract (freezing curve trading once enacted) and (2) approve an external wallet to transfer the DAI treasury out for distribution per AGIP-65. Source: [“Let the Great GHST Migration Begin!” (2023-03-22)](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
+
 IF Aragon vote successfully closes the Curve:
 
 The Curve will immediately close, capping the supply of GHST. Any DAI collateral shall be transferred to all multisig wallets in accordance with the terms of the 25/25/25/25 AGIP.
