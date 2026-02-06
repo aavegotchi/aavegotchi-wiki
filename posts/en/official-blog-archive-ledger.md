@@ -88,3 +88,87 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
 - Status: **present** (added historical proposal note + citation)
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
+
+---
+
+## 2022-05-31 — $GLTR: Fast-Track Your Gotchiverse Upgrades
+
+- Blog URL: https://blog.aavegotchi.com/gltr-spending-live/
+
+### Durable claims → wiki mapping
+
+1) **2022-05-31: GLTR described as a fair-launch liquidity reward token (“tokenized time”) with primary utility: burning GLTR to reduce crafting/upgrading times (1 GLTR ≈ 1 Polygon block)**
+- Wiki target: `posts/en/gotchus-alchemica-exchange.md` → “GLTR Token”
+- Status: **partial** (core facts were already present; blog citation added in this batch)
+
+2) **Tokenomics: max supply 1T; 100% distribution to liquidity rewards over 30 years; ~10% in first year; halvings ~every 4 years (as described at the time)**
+- Wiki target: `posts/en/gotchus-alchemica-exchange.md` → “GLTR Token”
+- Status: **partial** (facts were present; blog citation added in this batch)
+
+3) **Official contract addresses published (Polygon): GLTR token + GLTR staking contract**
+- Wiki target: `posts/en/gotchus-alchemica-exchange.md` → “GLTR Token” → “Contract addresses (Polygon, historical)”
+- Status: **present** (added as historical + citation)
+
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/387
+
+---
+
+## 2022-06-03 — Binance Enables GHST Deposits and Withdrawals on Polygon
+
+- Blog URL: https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/
+
+### Durable claims → wiki mapping
+
+1) **2022-06-03: Binance announced enabling GHST deposits/withdrawals on Polygon (historical accessibility milestone)**
+- Wiki target: `posts/en/ghst.md` → “Historical milestones”
+- Status: **present** (added historical note + citation)
+
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/387
+
+---
+
+## 2023-03-22 — Let the Great GHST Migration Begin!
+
+- Blog URL: https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/
+
+### Durable claims → wiki mapping
+
+1) **2023-03-22: Aragon on-chain vote quorum described as 8% of total GHST supply at vote creation**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+2) **2023-03-22: Pixelcraft aimed for 12% of GHST supply present on Ethereum before initiating Aragon voting (to help ensure quorum)**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+3) **2023-03-22: Shutdown described as two votes (delist DAI collateral to freeze curve trading; then approve/transfer DAI reserve to an external wallet/multisig for distribution)**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+4) **2023-03-22: XP incentive described — 100 XP per vote per Aavegotchi for wallets participating in both on-chain votes (conditional on quorum)**
+- Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
+- Status: **present** (added historical note + citation)
+
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/388
+
+---
+
+## 2022-05-28 — Aavegotchi Staking: A Step-by-Step Guide to Staking GHST and Earning FRENS
+
+- Blog URL: https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
+
+### Durable claims → wiki mapping
+
+1) **2022-05-28: FRENS described as non-transferable/not purchasable rewards inside the staking contract; used to buy raffle tickets**
+- Wiki target: `posts/en/staking.md` → “Historical: GHST staking for FRENS (pre-sunset)”
+- Status: **present** (added historical note + citation)
+
+2) **2022-05-28: Five staking options described at the time (GHST; GHST-QUICK; GHST-USDC; GHST-WETH; GHST-MATIC)**
+- Wiki target: `posts/en/staking.md` → “Historical: GHST staking for FRENS (pre-sunset)”
+- Status: **present** (added historical note + citation)
+
+3) **2022-05-28: Baseline single-sided GHST staking described as 1 FREN/day per GHST; rates could change over time**
+- Wiki target: `posts/en/staking.md` → “Historical: GHST staking for FRENS (pre-sunset)”
+- Status: **present** (added historical note + citation)
+
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/388
