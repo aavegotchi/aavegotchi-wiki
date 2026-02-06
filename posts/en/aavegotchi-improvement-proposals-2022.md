@@ -1056,6 +1056,8 @@ table_agip37
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0x9923aab6825158ec2503d88e3ee2f9c5fbb12000581d06343ac9829aa59b66a6)
 
+Blog announcement (Aug 3, 2022): [VOTE] AGIP 37 & 38: Voting Power for new Staking Pools and Stopping new BRS Wearable Emissions](https://blog.aavegotchi.com/vote-agip-37-38-voting-power-for-new-staking-pools-and-stopping-new-brs-wearable-emissions/)
+
 <hr>
 
 ### Stop new BRS Wearable Emissions until further notice
@@ -1108,6 +1110,8 @@ Option 2: No, keep things as is
 table_agip38
 
 [Link to vote on Snapshot](https://vote.aavegotchi.com/#/proposal/0xec282bd937a1d85a17726cc00711b78e2fc2f0125ff9af127ddb77497dd024e5)
+
+Blog announcement (Aug 3, 2022): [VOTE] AGIP 37 & 38: Voting Power for new Staking Pools and Stopping new BRS Wearable Emissions](https://blog.aavegotchi.com/vote-agip-37-38-voting-power-for-new-staking-pools-and-stopping-new-brs-wearable-emissions/)
 
 <hr>
 
