@@ -230,3 +230,39 @@ PR: (this batch)
 - Status: **present** (added historical note + citation)
 
 PR: (this batch)
+
+---
+
+## 2022-01-14 — Introducing the Gotchiverse Game Bible
+
+- Blog URL: https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/
+
+### Durable claims → wiki mapping
+
+1) **2022-01-14: Pixelcraft announced the Gotchiverse Game Bible as a public-facing design document hosted on GitHub**
+- Wiki target: `posts/en/gotchiverse-game-bible.md` → TL;DR / Key facts
+- Status: **present** (added historical framing + citation)
+
+2) **Chapter governance process: forum discussion → CoreProp → DAO vote to confirm chapter contents**
+- Wiki target: `posts/en/gotchiverse-game-bible.md` → “How a chapter became canon (as described at the time)”
+- Status: **present**
+
+3) **Time-bound early release schedule (Stress Tests, Land Auction/Raffle #3, Citaadel live test, etc.)**
+- Wiki target: `posts/en/gotchiverse-game-bible.md` → “Historical: Chapter 1 release schedule (superseded)”
+- Status: **present** (explicitly marked as superseded/time-bound)
+
+PR: TBD
+
+---
+
+## 2022-06-22 — [VOTE] AGIP 31, 32, 33, 34, 35 & 36
+
+- Blog URL: https://blog.aavegotchi.com/new-core-props-live/
+
+### Durable claims → wiki mapping
+
+1) **2022-06-22: AGIP 31–36 were live on Snapshot (Rarity Farming S4; vQi-Qi incentives; Harvester recipe changes; DAO↔Pixelcraft token swap; delay LAND auction 3; channeling hot zone utility)**
+- Wiki target: `posts/en/aavegotchi-improvement-proposals-2022.md` → AGIP 31–36 sections
+- Status: **present** (blog announcement citation already present in the AGIP index page)
+
+PR: (this batch)
