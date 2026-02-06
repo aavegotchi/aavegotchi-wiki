@@ -69,7 +69,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 - Wiki target: `posts/en/staking.md` → “Historical: FRENS staking (2022)”
 - Status: **present** (captured as explicitly historical/time-bound)
 
-PR: (pending)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/386
 
 ---
 
@@ -87,4 +87,4 @@ PR: (pending)
 - Wiki target: `posts/en/gotchichain.md` → “Key facts (from the 2023 announcement)”
 - Status: **present** (framed as plan/target at the time)
 
-PR: (pending)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/386
