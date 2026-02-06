@@ -88,6 +88,17 @@ In early 2023, the DAO brought the closure of the bonding curve to a vote.
 - On **2023-02-20**, Pixelcraft published an announcement that **AGIP-64, AGIP-65, and AGIP-66** were live for voting. (Source: [“3 Major AavegotchiDAO Proposals Live: Vote Now on AGIP 64, 65, & 66”](https://blog.aavegotchi.com/agip-64-65-66/))
 - On **2023-02-24**, Pixelcraft published an announcement that **AGIP-67** was live for voting. (Source: [“AavegotchiDAO Assemble: Core Proposal AGIP 67 is Now Live”](https://blog.aavegotchi.com/agip-67-now-live/))
 
+On **2023-03-22**, Pixelcraft published a walkthrough of the **on-chain Aragon votes** required to execute the bonding-curve shutdown and allocate the DAI reserve.
+
+Durable historical details from that announcement:
+
+- **Aragon quorum** for the votes was described as **8% of total GHST supply** at the time the vote was created.
+- Ahead of creating the votes, Pixelcraft aimed to have at least **12% of GHST supply present on Ethereum mainnet** (so quorum could be reached).
+- The shutdown process was described as requiring **two on-chain votes** (first to **delist DAI as a collateral** to freeze trading; second to **approve/execute a transfer** of the DAI reserve to an external wallet/multisig for further distribution).
+- Pixelcraft described an **XP bonus**: wallets participating in both Aragon votes would receive **100 XP per vote per Aavegotchi** in the wallet (conditional on the votes reaching quorum).
+
+Source: [“Let the Great GHST Migration Begin!” (2023-03-22)](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
+
 Following the passing of [AGIP-64](/aavegotchi-improvement-proposals-2023#close-the-ghst-bonding-curve), the bonding curve was turned off on **2023-03-11** (often nicknamed “GHST Independence Day”), capping the supply of GHST. (Source: [Aavegotchi March 2023 Update — “GHST Bonding Curve Closed”](https://blog.aavegotchi.com/aavegotchi-march-2023-update/))
 
 The DAI in the bonding curve was allocated in equal proportions (25%) to liquidity provisioning, the DAO, Pixelcraft, and protocol rewards (see [AGIP-65](/aavegotchi-improvement-proposals-2023#25-25-25-25-split-for-curve-dai)).
