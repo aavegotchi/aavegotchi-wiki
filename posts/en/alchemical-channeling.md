@@ -45,7 +45,9 @@ Each point of Kinship increases the Alchemical Channeling modifier, by the formu
 
 <img class="bodyImage" src="/alchemical-channeling/alchemical-channeling-modifier.png">
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 hours.**
+Every Aavegotchi is eligible to engage in Alchemical Channeling **once per UTC day** (a daily window from **00:00 UTC → 23:59 UTC**).
+
+_Historical note:_ In May 2022, governance proposal **AGIP 29** proposed moving from a strict 24-hour cooldown to a **UTC-day window** system to improve quality-of-life for players. Source: https://blog.aavegotchi.com/vote-agip-29-30/
 
 The final amount is then divided into two portions – the amount the Gotchi (or its owner) receives directly, and the amount that spills nearby.
 
@@ -55,7 +57,7 @@ table_aaltarAndSpilloverRate
 
 ## Limits on Alchemical Channeling
 
-Every Aavegotchi is eligible to engage in Alchemical Channeling once every 24 hours.
+Every Aavegotchi is eligible to engage in Alchemical Channeling **once per UTC day** (00:00 UTC → 23:59 UTC).
 
 However, Alchemical Channeling does take a toll on the Alchemical Aaltar, which means it needs to recharge between channelings. Higher level Aaltars have more Spirit energy, which allows them to engage in Alchemical Channeling with a shorter cooldown:
 
@@ -64,3 +66,7 @@ table_aaltarLevelAndAlchemicalChannelings
 ## Alchemical Channeling and Kinship Burning
 
 Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 [kinship](/kinship) point burn for each alchemical channeling event.
+
+## References
+
+- [AavegotchiDAO [VOTE] AGIP 29 & 30 (2022)](https://blog.aavegotchi.com/vote-agip-29-30/)
