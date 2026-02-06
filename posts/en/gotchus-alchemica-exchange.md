@@ -101,6 +101,19 @@ GAX LP tokens can be staked into a Master Chef contract to earn GLTR.
 
 All GLTR spent in-game is burned from the supply (sent to burn address).
 
+**Contract addresses (Polygon, historical)**
+
+The official blog post announcing GLTR spending/staking (published **2022-05-31**) listed the following addresses:
+
+- **GLTR token (Polygon):** `0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc`
+- **GLTR staking contract (Polygon):** `0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c`
+
+> Note: treat these as **historical Polygon-era references**; always cross-check token/contract addresses against the latest official sources before interacting.
+
+**References (historical)**
+
+- Blog (2022-05-31): https://blog.aavegotchi.com/gltr-spending-live/
+
 ## Earning GLTR
 
 wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://aavegotchi.com/stake-gltr](https://aavegotchi.com/stake-gltr).
