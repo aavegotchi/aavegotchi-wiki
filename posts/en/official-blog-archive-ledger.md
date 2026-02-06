@@ -105,7 +105,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
 - Wiki target: `posts/en/aavegotchi-improvement-proposals-2023.md` → “Close the GHST Bonding Curve” → Process
 - Status: **partial** (quorum/bridge rationale present; newly added additional process detail + blog citation)
 
-PR: (this PR)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/390
 
 ---
 
@@ -127,4 +127,4 @@ PR: (this PR)
 - Wiki target: `posts/en/staking.md` → “Historical: FRENS-era staking”
 - Status: **present**
 
-PR: (this PR)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/390
