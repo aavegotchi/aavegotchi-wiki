@@ -19,6 +19,7 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 <li><a href=#contract-addresses-on-base>Contract Addresses on Base</a></li>
 <li><a href=#contract-addresses-on-base-sepolia-testnet>Contract Addresses on Base Sepolia Testnet</a></li>
 <li><a href=#contract-addresses-on-ethereum-sepolia-testnet>Contract Addresses on Ethereum Sepolia Testnet</a></li>
+<li><a href=#contract-addresses-on-polygon-mumbai-testnet-historical>Contract Addresses on Polygon Mumbai Testnet (Historical)</a></li>
 <li><a href=#contract-addresses-on-polygon-deprecated>Contract Addresses on Polygon (Deprecated)</a></li>
 </ol>
 
@@ -28,6 +29,17 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 - GHST Token: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 - GHST Staking Diamond: [0x93eA6ec350Ace7473f7694D43dEC2726a515E31A](https://etherscan.io/token/0x93eA6ec350Ace7473f7694D43dEC2726a515E31A)
+
+## Contract Addresses on Polygon Mumbai Testnet (Historical)
+
+_Note: These addresses were shared for the **March 24, 2022** Gotchiverse Mumbai testnet playtest guide and are provided for historical reference only. They are **not** current mainnet contract addresses._
+
+Source: [How To Access The Gotchiverse on Mumbai Testnet](https://blog.aavegotchi.com/how-to-access-the-gotchiverse-on-mumbai-testnet/)
+
+- FUD (Mumbai testnet): `0x6FAc2a5b95990E6f9F7123A99fc4F1ee4a0E5C9A`
+- FOMO (Mumbai testnet): `0xdE8D1EA6dd85fCa10f0E7120dA8E233520d7414f`
+- ALPHA (Mumbai testnet): `0xB9259df4a0ba0bfBbCBe6E1986F21D968188DbBb`
+- KEK (Mumbai testnet): `0xE204c5882C37a4D834ef3C4CCE4D3dEB872753Ef`
 
 ## Contract Addresses on Polygon (Deprecated)
 
