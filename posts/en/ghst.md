@@ -25,6 +25,7 @@ GHST is live on Base, and Aavegotchi’s canonical home has migrated to Base (hi
 ## Historical milestones
 
 - **2022-02-01:** GHST became available to **deposit and borrow on the Aave Polygon Market** (a historic listing and one of the early examples of Aave cross-chain governance in action). Source: [Aavegotchi GHST Token Is Now Live on Aave.com (2022-02-01)](https://blog.aavegotchi.com/aavegotchi-ghst-token-is-now-live-on-aave-com/)
+- **2022-06-03:** Binance announced it had enabled **GHST deposits and withdrawals on Polygon** (a UX/onboarding milestone at the time; note that exchange support can change over time). Source: [Binance Enables GHST Deposits and Withdrawals on Polygon (2022-06-03)](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/)
 - **2024-04-17:** GHST was announced as **live for trading on Base** (expanding GHST’s multichain footprint). Source: [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/)
 - **2025-07-25:** Aavegotchi announced it had **migrated to Base**, with Polygon contracts frozen/view-only as part of the transition. Source: [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
 
