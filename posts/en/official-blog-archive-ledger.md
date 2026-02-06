@@ -109,7 +109,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/382
 - Wiki target: `posts/en/gotchiverse-game-bible.md` → “Historical: Chapter 1 release schedule (superseded)”
 - Status: **present** (explicitly marked as superseded/time-bound)
 
-PR: TBD
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/389
 
 ---
 
@@ -123,4 +123,4 @@ PR: TBD
 - Wiki target: `posts/en/aavegotchi-improvement-proposals-2022.md` → AGIP 31–36 sections
 - Status: **present** (blog announcement citation already present in the AGIP index page)
 
-PR: TBD
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/389
