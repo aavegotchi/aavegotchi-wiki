@@ -105,7 +105,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/386
 - Wiki target: `posts/en/ghst.md` → “Total supply”
 - Status: **partial** (high-level effect is covered; the Aragon mechanics/2-step breakdown is not currently detailed)
 
-PR: TBD
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/386
 
 ---
 
@@ -119,4 +119,4 @@ PR: TBD
 - Wiki target: `posts/en/ghst.md` → “Historical milestones”
 - Status: **present**
 
-PR: TBD
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/386
