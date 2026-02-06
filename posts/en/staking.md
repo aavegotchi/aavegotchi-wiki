@@ -13,6 +13,25 @@ contributors: ["mudgen", "unintelligent-nerd"]
 
 Note: FRENS has been sunset. Stake liquidity to earn GLTR instead via the GLTR staking page. If you are on Base, use aavegotchi.com as the entry point if the app pages display a "not functional on Base" notice.
 
+## TL;DR
+
+- **Current (post-FRENS):** Stake eligible liquidity positions to earn **GLTR**.
+- **Historical (FRENS era, 2022):** Staking **GHST on Polygon** earned **FRENS** (non-transferable) which could be used for raffle tickets. This is kept here for historical context and old links/citations.
+
+## Historical: FRENS staking (2022)
+
+On **2022-05-28**, the official blog described GHST staking on **Polygon** as earning **FRENS** — a **non-transferable** balance inside the staking contract — and noted that FRENS could be used to buy raffle tickets for raffles (Portals, Wearables, and Gotchiverse REALM rewards at the time).
+
+The post also described (at the time) these staking options to earn FRENS:
+
+- Single-sided **GHST** staking
+- LP staking: **GHST-QUICK**, **GHST-USDC**, **GHST-WETH**, **GHST-MATIC**
+
+And it described the baseline earn rate as **“1 FREN per day per GHST staked”**, with higher incentives for LP pools due to impermanent-loss risk (and that reward rates could be adjusted over time).
+
+**References (historical):**
+- Blog (2022-05-28): https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
+
 Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
 ## Historical: FRENS-era staking (pre-sunset)
