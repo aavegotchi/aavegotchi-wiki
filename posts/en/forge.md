@@ -151,8 +151,14 @@ table_blacksmithingLevels
 
 The list of Forge Wearables can be found [here](/wearables#forge-wearables).
 
+## Governance and history
+
+- **2023-02-01 (AGIP 57):** a governance proposal (“Core Framework”) was put to vote as a framework for managing future wearable emissions / core releases (part of the broader Forge rollout context at the time).
+  - Source: https://blog.aavegotchi.com/two-core-proposals-live/
+
 ## References
 
 * [Forge White paper](https://docs.google.com/document/d/1RvlJmCRudFnso45oPU0veBqo-OLwwZiMJDaNBjRhf54)
+* [Vote on AGIPs 57 and 58 now! (2023-02-01)](https://blog.aavegotchi.com/two-core-proposals-live/)
 * [Aavegotchi Forge 101 – How to Forge and Smelt (2023-01-14)](https://blog.aavegotchi.com/aavegotchi-forge-101/)
 * [Aavegotchi Forge unleashes the mystical power of Geodes](https://blog.aavegotchi.com/aavegotchi-forge-unleashes-the-mystical-power-of-geodes/)

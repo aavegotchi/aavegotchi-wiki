@@ -440,6 +440,8 @@ table_agip57
 ### Launch Round 2 Parcel VRF Rolls
 **Aavegotchi Improvement Proposal #58**
 
+Blog announcement (historical): https://blog.aavegotchi.com/two-core-proposals-live/
+
 **Proposal Summary:**
 
 I propose that we implement the round 2 parcel roll by early February.
