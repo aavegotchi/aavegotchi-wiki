@@ -52,3 +52,39 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
 - Status: **present**
 
 PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/378
+
+---
+
+## 2022-05-28 — Aavegotchi Staking: A Step-by-Step Guide to Staking GHST and Earning FRENS
+
+- Blog URL: https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
+
+### Durable claims → wiki mapping
+
+1) **2022-05-28: Staking GHST on Polygon earned FRENS (non-transferable), used for raffle tickets**
+- Wiki target: `posts/en/staking.md` → “Historical: FRENS staking (2022)”
+- Status: **present** (added historical framing + citation)
+
+2) **Historical pool list + baseline earn-rate claim ("1 FREN per day per GHST staked"; LP pools had higher incentives; rates could change)**
+- Wiki target: `posts/en/staking.md` → “Historical: FRENS staking (2022)”
+- Status: **present** (captured as explicitly historical/time-bound)
+
+PR: (pending)
+
+---
+
+## 2023-04-03 — Introducing Gotchichain: Aavegotchi X Polygon Supernets
+
+- Blog URL: https://blog.aavegotchi.com/introducing-gotchichain-aavegotchi-x-polygon-supernets/
+
+### Durable claims → wiki mapping
+
+1) **2023-04-03: Gotchichain announced as planned Polygon Supernet; GHST planned as gas token; assets minted on Polygon PoS and bridged for gameplay**
+- Wiki target: `posts/en/gotchichain.md` → TL;DR / Key facts
+- Status: **present** (with explicit “did not launch” update)
+
+2) **Targeted early Q3 2023 launch + planned developer program (historical roadmap claim)**
+- Wiki target: `posts/en/gotchichain.md` → “Key facts (from the 2023 announcement)”
+- Status: **present** (framed as plan/target at the time)
+
+PR: (pending)
