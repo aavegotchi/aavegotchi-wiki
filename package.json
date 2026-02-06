@@ -34,6 +34,7 @@
     "react-dom": "^16.14.0",
     "react-markdown": "^5.0.2",
     "react-syntax-highlighter": "^12.2.1",
+    "styled-components": "^5.2.1",
     "webpack": "^4.44.2"
   },
   "devDependencies": {

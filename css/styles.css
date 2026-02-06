@@ -1,11 +1,27 @@
 :root {
---rarity-common: #806AFB;
---rarity-uncommon: #98DBE5;
---rarity-rare: #59BCFF;
---rarity-legendary: #FFC36B;
---rarity-mythical:#FF96FF;
---rarity-godlike:#51FFA8;
---theme-hot-pink: #FA34F3;
+    --rarity-common: #806AFB;
+    --rarity-uncommon: #98DBE5;
+    --rarity-rare: #59BCFF;
+    --rarity-legendary: #FFC36B;
+    --rarity-mythical: #FF96FF;
+    --rarity-godlike: #51FFA8;
+    --theme-hot-pink: #FA34F3;
+
+    /* default values: these change depending on dark mode settings.
+    If you change these colors also change them in darkModeStyles.tsx
+    I put those here for the rare case that styled-components module is not supported */
+    --background-color: white;
+    --text-color: black;
+    --whiteSmoke-alternative: whitesmoke;
+    --list-color: inherit;
+    --td-background-color-even: whitesmoke;
+    --td-color-even: inherit;
+    --td-background-color-uneven: whitesmoke;
+    --td-color-uneven: inherit;
+    --additional-info: inherit;
+    --navbar-background-color: inherit;
+    --sidebar-background: #FA34F3;
+    --blogbody-h3: darkslategray;
 }
 
 .common {
@@ -47,16 +63,24 @@ img.godlike {
 }
 
 body {
-   background-color: white;
+   background-color: var(--background-color);
 }
 
 a {
     color: var(--theme-hot-pink)
 }
 
+p, h1, h2, h3, h4 {
+    color:  var(--text-color);
+}
+
+div {
+    color: var(--additional-info)
+}
+
 .button-default {
     background: var(--theme-hot-pink);
-    color: white;
+    color: var(--background-color);
     padding: 18px 9px 18px 9px;
     text-transform: uppercase;
     font-size: 12px;
@@ -97,7 +121,7 @@ a:hover {
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.8px;
-    color: darkslategray;
+    color: var(--blogbody-h3);
 }
 
 .blogBody h4 {
@@ -141,7 +165,7 @@ a:hover {
 .contentsBox {
     width: fit-content;
     padding:15px;
-    background: whitesmoke;
+    background: var(--whiteSmoke-alternative);
     border: solid 1px darkgray;
 }
 
@@ -222,6 +246,7 @@ a:hover {
 }
 
 .latestCommit {
+    color: var(--additional-info);
     margin-top:-30px;
     margin-bottom:15px;
     font-style:oblique;
@@ -283,7 +308,13 @@ thead > th {
 }
 
 tr:nth-child(even) {
-   background:whitesmoke;
+   background: var(--td-background-color-even);
+    color: var( --td-color-even);
+}
+
+tr:nth-child(odd) {
+    background: var(--td-background-color-uneven);
+    color: var( --td-color-uneven);
 }
   
 
@@ -303,6 +334,10 @@ td > img {
     height: 75px;
 }
 
+ul > li {
+    color: var(--list-color);
+}
+
 ol  {
     padding-left: 15px;
     list-style: none;
@@ -310,6 +345,7 @@ ol  {
 }
 
 ol > li {
+    color: var(--list-color);
     display: flex;
     flex-direction: row;
     counter-increment: list-counter;
@@ -381,7 +417,7 @@ ol > p {
    
   td {
       font-size: 10px;
-     
+
   }
 
   td > img {
