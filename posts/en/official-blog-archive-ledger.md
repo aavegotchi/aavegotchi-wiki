@@ -149,7 +149,7 @@ PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/387
 - Wiki target: `posts/en/curve.md` → “Closure of the Bonding Curve”
 - Status: **present** (added historical note + citation)
 
-PR: (pending)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/388
 
 ---
 
@@ -171,4 +171,4 @@ PR: (pending)
 - Wiki target: `posts/en/staking.md` → “Historical: GHST staking for FRENS (pre-sunset)”
 - Status: **present** (added historical note + citation)
 
-PR: (pending)
+PR: https://github.com/aavegotchi/aavegotchi-wiki/pull/388
