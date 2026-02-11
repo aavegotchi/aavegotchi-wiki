@@ -251,7 +251,7 @@ PR: (this batch)
 - Wiki target: `posts/en/gotchiverse-game-bible.md` → “Historical: Chapter 1 release schedule (superseded)”
 - Status: **present** (explicitly marked as superseded/time-bound)
 
-PR: TBD
+PR: (this batch)
 
 ---
 

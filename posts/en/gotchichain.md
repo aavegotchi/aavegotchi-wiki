@@ -25,7 +25,7 @@ The official blog post (2023-04-03) described Gotchichain as:
 ## What happened later
 
 - **Gotchichain did not launch.**
-- Aavegotchi later **migrated to Base** (see: [Base migration](/posts/base-migration)).
+- Aavegotchi later **migrated to Base** (see: [Base migration](/base-migration)).
 
 ## References
 

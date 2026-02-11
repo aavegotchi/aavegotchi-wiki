@@ -18,6 +18,8 @@ Note: FRENS has been sunset. Stake liquidity to earn GLTR instead via the GLTR s
 - **Current (post-FRENS):** Stake eligible liquidity positions to earn **GLTR**.
 - **Historical (FRENS era, 2022):** Staking **GHST on Polygon** earned **FRENS** (non-transferable) which could be used for raffle tickets. This is kept here for historical context and old links/citations.
 
+Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+
 ## Historical: FRENS staking (2022)
 
 On **2022-05-28**, the official blog described GHST staking on **Polygon** as earning **FRENS** — a **non-transferable** balance inside the staking contract — and noted that FRENS could be used to buy raffle tickets for raffles (Portals, Wearables, and Gotchiverse REALM rewards at the time).
@@ -32,25 +34,13 @@ And it described the baseline earn rate as **“1 FREN per day per GHST staked�
 **References (historical):**
 - Blog (2022-05-28): https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
-
-## Historical: FRENS-era staking (pre-sunset)
-
-This section captures historical staking mechanics from the period when staking GHST (and certain LP positions) earned **FRENS**.
-
-- **2022-05-28:** Pixelcraft published a staking guide describing FRENS as a non-transferable, non-purchasable balance tracked in the staking contract.
-- FRENS could be converted into raffle tickets for Aavegotchi raffles (Portals, Wearables, and Gotchiverse land at the time).
-- The guide described five FRENS-earning staking options: **GHST**, **GHST-QUICK**, **GHST-USDC**, **GHST-WETH**, and **GHST-MATIC** (LP options carried impermanent-loss risk).
-- The guide described a then-current baseline of **1 FREN per day per GHST** for single-sided staking, and noted that rates could change over time.
-
-Source: [“Aavegotchi Staking: A Step-by-Step Guide to Staking GHST and Earning FRENS” (2022-05-28)](https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/)
-
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#historical-frens-era-staking-pre-sunset>Historical: FRENS-era staking</a></li>
+<li><a href=#tldr>TL;DR</a></li>
+<li><a href=#historical-frens-staking-2022>Historical: FRENS staking (2022)</a></li>
 <li><a href=#gltr>GLTR</a></li>
 <li><a href=#staking-for-gltr>Staking for GLTR</a></li>
 </ol>
