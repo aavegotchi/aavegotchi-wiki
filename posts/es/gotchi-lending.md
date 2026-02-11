@@ -51,7 +51,7 @@ Los prestamistas podrán seleccionar qué tokens compartir con los prestatarios.
 
 Además, las opciones de compartir tokens ahora incluyen GHST además de los cuatro tipos de Gotchus Alchemica. Esto es especialmente importante durante las temporadas de Rarity Farming, porque los prestamistas determinarán qué, si lo hubiera, porcentaje del saldo GHST de un Aavegotchi desean compartir.
 
-El prestamista también podría especificar un identificador (ID whitelist) que contenga las direcciones elegibles para pedir prestado el Gotchi. Puedes encontrar tu ID whitelist en la página de listas blancas [](https://app.aavegotchi.com/whitelists).
+El prestamista también podría especificar un identificador (ID whitelist) que contenga las direcciones elegibles para pedir prestado el Gotchi. Puedes encontrar tu ID whitelist en la página de listas blancas [](https://aavegotchi.com).
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
@@ -69,7 +69,7 @@ Finalmente, el prestamista revisa los términos una vez más y crea la lista de 
 
 **Paso adicional:**
 
-Los prestamistas también tendrán la capacidad de crear [whitelists](https://app.aavegotchi.com/whitelists), haciendo que sus Aavegotchis solo estén disponibles para un grupo exclusivo de prestamistas. Esta característica es perfecta para los clanes que quieren asegurarse de que sus NFT Aavegotchi entran en las manos de los miembros de su clan.
+Los prestamistas también tendrán la capacidad de crear [whitelists](https://aavegotchi.com), haciendo que sus Aavegotchis solo estén disponibles para un grupo exclusivo de prestamistas. Esta característica es perfecta para los clanes que quieren asegurarse de que sus NFT Aavegotchi entran en las manos de los miembros de su clan.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
