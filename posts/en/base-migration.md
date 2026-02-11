@@ -24,7 +24,8 @@ Infrastructure improvements, better distribution, and Ethereum-alignment. See th
 
 ### REALM Parcels
 
-REALM parcels were not included in the initial migration wave. Status updates will be posted here.
+REALM parcels were migrated to Base as part of the July 25, 2025 migration.
+This includes REALM parcels, installations, tiles, Alchemica, and GLTR.
 
 ### Legacy Polygon Access
 
