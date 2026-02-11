@@ -9,7 +9,7 @@ contributors:
 
 Chào mấy fen! Bạn đã nghe đến việc dịch chuyển đến Matic đúng không, những bạn có biết rõ ràng nó là gì chưa nhỉ? Đừng lo, bọn mình sẽ giúp bạn vượt qua từng bước một!
 
-Nói một cách ngắn gọn, Matic Network là giải pháp mở rộng Layer 2 của những blockchain công khai trên Ethereum. Nó là một nền tảng phi tập trung giúp đảm bảo các giao dịch trở nên nhanh hơn và phí giao dịch sẽ cực kỳ rẻ với khả năng hoàn thành ngay trên chuỗi. Nếu bạn muốn có thêm nhiều thông tin, hãy xem qua [bài viết này](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
+Nói một cách ngắn gọn, Matic Network là giải pháp mở rộng Layer 2 của những blockchain công khai trên Ethereum. Nó là một nền tảng phi tập trung giúp đảm bảo các giao dịch trở nên nhanh hơn và phí giao dịch sẽ cực kỳ rẻ với khả năng hoàn thành ngay trên chuỗi. Nếu bạn muốn có thêm nhiều thông tin, hãy xem qua [bài viết này](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
 Hãy vẫy tay chào tạm biệt phí giao dịch lên đến 100 đô trên Uniswap và cùng chào đón những tương tác (gần như miễn phí) trên ngôi nhà mới nhé!
 
@@ -48,7 +48,7 @@ Hãy cùng nhau bắt đầu cuộc vui nhé! Để dùng Matic Network, việc 
 
 Network Name: Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+New RPC URL: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 

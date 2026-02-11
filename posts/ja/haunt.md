@@ -34,7 +34,7 @@ contributors:
 
 最初の１万個のポータルは1分足らずで完売しました。 誰もがポータルを持てるわけではないことを除けば、この発売はあらゆる指標で大成功でした。
 
-ハウント1 Aavegotchiには、ハウント1限定の背景も付いてきます。 ハウント1 ゴッチをお持ちの方は、この[Mediumの記事](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)でその請求（クレイム）方法をご確認ください。 この背景は、譲渡できないようにプログラムされています。 つまり、今から永遠に、ハウント1 Aavegotchiが唯一この美しいポータルをテーマにした背景を装備できるのです。
+ハウント1 Aavegotchiには、ハウント1限定の背景も付いてきます。 ハウント1 ゴッチをお持ちの方は、この[Mediumの記事](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8)でその請求（クレイム）方法をご確認ください。 この背景は、譲渡できないようにプログラムされています。 つまり、今から永遠に、ハウント1 Aavegotchiが唯一この美しいポータルをテーマにした背景を装備できるのです。
 
 この専用背景は[AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis)で投票されたものです。
 

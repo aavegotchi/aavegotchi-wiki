@@ -156,7 +156,7 @@ tabel_agip3
 
 **Voorstel samenvatting:** 10.000 Portals is aantoonbaar niet genoeg om te voldoen aan de huidige vraag naar Aavegotchis. Daarom kan het nodig zijn om een nieuwe Haunt in te zetten om ervoor te zorgen dat iedereen die wil deelnemen een Aavegotchi kan bezitten. Dit voorstel biedt vier verschillende opties die door leden van de gemeenschap zijn voorgesteld, waaronder één optie om geen nieuwe Haunt te maken.
 
-Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Details van de AGIP zijn hier te vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 Optie 1: Geen nieuwe Haunt, revisie in een maand
 
@@ -183,7 +183,7 @@ tabel_agip4
 
 **Voorstel samenvatting:** Veel spelers zijn bang dat Haunt 2 te veel lijkt op Haunt 1 en dat de nieuw gecreëerde [Haunts](/haunt) de waarde van "Genesis" Haunt zal aantasten. Een van de suggesties is om elke Haunt speciale achtergronden te geven om ze gemakkelijk te identificeren. Dit voorstel heeft een uitstekende discussie en aanzienlijke steun voor de bijbehorende Snapshot gekend. Houd er rekening mee dat alle Aavegotchis, ongeacht het besluit van de DAO over deze kwestie, speciale niet-overdraagbare "Haunt" badges zullen krijgen die hun Haunt identificeren. Dit voorstel richt zich specifiek op het idee van een niet-overdraagbare achtergrond die kan worden uitgerust in de Aavegotchi's BG wearable slot.
 
-Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Details van de AGIP zijn hier te vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 Optie 1: Alleen Haunt 1 heeft een speciale achtergrond
 
@@ -208,7 +208,7 @@ tabel_agip5
 
 Op dit moment is 2% aan Pixelcraft en 1% aan schatkist van de DAO. Hoewel niet exclusief tot het verstrekken van RF beloningen, de schatkistfondsen zijn op dit moment niet verplicht om elk seizoen in welke vorm dan ook toe te wijzen aan de RF pool. Het voorstel is erop gericht de Baazaar-vergoedingen te verhogen van 3 procent naar 3,5 procent, waarbij de extra 0,5 procent rechtstreeks naar de Rarity Farming Beloningen gaat.
 
-Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+Details van de AGIP zijn hier te vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
 
 Optie 1: Ja, verhoog kosten van 3 tot 3.5
 
@@ -237,7 +237,7 @@ Zelfs als 10 XP misschien niet veel is, het geeft mensen stimulansen om daadwerk
 
 Als dit voorstel het quorum bereikt en doorgaat, zullen alle Aavegotchis die hun eigenaren aan het einde van de stemming 10 XP ontvangen!
 
-Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+Details van de AGIP zijn hier te vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
 
 Optie 1: Ja, succesvolle SigProps geven XP
 
@@ -258,7 +258,7 @@ tabel_agip7
 
 **Voorstel samenvatting:**Stemkracht voor Aavegotchis in het adres van een kiezer toevoegen met een waarde van 1 GHST per BRS (basislaagscore, niet inclusief uitgeruste wearables).
 
-Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details van de AGIP zijn hier te vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
 Optie 1: Ja, geef Stemvermogen aan Aavegotchi gebaseerd op BRS
 
@@ -279,7 +279,7 @@ tabel_agip8
 
 **Voorstel Samenvatting:** Voeg Stemkracht toe voor Wearables welke beheerd worden door Aavegotchis en in het stemadres.
 
-Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details van de AGIP zijn hier te vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
 Optie 1: Ja, geef Stemkracht aan Wearables op basis van de maximale prijs
 
@@ -407,7 +407,7 @@ Deze oplossing zorgt voor een snellere boost in de eerste paar leeftijdsgroepen 
 
 * **De implementatie zou live gaan vóór het begin van Rarity Farming Seizoen 2.** Een van de doelen van aging is om een korte-termijnbuffer te bieden voor de effecten van statistische variatie wanneer er een nieuwe haunt wordt losgelaten. Om Haunt 1 al van dit voordeel te kunnen profiteren, moet de uitvoering zo snel mogelijk beginnen, zoals midden in seizoen 2 zou H2 ingelopen moeten zijn op de H1 bonus, met slechts een verschil van 1 tot 2 BRS.
 
-Details van de AGIP zijn hier te vinden [hier](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+Details van de AGIP zijn hier te vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 
 Optie 1: Ja, implementeer aging stimulansen
 
@@ -1385,7 +1385,7 @@ At the time of this writing, AavegotchiDAO treasury holds roughly:
 
 * 3 Million Alchemica (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/dao?p=treasury))
 
-Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
+Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
 
 Pixelcraft Studios has been able to effectively grow the team and support infrastructure costs without needing to liquidate any significant amount of GHST. But last month’s launch of the Gotchiverse and anticipated continued growth has pushed operating costs dramatically higher. Server costs for the April playdrop, for example, exceeded 40k USD, and that is projected to grow in the months ahead.
 
@@ -2583,7 +2583,7 @@ Not changing the template.
 
 *Related material:*
 
-Template: [https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+Template: [https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
 
 Weighted voting: [https://docs.snapshot.org/proposals/voting-types#weighted-voting](https://docs.snapshot.org/proposals/voting-types#weighted-voting)
 

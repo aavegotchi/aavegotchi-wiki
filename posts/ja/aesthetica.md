@@ -50,7 +50,7 @@ table_laavaLamp
 
 ## ネオンライト（Neon Light）
 
-ゴッチギャングにとって、"GM "は単に口にするだけでなく、生き方のひとつです。 つまり、私たちが[DiscordのGMインデックス](https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q)でトップになったのは理由がないわけではありません。 今、あなたのゴッチバース レルム区画に、誰もが見られるように熱烈なネオン "GM "ライトを点灯させることができます。 もしかしたら、このネオンライトがメタバースGMランキングの上位に食い込むかもしれませんよ。
+ゴッチギャングにとって、"GM "は単に口にするだけでなく、生き方のひとつです。 つまり、私たちが[DiscordのGMインデックス](https://web.archive.org/web/*/https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q)でトップになったのは理由がないわけではありません。 今、あなたのゴッチバース レルム区画に、誰もが見られるように熱烈なネオン "GM "ライトを点灯させることができます。 もしかしたら、このネオンライトがメタバースGMランキングの上位に食い込むかもしれませんよ。
 
 table_neonLight
 

@@ -21,7 +21,7 @@ contributors:
 
 ## Ganadores del concurso Meme 8 de la Misión de Aavegotchi
 
-En [Aavegotchi Mission 8](/missions), se le asignó la tarea de crear el meme más genial con algún aspecto del token Aavegotchi o GHST en el subreddit [Aavegotchi](https://www.reddit.com/r/Aavegotchi/). ¡Vota a tus favoritos! Los 3 memes más votados 9 de octubre a las 8PM SGT recibieron 300, 200 y 100 GHST cada uno, respectivamente.
+En [Aavegotchi Mission 8](/missions), se le asignó la tarea de crear el meme más genial con algún aspecto del token Aavegotchi o GHST en el subreddit [Aavegotchi](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/). ¡Vota a tus favoritos! Los 3 memes más votados 9 de octubre a las 8PM SGT recibieron 300, 200 y 100 GHST cada uno, respectivamente.
 
 ### <span style="color:gold">1er lugar: Aavegotchi PAC MAN por Zemus</span>
 
@@ -42,7 +42,7 @@ El subreddit de Aavegotchi está ganando tracción y los estudios Pixelcraft est
 ¡Presenta tus mejores memes por una oportunidad de ganar!
 
 Instrucciones:
-* Sigue el subreddit de Aavegotchi [aquí](https://www.reddit.com/r/Aavegotchi/)
+* Sigue el subreddit de Aavegotchi [aquí](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)
 * Crear un nuevo meme original (animado o estático)
 * ¡Publicarlo!
 
@@ -73,7 +73,7 @@ Repartición de premios:
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchi Memes" />
 
-Para la lista completa de ganadores, echa un vistazo al hilo [aquí](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+Para la lista completa de ganadores, echa un vistazo al hilo [aquí](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Memes Diversos
 

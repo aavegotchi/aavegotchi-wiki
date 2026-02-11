@@ -9,7 +9,7 @@ contributors:
 
 こんにちはフレン! Polygon（ポリゴン）（旧Matic Network - マティック・ネットワーク）への移行について聞いたことがあっても、それが一体何なのか見当もつかないという方はいらっしゃいませんか？ ご心配なく！順を追ってご説明します。
 
-Polygon（ポリゴン）は、Ethereum（イーサリアム）のようなパブリックブロックチェーン用のレイヤー2スケーリングソリューションです。 これは、メインチェーン上に最終的には記録される、より速く、非常に低コストなトランザクションを保証する分散型プラットフォームです。 より詳細な仕組みを知りたい方は、こちらの[記事](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1)をご覧ください。
+Polygon（ポリゴン）は、Ethereum（イーサリアム）のようなパブリックブロックチェーン用のレイヤー2スケーリングソリューションです。 これは、メインチェーン上に最終的には記録される、より速く、非常に低コストなトランザクションを保証する分散型プラットフォームです。 より詳細な仕組みを知りたい方は、こちらの[記事](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1)をご覧ください。
 
 それでは、Uniswap（ユニスワップ）で100ドルもする取引などは辞めて、（ほぼ）無料のインタラクションの世界へレッツゴー!
 
@@ -33,7 +33,7 @@ Polygon（ポリゴン）は、Ethereum（イーサリアム）のようなパ�
 
 イーサリアムメインネットでのローンチは不可能であることは明らかでした。 Polygon（ポリゴン）はすでにさまざまなNFTプロジェクト（OpenSeaなど）と連携していたため、選択は比較的簡単でした。 コミュニティはこの気持ちを共有し、76%でポリゴンでのローンチに投票しました。
 
-このトピックに関する詳細な議論は、こちらのMediumの[投稿](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)をご覧ください。
+このトピックに関する詳細な議論は、こちらのMediumの[投稿](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)をご覧ください。
 
 ## MetamaskにPolygonを追加する
 
@@ -51,7 +51,7 @@ Polygon（ポリゴン）は、Ethereum（イーサリアム）のようなパ�
 
 Network Name: Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+New RPC URL: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 

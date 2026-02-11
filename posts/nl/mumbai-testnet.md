@@ -49,7 +49,7 @@ Zodra u alles heeft toegevoegd, kunt u klikken op "Opslaan". Je bent nu op Mumba
 
 ## Tokens van Mumbai Faucet verkrijgen
 
-1). Ga naar de Mumbai Faucet op [https://faucet.polygon.technology/](https://faucet.polygon.technology/).
+1). Ga naar de Mumbai Faucet op [https://web.archive.org/web/*/https://faucet.polygon.technology/](https://web.archive.org/web/*/https://faucet.polygon.technology/).
 
 2). Selecteer de tokens die u van de faucet wilt halen (bijv. MATIC token), selecteer het standaard netwerk (Mumbai) en voer het adres van uw Metamask wallet in het tekstveld.
 

@@ -21,7 +21,7 @@ contributors:
 
 ## Người Thắng Cuộc Trong Nhiệm vụ 8: Chế Meme của Aavegotchi
 
-Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu cầu phải tạo ra những meme dank nhất mà có những đặc điểm liên quan đến Aavegotchi hoặc token GHST để đăng lên [ subreddit của Aavegotchi ](https://www.reddit.com/r/Aavegotchi/). Nhớ upvote cho meme mình yêu thích nhé! Top 3 những meme được upvote nhiều nhất vào lúc 20 giờ (Singapore), ngày 9 tháng Mười (Singapore) sẽ nhận được mỗi người lần lượt 300, 200, và 100 token GHST.
+Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu cầu phải tạo ra những meme dank nhất mà có những đặc điểm liên quan đến Aavegotchi hoặc token GHST để đăng lên [ subreddit của Aavegotchi ](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/). Nhớ upvote cho meme mình yêu thích nhé! Top 3 những meme được upvote nhiều nhất vào lúc 20 giờ (Singapore), ngày 9 tháng Mười (Singapore) sẽ nhận được mỗi người lần lượt 300, 200, và 100 token GHST.
 
 ### <span style="color:gold">Giải 1: Aavegotchi PAC MAN của bạn Zemus</span>
 
@@ -42,7 +42,7 @@ Subreddit của Aavegotchi đang hoạt động trở lại và Pixelcraft Studi
 Hãy đăng meme để có cơ hội chiến thắng!
 
 Hướng dẫn:
-* Follow subreddit của Aavegotchi [tại đây](https://www.reddit.com/r/Aavegotchi/)
+* Follow subreddit của Aavegotchi [tại đây](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)
 * Tạo ra một meme mới hoàn toàn (hoạt hình hoặc đứng im)
 * Đăng bài!
 
@@ -73,7 +73,7 @@ Hãy xem qua những khía cạnh về Aavegotchi mà bạn thích nhất nhé! 
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchi Memes" />
 
-Bạn có thể xem qua danh sách người trúng giải ở [đây](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+Bạn có thể xem qua danh sách người trúng giải ở [đây](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Một Số Meme Khác
 

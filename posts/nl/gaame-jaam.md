@@ -38,7 +38,7 @@ De Aavegotchi Gaame Jaam/Hackathon werd gehouden van 1 tot 5 september 2021. Asp
 
 ## Sponsors
 
-* [Moralis](https://moralis.io/)
+* [Moralis](https://web.archive.org/web/*/https://moralis.io/)
 * [Polygon Studios](https://polygonstudios.com/)
 
 ## Prijzen

@@ -9,7 +9,7 @@ contributors:
 
 ¡Hola, amigo! Así que has oído hablar de la migración a Polygon (antes Matic Network), pero no tienes ni idea de que es? No te preocupes, ¡te llevaremos a través de todo paso a paso!
 
-En resumen, Polygon es una solución de escala de capa 2 para blockchains públicos como Ethereum. Se trata de una plataforma descentralizada que asegura transacciones más rápidas y de bajo costo con finalidad en la cadena principal. Si quieres saber cómo funciona con más detalle, revisa este [artículo](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
+En resumen, Polygon es una solución de escala de capa 2 para blockchains públicos como Ethereum. Se trata de una plataforma descentralizada que asegura transacciones más rápidas y de bajo costo con finalidad en la cadena principal. Si quieres saber cómo funciona con más detalle, revisa este [artículo](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
 Así que di adiós a transacciones de $100 en Uniswap y hola a (casi) interacciones gratis!
 
@@ -33,7 +33,7 @@ Como puede que sepas o no, el lanzamiento de Aavegotchi Mainnet estaba previsto 
 
 Estaba claro que un lanzamiento en Ethereum Mainnet era imposible. Dado que Polygon ya ha estado trabajando junto a diferentes proyectos NFT (como OpenSea), la elección fue relativamente fácil. La comunidad compartió este sentimiento y votó a favor de un lanzamiento en Polygon con 76%.
 
-Para una discusión extendida sobre este tema, vea este medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+Para una discusión extendida sobre este tema, vea este medium [post](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 
 ## Agrega Polygon a Metamask
 
@@ -51,7 +51,7 @@ Para una discusión extendida sobre este tema, vea este medium [post](https://aa
 
 Nombre de red: Matic Mainnet
 
-Nueva URL RPC: https://rpc-mainnet.maticvigil.com/
+Nueva URL RPC: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 ID de cadena: 137
 

@@ -44,7 +44,7 @@ The official Gotchiverse Analytics page can be found [here](https://gotchiverse-
 
 ## DAO Treasury
 
-DAO Treasury Dashboard ([AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard)) by MikeyJay and Eitri can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
+DAO Treasury Dashboard ([AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard)) by MikeyJay and Eitri can be found [here](https://web.archive.org/web/*/https://dune.com/eitri/aavegotchi-dao-treasury)
 
 ## Unity SDK
 

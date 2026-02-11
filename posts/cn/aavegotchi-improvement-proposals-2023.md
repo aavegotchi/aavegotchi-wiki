@@ -331,7 +331,7 @@ Not changing the template.
 
 _Related material:_
 
-Template: [https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+Template: [https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
 
 Weighted voting: [https://docs.snapshot.org/proposals/voting-types#weighted-voting](https://docs.snapshot.org/proposals/voting-types#weighted-voting)
 
@@ -734,7 +734,7 @@ Those costs cover 2 experiences:
 We will start to work on these 2 experiences right after this voting session if the DAO supports it.
 
 **A detailed funding request is available here if you missed it in the DAO Thread:**
-[https://global.discourse-cdn.com/standard17/uploads/aavegotchi/optimized/2X/e/e2e7fd532e25a686269be903dfb79fa95cf703f5_2_936x396.jpeg](https://global.discourse-cdn.com/standard17/uploads/aavegotchi/optimized/2X/e/e2e7fd532e25a686269be903dfb79fa95cf703f5_2_936x396.jpeg)
+[https://web.archive.org/web/*/https://global.discourse-cdn.com/standard17/uploads/aavegotchi/optimized/2X/e/e2e7fd532e25a686269be903dfb79fa95cf703f5_2_936x396.jpeg](https://web.archive.org/web/*/https://global.discourse-cdn.com/standard17/uploads/aavegotchi/optimized/2X/e/e2e7fd532e25a686269be903dfb79fa95cf703f5_2_936x396.jpeg)
 
 We are proposing a split funding with DAI & GHST from the treasury holdings (900k DAI and 4M GHST):
 
@@ -1617,7 +1617,7 @@ I (MikeyJay) propose creating a DAO Treasury Dashboard to provide a clear overvi
 
 The dashboard will break down income sources, such as alchemica earned from Gotchiverse crafting, GHST earned from Baazaar fees and GBM auctions, and alloy earned from The Forge. It will also include a breakdown of various DAO token balances over time (GHST, DAI, alchemica, alloy, matic, and USDC).
 
-The dashboard will be created using Dune Analytics. The complete specification for the dashboard can be reviewed here: [https://ipfs.io/ipfs/QmXVahA1sCNVdZntcTGUobbMByF55qNg3Sm8FGT4BuNDVd](https://ipfs.io/ipfs/QmXVahA1sCNVdZntcTGUobbMByF55qNg3Sm8FGT4BuNDVd)
+The dashboard will be created using Dune Analytics. The complete specification for the dashboard can be reviewed here: [https://web.archive.org/web/*/https://ipfs.io/ipfs/QmXVahA1sCNVdZntcTGUobbMByF55qNg3Sm8FGT4BuNDVd](https://web.archive.org/web/*/https://ipfs.io/ipfs/QmXVahA1sCNVdZntcTGUobbMByF55qNg3Sm8FGT4BuNDVd)
 
 We aim to complete the dashboard within six weeks of the proposal's passage by the DAO. We request 2,000 DAI in funding, which we will allocate as follows:
 
@@ -1643,7 +1643,7 @@ table_agip76
 
 [Link to vote on Snapshot](https://snapshot.org/?ref=blog.aavegotchi.com#/aavegotchi.eth/proposal/0x25c0def94d5fb016fb39ac823755dd2de447bd5de609d25cc108f182391ddcda)
 
-**The completed Dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)**
+**The completed Dashboard can be found [here](https://web.archive.org/web/*/https://dune.com/eitri/aavegotchi-dao-treasury)**
 
 <hr>
 

@@ -156,7 +156,7 @@ table_agip3
 
 **Tóm tắt Bản Đề Xuất** Nhiều thành viên trong cộng đồng cho rằng 10k Portal là không đủ để đáp ứng nhu cầu sở hữu Aavegotchi trong hiện tại. Do đó, việc triển khai sự kiện Haunt mới sẽ là một yếu tố cần thiết giúp đảm bảo rằng bất cứ ai muốn tham gia vào game đều sẽ sở hữu Aavegotchi. Bản Core Proposal đưa ra bốn lựa chọn khác nhau được thành viên trong cộng đồng gọi ý, bao gồm phương án không tổ chứ thêm sự kiện Haunt mới.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 Phương án 1: Không tổ chức sự kiện Haunt 1, sẽ thảo luận thêm trong một tháng nữa
 
@@ -183,7 +183,7 @@ table_agip4
 
 **Tóm tắt Bản Đề Xuất:**Nhiều người chơi lo rằng sự kiện Haunt 2 sẽ tương tự như [Haunt 1](/haunt) và những Haunt mới tạo ra sau này sẽ làm giảm giá trị của sự kiện Haunt "Nguyên thuỷ". Một trong những ý tưởng được đưa ra là mỗi Haunt sẽ nhận được một ảnh nền đặc biệt để dễ dàng phân biệt. Bản đề xuất này đã được bàn luận rất sôi nổi và được đồng tình nhiệt liệt trên Snapshot. Các bạn hãy lưu ý rằng dù cho quyết định của DAO là gì đi nữa thì tất cả các Aavegotchi đều sẽ nhận được những huy hiệu "Haunt" giúp phân biệt xem chúng được sinh ra từ sự kiện Haunt số mấy. Bản đề xuất này đặc biệt tập trung vào đề xuất tặng ảnh nền cho các Aavegotchi để chúng có thể trang bị vào ô trang phục BG và những ảnh nền này không thể chuyển sang Aavegotchi khác được.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 Phương án 1: Chỉ Haunt 1 mới nên được tặng ảnh nền đặc biệt
 
@@ -208,7 +208,7 @@ table_agip5
 
 Hiện tại, 2% phí giao dịch đang được phân bổ cho Pixelcraft và 1% được phân bổ cho Ngân Quỹ của DAO. Mặc dù ngân quỹ không loại trừ việc hỗ trợ cho giải thưởng RF, nhưng hiện tại nó không được phép phân phát ở bất kỳ dạng nào cho quỹ giải thưởng RF của mỗi mùa. Bản đề xuất này hướng đến việc tăng trưởng phí Baazaar từ 3% đến 3,5%, cộng thêm 0,5% phí được chuyển thẳng đến quỹ giải thưởng Rarity Farming.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
 
 Phương án 1: Có, tăng phí từ 3% thành 3,5%
 
@@ -237,7 +237,7 @@ Cho dù 10 XP không nhiều nhưng nó sẽ khuyến khích mọi người đ�
 
 Nếu bản Proposal này đạt mức tối thiểu và được thông qua, tất cả Aavegotchi của những ai đã bỏ phiếu sẽ được nhận 10 XP!
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
 
 Phương án 1: Vâng, SigProp nào thành công sẽ nhận được XP
 
@@ -258,7 +258,7 @@ table_agip7
 
 **Tóm tắt Đề xuất:** Thêm quyền bỏ phiếu cho Aavegotchi trong ví của người bỏ phiếu với tỷ lệ 1 GHST mỗi điểm BRS (điểm độ hiếm gốc, không bao gồm các trang phục được mặc).
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
 Phương án 1: Vâng, trao quyền bỏ phiếu cho Aavegotchi dựa trên BRS
 
@@ -279,7 +279,7 @@ table_agip8
 
 **Tóm tắt đề xuất:** Trao quyền bỏ phiếu của trang phục cho Aavegotchi ở trong tài khoản bỏ phiếu.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
 Phương án 1: Vâng, trao quyền bỏ phiếu cho trang phục dựa trên giá ở Maall
 
@@ -407,7 +407,7 @@ Giải pháp này giúp tăng chỉ số một cách nhanh chóng chỉ trong m�
 
 * **Sự tích hợp này sẽ diễn ra vào lúc Rarity Farming Mùa 2 bắt đầu.** Một trong những mục đích của cơ chế trưởng thành là mang đến một bước đệm cho hiệu ứng của phương sai số liệu một khi thế hệ haunt mới được công bố. Để Haunt 1 có thể trải nghiệm xem việc này có mang lại tác dụng gì không thì nó cần phải được triển khai càng sớm càng tốt, bởi vào giữa màu 2, các gotchi H2 đều gần như sẽ đuổi kịp chỉ số cộng thêm của H1, và cách biệt chỉ 1 2 điểm BRS mà thôi.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 
 Phương án 1: Vâng, tích hợp cơ chế trưởng thành
 
@@ -1385,7 +1385,7 @@ At the time of this writing, AavegotchiDAO treasury holds roughly:
 
 * 3 Million Alchemica (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/dao?p=treasury))
 
-Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
+Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
 
 Pixelcraft Studios has been able to effectively grow the team and support infrastructure costs without needing to liquidate any significant amount of GHST. But last month’s launch of the Gotchiverse and anticipated continued growth has pushed operating costs dramatically higher. Server costs for the April playdrop, for example, exceeded 40k USD, and that is projected to grow in the months ahead.
 
@@ -2583,7 +2583,7 @@ Not changing the template.
 
 *Related material:*
 
-Template: [https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+Template: [https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
 
 Weighted voting: [https://docs.snapshot.org/proposals/voting-types#weighted-voting](https://docs.snapshot.org/proposals/voting-types#weighted-voting)
 

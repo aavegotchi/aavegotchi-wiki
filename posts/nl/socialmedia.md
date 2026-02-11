@@ -46,10 +46,10 @@ en chatten. </p>
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Bekijk ons op Medium**</a>
+<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Bekijk ons op Medium**</a>
 
 <p style="margin-left: 4.8em">De Aavegotchi Medium pagina is een geweldige plaats voor lezers die het Aavegotchi project willen volgen. Hier vind je diepgaande communityupdates, 
-en gedetailleerde informatie over <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> evenementen en af en toe komen er een aantal geïnspireerde <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fictie.</a></p>
+en gedetailleerde informatie over <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> evenementen en af en toe komen er een aantal geïnspireerde <a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fictie.</a></p>
 
 &nbsp;<a name="Telegram"></a>
 
@@ -69,7 +69,7 @@ ongeveer 3.100 andere frens. Voltooid met Aavegotchi Telegram stickers, het Aave
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme met ons op Reddit**</a>
+<a href="https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme met ons op Reddit**</a>
 
 <p style="margin-left: 4.8em">Kom voor de memes en blijf voor de gemeenschap! Neem een pauze en heb een prachtig goede tijd in Aavegotchi Reddit, waar onze grote memers wonen! Lacht je uit na het einde van de dag.</p>
 

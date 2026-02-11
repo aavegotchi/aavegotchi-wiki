@@ -49,7 +49,7 @@ ID цепочки: 80001.
 
 ## Как получать токены из Mumbai Faucet
 
-1). Зайдите в Mumbai Faucet (урл: [https://faucet.polygon.technology/](https://faucet.polygon.technology/)).
+1). Зайдите в Mumbai Faucet (урл: [https://web.archive.org/web/*/https://faucet.polygon.technology/](https://web.archive.org/web/*/https://faucet.polygon.technology/)).
 
 2). Выберите токены для получения (например, MATIC), выставьте сеть по умолчанию (Мумбаи) и добавьте адрес своего кошелька Metamask в нужное поле.
 

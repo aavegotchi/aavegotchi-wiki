@@ -48,7 +48,7 @@ Por otro lado, Los Drop Tickets se utilizan para participar en **NFT Raffles** p
 
 table_RaffleTickets
 
-Publicación del blog: \[!depositar GHST y generar FRENS en vivo en Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Publicación del blog: \[!depositar GHST y generar FRENS en vivo en Ethereum Mainnet!\]( https://web.archive.org/web/*/https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 Los usuarios pueden comprar tickets pertenecientes a diferentes categorías en una sola transacción. **no necesita** crear transacciones de compra separadas para cada categoría de raffle ticket.
 
@@ -95,6 +95,6 @@ Saber como los FRENS y participar en Raffles es bueno. Pero, ¿qué pasa con las
 
 ## Más Recursos
 
-- [Aavegotchi Raffles — Una Guía Amistosa](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — Acabas de ganar](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon y el Ticket Verde](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — Una Guía Amistosa](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — Acabas de ganar](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon y el Ticket Verde](https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

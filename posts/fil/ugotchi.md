@@ -111,7 +111,7 @@ The following points of consideration were made to the Appraisers:
 
 5. The Unopened Portal is the first portal to be bridged to Ethereum. It also has an extremely low ID (#2).
 
-6. The Aavegotchi ecosystem is large and growing with over 30 million DAI deposited in the GHST [token bonding curve](/curve). The [AavegotchiDAO](/dao) has accumulated 1 million+ in the DAO treasury so far. There are more than 30k followers on Twitter and 10k active members in Discord. In addition, the Baazaar NFT market has significant and consistent volume. Aavegotchi typically ranks in the Top 10 on Analytics sites such as [DappRadar](https://dappradar.com/).
+6. The Aavegotchi ecosystem is large and growing with over 30 million DAI deposited in the GHST [token bonding curve](/curve). The [AavegotchiDAO](/dao) has accumulated 1 million+ in the DAO treasury so far. There are more than 30k followers on Twitter and 10k active members in Discord. In addition, the Baazaar NFT market has significant and consistent volume. Aavegotchi typically ranks in the Top 10 on Analytics sites such as [DappRadar](https://web.archive.org/web/*/https://dappradar.com/).
 
 7. When Aavegotchi first launched their 10,000 Portals in March 2021, they were sold out in less than a minute.
 
@@ -121,4 +121,4 @@ The following points of consideration were made to the Appraisers:
 
 On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
 
-For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
+For more information, check out this [post](https://web.archive.org/web/*/https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).

@@ -265,7 +265,7 @@ Visit [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=
 
 ## Raffle FAQ
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+See <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
@@ -606,7 +606,7 @@ Yes! Aavegotchi uses [Polygon](https://polygon.technology/) as a Layer 2 solutio
 
 ### Do I need to migrate my Aave tokens?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
+Aavegotchi will work with aTokens from [Aave version 2.0](https://web.archive.org/web/*/https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
 
 ### How do I migrate to Polygon?
 Check out our [Polygon Migration Guide](/polygon).
@@ -651,7 +651,7 @@ If your transaction has been processed by Polygon and your assets still do not a
 
 ### Why am I experiencing lag on Polygon?
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+You might want to try connecting to the other Polygon RPC: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 

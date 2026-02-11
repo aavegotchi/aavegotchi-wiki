@@ -207,7 +207,7 @@ Aavegotchiとゴッチバースでは、お金を稼ぐ方法がいくつもあ�
 
 ### Aavegotchiをプレイしたり、GHSTトークンを所有するためにKYCが必要ですか？
 
-いいえ！ あなたが[ボンディングカーブ](/curve)から直接GHSTを購入したい場合にのみ、KYCを行う必要があります。 [Uniswap（ユニスワップ）](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH)ではKYCなしでGHSTを購入できますし、[特定の取引所](https://www.coingecko.com/en/coins/aavegotchi#markets)でも購入できます。 一方、[ポータル](/portals)の購入、[ミニゲームのプレイ](/minigames)、[GHSTのステーキング](/staking)、その他Aavegotchiプロジェクト自体には**KYCは必要ありません**。
+いいえ！ あなたが[ボンディングカーブ](/curve)から直接GHSTを購入したい場合にのみ、KYCを行う必要があります。 [Uniswap（ユニスワップ）](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH)ではKYCなしでGHSTを購入できますし、[特定の取引所](https://web.archive.org/web/*/https://www.coingecko.com/en/coins/aavegotchi#markets)でも購入できます。 一方、[ポータル](/portals)の購入、[ミニゲームのプレイ](/minigames)、[GHSTのステーキング](/staking)、その他Aavegotchiプロジェクト自体には**KYCは必要ありません**。
 
 以下の表は、その情報をまとめたものです：
 
@@ -288,7 +288,7 @@ Vist [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=s
 
 ## ラッフルFAQ
 
-See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+See <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 
@@ -623,7 +623,7 @@ For android devices, using the Metamask app with the in-built browser is a good 
 
 ### Do I need to migrate my Aave tokens?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
+Aavegotchi will work with aTokens from [Aave version 2.0](https://web.archive.org/web/*/https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
 ### How do I migrate to Polygon?
 Check out our [Polygon Migration Guide](/polygon).
@@ -668,7 +668,7 @@ If your transaction has been processed by Polygon and your assets still do not a
 
 ### Why am I experiencing lag on Polygon?
 
-You might want to try connecting to the other Polygon RPC: https://rpc-mainnet.maticvigil.com/
+You might want to try connecting to the other Polygon RPC: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 

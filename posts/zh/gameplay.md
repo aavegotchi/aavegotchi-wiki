@@ -37,7 +37,7 @@ You can purchase a Portal on the Aavegotchi dApp or an external NFT marketplace 
 
 [Wearables](https://wiki.aavegotchi.com/en/wearables) are an important part of the Aavegotchi gameplay. By dressing up your Aavegotchi, you can boost your cute ghost fren's rarity score and traits, helping them to perform better in rarity farming and minigames.
 
-You can now get a Wearable Voucher via a limited-edition [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
+You can now get a Wearable Voucher via a limited-edition [Raffle](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) and redeem it for an analogous Wearable when Aavegotchi launches on Mainnet.
 
 ## Rarity farming
 

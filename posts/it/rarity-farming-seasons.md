@@ -166,9 +166,9 @@ table_rarityFarmingSeasons
 
 ## References
 
-* [Rarity Farming Season 1 Medium post](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
+* [Rarity Farming Season 1 Medium post](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-1-rewards-finalized-2db81e9f66e8)
 
-* [Rarity Farming Season 2 Medium post](https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
+* [Rarity Farming Season 2 Medium post](https://web.archive.org/web/*/https://aavegotchi.medium.com/rarity-farming-season-2-is-coming-dates-announced-7047896eb3ab)
 
 * [Rarity Farming Season 3 Blog post](https://blog.aavegotchi.com/aavegotchi-rarity-farming-season-3-is-coming/)
 

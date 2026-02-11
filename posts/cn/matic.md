@@ -9,7 +9,7 @@ contributors:
 
 嘿，朋友！ 因此，您听说过向Matic的迁移，但不知道这到底是什么？ 别担心，我们会逐步带你完成所有步骤！
 
-简而言之，Matic Network是适用于以太坊等公共区块链的第2层扩展解决方案。 这是一个去中心化的平台，可确保更快和极低成本的交易，并在主链上具有最终性。 如果你想知道它如何工作更详细，请查看 [文章](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) 篇。
+简而言之，Matic Network是适用于以太坊等公共区块链的第2层扩展解决方案。 这是一个去中心化的平台，可确保更快和极低成本的交易，并在主链上具有最终性。 如果你想知道它如何工作更详细，请查看 [文章](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) 篇。
 
 因此，告别Uniswap上的100美元交易，并向（几乎）免费互动打招呼！
 
@@ -48,7 +48,7 @@ contributors:
 
 网络名称：Matic Mainnet
 
-新 RPC URL： https://rpc-mainnet.maticvigil.com/
+新 RPC URL： https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 链条ID：137
 

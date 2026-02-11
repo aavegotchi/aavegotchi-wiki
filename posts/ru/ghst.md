@@ -54,7 +54,7 @@ contributors:
 Обладатели криптовалютных кошельков (желательно Метамаска) могут приобрести токены GHST несколькими способами:
 
 * Приобретение из  [кривой](/curve) в основной сети Ethereum. Требует KYC, недоступно для жителей Соединенных Штатов и Китая.
-* Покупка на DEX (децентрализованных биржах) в сети Ethereum. Это могут быть такие обменники, как [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) или [Matcha](https://matcha.xyz/markets/GHST)
+* Покупка на DEX (децентрализованных биржах) в сети Ethereum. Это могут быть такие обменники, как [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) или [Matcha](https://web.archive.org/web/*/https://matcha.xyz/markets/GHST)
 * Приобретение токенов на DEX на Polygon, таких как [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7).
 * Покупка на криптовалютных биржах, например — на [OKex](https://www.okx.com/trade-spot/ghst-usdt) или [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro).
 

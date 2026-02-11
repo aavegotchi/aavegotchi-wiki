@@ -109,12 +109,12 @@ Remember, setting a realistic starting bid is key. A 4% listing fee applies, whi
 
 ## Subastas anteriores
 
-* 15 - 18 de julio de 2021: [Primera subasta con el Set de Gamer y de Steampunk ](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* 15 - 18 de julio de 2021: [Primera subasta con el Set de Gamer y de Steampunk ](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
-* 26 - 29 de agosto de 2021: [12.000 portales del ritual 2, 13,944 artículos de ropa](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* 26 - 29 de agosto de 2021: [12.000 portales del ritual 2, 13,944 artículos de ropa](https://web.archive.org/web/*/https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 
-* 28 - 31 de Octubre de 2021: [Primera subasta de tierra con 16.000 parcelas en la  Ciudadela](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* 28 - 31 de Octubre de 2021: [Primera subasta de tierra con 16.000 parcelas en la  Ciudadela](https://web.archive.org/web/*/https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
-* 2 - 5 de diciembre de 2021: [Segunda subasta de tierra con 7.000 parcelas en la  Ciudadela](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 2 - 5 de diciembre de 2021: [Segunda subasta de tierra con 7.000 parcelas en la  Ciudadela](https://web.archive.org/web/*/https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
 
 * 25 April 2024: [Godlike Staff of Charming schematic](https://blog.aavegotchi.com/3-new-features-now-live-in-the-aavegotchi-auction-house/)

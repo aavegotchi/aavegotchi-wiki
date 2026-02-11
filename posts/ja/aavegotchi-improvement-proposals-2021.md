@@ -86,7 +86,7 @@ table_agip3
 
 **Proposal Summary:** 10,000 Portals is arguably not enough to satisfy the current level of demand for Aavegotchis. したがって、参加したいプレイヤーがAavegotchiを所有できるようにするために、新しい召喚を展開する必要があるでしょうか。 この改善提案は、新しい召喚を作成しない1つのオプションを含んで、コミュニティメンバーによって提案された4つの異なるオプションを提供します。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Details on the AGIP can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 オプション1：新しい召喚なし、1ヶ月後で再度見直します。
 
@@ -114,7 +114,7 @@ table_agip4
 
 **Proposal Summary:** Many players are worried that Haunt 2 will be too similar to Haunt 1 and the newly-created [Haunts](/haunt) will devalue the “Genesis” Haunt. 一つの提案は、それぞれのハントに特別なバクグラウンドを与えて、それらを容易に識別できるようにすることです。 この提案は、関連するスナップショットに関する活発な議論と重要なサポートを見てきました。 この問題に関するDAOの決定にもかかわらず、すべてのAavegotchiには、Hauntを識別する特別な譲渡不可の「召喚」バッジが与えられます。 この提案は、AavegotchiのBGウェアラブルスロットに装備できる譲渡不可能なバクグラウンドのアイデアに焦点を当てています。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
+Details on the AGIP can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-when-haunt-2-making-haunts-more-unique-d975cbda4772).
 
 オプション1：召喚1のみ特別なバクグラウンドを取得する必要があります
 
@@ -140,7 +140,7 @@ table_agip5
 
 現在、2％がPixelcraftに割り当てられ、1％がDAOトレジャリーに割り当てられています。 ゲーム報酬だけでなく、現在、トレジャリー資金はゲームシーズンごとに報酬プールに割り当てられる義務はありません。 この提案は、マーケットの料金を3％から3.5％に増やし、さらに0.5％をレアリティファーミングの報酬プールに直接送ることを目的としています。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
+Details on the AGIP can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/core-proposal-agip6-add-0-5-fee-on-baazaar-to-support-rarity-farming-5bf923c7f528).
 
 オプション1：はい、手数料を3％から3.5％に増やします。
 
@@ -170,7 +170,7 @@ table_agip6
 
 この提案が定足数に達し、投票が通過した場合、投票の最後に所有者が保持しているすべてのゴッチは10XPを受け取ります。
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
+Details on the AGIP can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip7-earn-xp-for-successful-signal-proposals-d5eafdb93aae).
 
 オプション1：はい、シグナルプロポーザルが投票が通過したらはXPを与える
 
@@ -192,7 +192,7 @@ table_agip7
 
 **Proposal Summary:** Add Voting Power for Aavegotchis held in a voter’s address, at a rate of 1 GHST per BRS (base rarity score, not including equipped wearables).
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details on the AGIP can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
 オプション1：はい、ベースレアリティ度に基づいてゴッチに投票権を付与します
 
@@ -214,7 +214,7 @@ table_agip8
 
 **Proposal Summary:** Add Voting Power for Wearables held by Aavegotchis and in the voting address.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
+Details on the AGIP can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/vote-agip8-and-agip9-give-voting-power-to-aavegotchis-and-wearables-9c113373a0a2).
 
 オプション1：はい、マール価格に基づいてウェアラブルに投票権を与えます
 
@@ -347,7 +347,7 @@ _Modifications made to Solution_
 
 - **The implementation would go live prior to the beginning of Rarity Farming Season 2.** One of the goals of aging is to provide a short term buffer to the effects of statistical variance once a new haunt is released. For Haunt 1’s to be able to experience any of this benefit at all, the implementation must go live as soon as possible, as by the middle of season 2 H2’s will already be mostly caught up to the H1 bonus, with only a 1–2 BRS difference.
 
-Details on the AGIP can be found [here](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+Details on the AGIP can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 
 Option 1: Yes, implement aging incentives
 

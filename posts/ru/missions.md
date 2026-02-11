@@ -45,29 +45,29 @@ contributors:
 &nbsp;
 
 
-[**МИССИЯ 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Прокомментировать в Aavegotchi Litepaper.
+[**МИССИЯ 1:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Прокомментировать в Aavegotchi Litepaper.
 
-[**МИССИЯ 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Пригласить одного друга в Дискорд.
+[**МИССИЯ 2:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Пригласить одного друга в Дискорд.
 
-[**МИССИЯ 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Добавить пару актуальных предложений для развития проекта в презентацию.
+[**МИССИЯ 3:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Добавить пару актуальных предложений для развития проекта в презентацию.
 
-[**МИССИЯ 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Рассказать в Твиттере, за что вы любите Аавеготчи, и тегнуть двух друзей.
+[**МИССИЯ 4:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Рассказать в Твиттере, за что вы любите Аавеготчи, и тегнуть двух друзей.
 
-[**МИССИЯ 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Спросить о чем-угодно в нашем Телеграме.
+[**МИССИЯ 5:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Спросить о чем-угодно в нашем Телеграме.
 
-[**МИССИЯ 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Приобрести GHST в тестовой сети. **Проходить KYC-проверку не нужно**. Приобретенные в ходе этого навыки помогут вам в дальнейшем стать экспертами в Аавеготчи и помогать всем, кто нуждается в помощи и поддержке. Если понадобится помощь, спроси нас, мы будем рады помочь!
+[**МИССИЯ 6:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Приобрести GHST в тестовой сети. **Проходить KYC-проверку не нужно**. Приобретенные в ходе этого навыки помогут вам в дальнейшем стать экспертами в Аавеготчи и помогать всем, кто нуждается в помощи и поддержке. Если понадобится помощь, спроси нас, мы будем рады помочь!
 
-[**МИССИЯ 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Проголосовать за предложения по управлению Аавеготчи.
+[**МИССИЯ 7:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Проголосовать за предложения по управлению Аавеготчи.
 
-[**МИССИЯ 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Время мемов! Создать мем об игре Аавеготчи на любую тему и разместить его на Реддит в сабреддите игры.
+[**МИССИЯ 8:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Время мемов! Создать мем об игре Аавеготчи на любую тему и разместить его на Реддит в сабреддите игры.
 
-[**МИССИЯ 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) Повышенная сложность! Нужно было написать короткую статью на 300 слов максимум или сделать 30-секундный видеоролик об игре. Опубликовать творение в выбранной социальной сети, ретвитнуть любой пост Аавеготчи в Твиттере со ссылкой на созданный контент.
+[**МИССИЯ 9:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) Повышенная сложность! Нужно было написать короткую статью на 300 слов максимум или сделать 30-секундный видеоролик об игре. Опубликовать творение в выбранной социальной сети, ретвитнуть любой пост Аавеготчи в Твиттере со ссылкой на созданный контент.
 
-[**МИССИЯ 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) Нужно создать Готчи в тестовой сети, сделать его своим аватаром на 72 часа и поделиться своим творением с остальным сообществом Аавеготчи!
+[**МИССИЯ 10:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) Нужно создать Готчи в тестовой сети, сделать его своим аватаром на 72 часа и поделиться своим творением с остальным сообществом Аавеготчи!
 
-[**МИССИЯ 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Почитать нашу ВИКИ! Подготовить две рекомендации по ее улучшению, чтобы сделать лучшим ресурсом!
+[**МИССИЯ 11:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Почитать нашу ВИКИ! Подготовить две рекомендации по ее улучшению, чтобы сделать лучшим ресурсом!
 
-[**МИССИЯ 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Зажги звезду! Отметить двух самых любимых своих крипто ютуберов и сообщить им о приближении ГотчиБанды с помощью хэштега #GotchiGang!
+[**МИССИЯ 12:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Зажги звезду! Отметить двух самых любимых своих крипто ютуберов и сообщить им о приближении ГотчиБанды с помощью хэштега #GotchiGang!
 
 &nbsp;
 

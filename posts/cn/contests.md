@@ -26,7 +26,7 @@ contributors:
 
 ## Aavegotchi 任务8表情包大赛获奖名单
 
-在 [Aavegotchi 任务 8](/missions) 中，小伙伴们的任务是在 [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/) 版块上创建 Aavegotchi 或 GHST 代币主题的有趣表情包。 为你喜欢的作品投票吧！ 10月9日晚8点，被点赞最多的3个表情包将分别获得300，200和100个GHST。
+在 [Aavegotchi 任务 8](/missions) 中，小伙伴们的任务是在 [Aavegotchi subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/) 版块上创建 Aavegotchi 或 GHST 代币主题的有趣表情包。 为你喜欢的作品投票吧！ 10月9日晚8点，被点赞最多的3个表情包将分别获得300，200和100个GHST。
 
 ### <span style="color:gold">第一名：Aavegotchi PAC MAN，作者 Zemus</span>
 
@@ -72,11 +72,11 @@ Aavegotchi 成员突破了1000这个历史新高！ 你不再是普通的小伙�
 
 #### <span style="color:gold">第一名：Aavegotchi: Frenly Farming in the Fall，作者 Appellants</span>
 
-<a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
+<a href = "https://web.archive.org/web/*/https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
 #### <span style="color:silver">第二名：Get rich or die playing，作者 Letsgobankless</span>
 
-<a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
+<a href = "https://web.archive.org/web/*/https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
 #### <span style="color:#cd7f32">第三名：Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide]，作者Buzzlightyear</span>
 

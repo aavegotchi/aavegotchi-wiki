@@ -9,7 +9,7 @@ contributors:
 
 Hey Frens! Dus u hebt gehoord over de migratie naar Polygon (voorheen Matic Network), maar u hebt geen idee wat de hel het zelfs is? Maak je geen zorgen, we zullen alles stap voor stap doornemen!
 
-Kortom, Polygon is een Layer 2-oplossing voor publieke blockchains als Ethereum. Het is een gedecentraliseerd platform dat snellere en extreem goedkope transacties met finaliteit in de hoofdketen waarborgt. Als je wilt weten hoe het in meer detail werkt, bekijk dan dit [artikel](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
+Kortom, Polygon is een Layer 2-oplossing voor publieke blockchains als Ethereum. Het is een gedecentraliseerd platform dat snellere en extreem goedkope transacties met finaliteit in de hoofdketen waarborgt. Als je wilt weten hoe het in meer detail werkt, bekijk dan dit [artikel](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1).
 
 Dus zeg maar afscheid van $100 transacties bij Uniswap en hallo tegen (gratis) interacties!
 
@@ -33,7 +33,7 @@ Zoals u wellicht weet, was de lancering van Aavegotchi Mainnet gepland voor 4 ja
 
 Het was duidelijk dat een lancering op Ethereum Mainnet onmogelijk was. Aangezien Polygon al heeft samengewerkt met verschillende NFT-projecten (zoals OpenSea) was de keuze relatief eenvoudig. De gemeenschap deelde dit gevoel en stemde voor een lancering op Polygon met 76 procent.
 
-Zie dit medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) voor een uitgebreide discussie over dit onderwerp.
+Zie dit medium [post](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) voor een uitgebreide discussie over dit onderwerp.
 
 ## Voeg Polygon toe aan uw Metamask
 
@@ -51,7 +51,7 @@ Laten we beginnen met de leuke dingen! Om Polygon te gebruiken, moet u het eerst
 
 Netwerknaam: Matic Mainnet
 
-Nieuwe RPC URL: https://rpc-mainnet.maticvigil.com/
+Nieuwe RPC URL: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 

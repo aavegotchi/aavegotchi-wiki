@@ -72,11 +72,11 @@ Aavegotchiのエージェントは、史上最高の1000を超えました！ �
 
 #### <span style="color:gold">1位：Aavegotchi：Appellantsの「秋のフレンリーファーミング」</span>
 
-<a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
+<a href = "https://web.archive.org/web/*/https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
 #### <span style="color:silver">2位：Letsgobanklessの「金持ちになるか死ぬ」</span>
 
-<a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
+<a href = "https://web.archive.org/web/*/https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
 #### <span style="color:#cd7f32">3位：Kovan TestnetのAavegotchiが来ましたよ！ [ステップバイステップガイド] をBuzzlightyearによる</span>
 

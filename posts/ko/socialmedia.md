@@ -46,10 +46,10 @@ pop in and chat. </p>
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Check Us Out on Medium**</a>
+<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Check Us Out on Medium**</a>
 
 <p style="margin-left: 4.8em">The Aavegotchi Medium page is a great place for readers who want to keep up with the Aavegotchi project. This is where you’ll find in-depth community updates, 
-as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fiction.</a></p>
+as well as detailed information on <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired <a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fiction.</a></p>
 
 &nbsp;<a name="Telegram"></a>
 
@@ -69,7 +69,7 @@ around 3,100 other frens. Complete with Aavegotchi Telegram stickers, the Aavego
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme with Us on Reddit**</a>
+<a href="https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme with Us on Reddit**</a>
 
 <p style="margin-left: 4.8em">Come for the memes and stay for the community! Take a break and have a wonderfully good time at Aavegotchi Reddit, where our great memers reside! Have a great laugh as you unwind for the day.</p>
 

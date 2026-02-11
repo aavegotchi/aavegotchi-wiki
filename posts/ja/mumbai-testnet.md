@@ -49,7 +49,7 @@ Block Explorer URL (optional): https://amoy.polygonscan.com/
 
 ## Mumbai Faucetからトークンを取得する
 
-1). Mumbai Faucet（[https://faucet.polygon.technology/](https://faucet.polygon.technology/)）に向かいます。
+1). Mumbai Faucet（[https://web.archive.org/web/*/https://faucet.polygon.technology/](https://web.archive.org/web/*/https://faucet.polygon.technology/)）に向かいます。
 
 2). 蛇口（Faucet）から取得したいトークン（例：MATICトークン）を選択し、デフォルトネットワーク（Mumbai）を選択し、テキストボックスにMetamaskウォレットアドレスを入力します。
 

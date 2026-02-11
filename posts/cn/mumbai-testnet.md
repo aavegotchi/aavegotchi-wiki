@@ -49,7 +49,7 @@ Block Explorer URL (optional): https://amoy.polygonscan.com/
 
 ## 从Mumbai 水龙头中获取代币。
 
-1). 前往 Mumbai 水龙头网站 [https://faucet.polygon.technology/](https://faucet.polygon.technology/)。
+1). 前往 Mumbai 水龙头网站 [https://web.archive.org/web/*/https://faucet.polygon.technology/](https://web.archive.org/web/*/https://faucet.polygon.technology/)。
 
 2). 选择你想从龙头获得的代币（如MATIC代币），选择默认的网络（Mumbai），并在文本框中输入你的Metamask钱包地址。
 

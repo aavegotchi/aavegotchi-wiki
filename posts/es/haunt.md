@@ -34,7 +34,7 @@ El ritual 1 fue lanzado el 2 de marzo de 2021. 10.000 Aavegotchi [Portales](/por
 
 Los primeros 10.000 portales se agotaron en menos de un minuto. El lanzamiento fue un gran éxito por todas las métricas excepto el hecho de que no todo el mundo pudo tener un Portal.
 
-Los Aavegotchis del ritual 1 también cuentan con un fondo exclusivo. Échale un vistazo a esta [publicación media](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) sobre cómo reclamarla si tienes un Gotchi del ritual 1. El fondo está programado para ser intransferible. Esto significa desde ahora hasta siempre, sólo los Aavegotchis del ritual 1 pueden equipar este hermoso fondo temático del portal!
+Los Aavegotchis del ritual 1 también cuentan con un fondo exclusivo. Échale un vistazo a esta [publicación media](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) sobre cómo reclamarla si tienes un Gotchi del ritual 1. El fondo está programado para ser intransferible. Esto significa desde ahora hasta siempre, sólo los Aavegotchis del ritual 1 pueden equipar este hermoso fondo temático del portal!
 
 Este fondo exclusivo fue votado en [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis).
 

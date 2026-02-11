@@ -48,7 +48,7 @@ Cũng có một loại Vé Drop riêng được dùng để tham gia vào **NFT 
 
 table_RaffleTickets
 
-Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Xem Blog: \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://web.archive.org/web/*/https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 Người dùng được cho phép để mua nhiều loại vé khác nhau trong cùng một giao dịch. Bạn **không** cần phải thực hiện các giao dịch riêng lẻ để có thể mua được từng loại vé raffle.
 
@@ -95,6 +95,6 @@ Các cậu nói về cách stake FRENS và tham gia Raffle là tốt đúng khô
 
 ## Thêm nguồn
 
-- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon và Tấm Vé Xanh Lục](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Raffles — Một Bài Hướng Dẫn FRENLY](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Raffle — Chỉ Có Thắng Thôi](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon và Tấm Vé Xanh Lục](https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

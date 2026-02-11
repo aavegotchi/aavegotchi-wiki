@@ -38,7 +38,7 @@ El Aavegotchi Gaame Jaam/Hackathon se celebró del 1 al 5 de septiembre de 2021.
 
 ## Patrocinadores
 
-* [Moralis](https://moralis.io/)
+* [Moralis](https://web.archive.org/web/*/https://moralis.io/)
 * [Polygon Studios](https://polygonstudios.com/)
 
 ## Premios

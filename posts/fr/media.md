@@ -44,7 +44,7 @@ Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com
 ### FutureX Meet-Up #4 - Is DeFi Gaming All Froth or Just Beginning? (29 November 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/wEyW-J1cw8M?si=DKqy07h_DENlInRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>5
 
 ### Cryptocurrency Subreddit AMA (13 October 2021)
-Link to AMA [here](https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
+Link to AMA [here](https://web.archive.org/web/*/https://www.reddit.com/r/CryptoCurrency/comments/q7a5t9/we_are_the_founders_of_aavegotchi_the_original/)
 
 ### Chainlink SmartCon Live Stream | Aavegotchi (10 August 2021) <iframe width="560" height="315" src="https://www.youtube.com/embed/wEyW-J1cw8M?si=DKqy07h_DENlInRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>6
 

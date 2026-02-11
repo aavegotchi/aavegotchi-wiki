@@ -50,7 +50,7 @@ table_laavaLamp
 
 ## Đèn Neon
 
-Với GotchiGang, “GM” không chỉ là những gì mà chúng ta nói, nó là một phong cách sóng. Ý mình là rõ ràng, chúng ta đã không đứng đầu bảng xếp hạng [Discord GM Index](https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q) mà không có lý do. Giờ đây bạn có thể thắp sáng gói đất REALM của mình với ánh đền Neon “GM” để tất cả mọi người đều thấy. Ai biết được, những ánh sáng này sẽ giúp chúng ta thống trị bản xếp hạng GM nào đó trong tương lai thì sao!
+Với GotchiGang, “GM” không chỉ là những gì mà chúng ta nói, nó là một phong cách sóng. Ý mình là rõ ràng, chúng ta đã không đứng đầu bảng xếp hạng [Discord GM Index](https://web.archive.org/web/*/https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q) mà không có lý do. Giờ đây bạn có thể thắp sáng gói đất REALM của mình với ánh đền Neon “GM” để tất cả mọi người đều thấy. Ai biết được, những ánh sáng này sẽ giúp chúng ta thống trị bản xếp hạng GM nào đó trong tương lai thì sao!
 
 table_neonLight
 

@@ -67,7 +67,7 @@ Số tiền nhận được đã được dùng để hỗ trợ thanh khoản t
 
 Những người tham gia vào Private Sale và Pre-Sale sẽ dần nhận được token GHST của mình sau một năm, bắt đầu kể từ khi vòng Pre-Sale kết thúc. Sau 180 ngày, đợt trả token đầu tiên tương đương với 50% trên tổng số sẽ được thực hiện, sau đó là một đợt trả token với quy mô nhỏ để trả số lượng token còn lại trong vòng 185 ngày tiếp theo.
 
-Để biết thêm nhiều thông tin chi tiết hơn, hãy đọc qua [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) và [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
+Để biết thêm nhiều thông tin chi tiết hơn, hãy đọc qua [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) và [Community Update #4](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 **Sale Công Khai Thông Qua Bonding Curve**
 
@@ -161,8 +161,8 @@ Bảng sau đây cho thấy phần trăm thay đổi của mỗi hạng mục qu
 
 table_revenueSharing
 
-Các thay đổi quan trọng từ V1 sang V2 có thể tìm thấy ở [đây](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+Các thay đổi quan trọng từ V1 sang V2 có thể tìm thấy ở [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
 
 ## Token Supply
 
-Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://web.archive.org/web/*/https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).

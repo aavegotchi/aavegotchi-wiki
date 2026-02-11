@@ -111,7 +111,7 @@ table_valuation
 
 5. Неоткрытый портал, в свою очередь, — первый, который был соединен с Ethereum. Также имеет низкий ID (# 2).
 
-6. Экосистема проекта Аавеготчи очень большая и постоянно растет, опираясь более чем на 30 млн DAI, депонированных на [кривой связывания](/curve) токенов GHST. В Сокровищнице [AavegotchiDAO](/dao) сейчас накоплено более одного миллиона токенов. В нашем Твиттере свыше 30 тыс фолловеров, а в Дискорде — 10 тыс активных пользователей. На вторичном рынке (базаре) стабильный прирост объема торговли. Игра Аавеготчи занимает топовые места среди криптопроектов на сайтах аналитики, как [DappRadar](https://dappradar.com/).
+6. Экосистема проекта Аавеготчи очень большая и постоянно растет, опираясь более чем на 30 млн DAI, депонированных на [кривой связывания](/curve) токенов GHST. В Сокровищнице [AavegotchiDAO](/dao) сейчас накоплено более одного миллиона токенов. В нашем Твиттере свыше 30 тыс фолловеров, а в Дискорде — 10 тыс активных пользователей. На вторичном рынке (базаре) стабильный прирост объема торговли. Игра Аавеготчи занимает топовые места среди криптопроектов на сайтах аналитики, как [DappRadar](https://web.archive.org/web/*/https://dappradar.com/).
 
 7. Первая продажа 10 тыс порталов в марте 2021 года прошла более чем успешно.
 
@@ -121,4 +121,4 @@ table_valuation
 
 On 8 October 2021, 2 of the largest uGOTCHI token owners voted to close the uGOTCHI vault and release the Gotchis inside. Any third-party bidder will be able to make an ETH offer for the gotchis. The moment the vault is liquidated, the highest bidder for each individual gotchi will be able to claim the NFT and uGOTCHI token owners will be eligible to claim their pro rata portion of the sales proceeds.
 
-For more information, check out this [post](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
+For more information, check out this [post](https://web.archive.org/web/*/https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).

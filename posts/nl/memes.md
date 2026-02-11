@@ -21,7 +21,7 @@ contributors:
 
 ## Aavegotchi Mission 8 Meme Contest Winnaars
 
-In [Aavegotchi missie 8](/missions), werden aagents beproeft met het maken van de dankbaarste meme met alles wat wat met Aavegotchi of GHST token te maken heeft op de [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Stem op je favorieten! De top 3 van de geupvote memes op 9 oktober kregen respectievelijk 300, 200 en 100 GHST elders.
+In [Aavegotchi missie 8](/missions), werden aagents beproeft met het maken van de dankbaarste meme met alles wat wat met Aavegotchi of GHST token te maken heeft op de [Aavegotchi subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/). Stem op je favorieten! De top 3 van de geupvote memes op 9 oktober kregen respectievelijk 300, 200 en 100 GHST elders.
 
 ### <span style="color:gold">1e plaats: Aavegotchi PAC MAN by Zemus</span>
 
@@ -42,7 +42,7 @@ Aavegotchi's subreddit verkrijgt tractie en Pixelcraft studios ondersteunt 250 G
 Plaats je beste meme om een kans te maken!
 
 Instructies:
-* Volg de Aavegotchi subreddit [hier](https://www.reddit.com/r/Aavegotchi/)
+* Volg de Aavegotchi subreddit [hier](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)
 * Maak een nieuwe, originele meme (geanimeerd of nog steeds)
 * Post het!
 
@@ -73,7 +73,7 @@ Laten we eens kijken over welk facet Aavegotchi je het meest enthousiast bent! G
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchi Memes" />
 
-Voor de volledige lijst van winnaars, bekijk de thread [hier](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+Voor de volledige lijst van winnaars, bekijk de thread [hier](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Andere Memes
 

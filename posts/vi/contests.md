@@ -26,7 +26,7 @@ Chào cả nhà Aavegotchi nha! Bọn mình sẽ liên tục tổ chức nhiều
 
 ## Người Thắng Cuộc Trong Nhiệm vụ 8: Chế Meme của Aavegotchi
 
-Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu cầu phải tạo ra những meme dank nhất mà có những đặc điểm liên quan đến Aavegotchi hoặc token GHST để đăng lên [ subreddit của Aavegotchi ](https://www.reddit.com/r/Aavegotchi/). Nhớ upvote cho meme mình yêu thích nhé! Top 3 những meme được upvote nhiều nhất vào lúc 20 giờ (Singapore), ngày 9 tháng Mười sẽ nhận được mỗi người lần lượt 300, 200, và 100 token GHST.
+Trong [Nhiệm vụ Aavegotchi thứ 8](/missions), các aagent được yêu cầu phải tạo ra những meme dank nhất mà có những đặc điểm liên quan đến Aavegotchi hoặc token GHST để đăng lên [ subreddit của Aavegotchi ](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/). Nhớ upvote cho meme mình yêu thích nhé! Top 3 những meme được upvote nhiều nhất vào lúc 20 giờ (Singapore), ngày 9 tháng Mười sẽ nhận được mỗi người lần lượt 300, 200, và 100 token GHST.
 
 ### <span style="color:gold">Giải 1: Aavegotchi PAC MAN của bạn Zemus</span>
 
@@ -72,11 +72,11 @@ Những aagent của Aavegotchi đã đè bẹp cột mốc Cao Nhất Mọi Th�
 
 #### <span style="color:gold">Gải 1: Aavegotchi: Farming Một Cách Frenly Giữa Trời Mùa Thu của Appelants</span>
 
-<a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
+<a href = "https://web.archive.org/web/*/https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
 #### <span style="color:silver">Giải 2: Chơi để giàu hay chơi để chết của Letsgobankless</span>
 
-<a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
+<a href = "https://web.archive.org/web/*/https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
 #### <span style="color:#cd7f32">Giải 3: Ơn Giời, Aavegotchi trên Testnet Koven Đây Rồi! [Step-by-Step-guide] tác giả Buzzlightyear</span>
 

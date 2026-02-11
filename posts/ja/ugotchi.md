@@ -111,7 +111,7 @@ table_valuation
 
 5. 未開封のポータルは、イーサリアムにブリッジされた最初のポータルです。 また、IDが極めて低い（#2）。
 
-6. Aavegotchiのエコシステムは大きく、GHST[トークンのボンディングカーブ](/curve)に3000万以上のDAIが預けられ、成長しています。 [AavegotchiDAO](/dao)はこれまでにDAO treasuryに100万以上蓄積されています。 ツィッターのフォロワーは30k以上、ディスコードのアクティブメンバーは10kです。 さらに、バザールNFT市場では、かなりのボリュームがあり、安定しています。 Aavegotchiは通常、[DappRadar](https://dappradar.com/)などのアナリティクス・サイトでトップ10にランクインしています。
+6. Aavegotchiのエコシステムは大きく、GHST[トークンのボンディングカーブ](/curve)に3000万以上のDAIが預けられ、成長しています。 [AavegotchiDAO](/dao)はこれまでにDAO treasuryに100万以上蓄積されています。 ツィッターのフォロワーは30k以上、ディスコードのアクティブメンバーは10kです。 さらに、バザールNFT市場では、かなりのボリュームがあり、安定しています。 Aavegotchiは通常、[DappRadar](https://web.archive.org/web/*/https://dappradar.com/)などのアナリティクス・サイトでトップ10にランクインしています。
 
 7. Aavegotchiが2021年3月に初めて10,000ポータルを発売したとき、1分も経たずに完売しました。
 
@@ -121,4 +121,4 @@ table_valuation
 
 2021年10月8日、uGOTCHIトークン所有者のうち最大手の2社が、uGOTCHI保管庫を閉鎖し、中のゴッチを放出することを投票で決定しました。 第三者の入札者は誰でも、ゴッチに対してETHのオファーができるようになります。 保管庫が清算された瞬間、個々のゴッチの最高入札者はNFTを請求することができ、uGOTCHIトークン所有者は販売収益の比例配分分を請求することができます。
 
-詳細については、この[投稿](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277)をご覧ください。
+詳細については、この[投稿](https://web.archive.org/web/*/https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277)をご覧ください。

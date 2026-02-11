@@ -49,7 +49,7 @@ Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save". Giờ bạn đan
 
 ## Nhận token từ Faucet của Testnet Mumbai
 
-1). Truy cập vào Mumbai Faucet tại [https://faucet.polygon.technology/](https://faucet.polygon.technology/).
+1). Truy cập vào Mumbai Faucet tại [https://web.archive.org/web/*/https://faucet.polygon.technology/](https://web.archive.org/web/*/https://faucet.polygon.technology/).
 
 2). Chọn token mà bạn muốn có từ faucet (ví dụ như token MATIC), chọn Network mặc định (Mumbai), và nhập địa chỉ trên Metamask của bạn vào ô trống.
 

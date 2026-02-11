@@ -9,7 +9,7 @@ contributors:
 
 Hey Fren! So you’ve heard about the migration to Matic, but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
 
-In short, Matic Network is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+In short, Matic Network is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
 
 So say goodbye to 100$ transactions on Uniswap and hello to (almost) free interactions!
 
@@ -48,7 +48,7 @@ Let’s get started with the fun stuff! To use Matic Network, you first need to 
 
 Network Name: Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+New RPC URL: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 

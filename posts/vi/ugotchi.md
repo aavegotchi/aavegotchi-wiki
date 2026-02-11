@@ -111,7 +111,7 @@ Các luận điểm dưới đây đã được Bên Thẩm Định xem xét:
 
 5. Unopened Portal cũng là chiếc portal đầu tiên được bridge sang Ethereum. Nó có số ID vô cùng thấp (#2).
 
-6. Hệ sinh thái của Aavegotchi rất rộng lớn và đang được mở rộng với hơn 30 triệu DAI được gửi vào [bonding curve ](/curve) của token GHST. [AavegotchiDAO](/dao) đã góp nhặt được hơn 1 triệu GHST vào quỹ DAO cho đến hiện tại. Có hơn 30k người theo dõi trên Twitter và 10k thành viên hoạt động tích cực trên Discord. Thêm vào đó, chợ NFT Baazaar có khối lượng giao dịch lớn và bền vững. Aavegotchi được xếp hạng vào Top 10 tại các trang phân tích như [DappRadar](https://dappradar.com/).
+6. Hệ sinh thái của Aavegotchi rất rộng lớn và đang được mở rộng với hơn 30 triệu DAI được gửi vào [bonding curve ](/curve) của token GHST. [AavegotchiDAO](/dao) đã góp nhặt được hơn 1 triệu GHST vào quỹ DAO cho đến hiện tại. Có hơn 30k người theo dõi trên Twitter và 10k thành viên hoạt động tích cực trên Discord. Thêm vào đó, chợ NFT Baazaar có khối lượng giao dịch lớn và bền vững. Aavegotchi được xếp hạng vào Top 10 tại các trang phân tích như [DappRadar](https://web.archive.org/web/*/https://dappradar.com/).
 
 7. Khi Aavegotchi lần đầu tiên phát hành 10k Portal vào tháng Ba năm 2021, chúng đã được bán hết sạch chỉ trong vòng một phút.
 
@@ -121,4 +121,4 @@ Các luận điểm dưới đây đã được Bên Thẩm Định xem xét:
 
 Vào ngày 8 tháng Mười 2021, 2 trong số những người sở hữu nhiều token uGOTCHI nhất đã bỏ phiếu để đóng vault uGOTCHI và thả Gotchi ra. Bất kỳ người đấu giá bên thứ ba nào cũng có thể dùng ETH để đấu giá mua gotchi. Giây phú mà vault được thanh lý, những người đặt giá cao nhất cho từng gotchi sẽ có thể claim NFT và chủ của token uGOTCHI sẽ có thể claim một phần tiền từ buổi đấu giá.
 
-Để đọc thêm thông tin, hãy xem qua [bài viết này](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
+Để đọc thêm thông tin, hãy xem qua [bài viết này](https://web.archive.org/web/*/https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).

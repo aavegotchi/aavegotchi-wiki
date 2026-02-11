@@ -67,7 +67,7 @@ GHST 预销售于2020年9月14日举行，时限为14天或售完，时间以先
 
 私募和预售的参与者将从预售轮结束后开始，一年释放获得GHST代币。 180天后，初次释放的金额大约相当于总金额的50%。 随后在今后185天内陆续释放剩余的代币。
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 **公开联合曲线销售**
 
@@ -161,8 +161,8 @@ The following table details the percentage changes in each category across Reven
 
 table_revenueSharing
 
-The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+The rationale for the changes from V1 to V2 can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
 
 ## Token Supply
 
-Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).
+Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}), [polygonscan](https://web.archive.org/web/*/https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7), or [basescan](https://basescan.org/token/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb).

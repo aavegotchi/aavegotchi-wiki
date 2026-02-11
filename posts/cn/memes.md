@@ -21,7 +21,7 @@ contributors:
 
 ## Aavegotchi 任务8表情包大赛获奖名单
 
-在 [Aavegotchi 任务 8](/missions) 中，小伙伴们的任务是在 [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/) 版块上创建 Aavegotchi 或 GHST 代币主题的有趣表情包。 为你喜欢的作品投票吧！ 10月9日晚8点，被点赞最多的3个表情包将分别获得300，200和100个GHST。
+在 [Aavegotchi 任务 8](/missions) 中，小伙伴们的任务是在 [Aavegotchi subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/) 版块上创建 Aavegotchi 或 GHST 代币主题的有趣表情包。 为你喜欢的作品投票吧！ 10月9日晚8点，被点赞最多的3个表情包将分别获得300，200和100个GHST。
 
 ### <span style="color:gold">第一名：Aavegotchi PAC MAN，作者 Zemus</span>
 
@@ -42,7 +42,7 @@ Aavegotchi's subreddit is gaining traction and Pixelcraft studios is supporting 
 Post your best meme for a chance to win!
 
 Instructions:
-* Follow the Aavegotchi subreddit [here](https://www.reddit.com/r/Aavegotchi/)
+* Follow the Aavegotchi subreddit [here](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)
 * Create a new, original meme (animated or still)
 * Post it!
 
@@ -73,7 +73,7 @@ Let's see what facet of Aavegotchi you're most excited about! Happy memeing fren
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchi memes" />
 
-For the full list of winners, check out the thread [here](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+For the full list of winners, check out the thread [here](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Miscellaneous Memes
 

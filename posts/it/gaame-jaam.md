@@ -38,7 +38,7 @@ The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game deve
 
 ## Sponsors
 
-* [Moralis](https://moralis.io/)
+* [Moralis](https://web.archive.org/web/*/https://moralis.io/)
 * [Polygon Studios](https://polygonstudios.com/)
 
 ## Prizes

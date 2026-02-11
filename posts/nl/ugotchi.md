@@ -111,7 +111,7 @@ De vraagstellers hebben de volgende punten in overweging genomen:
 
 5. Het ongeopende portaal is het eerste portaal dat naar Ethereum wordt overbrugd. Het heeft ook een extreem lage ID (#2).
 
-6. Het Aavegotchi ecosysteem is groot en groeit met meer dan 30 miljoen DAI geplaatst in de GHST [token bonding curve](/curve). De [AavegotchiDAO](/dao) heeft tot nu toe 1 miljoen + verzameld in de schatkist van de DAO. Er zijn meer dan 30k volgers op Twitter en 10k actieve leden in Discord. Bovendien heeft de Baazaar NFT-markt een aanzienlijke en consistente omvang. Aavegotchi staat meestal op de Top 10 op Analytics-sites zoals [DappRadar](https://dappradar.com/).
+6. Het Aavegotchi ecosysteem is groot en groeit met meer dan 30 miljoen DAI geplaatst in de GHST [token bonding curve](/curve). De [AavegotchiDAO](/dao) heeft tot nu toe 1 miljoen + verzameld in de schatkist van de DAO. Er zijn meer dan 30k volgers op Twitter en 10k actieve leden in Discord. Bovendien heeft de Baazaar NFT-markt een aanzienlijke en consistente omvang. Aavegotchi staat meestal op de Top 10 op Analytics-sites zoals [DappRadar](https://web.archive.org/web/*/https://dappradar.com/).
 
 7. Toen Aavegotchi voor het eerst hun 10.000 Portals lanceerde in maart 2021, werden ze in minder dan een minuut verkocht.
 
@@ -121,4 +121,4 @@ De vraagstellers hebben de volgende punten in overweging genomen:
 
 Op 8 oktober 2021 hebben 2 van de grootste uGOTCHI-eigenaren voor de sluiting van de uGOTCHI-kluis gestemd en de Gotchis binnenin vrijgelaten. Een externe aanbieder kan een ETH-aanbod voor de gotchis doen. Op het moment dat de kluis wordt geliquideerd, zal de hoogste bieder voor elke andere gotchi in staat zijn om de NFT en uGOTCHI token eigenaren in aanmerking te laten komen om hun pro rata deel van de verkoopprocedures te claimen.
 
-Voor meer informatie, bekijk dit [bericht](https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).
+Voor meer informatie, bekijk dit [bericht](https://web.archive.org/web/*/https://medium.com/unicly/countdown-for-the-aavegotchi-aastronauts-aauction-940972456277).

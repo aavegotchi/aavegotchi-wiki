@@ -26,7 +26,7 @@ Hey Aavegotchi Fam! Von Zeit zu Zeit werden wir verschiedene Aavegotchi-Wettbewe
 
 ## Sieger des Aavegotchi Meme Wettbewerbs für Mission 8
 
-In der [Aavegotchi Mission 8](/missions) haben die Aagenten die Aufgabe, das beste Meme zu Aavegotchi oder GHST im [Aavegotchi Subreddit](https://www.reddit.com/r/Aavegotchi/) zu erstellen. Upvote deine Favoriten! Die Top 3 Memes am 9. Oktober, 20:00 Uhr SGT, erhalten jeweils 300, 200 und 100 GHST.
+In der [Aavegotchi Mission 8](/missions) haben die Aagenten die Aufgabe, das beste Meme zu Aavegotchi oder GHST im [Aavegotchi Subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/) zu erstellen. Upvote deine Favoriten! Die Top 3 Memes am 9. Oktober, 20:00 Uhr SGT, erhalten jeweils 300, 200 und 100 GHST.
 
 ### <span style="color:gold">1. Platz: Aavegotchi PAC MAN von Zemus</span>
 
@@ -72,11 +72,11 @@ Aavegotchi-Aagenten haben das Allzeithoch von 1'000 geknackt! Ihr seid nicht lä
 
 #### <span style="color:gold">1. Platz: Aavegotchi: Frenly Farming in the Fall von Appellants</span>
 
-<a href = "https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
+<a href = "https://web.archive.org/web/*/https://medium.com/@appellants/aavegotchi-frenly-farming-in-the-fall-e7401797f6f5" target = "_blank"><img src = "/contests/written_1.png"></a>
 
 #### <span style="color:silver">2. Platz: Get rich or die playing von Letsgobankless</span>
 
-<a href = "https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
+<a href = "https://web.archive.org/web/*/https://letsgobankless.medium.com/get-rich-or-die-playing-2e935d703c68" target = "_blank"><img src = "/contests/written_2.png"></a>
 
 #### <span style="color:#cd7f32">3. Platz: Aavegotchi on Kovan Testnet is Here! [Step-by-Step-guide] von Buzzlightyear</span>
 

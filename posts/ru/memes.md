@@ -21,7 +21,7 @@ contributors:
 
 ## В 8-й Миссии Аавеготчи победили самые лучшие!
 
-В [8-й миссии Аавеготчи](/missions) агенты должны были создать самый яркий и интригующий мем на тему игры или токена GHST и разместить его в [сабреддите](https://www.reddit.com/r/Aavegotchi/) Аавеготчи. Подарки были вручены 9 октября 2020 года, в 15:00 Мск. Три мема, получивших наибольшее число голосов, 09.10.2020 в 15:00 Мск получили приятные подарки — 300, 200 и 100 GHST соответственно.
+В [8-й миссии Аавеготчи](/missions) агенты должны были создать самый яркий и интригующий мем на тему игры или токена GHST и разместить его в [сабреддите](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/) Аавеготчи. Подарки были вручены 9 октября 2020 года, в 15:00 Мск. Три мема, получивших наибольшее число голосов, 09.10.2020 в 15:00 Мск получили приятные подарки — 300, 200 и 100 GHST соответственно.
 
 ### <span style="color:gold">1 МЕСТО: Аавеготчи Пакмен от агента ZEMUS</span>
 
@@ -42,7 +42,7 @@ Aavegotchi's subreddit is gaining traction and Pixelcraft studios is supporting 
 Post your best meme for a chance to win!
 
 Instructions:
-* Follow the Aavegotchi subreddit [here](https://www.reddit.com/r/Aavegotchi/)
+* Follow the Aavegotchi subreddit [here](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)
 * Create a new, original meme (animated or still)
 * Post it!
 
@@ -73,7 +73,7 @@ Let's see what facet of Aavegotchi you're most excited about! Happy memeing fren
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "мемы Аавеготчи" />
 
-For the full list of winners, check out the thread [here](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+For the full list of winners, check out the thread [here](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Miscellaneous Memes
 

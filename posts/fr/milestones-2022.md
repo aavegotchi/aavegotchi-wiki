@@ -269,35 +269,35 @@ contributors:
 * AGIP 20: Creating the DAO Treasury Taask Force
 <p></p>
 
-## [GHST Token is now list on Aave!](https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
+## [GHST Token is now list on Aave!](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-ghst-token-is-now-live-on-aave-com-ee47ee951132)
 * GHST Token is now live on the Aave Polygon Market!
 <p></p>
 
-## [Gotchiverse Game Bible: Chapter 2 is out!](https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
+## [Gotchiverse Game Bible: Chapter 2 is out!](https://web.archive.org/web/*/https://aavegotchi.medium.com/the-gotchiverse-game-bible-chapter-2-3f968b8b4949)
 * The Gotchiverse Game Bible: Chapter 2 is out!
 * Topics covered: Alchemica Tokenomics, Installation Traits and Recipes, and Aavegotchi Trait Mappings!
 <p></p>
 
-## [Rarity Farming Season 2 Baadges are out!](https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
+## [Rarity Farming Season 2 Baadges are out!](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-rarity-farming-season-2-nft-baadges-are-here-4291218bb0aa)
 * Here are the winners for each of the Rarity Farming Season 2 Leaderboards!
 <p></p>
 
-## [Creator of PhaserQuest Joins Aavegotchi as Senior Game Programmer](https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
+## [Creator of PhaserQuest Joins Aavegotchi as Senior Game Programmer](https://web.archive.org/web/*/https://aavegotchi.medium.com/creator-of-phaserquest-joins-aavegotchi-as-senior-game-programmer-46c4de6da221)
 * Phaser game engine expert Jerome Renaux joins Pixelcraft Studios to help build the Gotchiverse!
 <p></p>
 
-## [The Gotchiverse Bible](https://aavegotchi.medium.com/introducing-the-gotchiverse-game-bible-5c446616090f)
+## [The Gotchiverse Bible](https://web.archive.org/web/*/https://aavegotchi.medium.com/introducing-the-gotchiverse-game-bible-5c446616090f)
 * The Gotchiverse Bible has been released!
 * It is a public-facing document that gives detailed information about gameplay, economy, and building within the Gotchiverse game.
 <p></p>
 
-## [Aavegotchi Raffle #6: DeFi RPG Theme](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
+## [Aavegotchi Raffle #6: DeFi RPG Theme](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8)
 * The 6th Aavegotchi Raffle has a DeFi RPG Theme
 * The Raffle will be held from 26 - 29 Jan!
 * Don't miss out on it!
 <p></p>
 
-## [December 2021 Updates](https://aavegotchi.medium.com/aavegotchi-december-update-977c5592f3e7)
+## [December 2021 Updates](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-december-update-977c5592f3e7)
 * What has our shippooooorrr been up to in December 2021?
 * A lot!
 * Check out the Medium post for more

@@ -50,7 +50,7 @@ table_laavaLamp
 
 ## Neon Light
 
-For GotchiGang, “GM” isn’t just something we say, it’s a way of life. I mean clearly, we didn’t top the [Discord GM Index](https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q) for no reason. Now you can light up your Gotchiverse REALM parcel with a frenly Neon “GM” Light for all to see. Who knows, these bright lights may even help us top a future metaverse GM Index!
+For GotchiGang, “GM” isn’t just something we say, it’s a way of life. I mean clearly, we didn’t top the [Discord GM Index](https://web.archive.org/web/*/https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q) for no reason. Now you can light up your Gotchiverse REALM parcel with a frenly Neon “GM” Light for all to see. Who knows, these bright lights may even help us top a future metaverse GM Index!
 
 table_neonLight
 

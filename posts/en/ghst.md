@@ -29,7 +29,7 @@ GHST is live on Base, and Aavegotchi’s canonical home has migrated to Base (hi
 - **2024-04-17:** GHST was announced as **live for trading on Base** (expanding GHST’s multichain footprint). Source: [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/)
 - **2025-07-25:** Aavegotchi announced it had **migrated to Base**, with Polygon contracts frozen/view-only as part of the transition. Source: [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
 
-GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://web.archive.org/web/*/https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://web.archive.org/web/*/https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 
 <div class="contentsBox">
 

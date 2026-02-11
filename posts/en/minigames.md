@@ -80,7 +80,7 @@ Link to game [here](https://mikekrow.com/games/aavezon/index.html)
 
 ### Portal Ddefenders by @oh_no_bruno 
 
-Link to game [here](https://square-wildflower-4590.on.fleek.co/)
+Link to game [here](https://web.archive.org/web/*/https://square-wildflower-4590.on.fleek.co/)
 
 <img class = "bodyImage" src = "/minigames/portal-defenders.png" alt = "Portal Defenders Aavegotchi Mini-Game">
 

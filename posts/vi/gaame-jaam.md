@@ -38,7 +38,7 @@ The Aavegotchi Gaame Jaam/Hackathon được tổ chức từ 1 - 5 tháng Chín
 
 ## Các nhà tài trợ
 
-* [Moralis](https://moralis.io/)
+* [Moralis](https://web.archive.org/web/*/https://moralis.io/)
 * [Polygon Studios](https://polygonstudios.com/)
 
 ## Phần thưởng

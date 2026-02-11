@@ -48,7 +48,7 @@ Anderzijds worden Drop Tickets gebruikt om deel te nemen aan **NFT Lotterijen** 
 
 tabel_LotterijTickets
 
-Blogbericht: \[Staken van GHST, Maak FRENS Live op Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+Blogbericht: \[Staken van GHST, Maak FRENS Live op Ethereum Mainnet!\]( https://web.archive.org/web/*/https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 Gebruikers mogen tickets kopen die tot verschillende categorieën behoren in een enkele transactie. U hoeft **niet** afzonderlijke koop transacties te maken voor elke categorie lotterij ticket.
 
@@ -95,6 +95,6 @@ Weten hoe je FRENS kunt staken en hoe je deel kunt nemen aan Lotterijen is goed,
 
 ## Meer Bronnen
 
-- [Aavegotchi Lotterijen - EEN FRENS Gids](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ Chainlink Lotterij - Je WINT](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [Anon en het Groene Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi Lotterijen - EEN FRENS Gids](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ Chainlink Lotterij - Je WINT](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [Anon en het Groene Ticket](https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

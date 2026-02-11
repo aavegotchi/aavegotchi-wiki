@@ -34,7 +34,7 @@ Haunt 1 was launched on 2 March 2021. 10,000 Aavegotchi [Portals](/portals) were
 
 The first 10,000 portals were sold out in less than one minute. The launch was a huge success by all metrics except the fact that not everyone could have a Portal.
 
-Haunt 1 Aavegotchis also come with an exclusive Haunt 1 Background. Check out this [medium post](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) on how to claim it if you have a Haunt 1 Gotchi. The background is programmed to be non-transferable. This means from now till forever, only Haunt 1 Aavegotchis can equip this beautiful portal-themed background!
+Haunt 1 Aavegotchis also come with an exclusive Haunt 1 Background. Check out this [medium post](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) on how to claim it if you have a Haunt 1 Gotchi. The background is programmed to be non-transferable. This means from now till forever, only Haunt 1 Aavegotchis can equip this beautiful portal-themed background!
 
 This exclusive background was voted for in [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis).
 

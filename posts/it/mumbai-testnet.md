@@ -49,7 +49,7 @@ Once you’ve added everything, you can click on “Save”. You are now on Mumb
 
 ## Getting tokens from Mumbai Faucet
 
-1). Head over to the Mumbai Faucet at [https://faucet.polygon.technology/](https://faucet.polygon.technology/).
+1). Head over to the Mumbai Faucet at [https://web.archive.org/web/*/https://faucet.polygon.technology/](https://web.archive.org/web/*/https://faucet.polygon.technology/).
 
 2). Select the tokens that you wish to get from the faucet (e.g. MATIC token), select the default Network (Mumbai), and input your Metamask wallet address into the textbox.
 

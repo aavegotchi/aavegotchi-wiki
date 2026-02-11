@@ -45,29 +45,29 @@ Aavegotchi 的“任务”模式是一种趣味了解 Aavegotchi 项目的方式
 &nbsp;
 
 
-[**任务1：**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) 在 Aavegotchi Litepaper 中评论。
+[**任务1：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) 在 Aavegotchi Litepaper 中评论。
 
-[**任务2：**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) 邀请一位 fren 加入 Discord。
+[**任务2：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) 邀请一位 fren 加入 Discord。
 
-[**任务3：**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) 在 Aavegotchi 社区介绍文件中添加一个或两个你对项目的想法。
+[**任务3：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) 在 Aavegotchi 社区介绍文件中添加一个或两个你对项目的想法。
 
-[**任务4：**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) 转发我们的 Twitter 说说为什么会喜欢上 Aavegotchi 大家庭，并 at 两个 frens。
+[**任务4：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) 转发我们的 Twitter 说说为什么会喜欢上 Aavegotchi 大家庭，并 at 两个 frens。
 
-[**任务5：**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) 在我们的 Telegram 群中提出一个问题。
+[**任务5：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) 在我们的 Telegram 群中提出一个问题。
 
-[**任务6：**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) 从测试网的联合曲线（无需 KYC ---- 真实的联合曲线需要，但**你无需 KYC 就可以完成所有的任务**）购买测试网上的 GHST（不是真实的 GHST）。如果你之前没有过类似的经历，你会突然成为测试网的专家，向之后到来的小伙伴提供帮助会让你富有成就感。 如果在任务6的某些环节卡壳了，可以随时联系我们！ 我们很乐意为 Aagents 提供援助。
+[**任务6：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) 从测试网的联合曲线（无需 KYC ---- 真实的联合曲线需要，但**你无需 KYC 就可以完成所有的任务**）购买测试网上的 GHST（不是真实的 GHST）。如果你之前没有过类似的经历，你会突然成为测试网的专家，向之后到来的小伙伴提供帮助会让你富有成就感。 如果在任务6的某些环节卡壳了，可以随时联系我们！ 我们很乐意为 Aagents 提供援助。
 
-[**任务7：**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) 对 Aavegotchi 治理提案进行投票。
+[**任务7：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) 对 Aavegotchi 治理提案进行投票。
 
-[**任务8：**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) 参加表情包大赛！ 用任何你喜欢的语言创作一个 Aavegotchi 主题的表情包并发布在 Reddit 上面。
+[**任务8：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) 参加表情包大赛！ 用任何你喜欢的语言创作一个 Aavegotchi 主题的表情包并发布在 Reddit 上面。
 
-[**任务9：**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (我们最具挑战性的使命) 创造一篇短文或制作一个短视频介绍 Aavegotchi（文章字数为300个单词左右， 视频时间为30秒左右)。 在你喜欢的平台发布你的创作（不同类型的创作都有相应的几个发布平台），并从官推再转发一次包含你的创作内容的推特。
+[**任务9：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (我们最具挑战性的使命) 创造一篇短文或制作一个短视频介绍 Aavegotchi（文章字数为300个单词左右， 视频时间为30秒左右)。 在你喜欢的平台发布你的创作（不同类型的创作都有相应的几个发布平台），并从官推再转发一次包含你的创作内容的推特。
 
-[**任务10：**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) 在 AVEGOTCHI（测试网）使用 Aavegotchi Builder 把你的 Gotchi 换为你的 avatar（持续72小时），并与 Aavegotchi 大家庭分享你的创作！
+[**任务10：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) 在 AVEGOTCHI（测试网）使用 Aavegotchi Builder 把你的 Gotchi 换为你的 avatar（持续72小时），并与 Aavegotchi 大家庭分享你的创作！
 
-[**任务11：**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) 查看我们的新百科！ 选择你认为可能最有价值的两个板块来帮助它成为我们最有价值的资源。
+[**任务11：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) 查看我们的新百科！ 选择你认为可能最有价值的两个板块来帮助它成为我们最有价值的资源。
 
-[**任务12：**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) 成为电影之星！ 标记两个你最喜欢的区块链密码学相关的 Youtubers，让他们知道 #GotchiGang（Gotchi 帮会）来啦！
+[**任务12：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) 成为电影之星！ 标记两个你最喜欢的区块链密码学相关的 Youtubers，让他们知道 #GotchiGang（Gotchi 帮会）来啦！
 
 &nbsp;
 

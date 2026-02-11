@@ -38,7 +38,7 @@ contributors:
 
 ## スポンサー
 
-* [Moralis（モラリス）](https://moralis.io/)
+* [Moralis（モラリス）](https://web.archive.org/web/*/https://moralis.io/)
 * [Polygon Studios（ポリゴン・スタジオ）](https://polygonstudios.com/)
 
 ## 賞品

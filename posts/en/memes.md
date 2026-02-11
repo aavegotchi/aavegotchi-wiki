@@ -21,7 +21,7 @@ contributors: ["unintelligent-nerd"]
 ## Aavegotchi Mission 8 Meme Contest Winners
 
 
-In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT received 300, 200, and 100 GHST each, respectively. 
+In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT received 300, 200, and 100 GHST each, respectively. 
 
 ### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
 
@@ -42,7 +42,7 @@ Aavegotchi's subreddit is gaining traction and Pixelcraft studios is supporting 
 Post your best meme for a chance to win! 
 
 Instructions:
-* Follow the Aavegotchi subreddit [here](https://www.reddit.com/r/Aavegotchi/)
+* Follow the Aavegotchi subreddit [here](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)
 * Create a new, original meme (animated or still) 
 * Post it!
 
@@ -73,7 +73,7 @@ Let's see what facet of Aavegotchi you're most excited about! Happy memeing fren
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchi memes">
 
-For the full list of winners, check out the thread [here](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
+For the full list of winners, check out the thread [here](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)
 
 ### Miscellaneous Memes
 

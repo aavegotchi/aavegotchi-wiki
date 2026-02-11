@@ -8,7 +8,7 @@ contributors: ["moon14888"]
 
 Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
 
-In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
+In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.
 
 So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
 
@@ -33,7 +33,7 @@ As you might or might not know, Aavegotchi Mainnet launch was planned for Januar
 
 It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+For an extended discussion on this topic, see this medium [post](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 
 ## Adding Polygon to your Metamask
 
@@ -51,7 +51,7 @@ Let’s get started with the fun stuff! To use Polygon, you first need to add it
 
 Network Name: Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+New RPC URL: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 

@@ -59,7 +59,7 @@ Buyers may buy 1, some, or all of a multiple item listing.
 
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazaar" />
 
-Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
+Check this [post](https://web.archive.org/web/*/https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
 The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar/aavegotchis).
 
@@ -89,5 +89,5 @@ Other features included in the Baazaar are:
 
 Besides the Baazaar, there are secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
 
-As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
+As Aavegotchis reside natively on Polygon, they have to be bridged back to Ethereum Mainnet before they can be bought/sold on Rarible. Refer to this [guide](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) on how to bridge your Aavegotchis. Do check out the FAQ in that guide for commonly-asked questions.
 

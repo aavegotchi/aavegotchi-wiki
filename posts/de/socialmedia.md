@@ -44,9 +44,9 @@ Unser Discord ist auch ein grossartiger Ort für alle, die allgemeine Fragen hab
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Besuche uns auf Medium**</a>
+<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Besuche uns auf Medium**</a>
 
-<p style="margin-left: 4.8em">Die Aavegotchi Medium Seite ist ein grossartiger Ort für Leser, die über das Aavegotchi Projekt auf dem Laufenden bleiben wollen. Hier findest du ausführliche Community-Updates, sowie detaillierte Informationen zu <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien,</a> Events und manchmal stösst du sogar auf<a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi Fan-Fiction.</a></p>
+<p style="margin-left: 4.8em">Die Aavegotchi Medium Seite ist ein grossartiger Ort für Leser, die über das Aavegotchi Projekt auf dem Laufenden bleiben wollen. Hier findest du ausführliche Community-Updates, sowie detaillierte Informationen zu <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Lotterien,</a> Events und manchmal stösst du sogar auf<a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi Fan-Fiction.</a></p>
 
 &nbsp;<a name="Telegram"></a>
 
@@ -62,7 +62,7 @@ Unser Discord ist auch ein grossartiger Ort für alle, die allgemeine Fragen hab
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme mit uns auf Reddit**</a>
+<a href="https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme mit uns auf Reddit**</a>
 
 <p style="margin-left: 4.8em">Komm für die Memes und bleib für die Community! Mach eine Pause und hab eine schöne Zeit auf dem Aavegotchi Reddit, wo unsere tollen Memer sind! Viel Spass beim Entspannen für den Tag.</p>
 

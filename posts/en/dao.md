@@ -184,7 +184,7 @@ To create signal proposals for the #GotchiGang to vote on, please adhere to the 
 * Any alternative paths (Plan B, Plan C, etc)
 * The end time of a proposal should not be longer than 30 days from its starting time, to ensure that only active proposals are displayed on Snapshot Community board.
 
-More details can be found in this [Medium post](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+More details can be found in this [Medium post](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
 ## Voting
 
@@ -220,4 +220,4 @@ As responsible stewards, members of AavegotchiDAO will play a role in determinin
 
 The AavegotchiDAO treasury is located [here](https://aavegotchi.com/dao?p=treasury).
 
-MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)
+MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://web.archive.org/web/*/https://dune.com/eitri/aavegotchi-dao-treasury)

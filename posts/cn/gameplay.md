@@ -37,7 +37,7 @@ Aavegotchi是真正将NFTs和DeFi融合在一起的独特游戏。
 
 [可穿戴装备](https://wiki.aavegotchi.com/en/wearables) 是Aavegotchi 游戏的重要部分。 通过装扮你的Aavegotchi，你可以提高你可爱小鬼朋友们的rarity score （稀有度分数）和特性，帮助他们在稀有度挖矿和迷你游戏中表现更好。
 
-现在你可以通过限量版 [抽奖](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) 活动获得穿戴券（Wearable Voucher ），并在Aavegotchi在主网上线之时，用它来兑换相对应的穿戴设备。
+现在你可以通过限量版 [抽奖](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) 活动获得穿戴券（Wearable Voucher ），并在Aavegotchi在主网上线之时，用它来兑换相对应的穿戴设备。
 
 ## 稀有度挖矿
 

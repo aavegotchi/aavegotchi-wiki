@@ -44,10 +44,10 @@ Notre Discord est également un endroit idéal pour tous ceux qui ont des questi
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Lisez-nous sur Medium**</a>
+<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Lisez-nous sur Medium**</a>
 
 <p style="margin-left: 4.8em">La page Medium d'Aavegotchi est un endroit idéal pour les lecteurs qui veulent suivre le projet Aavegotchi. C'est ici que vous trouverez des mises à jour approfondies de la communauté, 
-ainsi que des informations détaillées sur les événements des <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">loteries</a> et même occasionnellement rencontré quelques inspirés de la <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">fan-fiction Gotchi.</a></p>
+ainsi que des informations détaillées sur les événements des <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">loteries</a> et même occasionnellement rencontré quelques inspirés de la <a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">fan-fiction Gotchi.</a></p>
 
 &nbsp;<a name="Telegram"></a>
 
@@ -67,7 +67,7 @@ environ 3.100 autres frens. Complet avec les autocollants Aavegotchi Telegram, l
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme avec nous sur Reddit**</a>
+<a href="https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Meme avec nous sur Reddit**</a>
 
 <p style="margin-left: 4.8em">Venez pour les memes et restez pour la communauté! Faites une pause et passez un moment merveilleusement agréable sur le Reddit de Aavegotchi, où nos grands memers résident! Ayez un grand fou rire lorsque vous vous détendez de votre dur journée.</p>
 

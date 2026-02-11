@@ -37,7 +37,7 @@ Du kannst ein Portal auf der Aavegotchi dApp oder einem externen NFT-Marktplatz 
 
 [Kleidungsstücke](https://wiki.aavegotchi.com/en/wearables) sind ein wichtiger Teil des Aavegotchi-Gameplays. Indem du dein Aavegotchi verkleidest, kannst du den Seltenheitswert und die Eigenschaften deines niedlichen Geistes verstärken, was ihm hilft, beim Rarity Farming und bei Minispielen besser abzuschneiden.
 
-Du kannst jetzt einen Gutschein über eine limitierte [Lotterie](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) erhalten und ihn gegen ein analoges Kleidungsstück einlösen, wenn Aavegotchi auf dem Mainnet startet.
+Du kannst jetzt einen Gutschein über eine limitierte [Lotterie](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) erhalten und ihn gegen ein analoges Kleidungsstück einlösen, wenn Aavegotchi auf dem Mainnet startet.
 
 ## Rarity Farming
 

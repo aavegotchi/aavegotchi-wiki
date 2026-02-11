@@ -38,7 +38,7 @@ description: '아베고치 게임 플레이 소개'
 
 [Wearables](https://wiki.aavegotchi.com/en/wearables)은 아베고치 게임플레이에서 중요한 부분 중 하나입니다. 아베고치를 wearables로 꾸며주게 되면, 여러분의 귀여운 고치(gotchi) 친구의 희귀도 점수와 특성을 올릴 수 있으며, 희귀도 파밍과 미니게임에서 더 잘 활동할 수 있게 돕게 됩니다.
 
-여러분은 한정판 [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)을 통해 Wearable 바우처를 얻을 수 있으며 아베고치가 메인넷에 출시될 때 유사한 wearable로 바꿀 수 있습니다.
+여러분은 한정판 [Raffle](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)을 통해 Wearable 바우처를 얻을 수 있으며 아베고치가 메인넷에 출시될 때 유사한 wearable로 바꿀 수 있습니다.
 
 ## 희귀도 파밍
 

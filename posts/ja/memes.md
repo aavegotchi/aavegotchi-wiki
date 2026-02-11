@@ -21,7 +21,7 @@ contributors:
 
 ## Aavegotchiミッション8のミームコンテスト勝者
 
-[Aavegotchiミッション8](/missions)では、エージェントは[Aavegotchi subreddit](https://www.reddit.com/r/Aavegotchi/)でゴッチまたはGHSTトークンを使用して最高のミームを作成するように任命されました。 あなたのお気に入りに「良いね」してください！ 10月9日午後8時SGT 付けに、上位3名はそれぞれ賞金300、200、100 GHSTを受け取りました。
+[Aavegotchiミッション8](/missions)では、エージェントは[Aavegotchi subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)でゴッチまたはGHSTトークンを使用して最高のミームを作成するように任命されました。 あなたのお気に入りに「良いね」してください！ 10月9日午後8時SGT 付けに、上位3名はそれぞれ賞金300、200、100 GHSTを受け取りました。
 
 ### <span style="color:gold">1位：Zemusの「Aavegotchiパックマン」</span>
 
@@ -42,7 +42,7 @@ Aavegotchiのsubredditが勢いを増しており、PixelcraftスタジオはAav
 入賞を目指して最高のミームを投稿しよう！
 
 手順：
-* [ここ](https://www.reddit.com/r/Aavegotchi/)からAavegotchiサブレディットをフォローする
+* [ここ](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/)からAavegotchiサブレディットをフォローする
 * 新しいオリジナルのミームを作成する（動画または静止画）
 * 投稿しよう！
 
@@ -73,7 +73,7 @@ Aavegotchiのどの一面があなたにとって楽しいのかを見てみま�
 
 <img class="bodyImage" src="/memes/pet-gotchi.png" alt = "aavegotchiミーム" />
 
-受賞者の全リストは[こちら](https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)をご覧ください。
+受賞者の全リストは[こちら](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/comments/oxieux/winners_of_the_meme_contest/)をご覧ください。
 
 ### その他のミーム
 

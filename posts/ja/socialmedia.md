@@ -45,9 +45,9 @@ Discordは、一般的な質問、そうでない質問、技術的なサポー�
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**ミディアムでチェックしよう**</a>
+<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**ミディアムでチェックしよう**</a>
 
-<p style="margin-left: 4.8em">AavegotchiのMediumページは、Aavegotchiプロジェクトの最新情報を知りたい読者にとって素晴らしい場所です。 ここでは、コミュニティの詳細なアップデートや、<a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">ラッフル抽選会</a>、イベントに関する詳細な情報、そして時にはインスピレーションを受けた<a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">ゴッチファンフィクション</a>を見つけることができます。</p>
+<p style="margin-left: 4.8em">AavegotchiのMediumページは、Aavegotchiプロジェクトの最新情報を知りたい読者にとって素晴らしい場所です。 ここでは、コミュニティの詳細なアップデートや、<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">ラッフル抽選会</a>、イベントに関する詳細な情報、そして時にはインスピレーションを受けた<a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">ゴッチファンフィクション</a>を見つけることができます。</p>
 
 &nbsp;<a name="Telegram"></a>
 
@@ -63,7 +63,7 @@ Discordは、一般的な質問、そうでない質問、技術的なサポー�
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**レディットで一緒にミームしよう**</a>
+<a href="https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**レディットで一緒にミームしよう**</a>
 
 <p style="margin-left: 4.8em">ミームのために来て、コミュニティのために滞在してください！ Aavegotchiレディットで一息ついて、素敵な時間を過ごしましょう！私たちの素晴らしきミーマーたちが住んでいます。 一日の疲れを癒すように、大笑いしてください。</p>
 

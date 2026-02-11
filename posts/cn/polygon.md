@@ -9,7 +9,7 @@ contributors:
 
 嘿，朋友！ So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? 别担心，我们会逐步带你完成所有步骤！
 
-In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. 这是一个去中心化的平台，可确保更快和极低成本的交易，并在主链上具有最终性。 如果你想知道它如何工作更详细，请查看 [文章](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) 篇。
+In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. 这是一个去中心化的平台，可确保更快和极低成本的交易，并在主链上具有最终性。 如果你想知道它如何工作更详细，请查看 [文章](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) 篇。
 
 So say goodbye to $100 transactions on Uniswap and hello to (almost) free interactions!
 
@@ -33,7 +33,7 @@ As you might or might not know, Aavegotchi Mainnet launch was planned for Januar
 
 It was clear that a launch on Ethereum Mainnet was impossible. Since Polygon has been working together with different NFT projects (such as OpenSea) already, the choice was relatively easy. The community shared this sentiment and voted for a launch on Polygon with 76%.
 
-For an extended discussion on this topic, see this medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+For an extended discussion on this topic, see this medium [post](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 
 ## Adding Polygon to your Metamask
 
@@ -51,7 +51,7 @@ Let’s get started with the fun stuff! To use Polygon, you first need to add it
 
 Network Name: Matic Mainnet
 
-New RPC URL: https://rpc-mainnet.maticvigil.com/
+New RPC URL: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
 
 Chain ID: 137
 

@@ -50,7 +50,7 @@ tafel_laavaLamp
 
 ## Neon Licht
 
-Voor GotchiGang is "GM" niet alleen iets wat wij zeggen, maar een manier van leven. Ik bedoel duidelijk dat we de [Discord GM-index](https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q) niet hebben getop zonder reden. Nu kunt u uw Gotchiverse REALM pakket oplichten met een griezelig Neon "GM" lichtje voor iedereen. Wie weet kunnen deze heldere lampen ons zelfs helpen om een toekomstige metaverse GM Index boven te steken!
+Voor GotchiGang is "GM" niet alleen iets wat wij zeggen, maar een manier van leven. Ik bedoel duidelijk dat we de [Discord GM-index](https://web.archive.org/web/*/https://mirror.xyz/danielpartida.eth/VkvuHM4TM-RM0_eCxZTn8rM7aGPUrzE-mmc0lqNPZ3Q) niet hebben getop zonder reden. Nu kunt u uw Gotchiverse REALM pakket oplichten met een griezelig Neon "GM" lichtje voor iedereen. Wie weet kunnen deze heldere lampen ons zelfs helpen om een toekomstige metaverse GM Index boven te steken!
 
 tafel_neonLight
 

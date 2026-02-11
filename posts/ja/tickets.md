@@ -48,7 +48,7 @@ FRENSとは異なり、チケットはあるウォレットから別のウォレ
 
 table_RaffleTickets
 
-ブログ記事： \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
+ブログ記事： \[Stake GHST, Make FRENS Live on Ethereum Mainnet!\]( https://web.archive.org/web/*/https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 ユーザーは、1つのトランザクションで異なるカテゴリーに属するチケットを購入することができます。 ラッフルチケットの各カテゴリーについて、個別の購入トランザクションを作成する必要は**ありません**。
 
@@ -95,6 +95,6 @@ FRENSのステークのやり方やラッフルに参加する方法を知って
 
 ## その他のリソース
 
-- [Aavegotchi ラッフル - フレンドリー ガイド](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
-- [Aavegotchi ❤ チェーンリンク・ラッフル - あなたが勝ちました](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
-- [アノンとグリーン・チケット](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+- [Aavegotchi ラッフル - フレンドリー ガイド](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
+- [Aavegotchi ❤ チェーンリンク・ラッフル - あなたが勝ちました](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
+- [アノンとグリーン・チケット](https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)

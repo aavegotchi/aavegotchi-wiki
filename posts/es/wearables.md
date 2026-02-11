@@ -149,7 +149,7 @@ table_santaWearablesTable
 
 ## Set OKex
 
-El 7 de octubre de 2020, Aavegotchi se asoció con OKex para crear un conjunto especial de prendas de vestir inspiradas por Jay Hao, el CEO de OKex. Los afortunados que depositan sus fichas GHST en la plataforma OKex tenían la oportunidad de ganar estos equipables. Hay 150 equipables disponibles. El top 5 de depositarios ganarán automáticamente el conjunto completo de 5 piezas. Pero los restantes 125 NFT serán otorgados aleatoriamente a cualquiera que deposite más de 10 GHST. Vea [aquí](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) para más información.
+El 7 de octubre de 2020, Aavegotchi se asoció con OKex para crear un conjunto especial de prendas de vestir inspiradas por Jay Hao, el CEO de OKex. Los afortunados que depositan sus fichas GHST en la plataforma OKex tenían la oportunidad de ganar estos equipables. Hay 150 equipables disponibles. El top 5 de depositarios ganarán automáticamente el conjunto completo de 5 piezas. Pero los restantes 125 NFT serán otorgados aleatoriamente a cualquiera que deposite más de 10 GHST. Vea [aquí](https://web.archive.org/web/*/https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) para más información.
 
 table_okexWearablesTable
 
@@ -225,7 +225,7 @@ table_layer2WearablesTable
 
 ## Equipables de Subastas
 
-La Primera Subasta "Puja para Ganar" se llevó a cabo desde el jueves, 15 de julio al domingo, 18 de julio de 2021. Las subastas Bid-to-Earn son alimentadas por las tecnologías de nuestros amigod en la subasta GBM.auction. Aprende por qué este método de distribución de NFT ofrece enormes ventajas sobre modelos antiguos visitando su sitio web y leyendo [nuestra publicación Medium piece](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+La Primera Subasta "Puja para Ganar" se llevó a cabo desde el jueves, 15 de julio al domingo, 18 de julio de 2021. Las subastas Bid-to-Earn son alimentadas por las tecnologías de nuestros amigod en la subasta GBM.auction. Aprende por qué este método de distribución de NFT ofrece enormes ventajas sobre modelos antiguos visitando su sitio web y leyendo [nuestra publicación Medium piece](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
 
 Esta primera Subasta presenta dos nuevos sets de ropa así como un divertido objeto de rareza común. ¡Prepárate para gamers, steampunks e incluso una taza de café!
 
@@ -233,7 +233,7 @@ table_auctionWearablesTable
 
 ## Aavegotchi x Venly equipables
 
-Una colaboración entre Aavegotchi y Venly para presentar Aavegotchi a un público masivo de juegos NFT. Lee esta [publicación](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) para más información.
+Una colaboración entre Aavegotchi y Venly para presentar Aavegotchi a un público masivo de juegos NFT. Lee esta [publicación](https://web.archive.org/web/*/https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) para más información.
 
 table_venlyWearablesTable
 

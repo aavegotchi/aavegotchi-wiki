@@ -59,7 +59,7 @@ Los compradores pueden comprar 1, algunos o todos los artículos de una lista m�
 
 <img class = "bodyImage" src = "/baazaar/baazaar.png" alt = "Aavegotchi Bazar" />
 
-Lee esta [publicación](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) para más información.
+Lee esta [publicación](https://web.archive.org/web/*/https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) para más información.
 
 El Baazaar de Aavegotchi se puede encontrar [aquí](https://aavegotchi.com/baazaar/aavegotchis).
 
@@ -89,5 +89,5 @@ Otras características incluidas en el Baazar son:
 
 Besides the Baazaar, there are secondary marketplaces that support the buying and selling of Aavegotchis including: [Magic Eden](https://magiceden.io/) on Polygon Mainnet, [OnePlanet NFT](https://www.oneplanetnft.io/) on Polygon Mainnet, and [Rarible](https://rarible.com/) on Ethereum Mainnet.
 
-Como Aavegotchis residen nativamente en Polygon, tienen que ser enviados de vuelta a Ethereum Mainnet a través del puente antes de que puedan ser comprados o vendidos en Rarible. Consulta esta [guía](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) sobre cómo conectar tu Aavegotchis. Echa un vistazo a las Preguntas Frecuentes en esa guía para las preguntas más comunes.
+Como Aavegotchis residen nativamente en Polygon, tienen que ser enviados de vuelta a Ethereum Mainnet a través del puente antes de que puedan ser comprados o vendidos en Rarible. Consulta esta [guía](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f) sobre cómo conectar tu Aavegotchis. Echa un vistazo a las Preguntas Frecuentes en esa guía para las preguntas más comunes.
 

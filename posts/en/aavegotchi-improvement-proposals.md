@@ -1104,9 +1104,9 @@ Total – 4,042,712 DAI
 
 *Background Sources:*
 
-[https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026](https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026)
+[https://web.archive.org/web/*/https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026](https://web.archive.org/web/*/https://forum.makerdao.com/t/money-view-of-the-makerdao-morpho-ethena-drama/24026)
 
-[https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7](https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7)
+[https://web.archive.org/web/*/https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7](https://web.archive.org/web/*/https://forum.makerdao.com/t/risk-assessment-usde-morpho-lending-integration/23924/7)
 
 Option 1: YES. Convert all DAI to USDC
 

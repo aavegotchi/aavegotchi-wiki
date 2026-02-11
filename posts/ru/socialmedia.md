@@ -44,9 +44,9 @@ contributors:
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Найди нас на Medium**</a>
+<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Найди нас на Medium**</a>
 
-<p style="margin-left: 4.8em">На Медиуме мы регулярно публикуем информацию об обновлениях. Поэтому, если вы хотите первыми узнавать полезную информацию, здесь вы найдете новости, информацию о событиях в игре, грядущих <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">розыгрышах</a>, а также <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">фанфики</a> о Готчи.</p>
+<p style="margin-left: 4.8em">На Медиуме мы регулярно публикуем информацию об обновлениях. Поэтому, если вы хотите первыми узнавать полезную информацию, здесь вы найдете новости, информацию о событиях в игре, грядущих <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">розыгрышах</a>, а также <a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">фанфики</a> о Готчи.</p>
 
 &nbsp;<a name="Telegram"></a>
 
@@ -63,7 +63,7 @@ contributors:
 
 &nbsp;<a name="Reddit"></a>
 
-<a href="https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Го с нами на Reddit**</a>
+<a href="https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/" target = "_blank"><img class="socialmedia" src="/socialmedia/reddit.jpg" alt = "aavegotchi reddit" width="59" height="58"> &nbsp;&nbsp;&nbsp;**Го с нами на Reddit**</a>
 
 <p style="margin-left: 4.8em">Хотите увидеть прикольные мемы о Готчи и игре в целом, или желаете поделиться своим творением — приглашаем в Реддит. Общайтесь, делитесь информацией, становитесь частью сообщества! Мы уверены, что вы отлично проведете время в нашем сабреддите Аавеготчи. Смейтесь, расслабляйтесь и заряжайтесь позитивом на целый день!</p>
 

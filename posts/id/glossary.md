@@ -354,7 +354,7 @@ GBM stands for Gonnaud-Bessire-McDonaugh.
 
 First pioneered by Cryptograph back in 2019, the GBM auction is a patent-pending system, and Pixelcraft Studios has officially been licensed to use it for all Aavegotchi NFT Drops, including Haunt 2, REALM, and even Wearables.
 
-For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
+For more information on the GBM Auction, check out the [Cryptograph GBM Auction blog post](https://web.archive.org/web/*/https://medium.com/cryptograph/incentivised-bidding-the-gbm-auction-c6dae5a756e5).
 
 ### Metaverse
 

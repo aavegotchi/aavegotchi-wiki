@@ -165,6 +165,6 @@ As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly o
 
 **Exchange availability can change over time.** On 3 February 2026, Binance announced it will [delist GHST spot and perpetual contracts on 2026-02-13 03:00 UTC](https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27).
 
-For the most up-to-date list of venues, see the GHST “Markets” tab on CoinGecko: https://www.coingecko.com/en/coins/aavegotchi#markets
+For the most up-to-date list of venues, see the GHST “Markets” tab on CoinGecko: https://web.archive.org/web/*/https://www.coingecko.com/en/coins/aavegotchi#markets
 
 <img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="GHST withdrawal from Binance to Polygon">
