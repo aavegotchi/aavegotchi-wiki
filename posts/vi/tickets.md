@@ -31,7 +31,7 @@ Vé là những NFT cho phép bạn tham gia vào Xổ Số Aavegotchi để có
 
 ## Mua vé Raffle
 
-Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/tickets) để mua vé raffle với FRENS.
+Một khi bạn đã có đủ FRENS, hãy chuyển đến [ giao diện Shop Bulk Buy](https://aavegotchi.com/baazaar/tickets) để mua vé raffle với FRENS.
 
 Không giống như FRENS, vé Raffle có thể được chuyển từ ví này sang ví khác. Vé cũng có thể được mua/bán trên thị trường thứ cấp như [Baazaar](/baazaar).
 

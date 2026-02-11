@@ -103,6 +103,6 @@ GAX LPトークンをマスターシェフ契約にステークし、GLTRを獲�
 
 ## GLTRを稼ぐ
 
-wapGHSTまたはQuickswap/Sushiswap LPトークンは、[https://aavegotchi.com/stake-gltr](https://aavegotchi.com/stake-gltr)から、GLTR報酬を得るためにステークできます。
+wapGHSTまたはQuickswap/Sushiswap LPトークンは、[https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking)から、GLTR報酬を得るためにステークできます。
 
 プールのシェアに応じて、各ポリゴンブロックにつきGLTRトークンが発生します。

@@ -35,7 +35,7 @@ Trang này sẽ cho bạn biết thứ bạn có thể làm với những ngư�
 
 ## Truy cập vào Profile của Gotchi
 
-Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Gotchi bất kỳ của bạn và nó sẽ giúp bạn truy cập vào trang thông tin của gotchi đó.
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/lending/aavegotchis). Nhấp vào một Gotchi bất kỳ của bạn và nó sẽ giúp bạn truy cập vào trang thông tin của gotchi đó.
 
 ## Aavegotchi Profile
 

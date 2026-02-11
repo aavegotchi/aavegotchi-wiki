@@ -255,4 +255,4 @@ AavegotchiDAO verdient 0.3% van alle transacties op de Aavegotchi [Bonding Curve
 
 Als verantwoordelijke rentmeesters zullen de leden van AavegotchiDAO een rol spelen bij het bepalen van de wijze waarop deze fondsen worden toegewezen.
 
-De AavegotchiDAO schatkist is [hier](https://aavegotchi.com/treasury).
+De AavegotchiDAO schatkist is [hier](https://aavegotchi.com/dao?p=treasury).

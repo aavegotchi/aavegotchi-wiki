@@ -255,4 +255,4 @@ AavegotchiDAOは、イーサリアムメインネット上のAavegotchi[Bonding 
 
 責任ある運営者として、AavegotchiDAOのメンバーはこれらの資金がどのように配分されるかを決定する役割を担います。
 
-AavegotchiDAOの宝庫は[ここ](https://aavegotchi.com/treasury)にあります。
+AavegotchiDAOの宝庫は[ここ](https://aavegotchi.com/dao?p=treasury)にあります。

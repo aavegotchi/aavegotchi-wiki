@@ -31,7 +31,7 @@ Op deze pagina leer je hoe je tickets kunt kopen met behulp van FRENS en hoe je 
 
 ## Tickets Kopen
 
-Zodra je genoeg FRENS hebt, ga naar de [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) om tickets met FRENS te kopen.
+Zodra je genoeg FRENS hebt, ga naar de [Shop Bulk Buy user interface](https://aavegotchi.com/baazaar/tickets) om tickets met FRENS te kopen.
 
 In tegenstelling tot FRENS kunnen Tickets worden overgedragen van de ene portemonnee naar de andere. Ze kunnen ook gekocht en verkocht worden op secundaire markten zoals de [Baazaar](/baazaar).
 

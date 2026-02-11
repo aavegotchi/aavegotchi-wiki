@@ -35,7 +35,7 @@ Cada Gotchi tiene su propia página de perfil donde puedes ver tu Gotchi y jugar
 
 ## Acceder a tu perfil de Gotchi
 
-Primero, necesita ir a [Mi página Aavegotchis](https://aavegotchi.com/aavegotchis). Haz clic en cualquiera de tus Gotchis y te llevará a su página de perfil.
+Primero, necesita ir a [Mi página Aavegotchis](https://aavegotchi.com/lending/aavegotchis). Haz clic en cualquiera de tus Gotchis y te llevará a su página de perfil.
 
 ## Perfil de Gotchi
 

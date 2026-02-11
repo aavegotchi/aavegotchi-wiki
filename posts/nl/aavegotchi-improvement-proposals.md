@@ -710,7 +710,7 @@ tabel_agip19
 
 We stellen voor om de DAO Schatkist Taask Force (DTF) op te richten. Dit comité zal in eerste instantie bestaan uit acht ledenwaarvan we het lidmaatschap binnen zes maanden opnieuw zullen laten beoordelen door de DAO.
 
-Vanaf 12/07/2021 beschikt de DAO Schat (https://aavegotchi.com/treasury) over bijna ~$11,408,400 ter waarde in DAI en GHST. In zijn oorspronkelijke vorm zal de commissie voorstellen voor behandeling voorleggen aan de DAO, die vervolgens in stemming zal worden gebracht en, indien goedgekeurd, zal worden goedgekeurd.
+Vanaf 12/07/2021 beschikt de DAO Schat (https://aavegotchi.com/dao?p=treasury) over bijna ~$11,408,400 ter waarde in DAI en GHST. In zijn oorspronkelijke vorm zal de commissie voorstellen voor behandeling voorleggen aan de DAO, die vervolgens in stemming zal worden gebracht en, indien goedgekeurd, zal worden goedgekeurd.
 
 Voorgestelde Missie Verklaring
 
@@ -1383,7 +1383,7 @@ At the time of this writing, AavegotchiDAO treasury holds roughly:
 
 * 3.5 Million GHST
 
-* 3 Million Alchemica (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/treasury))
+* 3 Million Alchemica (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/dao?p=treasury))
 
 Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
 
@@ -2773,7 +2773,7 @@ table_marketplaceName
 
 Our liquidity migration program has been a huge success, with over 8M GHST migrated to Polygon already. However, as many community members have noted, liquidity for the GHST-USDC pair is still not deep enough to support trading large amounts of USDC for GHST on Quickswap.
 
-We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
+We believe one way to remedy this is by adding GHST-USDC as a pair eligible for FRENS on [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking). Just like GHST-QUICK has a receipt token stkGHST-QUICK, staked GHST-USDC can also emit a stkGHST-USDC token, which may be eligible for rewards on Quickswap, if their team deems it necessary.
 
 Since this decision directly affects gameplay, we believe it is a ripe candidate for our first Snapshot vote on Polygon.
 

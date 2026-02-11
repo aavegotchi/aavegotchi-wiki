@@ -116,6 +116,6 @@ The official blog post announcing GLTR spending/staking (published **2022-05-31*
 
 ## Earning GLTR
 
-wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://aavegotchi.com/stake-gltr](https://aavegotchi.com/stake-gltr).
+wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking).
 
 Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.

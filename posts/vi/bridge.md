@@ -45,7 +45,7 @@ Aavegotchi Bridge là chiếc cầu chính chủ được tạo ra bởi Pixelcr
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
 
-Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/bridge).
+Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/get-tokens?p=bridge).
 
 Dưới đây là hướng dẫn chi tiết việc chuyển token ERC20 từ Ethereum Mainnet sang Polygon:
 

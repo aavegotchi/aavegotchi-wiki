@@ -31,7 +31,7 @@ contributors:
 
 ## チケットを購入する
 
-FRENSが揃ったら、[Shop Bulk Buy（まとめ買い）のユーザーインターフェース](https://aavegotchi.com/tickets)にアクセスして、FRENSでチケットを購入してください。
+FRENSが揃ったら、[Shop Bulk Buy（まとめ買い）のユーザーインターフェース](https://aavegotchi.com/baazaar/tickets)にアクセスして、FRENSでチケットを購入してください。
 
 FRENSとは異なり、チケットはあるウォレットから別のウォレットに移動することができます。 また、[バザール](/baazaar)などの二次市場で売買することも可能です。
 

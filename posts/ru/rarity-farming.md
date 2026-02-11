@@ -115,4 +115,4 @@ For data pertaining to the Rarity Farming Seasons (including Base-era seasons), 
 
 Rarity Farming Rewards are disbursed to your Aavegotchi inventories (Yes! Each of your Aavegotchi has their own personal inventory!).
 
-Сначала перейдите на [эту](https://aavegotchi.com/aavegotchis) страницу. Click on any one of your Aavegotchi. Справа, в самом низу экрана, вы заметите “Кармашек”. Click on it to view your Aavegotchi's inventory. You can see the amount of GHST your Gotchi has won from Rarity Farming (as well as their equipped wearables).
+Сначала перейдите на [эту](https://aavegotchi.com/lending/aavegotchis) страницу. Click on any one of your Aavegotchi. Справа, в самом низу экрана, вы заметите “Кармашек”. Click on it to view your Aavegotchi's inventory. You can see the amount of GHST your Gotchi has won from Rarity Farming (as well as their equipped wearables).

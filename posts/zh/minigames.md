@@ -46,7 +46,7 @@ Soon! The Devs are hard at work. More information will be released here once it 
 
 Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
 
-The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/minigames)
+The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/games)
 
 ### Reverse Pacman by aaron555
 

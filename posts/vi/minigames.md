@@ -46,7 +46,7 @@ Sớm thôi! Đội Aavegotchi đang làm việc hết năng suất. Sẽ công 
 
 Một vài [aarchitect](/aarchitect) đã tự tạo ra các trò mini game! Hãy chơi thử nhé!
 
-Bạn có thể xem phần Mini-Game của DApp Aavegotchi.com tại [đây](https://aavegotchi.com/minigames)
+Bạn có thể xem phần Mini-Game của DApp Aavegotchi.com tại [đây](https://aavegotchi.com/games)
 
 ### Reverse Pacman của Paltox
 

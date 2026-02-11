@@ -61,7 +61,7 @@ Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save".
 4). Không có bước 4 đâu nha, bạn đã làm xong rồi á! Giờ bạn có thể chuyển đổi qua lại giữa Ethereum Mainnet và Matic bằng cách nhấp vào nút vừa nhắc trong bước 1.
 
 ## Kết nối tài sản đến Matic
-Khi bạn đã kết nối Metamask xong thì bạn sẵn sàng vào việc rồi đấy. Nhưng trước tiên bạn cần có một ít tài sản trên Matic. Bọn mình sẽ dùng  Cổng Chuyển Đổi [Proof of Stake (PoS)](/glossary#proof-of-stake) của Matic để chuyển tài sản từ Ethereum Mainnet sang Matic. Nếu bạn chỉ muốn chuyển GHST, thì hãy bỏ qua những bước sau đây và chỉ nên dùng Aavegotchi Bridge[tại đây](https://aavegotchi.com/bridge).
+Khi bạn đã kết nối Metamask xong thì bạn sẵn sàng vào việc rồi đấy. Nhưng trước tiên bạn cần có một ít tài sản trên Matic. Bọn mình sẽ dùng  Cổng Chuyển Đổi [Proof of Stake (PoS)](/glossary#proof-of-stake) của Matic để chuyển tài sản từ Ethereum Mainnet sang Matic. Nếu bạn chỉ muốn chuyển GHST, thì hãy bỏ qua những bước sau đây và chỉ nên dùng Aavegotchi Bridge[tại đây](https://aavegotchi.com/get-tokens?p=bridge).
 
 Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc USDC, đây là cách thực hiện nè:
 
@@ -95,7 +95,7 @@ Vậy thì làm thế nào để chuyển tài sản về lại Ethereum Mainnet
 
 Có chứ, có một cách giúp bạn có thể chuyển tài sản trở lại Ethereum Mainnet!
 
-Hãy ghé qua trang [Aavegotchi Bridge](https://aavegotchi.com/bridge)lại nhé.
+Hãy ghé qua trang [Aavegotchi Bridge](https://aavegotchi.com/get-tokens?p=bridge)lại nhé.
 
 <img class = "bodyImage" src = "/matic/bridge-to-matic.png" alt = "Aavegotchi Bridge" />
 

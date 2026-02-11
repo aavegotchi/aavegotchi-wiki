@@ -199,7 +199,7 @@ Kost: Variabel. Afhankelijk van de zeldzaamheid van de Gotchi, of het komt met w
 
 ### Kan ik gratis beginnen?
 
-Ja! Je kunt een Aavegotchi lenen en gratis spelen dankzij ons 100% on-chain [Gotchi Lending](/gotchi-lending) programma. Ga naar [aavegotchi.com/lending](https://aavegotchi.com/lending) om nu door de Lending listing te bladeren.
+Ja! Je kunt een Aavegotchi lenen en gratis spelen dankzij ons 100% on-chain [Gotchi Lending](/gotchi-lending) programma. Ga naar [aavegotchi.com/lending](https://aavegotchi.com/lending/aavegotchis) om nu door de Lending listing te bladeren.
 
 ### Hoe kan ik geld verdienen?
 
@@ -284,7 +284,7 @@ Stakers earn yield on their GHST deposits in Aave V3 in addition to FRENS.
 
 The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST).
 
-Vist [https://aavegotchi.com/stake-polygon](https://aavegotchi.com/stake-polygon) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
+Vist [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST.
 
 ## Lotterij Veelgestelde Vragen
 
@@ -308,7 +308,7 @@ As far as gameplay, raffle wearables will offer the same <a href="https://wiki.a
 
 
 ### How do you transfer raffle tickets?
-Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/baazaar/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets" />
 
@@ -533,7 +533,7 @@ However, you can also extend the agreement by simply not concluding it. The agre
 
 For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
 
-After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://aavegotchi.com/whitelists).
+After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://aavegotchi.com/lending/whitelists).
 
 ## Aambassador FAQ
 
@@ -597,7 +597,7 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 ### If I buy a Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/bridge). You can bridge back anytime you like!
+Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/get-tokens?p=bridge). You can bridge back anytime you like!
 
 ### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
 **NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
@@ -652,7 +652,7 @@ Quite a number of people have encountered this issue as the stkGHST-QUICK token 
 
 ### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/get-tokens?p=bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
 First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
 
@@ -674,7 +674,7 @@ For step-by-step instructions on how to do so, please refer to our [Polygon Guid
 
 ### Where do I find my Gotchi Token ID?
 
-To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
+To get your Aavegotchi Token ID (each Aavegotchi has a unique ID), head over to the [My Aavegotchis page](https://aavegotchi.com/lending/aavegotchis). Click on one of your Gotchis and observe the number at the back of the URL. It would look something like the following:
 
 https://aavegotchi.com/gotchi/(Gotchi Token ID)
 
@@ -688,7 +688,7 @@ Do note that if you have more than 1 Gotchi, you need to repeat the same process
 
 ### Where do I find my Gotchi Address?
 
-Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/aavegotchis) gaan. Click on any one of your Aavegotchis. Aan de rechterbenedenhoek van het scherm staat een "Pocket" knop. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
+Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/lending/aavegotchis) gaan. Click on any one of your Aavegotchis. Aan de rechterbenedenhoek van het scherm staat een "Pocket" knop. Click on the Pocket button and the Gotchi Pocket box will appear. There will be a "View" button. Click on it and you will be taken to that particular Gotchi's Smart Contract Address. This is an escrow contract that the owner of the Gotchi can interact with.
 
 Do note that each Gotchi will have its own Smart Contract Address.
 

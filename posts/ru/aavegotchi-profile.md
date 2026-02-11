@@ -35,7 +35,7 @@ contributors:
 
 ## Доступ к профилю Готчи
 
-Заходи на страницу [My Aavegotchis](https://aavegotchi.com/aavegotchis). Жми на любого из своих жутких малышей и переходи на страницу профиля.
+Заходи на страницу [My Aavegotchis](https://aavegotchi.com/lending/aavegotchis). Жми на любого из своих жутких малышей и переходи на страницу профиля.
 
 ## Профиль перса
 

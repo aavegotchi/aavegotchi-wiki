@@ -114,4 +114,4 @@ For data pertaining to the Rarity Farming Seasons (including Base-era seasons), 
 
 Phần Thưởng Dành cho Rarity Farming đã được trả về ví của Aavegotchi (Đúng vậy! Mỗi Gotchi có riêng cho mình một túi hành trang cá nhân!).
 
-Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Nhấp vào đó để xem túi đồ của Aavegotchi. Bạn có thể xem được lượng GHST mà Gotchi nhận được từ Rarity Farming (cũng như những món vật phẩm đã được trang bị).
+Trước tiên, hãy truy cập vào [trang My Aavegotchis](https://aavegotchi.com/lending/aavegotchis). Nhấp vào một Aavegotchi bất kỳ. Ở góc phải phía dưới của màn hình, sẽ có nút "Pocket". Nhấp vào đó để xem túi đồ của Aavegotchi. Bạn có thể xem được lượng GHST mà Gotchi nhận được từ Rarity Farming (cũng như những món vật phẩm đã được trang bị).

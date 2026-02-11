@@ -255,4 +255,4 @@ AavegotchiDAO earns 0.3% of all trades on the Aavegotchi [Bonding Curve](/curve)
 
 As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/dao?p=treasury).

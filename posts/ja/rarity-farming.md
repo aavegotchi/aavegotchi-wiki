@@ -114,4 +114,4 @@ For data pertaining to the Rarity Farming Seasons (including Base-era seasons), 
 
 レアリティファーミングの報酬は、Aavegotchiのインベントリに分配されます（そうです！ Aavegotchiはそれぞれ自分専用のインベントリを持っています！）。
 
-まず、[私のAavegotchi](https://aavegotchi.com/aavegotchis)ページに移動します。 いずれかの Aavegotchi をクリックします。 画面右下に「ポケット」ボタンがあります。 これをクリックすると、Aavegotchiのインベントリが表示されます。 レアリティファーミングで獲得したGHSTの量や、装備しているウェアラブルの確認ができます。
+まず、[私のAavegotchi](https://aavegotchi.com/lending/aavegotchis)ページに移動します。 いずれかの Aavegotchi をクリックします。 画面右下に「ポケット」ボタンがあります。 これをクリックすると、Aavegotchiのインベントリが表示されます。 レアリティファーミングで獲得したGHSTの量や、装備しているウェアラブルの確認ができます。

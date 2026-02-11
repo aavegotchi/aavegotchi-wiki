@@ -197,7 +197,7 @@ table_agip19
 
 Bọn mình đề xuất tạo ra Biệt Đội DAO Treasury (DTF). Hội đồng ban đầu sẽ bao gồm 8 thành viên với thâm niêm tham gia DAO trong vòng 6 tháng.
 
-Vào ngày 12/07/2021, DAO Treasury (https://aavegotchi.com/treasury) có lượng DAI và GHST trị giá khoảng ~$11,408,400. Ban đầu, hội đồng sẽ thành lập các bản đề xuất về vấn đề mà DAO quan tâm và sau đó sẽ bỏ phiếu và nếu được thông qua thì sẽ được thi hành.
+Vào ngày 12/07/2021, DAO Treasury (https://aavegotchi.com/dao?p=treasury) có lượng DAI và GHST trị giá khoảng ~$11,408,400. Ban đầu, hội đồng sẽ thành lập các bản đề xuất về vấn đề mà DAO quan tâm và sau đó sẽ bỏ phiếu và nếu được thông qua thì sẽ được thi hành.
 
 Tuyên bố Sứ mệnh
 
@@ -887,7 +887,7 @@ At the time of this writing, AavegotchiDAO treasury holds roughly:
 - 3.5 Million GHST
 
 - 3 Million Alchemica
-  (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/treasury))
+  (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/dao?p=treasury))
 
 Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
 

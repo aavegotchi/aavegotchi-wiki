@@ -218,6 +218,6 @@ Vote on AGIPs and get [POAP badges](/poap) for it!
 
 As responsible stewards, members of AavegotchiDAO will play a role in determining how these funds are to be allocated.
 
-The AavegotchiDAO treasury is located [here](https://aavegotchi.com/treasury).
+The AavegotchiDAO treasury is located [here](https://aavegotchi.com/dao?p=treasury).
 
 MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://dune.com/eitri/aavegotchi-dao-treasury)

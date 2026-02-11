@@ -46,7 +46,7 @@ XPは、Aavegotchi達が[GHST](/ghst)の賞品を獲得するために[レアリ
 
 [アーキテクトのフレンたち](/aarchitect)が、自分たちでミニゲームを作りました！ ぜひお試しください！
 
-Aavegotchi.com DApp のミニゲームセクションは、[こちら](https://aavegotchi.com/minigames)でご覧になれます。
+Aavegotchi.com DApp のミニゲームセクションは、[こちら](https://aavegotchi.com/games)でご覧になれます。
 
 ### Reverse Pacman by aaron555 （リヴァース・パックマン）
 

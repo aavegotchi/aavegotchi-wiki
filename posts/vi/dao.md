@@ -255,4 +255,4 @@ AavegotchiDAO nhận 0.3% từ mọi giao dịch trên Aavegotchi [Bonding Curve
 
 Là những người quản lý có tránh nhiệm, thành viên của AavegotchiDAO sẽ đóng một vai trò then chốt trong việc xác định xem lượng tài sản này sẽ được phân bổ vào việc gì.
 
-The AavegotchiDAO Treasury có thể truy cập vào tại [đây](https://aavegotchi.com/treasury).
+The AavegotchiDAO Treasury có thể truy cập vào tại [đây](https://aavegotchi.com/dao?p=treasury).

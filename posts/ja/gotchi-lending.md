@@ -51,7 +51,7 @@ contributors:
 
 さらに、トークンのシェアリング・オプションには、4種類のゴッチュスアルケミカに加え、GHSTも含まれるようになりました。 これはレアリティ・ファーミングの季節に特に重要なことで、貸し手はAavegotchiのGHST残高のどの部分を共有したいかを決定することができます。
 
-また、貸し手は、ゴッチが借りられる指定のアドレスを含むホワイトリストIDの作成ができます。 ホワイトリストIDは[ホワイトリストのページ](https://aavegotchi.com/whitelists)で確認することができます。
+また、貸し手は、ゴッチが借りられる指定のアドレスを含むホワイトリストIDの作成ができます。 ホワイトリストIDは[ホワイトリストのページ](https://aavegotchi.com/lending/whitelists)で確認することができます。
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
@@ -69,7 +69,7 @@ contributors:
 
 **ボーナスステップ：**
 
-貸し手は、[ホワイトリスト](https://aavegotchi.com/whitelists)を作成し、借り手の限定されたグループにのみAavegotchiを利用できるようにもできます。 この機能は、ゴッチを確実にギルドのメンバーに渡したい時などに最適です。
+貸し手は、[ホワイトリスト](https://aavegotchi.com/lending/whitelists)を作成し、借り手の限定されたグループにのみAavegotchiを利用できるようにもできます。 この機能は、ゴッチを確実にギルドのメンバーに渡したい時などに最適です。
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 

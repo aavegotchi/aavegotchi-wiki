@@ -123,7 +123,7 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 社区治理也是Aavegotchi经验的核心原则。 Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
-**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). 随着DAO的不断成熟，该百分比最终可能会增加。 当然，最终目标是使DAO发展成为一个完全有能力管理甚至升级协议的实体。 虽然这可能仍然需要几年时间（Avegotchi只是在2020年中期开始），但仍然需要向前看。
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/dao?p=treasury). 随着DAO的不断成熟，该百分比最终可能会增加。 当然，最终目标是使DAO发展成为一个完全有能力管理甚至升级协议的实体。 虽然这可能仍然需要几年时间（Avegotchi只是在2020年中期开始），但仍然需要向前看。
 
 ## BURN IT
 

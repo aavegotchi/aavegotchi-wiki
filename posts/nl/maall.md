@@ -40,4 +40,4 @@ De Maall zal van tijd tot tijd opnieuw op voorraad worden gehouden, elke keer me
 
 Zodra deze artikelen niet meer op voorraad zijn, kunnen ze alleen worden gekocht van anderen die ze verkopen op secundaire marktplaatsen zoals de [Baazaar](/baazaar) en andere online marktplaatsen.
 
-De Maall kan geopend worden [hier](https://aavegotchi.com/shop).
+De Maall kan geopend worden [hier](https://aavegotchi.com/baazaar/wearables).

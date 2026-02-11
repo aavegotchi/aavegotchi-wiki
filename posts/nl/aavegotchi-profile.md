@@ -35,7 +35,7 @@ Deze pagina zal je vertellen wat je kunt doen met je nieuwe Gotchi frens! :D
 
 ## Toegang tot je Gotchi Profiel
 
-Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/aavegotchis) gaan. Klik op een van uw Gotchis en het brengt u naar zijn/haar profielpagina.
+Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/lending/aavegotchis) gaan. Klik op een van uw Gotchis en het brengt u naar zijn/haar profielpagina.
 
 ## Aavegotchi Profiel
 

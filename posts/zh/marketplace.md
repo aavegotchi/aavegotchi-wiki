@@ -52,7 +52,7 @@ The Aavegotchi Baazaar is the official secondary marketplace for Aavegotchi. Sel
 
 Check this [post](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) for more information.
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar).
+The Aavegotchi Baazaar can be found [here](https://aavegotchi.com/baazaar/aavegotchis).
 
 ## Collection Addresses
 

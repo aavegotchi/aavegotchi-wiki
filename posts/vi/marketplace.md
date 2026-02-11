@@ -52,7 +52,7 @@ Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Người bá
 
 Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
-Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar).
+Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar/aavegotchis).
 
 ## Địa Chỉ Của Các Vật Phẩm
 

@@ -40,4 +40,4 @@ The Maall will be restocked from time to time, each time with totally new wearab
 
 Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
 
-The Maall can be accessed [here](https://aavegotchi.com/shop).
+The Maall can be accessed [here](https://aavegotchi.com/baazaar/wearables).

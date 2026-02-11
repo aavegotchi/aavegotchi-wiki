@@ -45,7 +45,7 @@ Le pont Aavegotchi est le pont officiel créé par Pixelcraft Studios. Historica
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Le pont Aavegotchi" />
 
-Le pont Aavegotchi est accessible [ici](https://aavegotchi.com/bridge).
+Le pont Aavegotchi est accessible [ici](https://aavegotchi.com/get-tokens?p=bridge).
 
 Ce qui suit est un exemple étape par étape de passerelle de jetons ERC-20 du réseau principal Ethereum vers Polygon:
 

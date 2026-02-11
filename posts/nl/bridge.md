@@ -45,7 +45,7 @@ De Aavegotchi Brug is de officiële brug gemaakt door Pixelcraft Studios. Histor
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="De Aavegotchi Brug" />
 
-De Aavegotchi Brug kan [hier](https://aavegotchi.com/bridge) benaderd worden.
+De Aavegotchi Brug kan [hier](https://aavegotchi.com/get-tokens?p=bridge) benaderd worden.
 
 Het volgende is een stapsgewijze voorbeeld van het overbrugen van ERC-20 tokens van Ethereum Mainnet naar Polygon:
 

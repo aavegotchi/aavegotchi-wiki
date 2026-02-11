@@ -123,7 +123,7 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 Власть сообщества является руководящим принципом игрового проекта Aavegotchi. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Может быть, картинка Waifu?)
 
-**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). По мере развития DAO этот процент может увеличиться. Конечная цель состоит в том, чтобы своими решениями DAO эффективно управляла проектом и даже обновляла протокол. Хотя это, скорей всего, будет достигнуто только через пару лет (ведь проект Aavegotchi стартовал только в середине 2020 года), но команда проекта на это очень надеется.
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/dao?p=treasury). По мере развития DAO этот процент может увеличиться. Конечная цель состоит в том, чтобы своими решениями DAO эффективно управляла проектом и даже обновляла протокол. Хотя это, скорей всего, будет достигнуто только через пару лет (ведь проект Aavegotchi стартовал только в середине 2020 года), но команда проекта на это очень надеется.
 
 ## BURN IT
 

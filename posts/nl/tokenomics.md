@@ -123,7 +123,7 @@ Wanneer er een rarity farming seizoen is zullen deze beloningen elke twee weken 
 
 Communautair bestuur is ook een kern van de Aavegotchi ervaring. Een van de verantwoordelijkheden van [AavegotchiDAO's](/dao) is het beheren van een schatkist, te worden gebruikt voor elk initiatief dat het waard acht. (Waifu pics, misschien?)
 
-**15%** van de inkomsten zal in eerste instantie worden verdeeld onder de [schatkist DAO](https://aavegotchi.com/treasury). Aangezien de DAO nog steeds in groei is, kan dit percentage uiteindelijk stijgen. Het einddoel is natuurlijk dat de DAO uitgroeit tot een entiteit die volledig in staat is het protocol te beheren en zelfs op te waarderen. Hoewel dat misschien nog een paar jaar weg kan zijn (Aavegotchi nog maar Mid 2020 is gestart), is het nog steeds iets om naar uit te kijken.
+**15%** van de inkomsten zal in eerste instantie worden verdeeld onder de [schatkist DAO](https://aavegotchi.com/dao?p=treasury). Aangezien de DAO nog steeds in groei is, kan dit percentage uiteindelijk stijgen. Het einddoel is natuurlijk dat de DAO uitgroeit tot een entiteit die volledig in staat is het protocol te beheren en zelfs op te waarderen. Hoewel dat misschien nog een paar jaar weg kan zijn (Aavegotchi nog maar Mid 2020 is gestart), is het nog steeds iets om naar uit te kijken.
 
 ## VERBRAND HET
 

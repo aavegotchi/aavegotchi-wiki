@@ -38,7 +38,7 @@ GLTR también tiene una utilidad secundaria, siendo el token principal requerido
 
 <img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
 
-- Paso 1: Visita [aavegotchi.com/stake-gltr](https://aavegotchi.com/stake-gltr). Hay 7 pools: wapGHST, GHST‑FUD, GHST‑FOMO, GHST‑ALPHA, GHST‑KEK, GHST‑USDC y GHST‑GLTR. Si ves "not functional on Base", cambia a Polygon o accede vía aavegotchi.com.
+- Paso 1: Visita [aavegotchi.com/stake-gltr](https://aavegotchi.com/earn?tab=staking). Hay 7 pools: wapGHST, GHST‑FUD, GHST‑FOMO, GHST‑ALPHA, GHST‑KEK, GHST‑USDC y GHST‑GLTR. Si ves "not functional on Base", cambia a Polygon o accede vía aavegotchi.com.
 
 - Paso 2: Haz clic en el pool deseado. La pestaña se expandirá mostrando el botón _View Pool_.
 

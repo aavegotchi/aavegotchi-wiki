@@ -46,7 +46,7 @@ La XP es necesaria para que los Aavegotchis compitan en la tabla de clasificaci�
 
 ¡Varios de nuestros [amigos desarroladores](/aarchitect) han creado algunos minijuegos propios! ¡Pruébalos!
 
-La sección de Mini-Juegos del DApp de Aavegotchi.com puede ser encontrada [aquí](https://aavegotchi.com/minigames)
+La sección de Mini-Juegos del DApp de Aavegotchi.com puede ser encontrada [aquí](https://aavegotchi.com/games)
 
 ### Reverse Pacman by aaron555
 

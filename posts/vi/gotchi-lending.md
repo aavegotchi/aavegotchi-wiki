@@ -51,7 +51,7 @@ Người cho thuê sẽ có thể chọn token nào mà họ muốn chia sẻ v�
 
 Thêm vào đó, các phương án chia sẻ token giờ đây có thêm GHST bên cạnh bốn lại token Gotchus Alchemica. Việc này đặc biệt quan trọng trong suốt các mùa Rarity Farming, bởi người cho thuê sẽ định hình số GHST của Aavegotchi được chia như thế nào.
 
-Người cho thuê cũng có thể cho riêng một ID có chứa các địa chỉ được phép thuê Gotchi. Bạn có thể tìm whilelist ID tại [trang whitelist](https://aavegotchi.com/whitelists).
+Người cho thuê cũng có thể cho riêng một ID có chứa các địa chỉ được phép thuê Gotchi. Bạn có thể tìm whilelist ID tại [trang whitelist](https://aavegotchi.com/lending/whitelists).
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
@@ -69,7 +69,7 @@ Cuối cùng, người cho thuê xem lại các điều khoản một lần nữ
 
 **Bước Bổ Sung:**
 
-Người cho thuê cũng sẽ có thể tạo [whitelists](https://aavegotchi.com/whitelists),  để Aavegotchi chỉ có thể thuê bởi một nhóm nhất định. Chức năng này rất thích hợp cho những guild nào muốn đảm bảo NFT Aavegotchi được đặt vào trong tay các thành viên của guild mình.
+Người cho thuê cũng sẽ có thể tạo [whitelists](https://aavegotchi.com/lending/whitelists),  để Aavegotchi chỉ có thể thuê bởi một nhóm nhất định. Chức năng này rất thích hợp cho những guild nào muốn đảm bảo NFT Aavegotchi được đặt vào trong tay các thành viên của guild mình.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 

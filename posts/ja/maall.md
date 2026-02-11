@@ -40,4 +40,4 @@ Aavegotchiモールは、Aavegotchiの公式ショップです。 [ウェアラ�
 
 在庫がなくなったアイテムは、[バザール](/baazaar)などの二次市場で販売している他の人からしか購入することができません。
 
-モールには[こちら](https://aavegotchi.com/shop)からアクセスできます。
+モールには[こちら](https://aavegotchi.com/baazaar/wearables)からアクセスできます。

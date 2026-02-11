@@ -40,4 +40,4 @@ Aavegotchi Maall Aavegotchi 官方商城。 商城售卖 [可穿戴设备和消�
 
 Once these items are out of stock, they can only be purchased from others who are selling it on secondary marketplaces such as the [Baazaar](/baazaar) and other online marketplaces.
 
-可以点击 [这里](https://aavegotchi.com/shop) 访问商城。
+可以点击 [这里](https://aavegotchi.com/baazaar/wearables) 访问商城。

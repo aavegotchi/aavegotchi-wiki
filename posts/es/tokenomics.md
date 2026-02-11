@@ -123,7 +123,7 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 Community governance is also a core tenet of the Aavegotchi experience. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
-**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/dao?p=treasury). As the DAO continues to mature, this percentage may eventually increase. The end goal, of course, is for the DAO to grow into an entity fully capable of managing and even upgrading the protocol. While that might still be a couple of years away (Aavegotchi only started Mid 2020 after all), it's still something to look forward to.
 
 ## BURN IT
 

@@ -31,7 +31,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 
 ## Purchasing Tickets
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/tickets) to purchase tickets with FRENS.
+Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/baazaar/tickets) to purchase tickets with FRENS.
 
 Unlike FRENS, Tickets can be transferred from one wallet to another. Поэтому билеты лотерей можно продавать и покупать на [Baazaar](/baazaar).
 

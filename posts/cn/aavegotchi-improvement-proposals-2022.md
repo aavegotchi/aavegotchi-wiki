@@ -197,7 +197,7 @@ table_agip19
 
 We propose the creation of the DAO Treasury Taask Force (DTF). This committee will initially be composed of 8 members with reassessment of membership by the DAO within 6 months.
 
-As of 12/07/2021, the DAO Treasury (https://aavegotchi.com/treasury) boasts nearly ~$11,408,400 worth of DAI and GHST. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
+As of 12/07/2021, the DAO Treasury (https://aavegotchi.com/dao?p=treasury) boasts nearly ~$11,408,400 worth of DAI and GHST. In its initial form, the committee will form proposals for consideration by the DAO which will subsequently be voted on and, if passed, enacted.
 
 Proposed Mission Statement
 
@@ -887,7 +887,7 @@ At the time of this writing, AavegotchiDAO treasury holds roughly:
 - 3.5 Million GHST
 
 - 3 Million Alchemica
-  (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/treasury))
+  (Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com/dao?p=treasury))
 
 Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
 

@@ -38,7 +38,7 @@ GLTR also has a secondary utility, being the main token required for [Wearable C
 
 <img class="bodyImage" src="/staking/stake-gltr.png" alt="Aavegotchi Staking for GLTR" />
 
-- Schritt 1: Besuche [aavegotchi.com/stake-gltr](https://aavegotchi.com/stake-gltr). Es gibt 7 Pools: wapGHST, GHST‑FUD, GHST‑FOMO, GHST‑ALPHA, GHST‑KEK, GHST‑USDC und GHST‑GLTR. Wenn „not functional on Base“ erscheint, auf Polygon wechseln oder über aavegotchi.com zugreifen.
+- Schritt 1: Besuche [aavegotchi.com/stake-gltr](https://aavegotchi.com/earn?tab=staking). Es gibt 7 Pools: wapGHST, GHST‑FUD, GHST‑FOMO, GHST‑ALPHA, GHST‑KEK, GHST‑USDC und GHST‑GLTR. Wenn „not functional on Base“ erscheint, auf Polygon wechseln oder über aavegotchi.com zugreifen.
 
 - Schritt 2: Klicke den gewünschten Pool. Der Tab erweitert sich und zeigt die Schaltfläche _View Pool_.
 

@@ -123,7 +123,7 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 커뮤니티 거버넌스 역시 아베고치 경험에서 굉장히 핵심적인 요소입니다. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics, maybe?)
 
-**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). 그리고 DAO가 좀 더 성숙해지고 발전해 나간다면, 비율은 점진적으로 증가할 수 있습니다. 물론 최종적인 목표는, DAO가 아베고치의 프로토콜을 완전히 관리하고 개선할 수 있는  주체로 성장시키는 것입니다. 아베고치가 2020년 중반에야 시작된 것을 감안하면, 수년 뒤의 일일지도 모르지만 상당히 기대해볼 만한 목표입니다.
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/dao?p=treasury). 그리고 DAO가 좀 더 성숙해지고 발전해 나간다면, 비율은 점진적으로 증가할 수 있습니다. 물론 최종적인 목표는, DAO가 아베고치의 프로토콜을 완전히 관리하고 개선할 수 있는  주체로 성장시키는 것입니다. 아베고치가 2020년 중반에야 시작된 것을 감안하면, 수년 뒤의 일일지도 모르지만 상당히 기대해볼 만한 목표입니다.
 
 ## BURN IT
 

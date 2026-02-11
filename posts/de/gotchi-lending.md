@@ -51,7 +51,7 @@ Lenders will be able to select which tokens to share with borrowers. This means 
 
 Additionally, the token sharing options now include GHST in addition to the four types of Gotchus Alchemica. This is particularly important during Rarity Farming seasons, because lenders will get to determine what, if any, portion of an Aavegotchi’s GHST balance they wish to share.
 
-The lender could also specify a whitelist ID containing the addresses that are eligible to borrow the Gotchi. You can find your whitelist ID in the [whitelists page](https://aavegotchi.com/whitelists).
+The lender could also specify a whitelist ID containing the addresses that are eligible to borrow the Gotchi. You can find your whitelist ID in the [whitelists page](https://aavegotchi.com/lending/whitelists).
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
@@ -69,7 +69,7 @@ Finally, the lender reviews the terms one more time and creates the lending list
 
 **Bonus Step:**
 
-Lenders will also have the ability to create [whitelists](https://aavegotchi.com/whitelists), making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
+Lenders will also have the ability to create [whitelists](https://aavegotchi.com/lending/whitelists), making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 

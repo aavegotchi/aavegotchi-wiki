@@ -40,4 +40,4 @@ Nó sẽ nhập hàng từng lần và mỗi lần sẽ bán những vật phẩ
 
 Một khi những vật phẩm này hết hàng, chúng chỉ có thể được mua từ những người dùng khác thông qua những chợ thứ cấp như [Baazaar](/baazaar) và những chợ online khác.
 
-Các bạn có thể truy cập vào the Maall tại [đây](https://aavegotchi.com/shop).
+Các bạn có thể truy cập vào the Maall tại [đây](https://aavegotchi.com/baazaar/wearables).

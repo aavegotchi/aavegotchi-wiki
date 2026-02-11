@@ -123,7 +123,7 @@ When a rarity farming season is live, these rewards will be distributed **every 
 
 Community Governance ist auch ein Kernpunkt der Aavegotchi-Erfahrung. Part of [AavegotchiDAO's](/dao) responsibilities include managing a treasury, to be used for any initiative it deems worthy. (Waifu pics vielleicht?)
 
-**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/treasury). Wenn der DAO weiter reift, kann sich dieser Prozentsatz noch erhöhen. Das Endziel ist natürlich, dass der DAO zu einer Einheit heranwächst, die in der Lage ist, das Protokoll zu verwalten und sogar zu upzugraden. Auch wenn das noch ein paar Jahre entfernt ist (Aavegotchi ist schliesslich erst Mitte 2020 gestartet), ist es doch etwas, worauf man sich freuen kann.
+**15%** of revenue will initially be distributed to the [DAO treasury](https://aavegotchi.com/dao?p=treasury). Wenn der DAO weiter reift, kann sich dieser Prozentsatz noch erhöhen. Das Endziel ist natürlich, dass der DAO zu einer Einheit heranwächst, die in der Lage ist, das Protokoll zu verwalten und sogar zu upzugraden. Auch wenn das noch ein paar Jahre entfernt ist (Aavegotchi ist schliesslich erst Mitte 2020 gestartet), ist es doch etwas, worauf man sich freuen kann.
 
 ## BURN IT
 

@@ -47,7 +47,7 @@ Historical note (2023-03-22): During the on-chain governance process to close th
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge">
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/bridge).
+The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/get-tokens?p=bridge).
 
 The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
 

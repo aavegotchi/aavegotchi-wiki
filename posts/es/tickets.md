@@ -31,7 +31,7 @@ En esta página aprenderás a comprar Tickets utilizando FRENS y a participar en
 
 ## Compra de Tickets
 
-Una vez que tengas suficientes FRENS, dirígete a la interfaz de usuario [Comprar a granel](https://aavegotchi.com/tickets) para comprar tickets con FRENS.
+Una vez que tengas suficientes FRENS, dirígete a la interfaz de usuario [Comprar a granel](https://aavegotchi.com/baazaar/tickets) para comprar tickets con FRENS.
 
 A diferencia de FRENS, los Tickets se pueden transferir de una cartera a otra. También pueden ser compradas/vendidas en mercados secundarios como el [Baazaar](/baazaar).
 

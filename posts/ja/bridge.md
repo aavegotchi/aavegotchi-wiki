@@ -45,7 +45,7 @@ Aavegotchiブリッジは、Pixelcraftスタジオによって作成された公
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge" />
 
-Aavegotchiブリッジは、[こちら](https://aavegotchi.com/bridge)からアクセスできます。
+Aavegotchiブリッジは、[こちら](https://aavegotchi.com/get-tokens?p=bridge)からアクセスできます。
 
 以下は、ERC-20トークンをEthereumメインネットからPolygonにブリッジするステップバイステップの例です。
 

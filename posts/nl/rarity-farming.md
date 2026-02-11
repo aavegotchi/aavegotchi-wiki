@@ -114,4 +114,4 @@ For data pertaining to the Rarity Farming Seasons (including Base-era seasons), 
 
 Rarity Farming Beloningen worden uitbetaald aan je Aavegotchi inventaris (Ja! Elk van uw Aavegotchi heeft zijn eigen persoonlijke inventaris!).
 
-Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/aavegotchis) gaan. Klik op een van je Aavegotchis. Aan de rechterbenedenhoek van het scherm staat een "Pocket" knop. Klik erop om de Aavegotch's inventaris te bekijken. U kunt de hoeveelheid GHST zien die uw Gotchi heeft gewonnen van de Rarity Farming (evenals hun uitgeruste wearables).
+Eerst moet je naar [Mijn Aavegotchis pagina](https://aavegotchi.com/lending/aavegotchis) gaan. Klik op een van je Aavegotchis. Aan de rechterbenedenhoek van het scherm staat een "Pocket" knop. Klik erop om de Aavegotch's inventaris te bekijken. U kunt de hoeveelheid GHST zien die uw Gotchi heeft gewonnen van de Rarity Farming (evenals hun uitgeruste wearables).

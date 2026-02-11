@@ -123,7 +123,7 @@ Phần thưởng sẽ được phân phát **mỗi hai tuần** thông qua snaps
 
 Quản trị cộng đồng là cũng nguyên lý cốt lõi khi bạn trải nghiệm Aavegotchi. Một phần trong những trách nhiệm của Dao bao gồm có việc quản lý ngân quỹ cho bất kỳ mục đích nào miễn là nó xứng đáng. (Hình Waifu, chẳng hạn?)
 
-**15%** doanh thu ban đầu sẽ được phân phối cho [DAO treasury](https://aavegotchi.com/treasury). Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
+**15%** doanh thu ban đầu sẽ được phân phối cho [DAO treasury](https://aavegotchi.com/dao?p=treasury). Khi DAO tiếp tục phát triển, tỷ lệ này thế nào cũng sẽ tăng lên. Mục đích cuối cùng, tất nhiên là để DAO có thể phát triển hành một thực thế có toàn quyền quản lý hay thậm chí là nâng cấp giao thức. Dù có thể việc này sẽ chỉ xảy ra trong một vài năm nữa (Aavegotchi sẽ chỉ bắt đầu vào Giữa năm 2020) thì đây vẫn là một yếu tố đáng chờ đợi.
 
 ## BURN IT
 

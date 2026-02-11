@@ -40,4 +40,4 @@ El Maall se reiniciará de vez en cuando, cada vez con ropa totalmente nueva.
 
 Una vez que estos artículos están fuera de stock, solo pueden ser comprados a otros que lo venden en mercados secundarios como el [Baazaar](/baazaar) y otros mercados en línea.
 
-Se puede acceder al Maall [aquí](https://aavegotchi.com/shop).
+Se puede acceder al Maall [aquí](https://aavegotchi.com/baazaar/wearables).
