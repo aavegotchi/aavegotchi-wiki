@@ -13,7 +13,7 @@ contributors: [ "unintelligent-nerd" ]
 
 Dropt - The Fallen Gotchi is a 1-3 player roguelike dungeon crawler being developed by [Slickgotchi](https://twitter.com/SlickGotchi) and [Oliver Spoon](https://twitter.com/theoliverspoon), two of the Gotchigangs longest standing community members. Players must descend through levels, gather treasure and fight off swarms of enemies along the way.
 
-The game is playable on PC at the [official website](https://www.playdropt.io).
+The game is playable on PC at the [official website](https://web.archive.org/web/*/https://www.playdropt.io).
 
 <div class="contentsBox">
 
@@ -49,7 +49,7 @@ Dropt - The Fallen Gotchi could be played using **Keyboard & Mouse** or **Keyboa
 
 ## リンク
 
-- [Website](https://www.playdropt.io)
+- [Website](https://web.archive.org/web/*/https://www.playdropt.io)
 
 - [Discord Server](https://discord.com/invite/YVwMwn7w43)
 

@@ -56,13 +56,13 @@ Link to game [here](https://cryptolve.com/aavegotchi_pacman/)
 
 ### Gotchi Tower Defense by jarrod | aavegotchistats.com
 
-Link to game [here](https://aavegotchistats.com/td)
+Link to game [here](https://web.archive.org/web/*/https://aavegotchistats.com/td)
 
 <img class = "bodyImage" src = "/minigames/gotchi-tower-defense.png" alt = "Gotchi Tower Defense Aavegotchi Mini-Game">
 
 ### GotchiMiner by @smokeyZheBandit, @oibaffio2, @Crypto_Toupa, and @gotchinomics
 
-Link to game [here](https://gotchiminer.rocks/)
+Link to game [here](https://web.archive.org/web/*/https://gotchiminer.rocks/)
 
 <img class = "bodyImage" src = "/minigames/gotchiminer.png" alt = "GotchiMiner Aavegotchi Mini-Game">
 
@@ -92,6 +92,6 @@ Link to game [here](https://samugotchi-shodown.vercel.app/)
 
 ### Astegotchi by Alvi
 
-Link to game [here](https://astegotchi.aavegames.com/)
+Link to game [here](https://web.archive.org/web/*/https://astegotchi.aavegames.com/)
 
 <img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game">

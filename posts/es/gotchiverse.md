@@ -70,7 +70,7 @@ A key landmark in the Grid is the [Aarena](/aarena).
 
 Aunque los Aavegotchis son amistosos, son conscientes de que los impulsos agresivos necesitan una salida, y por eso crearon la Aarena.
 
-Dentro de Aarena, los Aavegotchis con [fuerza-espiritual (aTokens de interés de Aave)](/fuerza-espiritual) pueden luchar entre sí en épicas Batallas Reales, compitiendo por la fuerza espiritual de sus oponentes.
+Dentro de Aarena, los Aavegotchis con [fuerza-espiritual (aTokens de interés de Aave)](/spirit-force) pueden luchar entre sí en épicas Batallas Reales, compitiendo por la fuerza espiritual de sus oponentes.
 
 Los lickquidators no se atreven a entrar en la Aarena, sino que optan por frecuentar los Campos Fantásticos, otra zona de fuego amigo que también permite la entrada de los lickquidators.
 
@@ -102,7 +102,7 @@ Algunas parcelas estarán al lado o adyacentes a los depósitos Alchemica. Estas
 
 Para hacerlo más humano, a cada parcela se le asignará una combinación única de tres palabras. Esto es adicional al TokenID. Los usuarios podrán utilizar el cuadro de búsqueda del sitio web de Gotchiverso para filtrar específicamente las parcelas con la palabra o palabras que buscan.
 
-Las parcelas de REALM que son adyacentes entre sí pueden ser utilizadas para formar [fincas](/estados).
+Las parcelas de REALM que son adyacentes entre sí pueden ser utilizadas para formar [fincas](/estaates).
 
 <img class="bodyImage" src="/gotchiverse/realm-size-distribution.png" alt="Tamaño de las parcelas Aavegotchi REALM" />
 
@@ -129,7 +129,7 @@ También hay una función [Préstamo de Gotchi](/gotchi-lending) que permite a l
 
 ## Entering the Gotchiverse
 
-The Gotchiverse is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com).
+The Gotchiverse is accessible at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 First, you need to select your Gotchi's spawn location.
 
@@ -244,7 +244,7 @@ Each type of Haarvester is capable of harvesting one type of Alchemica, and each
 
 **Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
 
-You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook%20-%20Latest.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+You can consult the Recipe Book [here](/recipes) to see exact Harvest Rates, Capacities, and Spillover Rates.
 
 **Removing Installations**
 

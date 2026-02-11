@@ -75,13 +75,13 @@ Kies drie Gotchis om een team te vormen. De eerste taak is om @coderdannn te vin
 
 Dit multiplayerspel gaat precies over wat de titel inhoudt, het verdedigen van portalen tegen de Lickquidators! PORTAL DEFENDERS plaatste de derde in de algemene competitie en de tweede in de Moralis competitie!
 
-[Github link](https://github.com/bmateus/PortalDefenders)
+[Github link](https://web.archive.org/web/*/https://github.com/bmateus/PortalDefenders)
 
 ### SOUTH BEACH ROFL BALL door @adamn_eth
 
 Houd je Gotchi & Rofl Bal weg van de krabben! Hoe dichter ze komen, hoe meer ergernissen uw Gotchi heeft.
 
-[Link naar Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[Link naar Demo](https://web.archive.org/web/*/https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
 ### 1 ARM BAANDIT door @mdurkin92
 

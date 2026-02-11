@@ -43,7 +43,7 @@ Tu perfil de Gotchi se vería algo como la siguiente captura de pantalla.
 
 <img class = "bodyImage" src = "/aavegotchi-profile/aavegotchi-profile.png" alt = "Perfil de Gotchi" />
 
-En el centro están tus Gotchi (desnudos o adornados en el esplendor de sus [prendedoras](/complentos)). Equipal/desequipa cualquier ropa y se actualizará la pantalla de tu Gotchi.
+En el centro están tus Gotchi (desnudos o adornados en el esplendor de sus [prendedoras](/wearables)). Equipal/desequipa cualquier ropa y se actualizará la pantalla de tu Gotchi.
 
 ### Estadísticas/XP
 

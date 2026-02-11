@@ -41,7 +41,7 @@ Vào ngày 15 tháng Tư 2021, lịch sử đã sang trang mới. Đội Trưở
 
 ## The Aastronauts
 
-The Aastronauts là bộ sưu tập gồm  **5 Aavegotchis hiếm ** và **1 Unopened [Portal hiếm](/portals)** được phân mảnh thông qua [Unicly](https://www.unic.ly/). Terence McKenna chính là đội trưởng của team.
+The Aastronauts là bộ sưu tập gồm  **5 Aavegotchis hiếm ** và **1 Unopened [Portal hiếm](/portals)** được phân mảnh thông qua [Unicly](https://web.archive.org/web/*/https://www.unic.ly/). Terence McKenna chính là đội trưởng của team.
 
 The Aastronauts chũng tham gia vào [Rarity Farming](/rarity-farming) và nhận được phần thưởng từ rarity farming. Thật không may, do không ai pet những Gotchi này nên [điểm Kinship](/traits#kinship) của chúng thấp dần đi. Trong tương lai, một người chăm sóc hộ nào đó sẽ có thể pet những Gotchi này.
 
@@ -91,7 +91,7 @@ Token uGOTCHI cho phép người nắm giữ chúng sở hữu trực tiếp b�
 
 Token uGOTCHI là rất thích hợp với những ai mong muốn được tiếp cận với bộ sưu tập các Gotchi hiếm. Với những ai không có thời gian sở hữu và chăm sóc cho Gotchi, token uGOTCHI là cách thức bị động để đầu tư vào một bộ sưu tập Aavegotchi tốt về giá thành. Tất nhiên, trong mọi hình thức đầu tư, các rủi ro mất mát luôn tìm ẩn.
 
-Hãy nhấp [vào đây](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)để xem bộ sưu tập uGOTCHI trên Unicly.
+Hãy nhấp [vào đây](https://web.archive.org/web/*/https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)để xem bộ sưu tập uGOTCHI trên Unicly.
 
 ## Định giá
 

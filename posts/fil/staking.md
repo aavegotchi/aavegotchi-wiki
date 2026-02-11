@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">Stake GHST, Make FRENS!</p>
 </div>
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
 <div class="contentsBox">
 

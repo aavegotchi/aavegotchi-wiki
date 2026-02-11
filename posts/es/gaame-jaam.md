@@ -75,13 +75,13 @@ Elige tres Gotchis para formar un equipo. ¡La primera tarea es encontrar a @cod
 
 Este juego multijugador involucra exactamente lo que el título implica, defendiendo portales de los Lickquidators! ¡Los DEFENDERS PORTALES se ubicaron tercero en la competición general y segundo en la competencia Moralis!
 
-[Github link](https://github.com/bmateus/PortalDefenders)
+[Github link](https://web.archive.org/web/*/https://github.com/bmateus/PortalDefenders)
 
 ### SOUTH BEACH ROFL BALL de @adamn_eth
 
 ¡Mantén tu Gotchi & Rofl Ball lejos de los cangrejos! Cuanto más se acercan, más irritados se volverá tu Gotchi.
 
-[Enlace a Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[Enlace a Demo](https://web.archive.org/web/*/https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
 ### 1 ARM BAANDIT por @mdurkin92
 

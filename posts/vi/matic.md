@@ -54,7 +54,7 @@ Chain ID: 137
 
 Currency Symbol (optional): MATIC
 
-Block Explorer URL (tuỳ chọn): https://explorer.matic.network/
+Block Explorer URL (tuỳ chọn): https://polygonscan.com/
 
 Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save".
 
@@ -65,7 +65,7 @@ Khi bạn đã kết nối Metamask xong thì bạn sẵn sàng vào việc rồ
 
 Nếu bạn muốn chuyển những tài sản khác, ví dụ như ETH hoặc USDC, đây là cách thực hiện nè:
 
-1). Hãy vào [https://wallet.matic.network/](https://wallet.matic.network/) và đăng nhập bằng Metamask. Hãy đảm bảo rằng bạn đang ở bên tab "Wallet" nhé, nhìn giống như thế này này:
+1). Hãy vào [https://portal.polygon.technology/](https://portal.polygon.technology/) và đăng nhập bằng Metamask. Hãy đảm bảo rằng bạn đang ở bên tab "Wallet" nhé, nhìn giống như thế này này:
 
 <img class = "bodyImage" src = "/matic/matic-wallet.png" alt = "Matic Wallet" />
 

@@ -57,7 +57,7 @@ Chain ID: 137
 
 Valutasymbool (optioneel): MATIC
 
-Blok Explorer URL (optioneel): https://mumbai-explorer.matic.vandaag/
+Blok Explorer URL (optioneel): https://amoy.polygonscan.com/
 
 Zodra u alles heeft toegevoegd, kunt u klikken op "Opslaan".
 

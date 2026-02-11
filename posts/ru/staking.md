@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">Стейкай GHST, делай FRENS</p>
 </div>
 
-Стейкинг в криптовалютном проекте — это блокировка части токенов в обмен на вознаграждение. В Aavegotchi стейкинг работает в точности, как в других проектах. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+Стейкинг в криптовалютном проекте — это блокировка части токенов в обмен на вознаграждение. В Aavegotchi стейкинг работает в точности, как в других проектах. The native token, [GHST](/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
 <div class="contentsBox">
 

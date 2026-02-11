@@ -41,7 +41,7 @@ Op 15 april 2021 werd er geschiedenis geschreven. Kapitein Terence McKenna en zi
 
 ## De Aastronauten
 
-De Aastronauten zijn een collectie van **5 zeldzame Aavegotchis** en **1 zeldzame Ongeopende [Portalen](/portals)** die gesplitst zijn door [Unicly](https://www.unic.ly/). Het team wordt geleid door Terence McKenna.
+De Aastronauten zijn een collectie van **5 zeldzame Aavegotchis** en **1 zeldzame Ongeopende [Portalen](/portals)** die gesplitst zijn door [Unicly](https://web.archive.org/web/*/https://www.unic.ly/). Het team wordt geleid door Terence McKenna.
 
 De Aastronauten zijn deelnemer in [Rarity Farming](/rarity-farming) en zouden ook rarity farming beloningen ontvangen. Helaas, omdat niemand deze Gotchis aan het petten is, daalt hun [Kinship](/traits#kinship) niveau. In de toekomst kan een huisdierenoperator deze Gotchis worden toegewezen.
 
@@ -91,7 +91,7 @@ De uGOTCHI Token laat tokenhouders direct eigendom van de Aastronauten toe. Het 
 
 De uGOTCHI Token is een goede manier voor mensen die graag worden blootgesteld aan een verzameling zeldzame Gotchis. Voor degenen die geen tijd hebben om een Gotchi te bezitten en te verzorgen is de uGOTCHI token een passieve manier om te investeren in een zeer goede set Aavegotchis voor prijswaardering. Natuurlijk brengt dat bij elke investering ook het risico van verlies met zich mee.
 
-Klik [hier](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) om de uGOTCHI collectie op Unicly te bekijken.
+Klik [hier](https://web.archive.org/web/*/https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) om de uGOTCHI collectie op Unicly te bekijken.
 
 ## Waardering
 

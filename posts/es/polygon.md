@@ -57,7 +57,7 @@ ID de cadena: 137
 
 Símbolo de Moneda (opcional): MATIC
 
-URL del explorador de bloques (opcional): https://explorer.matic.network/
+URL del explorador de bloques (opcional): https://polygonscan.com/
 
 Una vez que hayas añadido todo, puedes hacer clic en "Guardar".
 

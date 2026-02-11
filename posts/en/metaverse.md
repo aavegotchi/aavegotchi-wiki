@@ -6,4 +6,4 @@ description: 'All about the Gotchiverse'
 contributors: ["eris771", "unintelligent-nerd"]
 ---
 
-<meta http-equiv="refresh" content="0; URL='https://wiki.aavegotchi.com/gotchiverse'" />
+<meta http-equiv="refresh" content="0; URL='/gotchiverse'" />

@@ -56,7 +56,7 @@ GHST를 사용하는 추가적인 방법은 다음과 같습니다.
 * 이더리움 메이넷에서 [bonding curve](/curve)를 통해 바로 구매할 수 있습니다.
 * [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550)이나 [Matcha](https://matcha.xyz/markets/GHST)와 같은 이더리움 기반의 탈중앙 거래소에서 구매하기
 * 폴리곤 기반의 탈중앙 거래소 [Quickswap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)에서 구매하기
-* [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1), [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)와 같은 중앙 거래소에서 구매하기
+* [OKex](https://www.okx.com/trade-spot/ghst-usdt), [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)와 같은 중앙 거래소에서 구매하기
 
 그리고 정확한 토큰 주소를 숙지하셔야 합니다!
 

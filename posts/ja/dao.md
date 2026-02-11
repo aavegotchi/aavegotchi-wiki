@@ -42,7 +42,7 @@ Aavegotchiは、CompoundやSynthetixといった成功したDeFiプロトコル�
 
 ## ジェネシス
 
-[DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico)を*参照*。
+[DAICO](/curve#aavegotchi-daico)を*参照*。
 
 AavegotchiDAOの最初のイテレーションは、GHSTトークン配布イベントと同時に開始されました。 GHSTトークン保有者は、開発をサポートするためにピクセルクラフト・スタジオ（Pixelcraft Studios）（Aavegotchiの開発チーム）に[トークン・ボンディング・カーブ（TBC）](/curve)準備金のタップメカニズムによって分配される資金の増加/維持について投票する権限を持っていました。 このタップを毎月5万DAIから10万DAIに引き上げるという最初の提案は、2020年10月18日に99％の賛成を得て可決されました。 AavegotchiDAOメタモルフォーシスに移行する時期が来たら、トークン保有者は移行を行うかどうかの投票も行う予定です。
 
@@ -121,7 +121,7 @@ AavegotchiDAOオアシスはAavegotchiDAOの進化の最終形態であります
 
 * AavegotchiDAOの投票に参加する(可能な場合!)
 
-* [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance)には、投票された変更を実装するためにDAOメンバーが呼び出したり使ったりできるリストが詳細に記載されています。 例えば、asUSDが[コラテラル（担保）タイプ](/posts/atokens)として投票されたとしましょう。 AavegotchiDAOは `addCollateralTypes()` 関数を使用し、関数内で asUSD を指定することで変更を実装することができます。
+* [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance)には、投票された変更を実装するためにDAOメンバーが呼び出したり使ったりできるリストが詳細に記載されています。 例えば、asUSDが[コラテラル（担保）タイプ](/atokens)として投票されたとしましょう。 AavegotchiDAOは `addCollateralTypes()` 関数を使用し、関数内で asUSD を指定することで変更を実装することができます。
 
 ## AavegotchiDAOフォーラム
 

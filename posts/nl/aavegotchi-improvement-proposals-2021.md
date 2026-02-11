@@ -379,7 +379,7 @@ Dit komt omdat het inpermanente verlies (IL) voor GHST-MATIC hoger is dan GHST-E
 
 Momenteel bevindt het grootste deel van de liquiditeit van GHST zich op Quickswap.
 
-See: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+See: [https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/](https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/)
 
 Dit biedt een geweldige kans om een deel van de liquiditeit over te hevelen naar de algemeen aangenomen Sushiswap AMM en onze afhankelijkheid van Quickswap te verminderen.
 

@@ -75,13 +75,13 @@ Hãy chọn 3 Gotchi để tạo thành một đội. Nhiệm vụ đầu tiên 
 
 Trò chơi multi-player này đúng như tên gọi của nó, người chơi cân phải bảo vệ portal khỏi Lickquidator! PORTAL DEFENDERS đạt giải ba trong hạng mục general và giải nhì trong hạng mục Moralis!
 
-[Github link](https://github.com/bmateus/PortalDefenders)
+[Github link](https://web.archive.org/web/*/https://github.com/bmateus/PortalDefenders)
 
 ### SOUTH BEACH ROFL BALL của @adamn_eth
 
 Hãy bảo vệ Gotchi của bạn & quả bóng Rofl khỏi lũ cua! Chúng đến càng gần thì Gotchi của bạn càng lo sợ.
 
-[Demo](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[Demo](https://web.archive.org/web/*/https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
 ### 1 Arm Baandit của @mdurkin92
 

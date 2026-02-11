@@ -76,7 +76,7 @@ If you wanna see it in action, check out this interactive model of the bonding c
 
 ## Aavegotchi Bonding Curve
 
-The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
+The Aavegotchi Bonding Curve was created on 14 September 2020 via a bonding curve smart contract powered by [Aragon Fundraising](https://web.archive.org/web/*/https://fundraising.aragon.black/). After the conclusion of a presale for 500,000 GHST, the bonding curve was immediately opened. The bonding curve is unlimited in size, has no time limit, and offers an opening price of 0.2 Dai per GHST. It has a connecting weight of 33%.
 
 You will have to complete KYC in order to purchase straight from/sell to the curve. Compliance is important my dudes - we live in a society, and we also don't want the project to get rugged by the government. Purchases from the curve are made in DAI. The reverse also applies; you can sell your GHST back to the curve for DAI, but why would you wanna do that? :( :( :(
 
@@ -108,10 +108,10 @@ A Curve transition team (see [AGIP-66](/aavegotchi-improvement-proposals-2023#fo
 
 ## Learn More
 
-* Đọc nhèo hơn tại [Aragon Fundraising and bonding curves!](https://fundraising.aragon.black/components/bonding-curve)
+* Đọc nhèo hơn tại [Aragon Fundraising and bonding curves!](https://web.archive.org/web/*/https://fundraising.aragon.black/components/bonding-curve)
 
 * Đọc thêm tại [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/)
 
 * Bài viết [Bonding Curves](https://defiprime.com/bonding-curve-explained) trên DeFi Prime.
 
-* Bài viết về [DAICO](https://cointelegraph.com/explained/what-is-a-daico-explained) trên the Coin Telegraph.
+* Bài viết về [DAICO](https://web.archive.org/web/*/https://cointelegraph.com/explained/what-is-a-daico-explained) trên the Coin Telegraph.

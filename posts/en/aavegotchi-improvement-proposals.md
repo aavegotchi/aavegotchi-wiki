@@ -1315,7 +1315,7 @@ I will work with the winners to make sure the pieces are in proper pixel-perfect
 
 Prize money ranges from 100 ghst to 500 ghst
 
-Bonus GHST prizes for whoever makes the best use of old wearables in set creation. The sets should strive to pick up older wearables as well as fill the gaps as shown here: [https://wearables.report/trait-selection.html](https://wearables.report/trait-selection.html)
+Bonus GHST prizes for whoever makes the best use of old wearables in set creation. The sets should strive to pick up older wearables as well as fill the gaps as shown here: [https://web.archive.org/web/*/https://wearables.report/trait-selection.html](https://web.archive.org/web/*/https://wearables.report/trait-selection.html)
 
 Bonus GHST for the #1 favourite wearable
 
@@ -1345,7 +1345,7 @@ Partnership connections must be established by 15th June. The deal may not need 
 
 No new cores will be minted.
 
-The traits are pulled from here: [https://wearables.report/trait-selection.html](https://wearables.report/trait-selection.html)
+The traits are pulled from here: [https://web.archive.org/web/*/https://wearables.report/trait-selection.html](https://web.archive.org/web/*/https://wearables.report/trait-selection.html)
 
 The bigger the standard deviation, the further from balance that particular slot/rarity is. There are clear winners in every slot. For uncommon eye, there is no imbalance, so we propose two items which counter-balance each other.
 
@@ -1591,9 +1591,9 @@ Development Stages:
 
 *Links to download and play the current build:*
 
-* Download for PC - https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-PC.zip
+* Download for PC - https://web.archive.org/web/*/https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-PC.zip
 
-* Download for Mac - https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-Mac.zip
+* Download for Mac - https://web.archive.org/web/*/https://storage.googleapis.com/gotchichain-battleverse/Battleverse-v1.2-Mac.zip
 
 *Budget and Funding Allocation:*
 
@@ -1834,9 +1834,9 @@ Description : Collection of tools and reports, with a focus on lending operation
 
 * Ethereum address: 0x49F2df1E567e588f3aa2CE63fcCA80a6a0f4C029
 
-* Issue tracker: https://discord[.]gg/fZVWHMaRqQ
+* Issue tracker: https://discord.gg/fZVWHMaRqQ
 
-**The big brain API - https://aavegotchi.land**
+**The big brain API - https://aavegotchi.land
 
 Description: Gotchiverse analytics, wallet asset tracking, rarity farming reward estimation.
 
@@ -1854,7 +1854,7 @@ Description: Gotchiverse analytics, wallet asset tracking, rarity farming reward
 
 * Github commit id: https://github.com/lazyprogrammerio/ghst-gg/commit/d4c799e5f7c3c877a3748df68e971da9adf36231
 
-**Aadventure - https://www.aadventure.io**
+**Aadventure - https://www.aadventure.io
 
 Description: realm explorer, historical auctions, historical rarity farming, lending tools, gotchi pockets, wearable sets by gotchi type.
 
@@ -1872,7 +1872,7 @@ Description: realm explorer, historical auctions, historical rarity farming, len
 
 * Github commit id: https://github.com/mistaya/aavegotchi/commit/9b026d8f7f4c2c0096fbed4aa9e94f6e9247cf27
 
-**Aavegotchi Wearables Report - https://wearables.report**
+**Aavegotchi Wearables Report - https://web.archive.org/web/*/https://wearables.report
 
 The wearables report dashboard supplies vital metrics regarding the Aavegotchi wearables market. It has been used as the basis for key DAO decisions on wearables emissions, schematic trait selection, and set balancing. The site is geared towards active DAO participants to inform economic decisions regarding the wearables market and how wearables are being utilized by players.
 
@@ -1890,7 +1890,7 @@ The wearables report dashboard supplies vital metrics regarding the Aavegotchi w
 
 * Github commit id: https://github.com/mikey-jay/aavegotchi-wearables-report/commit/a1048f4ecfbb6c0b466da9bde93ddaabe9d78604
 
-**GotchiSwap - https://gotchiswap.xyz/**
+**GotchiSwap - https://gotchiswap.xyz/
 
 Description : Aavegotchi assets trustless OTC solution
 
@@ -1929,7 +1929,7 @@ table_agip129
 
 Today I present the first ever DAO Forge Competition. For the pilot season, we will keep it simple with a single snapshot capturing the Top 100 gotchis by smithing XP.
 
-The current leaderboard is here: [https://wearables.report/smithing-skill.html](https://wearables.report/smithing-skill.html)
+The current leaderboard is here: [https://web.archive.org/web/*/https://wearables.report/smithing-skill.html](https://web.archive.org/web/*/https://wearables.report/smithing-skill.html)
 
 *The high level points:*
 

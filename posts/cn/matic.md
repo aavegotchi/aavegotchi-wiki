@@ -54,7 +54,7 @@ contributors:
 
 货币符号(可选)：MATIC
 
-区块资源管理器URL (可选)：https://explorer.matic.network/
+区块资源管理器URL (可选)：https://polygonscan.com/
 
 一旦你添加了一切，你可以点击“保存”。
 
@@ -65,7 +65,7 @@ contributors:
 
 对于想要转移不同资产的所有人，如ETH或USDC，您在这里是如何操作的：
 
-1). 到 [https://wallet.matic.network/](https://wallet.matic.network/) 并使用Metamask登录。 请确保您在“钱包”选项卡中，它应该看起来像这样：
+1). 到 [https://portal.polygon.technology/](https://portal.polygon.technology/) 并使用Metamask登录。 请确保您在“钱包”选项卡中，它应该看起来像这样：
 
 <img class = "bodyImage" src = "/matic/matic-wallet.png" alt = "Matic Wallet" />
 

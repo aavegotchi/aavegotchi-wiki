@@ -129,7 +129,7 @@ There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi own
 
 ## Entering the Gotchiverse
 
-The Gotchiverse is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com).
+The Gotchiverse is accessible at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 First, you need to select your Gotchi's spawn location.
 
@@ -244,7 +244,7 @@ Each type of Haarvester is capable of harvesting one type of Alchemica, and each
 
 **Spillover** is another property of Reservoirs that determines how much and how far Alchemica spills when it is claimed from the Reservoir. Lower level Reservoirs have higher Spillover Amount and Spillover Radius, and these amounts are reduced with further upgrades.
 
-You can consult the Recipe Book [here](https://github.com/aavegotchi/gotchiverse-bible/blob/main/RecipeBook%20-%20Latest.pdf) to see exact Harvest Rates, Capacities, and Spillover Rates.
+You can consult the Recipe Book [here](/recipes) to see exact Harvest Rates, Capacities, and Spillover Rates.
 
 **Removing Installations**
 

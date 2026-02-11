@@ -438,7 +438,7 @@ Dit komt omdat het inpermanente verlies (IL) voor GHST-MATIC hoger is dan GHST-E
 
 Momenteel bevindt het grootste deel van de liquiditeit van GHST zich op Quickswap.
 
-Zie: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+Zie: [https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/](https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/)
 
 Dit biedt een geweldige kans om een deel van de liquiditeit over te hevelen naar de algemeen aangenomen Sushiswap AMM en onze afhankelijkheid van Quickswap te verminderen.
 
@@ -881,7 +881,7 @@ Deze kunnen worden geleverd door de AavegotchiDAO, of op alternatieve wijze word
 * Enkele zeer speciale NFT's door onze in-house artiest Mali3D
 * Een verhoogde GG-score voor alle succesvolle spaarders
 
-Details over de AGIP zijn te vinden [hier](https://dao. aavegotchi. com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
+Details over de AGIP zijn te vinden [hier](https://dao.aavegotchi.com/t/aavegotchidao-x-goodghosting-collaboration-request/2975/)
 
 Optie 1: Ja, 10k GHST voor beloningen + XP
 
@@ -931,7 +931,7 @@ tabel_agip24
 
 **Voorstel Samenvatting:**
 
-Pixelcraf heeft een schema geleverd in hoofdstuk 1 in de Gotchiverse Game Bijbel met de Gotchiverse Land Auction / Raffle 3 die gepland staat voor eind februari: [https://blog. avegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
+Pixelcraf heeft een schema geleverd in hoofdstuk 1 in de Gotchiverse Game Bijbel met de Gotchiverse Land Auction / Raffle 3 die gepland staat voor eind februari: [https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
 
 Dit zou gebeuren voordat de volgende Gotchiverse Game Bijbelhoofdstukken volgens dezelfde post werden gepubliceerd. In maart werden nog eens 4 hoofdstukken vrijgegeven en er zijn meer plannen om in de komende weken/maanden vrij te komen.
 
@@ -1275,7 +1275,7 @@ A brief overview of why this is good for GHST:
 
 7. More rewards for vGHST means more rewards in the hands of the Aavegotchi community
 
-None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
+None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://web.archive.org/web/*/https://www.dystopia.exchange/vote).
 
 Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
 

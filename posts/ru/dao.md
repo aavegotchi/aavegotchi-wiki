@@ -42,7 +42,7 @@ contributors:
 
 ## Генезис (Genesis)
 
-*См.* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*См.* [DAICO](/curve#aavegotchi-daico).
 
 AavegotchiDAO появился на свет одновременно в день распределения токенов GHST. Владельцы токенов GHST могли проводить голосование за количество средств, выделяемых команде Pixelcraft Studios на поддержание проекта. Средства выделялись через [кривую привязки токенов (TBC)](/curve). Одним из первых решений стало увеличение количества токенов в обращении с 50 000 DAI до 100 000 DAI в месяц. Его одобрили 99% держателей токена 18.10.2020 года. Следующим крупным решением будет переход на AavegotchiDAO Metamorphosis.
 
@@ -121,7 +121,7 @@ AavegotchiDAO появился на свет одновременно в ден�
 
 * Taking part in AavegotchiDAO votes (when they are available!)
 
-* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
 ## Форум AavegotchiDAO
 

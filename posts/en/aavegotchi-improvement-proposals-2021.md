@@ -367,7 +367,7 @@ This is because the Impermanent Loss (IL) risk for GHST-MATIC is higher compared
 
 Currently, the majority of the liquidity for GHST resides on Quickswap.
 
-See: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+See: [https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/](https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/)
 
 This offers a great opportunity to move some of the liquidity over to the widely adopted Sushiswap AMM and reduce our dependence on Quickswap.
 

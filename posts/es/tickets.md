@@ -44,7 +44,7 @@ Hay dos categorías principales de tickets:
 
 Los Raffle Tickets pueden ser subdivididos en seis subcategorías diferentes, que van desde Común (menos valioso) hasta Godlike (más valioso). These are used to participate in [Wearable](/wearables) Raffles or [Aesthetica](/aesthetica) Raffles.
 
-Por otro lado, Los Drop Tickets se utilizan para participar en **NFT Raffles** para ganar [Portales](/portales) y [Parcelas REALM](/metaverse).
+Por otro lado, Los Drop Tickets se utilizan para participar en **NFT Raffles** para ganar [Portales](/portals) y [Parcelas REALM](/metaverse).
 
 table_RaffleTickets
 

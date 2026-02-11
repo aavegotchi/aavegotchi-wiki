@@ -57,7 +57,7 @@ ID цепочки: 137.
 
 Символ валюты: MATIC.
 
-Блокировать Explorer URL (необязательно): https://explorer.matic.network/.
+Блокировать Explorer URL (необязательно): https://polygonscan.com/.
 
 Нажимайте «Сохранить», как только заполните все поля.
 

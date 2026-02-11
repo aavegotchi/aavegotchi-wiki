@@ -41,7 +41,7 @@ contributors:
 
 ## The Aastronauts（アストロノーツ）
 
-アストロノーツは、**5つのレアなAavegotchi**と1つの**レアな未開封[ポータル](/portals)**を、[Unicly](https://www.unic.ly/)を通じて分数化/シャーディングしたコレクションです。 チームはテレンス・マッケンナが率いています。
+アストロノーツは、**5つのレアなAavegotchi**と1つの**レアな未開封[ポータル](/portals)**を、[Unicly](https://web.archive.org/web/*/https://www.unic.ly/)を通じて分数化/シャーディングしたコレクションです。 チームはテレンス・マッケンナが率いています。
 
 Aastronautsは[レアリティファーミング](/rarity-farming)の参加者であり、レアリティファーミングの報酬も受け取ることができます。 残念ながら、誰もこれらのGotchisを撫でていないため、彼らの[キンシップ](/traits#kinship)レベルは低下しています。 将来的には、ペットオペレーターを任命して、このゴッチたちを撫でてもらうことができます。
 
@@ -91,7 +91,7 @@ uGOTCHIトークンは、トークン所有者がアストロノーツの直接�
 
 uGOTCHIトークンは、希少なゴッチのコレクションに触れることに興味がある人にとって、良い方法です。 ゴッチを所有し、手入れをする時間がない人にとって、uGOTCHIトークンは、非常に優れたゴッチセットに投資し、価格上昇を狙うパッシブな方法と言えます。 もちろん、すべての投資において、これには損失のリスクも伴います。
 
-UniclyでuGOTCHIコレクションを見るには[ここ](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)をクリックしてください。
+UniclyでuGOTCHIコレクションを見るには[ここ](https://web.archive.org/web/*/https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)をクリックしてください。
 
 ## 評価額
 

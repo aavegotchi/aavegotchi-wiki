@@ -29,7 +29,7 @@ contributors:
 
 **DAS AAVEGOTCHI MISSIONS-PROGRAMM IST NUN ABGESCHLOSSEN!**
 
-Ein episches Kapitel in der Aavegotchi-Geschichte wird abgeschlossen: Rund 280 unserer engagierten Community-Mitglieder haben sich zum offiziellen Aavegotchi Aagent-Status hochgearbeitet! Diese Agenten werden die exklusiven Besitzer des [Aavegotchi Aagent Kleidungsstück-Sets](/Kleidungsstücke#aagent-wearables-set) sein und damit ihren Platz in der Aavegotchi-Geschichte festigen.
+Ein episches Kapitel in der Aavegotchi-Geschichte wird abgeschlossen: Rund 280 unserer engagierten Community-Mitglieder haben sich zum offiziellen Aavegotchi Aagent-Status hochgearbeitet! Diese Agenten werden die exklusiven Besitzer des [Aavegotchi Aagent Kleidungsstück-Sets](/wearables#aagent-wearables-set) sein und damit ihren Platz in der Aavegotchi-Geschichte festigen.
 
 **HERZLICHEN GLÜCKWUNSCH AAGENTEN** <img src="/missions/tinyagent.png" alt = "aavegotchi agent" />
 

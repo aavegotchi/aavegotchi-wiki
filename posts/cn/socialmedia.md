@@ -56,7 +56,7 @@ Discord 对于有疑问的小伙伴来说也是一个很好的平台，加入其
 
 &nbsp;
 
-<a href="https://t.me/avegogotchi" target = "_blank"><img class="socialmedia" src="/socialmedia/telegram.png" alt = "aavegotchi telegram" width="59" height="58"> &nbsp;&nbsp;&nbsp;**在 Telegram 上找到我们**</a>
+<a href="https://t.me/aavegotchi" target = "_blank"><img class="socialmedia" src="/socialmedia/telegram.png" alt = "aavegotchi telegram" width="59" height="58"> &nbsp;&nbsp;&nbsp;**在 Telegram 上找到我们**</a>
 
 <p style="margin-left: 4.8em">加密项目怎么会少了 Telegram 呢？ 除了 Discord之外，你还可以在 Telegram 中找到我们的开发人员，团队，以及其他大约 3,100 位 frens。 有了 Aavegotchi Telegram 的专属表情的加持，Aavegotchi Telegram 是另外一个超级活跃的平台，你可以在那里随时联系到我们。 </p>
 

@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">GHST를 스테이킹하고 FRENS를 모으세요!</p>
 </div>
 
-스테이킹이란 보상을 대가로 여러분의 암호화폐를 락업하는 과정을 의미합니다. 이는 아베고치에서도 결코 다르지 않습니다. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+스테이킹이란 보상을 대가로 여러분의 암호화폐를 락업하는 과정을 의미합니다. 이는 아베고치에서도 결코 다르지 않습니다. The native token, [GHST](/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
 <div class="contentsBox">
 

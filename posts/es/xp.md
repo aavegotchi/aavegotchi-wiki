@@ -52,9 +52,9 @@ tabla_XP
 
 ## Claiming XP
 
-XP has to be claimed manually at the airdrop page here: https://dapp.aavegotchi.com/u/[XXXXX]/airdrops.
+XP has to be claimed manually at the airdrop page here: https://aavegotchi.com/me/airdrops.
 
-Replace the [XXXXX] with your wallet address in the URL above.
+Open the URL above while connected with your wallet address.
 
 After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvement-proposals), all Aavegotchis you owned at the block the AGIP was created are eligible for the XP claim. There is a bulk claim ("CLAIM ALL") function that allows you to claim the XP for all AGIPs you have voted on. If the CLAIM ALL function fails, you can claim the XP for each AGIP individually.
 

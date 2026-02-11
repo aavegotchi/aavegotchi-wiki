@@ -37,19 +37,19 @@ Para conectarse a la red de pruebas Mumbai, hay que hacer algunas configuracione
 
 Nombre de red: Mumbai Testnet
 
-Nueva URL RPC: https://rpc-mumbai.matic.today
+Nueva URL RPC: https://rpc-amoy.polygon.technology/
 
 ID de cadena: 80001
 
 Símbolo de Moneda (opcional): MATIC
 
-URL del explorador de bloques (opcional): https://mumbai-explorer.matic.today
+URL del explorador de bloques (opcional): https://amoy.polygonscan.com/
 
 Una vez que hayas añadido todo, puedes hacer clic en "Guardar". ¡Ahora estás en la red de pruebas Mumbai!
 
 ## Obtener tokens de Mumbai Faucet
 
-1). Dirígete al Faucet de Mumbai en [https://faucet.matic.network/](https://faucet.matic.network/).
+1). Dirígete al Faucet de Mumbai en [https://faucet.polygon.technology/](https://faucet.polygon.technology/).
 
 2). Seleccione los tokens que desea obtener del faucet (ej. Token MATIC), seleccione la red predeterminada (Mumbai), e introduzca la dirección de su cartera Metamask en el cuadro de texto.
 

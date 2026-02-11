@@ -160,7 +160,7 @@ By petting them every 12 hours!
 
 ### How do I play in the REALM?
 
-Once you have a gotchi in your wallet, REALM gameplay is accessible at [verse.aavegotchi.com](https://verse.aavegotchi.com/).
+Once you have a gotchi in your wallet, REALM gameplay is accessible at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 ### What blockchain is Aavegotchi on?
 
@@ -176,7 +176,7 @@ Yes, you can buy and sell Aavegotchis on our secondary NFT marketplace, the Aave
 
 ### What is the Gotchiverse?
 
-The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [verse.aavegotchi.com](https://verse.aavegotchi.com/).
+The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 ### How much does it cost to play Aavegotchi?
 There are a couple of ways to get an Aavegotchi:
@@ -304,7 +304,7 @@ No. The only time these wearables will ever be released is during the pre-launch
 
 ### Are raffle wearables special?
 
-As far as gameplay, raffle wearables will offer the same <a href="https://wiki.aavegotchi.com/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
+As far as gameplay, raffle wearables will offer the same <a href="/wearables">boosts</a> to your Aavegotchi as any other wearables in their rarity class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they have more resale value due to their **pre-launch status** or **brand associations** will be determined by market demand.
 
 
 ### How do you transfer raffle tickets?
@@ -382,7 +382,7 @@ Portals will be released on Polygon at February.
 ### How do I vote using Trust Wallet on Aragon?
 As at this point, Aragon has not integrated Trust Wallet yet. An alternative solution is to import your private keys from your Trust Wallet into Metamask. Once in Metamask, you can now vote on Aragon.
 
-See [here](https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
+See [here](https://web.archive.org/web/*/https://community.trustwallet.com/t/i-need-to-export-my-trust-wallet-to-metamask-how-do-i-do-this/3194) for more information on how to do so.
 
 ### Why does it say wrong timestamp in Snapshot Voting?
 This is because the timestamp on your device/computer is different from the timestamp on Snapshot. Set your computer time to automatic and it will adjust accordingly to match with the timestamp on Snapshot.
@@ -412,7 +412,7 @@ That said, *Cocoon* is an experimental governance phase and it wouldn’t be out
 
 ### Do higher trait scores always mean higher rarity?
 
-Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="https://wiki.aavegotchi.com/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
+Aavegotchi rarity is based on a bell curve - meaning **both extremely high and extremely low** trait scores are desirable. <a href="/traits">Trait scores</a> that fall in the middle of the 0-100 range are more common.
 
 ### How much does it cost to play?
 
@@ -613,13 +613,13 @@ All elements of the Aavegotchi game are [stored on the Ethereum blockchain](http
 
 ### Which wallet should I use with Aavegotchi?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://arkane.network/apps) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://www.venly.io/) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
 
 For android devices, using the Metamask app with the in-built browser is a good choice.
 
 ### Will Aavegotchi run on Layer 2?
 
-Yes! Aavegotchi uses [Polygon](https://matic.network/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
+Yes! Aavegotchi uses [Polygon](https://polygon.technology/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea.
 
 ### Do I need to migrate my Aave tokens?
 
@@ -654,11 +654,11 @@ Quite a number of people have encountered this issue as the stkGHST-QUICK token 
 
 I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/get-tokens?p=bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
 
-First, head over to the [Polygon Block Explorer](https://explorer.matic.network/) and key in your transaction ID. Obtain the Block Number of your transaction.
+First, head over to the [Polygon Block Explorer](https://polygonscan.com/) and key in your transaction ID. Obtain the Block Number of your transaction.
 
 Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
 
-https://apis.matic.network/api/v1/matic/block-included/[blockNumber]
+https://polygonscan.com/]
 
 That URL will indicate the status of your withdrawal transaction.
 

@@ -56,7 +56,7 @@ GHSTを買って、wen moonと思う以外に何ができるのでしょうか�
 * イーサリアムメインネットの[カーブ](/curve)から直接購入する（ただし、これにはKYCが必要で、残念ながら米国と中国の市民は対象外です）。
 * [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550)や[Matcha](https://matcha.xyz/markets/GHST)など、イーサリアムメインネット上の分散型取引所（DEX）から購入する。
 * [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)などのPolygon上の分散型取引所から購入する。
-* [OKex](https://www.okex.com/spot/trade/ghst-eth#type=1)、[Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)などの中央集権型取引所（CEX）から購入する。
+* [OKex](https://www.okx.com/trade-spot/ghst-usdt)、[Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)などの中央集権型取引所（CEX）から購入する。
 
 トークン・アドレスも正しく取得するようにしましょう。
 

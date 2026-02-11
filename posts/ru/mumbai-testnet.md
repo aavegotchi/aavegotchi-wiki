@@ -37,19 +37,19 @@ contributors:
 
 Имя сети: Mumbai Testnet.
 
-URL-адрес RPC: https://rpc-mumbai.matic.today.
+URL-адрес RPC: https://rpc-amoy.polygon.technology/.
 
 ID цепочки: 80001.
 
 Символ валюты: MATIC.
 
-Блокировать Explorer URL (необязательно): https://mumbai-explorer.matic.today.
+Блокировать Explorer URL (необязательно): https://amoy.polygonscan.com/.
 
 Нажимайте «Сохранить», как только заполните все поля. И все! Вы уже в тестовой сети Мумбаи!
 
 ## Как получать токены из Mumbai Faucet
 
-1). Зайдите в Mumbai Faucet (урл: [https://faucet.matic.network/](https://faucet.matic.network/)).
+1). Зайдите в Mumbai Faucet (урл: [https://faucet.polygon.technology/](https://faucet.polygon.technology/)).
 
 2). Выберите токены для получения (например, MATIC), выставьте сеть по умолчанию (Мумбаи) и добавьте адрес своего кошелька Metamask в нужное поле.
 

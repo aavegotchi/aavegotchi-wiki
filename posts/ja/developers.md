@@ -84,7 +84,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Aavegotchi をペットするための Chrome 拡張機能。
 
-* [GotchiCare](https://gotchicare.com/) - Aavegotchi のデイケア、ペットサービス。
+* [GotchiCare](https://web.archive.org/web/*/https://gotchicare.com/) - Aavegotchi のデイケア、ペットサービス。
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - コミュニティが作る無料のペットサービス
 
@@ -92,17 +92,17 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Aavegotchiエコシステムのためのアセットマネージャー
 
-* [aavegotchi.xyz リーダーボード](https://www.aavegotchi.xyz/leaderboard/players) - Cryptoticker.ioギルドが制作したリーダーボード
+* [aavegotchi.xyz リーダーボード](https://web.archive.org/web/*/https://www.aavegotchi.xyz/leaderboard/players) - Cryptoticker.ioギルドが制作したリーダーボード
 
-* [Orium Pet Operator and Automated Aavegotchi Lending](https://app.orium.network/) - Pet Operator and Automated Aavegotchi Lending created by Orium Guild
+* [Orium Pet Operator and Automated Aavegotchi Lending](https://web.archive.org/web/*/https://app.orium.network/) - Pet Operator and Automated Aavegotchi Lending created by Orium Guild
 
 ## Subgraphs
 
-* 公式 Aavegotchi サブグラフ: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
+* 公式 Aavegotchi サブグラフ: [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic)
 
-* Aavegotchi SVGs: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg)
+* Aavegotchi SVGs: [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg)
 
-* Aavegotchi ラッフル (ポリゴン): [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle)
+* Aavegotchi ラッフル (ポリゴン): [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle)
 
 ## Gaame Jaam（ゲーム・ジャム）
 

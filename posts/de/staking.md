@@ -15,7 +15,7 @@ contributors:
 
 Hinweis: FRENS wurde eingestellt. Stake stattdessen LPs, um GLTR zu verdienen. Auf Base ggf. aavegotchi.com als Einstieg nutzen, falls die App „not functional on Base“ anzeigt.
 
-Staking bezieht sich auf den Prozess des Sperrens deiner Kryptowährung im Gegenzug für Belohnungen. Das ist bei dem Aavegotchi Projekt nicht anders. Der native Token [GHST](/posts/ghst) kann über verschiedene Staking‑Verträge eingesetzt werden, um [GLTR](/gotchus-alchemica-exchange#gltr-token) zu verdienen.
+Staking bezieht sich auf den Prozess des Sperrens deiner Kryptowährung im Gegenzug für Belohnungen. Das ist bei dem Aavegotchi Projekt nicht anders. Der native Token [GHST](/ghst) kann über verschiedene Staking‑Verträge eingesetzt werden, um [GLTR](/gotchus-alchemica-exchange#gltr-token) zu verdienen.
 
 <div class="contentsBox">
 

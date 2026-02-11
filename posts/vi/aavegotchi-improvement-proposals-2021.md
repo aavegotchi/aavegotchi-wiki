@@ -379,7 +379,7 @@ Bọn mình khuyến nghị rằng tỷ lệ FRENS xác định được trả c
 
 Gần đây, phần lớn thành khoản dành cho GHST đều nằm ở Quickswap.
 
-See: [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+See: [https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/](https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/)
 
 Điều này mang đến một cơ hội lớn để di chuyển một lượng thanh khoản đến cho AMM Sushiswap được sử dụng rộng rãi và giảm đi sự phụ thuộc vào Quickswap.
 

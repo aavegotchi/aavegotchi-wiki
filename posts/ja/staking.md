@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">GHSTを預けてFRENSを稼ごう!</p>
 </div>
 
-ステーキングとは、報酬と引き換えに暗号通貨をロックするプロセスを指します。 これはAavegotchiプロジェクトでも変わりません。 The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+ステーキングとは、報酬と引き換えに暗号通貨をロックするプロセスを指します。 これはAavegotchiプロジェクトでも変わりません。 The native token, [GHST](/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
 <div class="contentsBox">
 

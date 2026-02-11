@@ -37,19 +37,19 @@ Aavegotchi Baazaar đã có mặt trên Testnet Mumbai! Thử đi bạn, bạn c
 
 Network Name: Mumbai Testnet
 
-New RPC URL: https://rpc-mumbai.matic.today
+New RPC URL: https://rpc-amoy.polygon.technology/
 
 Chain ID: 80001
 
 Currency Symbol (optional): MATIC
 
-Block Explorer URL (tuỳ chọn): https://mumbai-explorer.matic.today
+Block Explorer URL (tuỳ chọn): https://amoy.polygonscan.com/
 
 Một khi bạn đã thêm vào xong xuôi, hãy nhấp "Save". Giờ bạn đang ở trên Mumbai Testnet rồi nè!
 
 ## Nhận token từ Faucet của Testnet Mumbai
 
-1). Truy cập vào Mumbai Faucet tại [https://faucet.matic.network/](https://faucet.matic.network/).
+1). Truy cập vào Mumbai Faucet tại [https://faucet.polygon.technology/](https://faucet.polygon.technology/).
 
 2). Chọn token mà bạn muốn có từ faucet (ví dụ như token MATIC), chọn Network mặc định (Mumbai), và nhập địa chỉ trên Metamask của bạn vào ô trống.
 

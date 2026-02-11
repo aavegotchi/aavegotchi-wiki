@@ -13,7 +13,7 @@ contributors:
 <p class="headerImageText">Stake GHST, Maak FRENS!</p>
 </div>
 
-Staking verwijst naar het proces van het vergrendelen van uw cryptovaluta in ruil voor beloningen. Dit is niet anders in het Aavegotchi-project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+Staking verwijst naar het proces van het vergrendelen van uw cryptovaluta in ruil voor beloningen. Dit is niet anders in het Aavegotchi-project. The native token, [GHST](/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
 <div class="contentsBox">
 

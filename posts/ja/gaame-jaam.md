@@ -75,13 +75,13 @@ contributors:
 
 リッキデーターからポータルを守る、タイトル通りのマルチプレイヤーゲームです。 PORTAL DEFENDERSは一般戦で3位、Moralis戦で2位に入賞しました！
 
-[Githubリンク](https://github.com/bmateus/PortalDefenders)
+[Githubリンク](https://web.archive.org/web/*/https://github.com/bmateus/PortalDefenders)
 
 ### SOUTH BEACH ROFL BALL by @adamn_eth
 
 ゴッチとロッフルボールをカニに近づけてはいけない！ カニが近づくと、ゴッチがイライラしてしまいます。
 
-[デモへのリンク](https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
+[デモへのリンク](https://web.archive.org/web/*/https://drive.google.com/file/d/1YIe1vhnw-qUy3r8UasCL-RHWRwBimmOs/view)
 
 ### 1 ARM BAANDIT by @mdurkin92
 

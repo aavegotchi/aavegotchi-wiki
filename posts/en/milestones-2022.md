@@ -174,7 +174,7 @@ contributors: ["unintelligent-nerd"]
 * Vote is live from 21 - 28 May 2022!
 <p></p>
 
-## [Aavegotchi Raffles Return with Gotchiverse REALM Decorations](https://blog.aavegotchi.com/untitled-2/)
+## [Aavegotchi Raffles Return with Gotchiverse REALM Decorations](https://blog.aavegotchi.com/gotchiverse-decorations-raffle/)
 * The first Gotchiverse Decorations Raffle is scheduled from 9 - 12 June 2022
 * Get your hands on ROFL Gnome, REALM Globe, Smol Flower, Laava Lamp, Neon Light, and Caamp Fire!
 <p></p>

@@ -152,7 +152,7 @@ Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked w
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### uGOTCHI Token
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+uGOTCHI tokens are minted via [Unicly](https://web.archive.org/web/*/https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
 
 The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
 
@@ -377,7 +377,7 @@ Polygon (Formerly Matic Network) is a scaling solution for public blockchains. B
 
 To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
 
-Read more about Polygon [here](https://matic.network/).
+Read more about Polygon [here](https://polygon.technology/).
 
 ### Proof of Stake
 

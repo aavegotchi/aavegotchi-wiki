@@ -37,19 +37,19 @@ Aavegotchi Baazaar现在已经在 Mumbai 测试网上上线了！ 你必须在Te
 
 网络名称: Mumbai Testnet
 
-新 RPC URL： https://rpc-mumbai.matic.today
+新 RPC URL： https://rpc-amoy.polygon.technology/
 
 Chain ID: 80001
 
 货币符号(可选)：MATIC
 
-Block Explorer URL (optional): https://mumbai-explorer.matic.today
+Block Explorer URL (optional): https://amoy.polygonscan.com/
 
 一旦你添加了一切，你可以点击“保存”。 哈哈 现在你就在Mumbai  测试网啦！
 
 ## 从Mumbai 水龙头中获取代币。
 
-1). 前往 Mumbai 水龙头网站 [https://faucet.matic.network/](https://faucet.matic.network/)。
+1). 前往 Mumbai 水龙头网站 [https://faucet.polygon.technology/](https://faucet.polygon.technology/)。
 
 2). 选择你想从龙头获得的代币（如MATIC代币），选择默认的网络（Mumbai），并在文本框中输入你的Metamask钱包地址。
 

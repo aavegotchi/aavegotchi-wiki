@@ -84,7 +84,7 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Aavegotchi Extension](https://chrome.google.com/webstore/detail/aavegotchi-extension/ibggmlahcckfbcghmbnbdmkmolmaejfc) - Chrome Extension để pet Aavegotchi
 
-* [GotchiCare](https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
+* [GotchiCare](https://web.archive.org/web/*/https://gotchicare.com/) - Một dịch vụ chăm sóc Aavegotchi hằng ngày
 
 * [GotchiWorld](https://linktr.ee/gotchiworld) - Dịch vụ autopet miễn phí dành cho cộng đồng
 
@@ -92,17 +92,17 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 * [Gotchi Vault](https://www.gotchivault.com/) - Quản lý tài sản cho hệ sinh thái Gotchiverse
 
-* [aavegotchi.xyz Leaderboard](https://www.aavegotchi.xyz/leaderboard/players) -Bảng Xếp Hạng được tạo bởi Cryptoticker.io Guild
+* [aavegotchi.xyz Leaderboard](https://web.archive.org/web/*/https://www.aavegotchi.xyz/leaderboard/players) -Bảng Xếp Hạng được tạo bởi Cryptoticker.io Guild
 
-* [Orium Pet Operator and Automated Aavegotchi Lending](https://app.orium.network/) - Pet Operator and Automated Aavegotchi Lending created by Orium Guild
+* [Orium Pet Operator and Automated Aavegotchi Lending](https://web.archive.org/web/*/https://app.orium.network/) - Pet Operator and Automated Aavegotchi Lending created by Orium Guild
 
 ## Subgraphs
 
-* Subgraph Chính Chủ Của Aavegotchi: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-core-matic?version=current)
+* Subgraph Chính Chủ Của Aavegotchi: [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic)
 
-* Aavegotchi SVGs: [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-svg)
+* Aavegotchi SVGs: [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg)
 
-* Aavegotchi Raffles (Polygon): [https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle](https://thegraph.com/legacy-explorer/subgraph/aavegotchi/aavegotchi-matic-raffle)
+* Aavegotchi Raffles (Polygon): [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle)
 
 ## Gaame Jaam
 

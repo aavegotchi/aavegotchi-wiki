@@ -567,7 +567,7 @@ Currently, lodging for the event has been secured close to the main venues. Trav
 
 ETH Denver #BUIDLWeek kicks off February 24th and runs to March 1st. The Core event runs from March 2nd to March 5th. There is a Mountain retreat running from March 6th to the 9th. Attendance to the retreat costs extra, and many of our members have not opted in for this. No allocated proposal funding will be utilised for the optional Mountain Retreat.
 
-Fully expanded proposal details can be found [here](https://docs.google.com/document/d/1cJpbepEWpZnxTn3mlEO9ts_RFdI2npBkGBSXb151lPM)
+Fully expanded proposal details can be found [here](https://web.archive.org/web/*/https://docs.google.com/document/d/1cJpbepEWpZnxTn3mlEO9ts_RFdI2npBkGBSXb151lPM)
 
 * Please refer to the above document for amendments. Changes were made to the travel and lodging budgets.
 
@@ -1050,7 +1050,7 @@ table_agip67
 
 *BEGINNING*
 
-Last year, within the fireball.gg team we tried to imagine how guilds may look like in Aavegotchi. We deployed a guilds list page https://fireball.gg/guilds where players could group up and claim their spot as a guild inside the Gotchiverse!
+Last year, within the fireball.gg team we tried to imagine how guilds may look like in Aavegotchi. We deployed a guilds list page https://fireball.gg/ where players could group up and claim their spot as a guild inside the Gotchiverse!
 
 Twenty one brave guild leaders with their guilds passed through a github pull request quest and participated in this imaginary guild claim!
 

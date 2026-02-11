@@ -15,7 +15,7 @@ contributors:
 
 Note : FRENS est retiré. Utilisez des LP pour gagner du GLTR. Sur Base, passez par aavegotchi.com si l’app affiche « not functional on Base ».
 
-Le staking consiste à verrouiller votre crypto contre des récompenses. Dans Aavegotchi, le jeton natif [GHST](/posts/ghst) peut être déposé pour gagner du [GLTR](/gotchus-alchemica-exchange#gltr-token).
+Le staking consiste à verrouiller votre crypto contre des récompenses. Dans Aavegotchi, le jeton natif [GHST](/ghst) peut être déposé pour gagner du [GLTR](/gotchus-alchemica-exchange#gltr-token).
 
 <div class="contentsBox">
 

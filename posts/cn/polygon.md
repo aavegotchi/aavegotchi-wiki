@@ -57,7 +57,7 @@ Chain ID: 137
 
 货币符号(可选)：MATIC
 
-Block Explorer URL (optional): https://explorer.matic.network/
+Block Explorer URL (optional): https://polygonscan.com/
 
 一旦你添加了一切，你可以点击“保存”。
 

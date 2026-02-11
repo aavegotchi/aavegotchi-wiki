@@ -41,7 +41,7 @@ Le 15 avril 2021, l'histoire fut écrite. Le capitaine Terence McKenna et son é
 
 ## Les Aastronautes
 
-Les Aastronautes sont une collection de **5 Aavegotchis rares** et **1 portail [rare](/portals)** qui ont été fractionalisés/affinés à travers [Unicly](https://www.unic.ly/). L'équipe est dirigée par Terence McKenna.
+Les Aastronautes sont une collection de **5 Aavegotchis rares** et **1 portail [rare](/portals)** qui ont été fractionalisés/affinés à travers [Unicly](https://web.archive.org/web/*/https://www.unic.ly/). L'équipe est dirigée par Terence McKenna.
 
 Les Aastronautes participent au [Rarity Farming](/rarity-farming) et recevront également des récompenses de ce dernier. Malheureusement, comme personne ne s'occupe de ces Gotchis, leur niveau de [Kinship](/traits#kinship) est en baisse. Dans le futur, un opérateur chargé de s'occuper d'eux pourra leur être assigné.
 
@@ -91,7 +91,7 @@ Le jeton uGOTCHI permet aux détenteurs de jetons d'avoir la propriété directe
 
 Le jeton uGOTCHI est un bon moyen d'investir pour les personnes souhaitant avoir une exposition aux Gotchis rares. Pour ceux qui n'ont pas le temps de posséder et de s'occuper d'un Gotchi, le jeton uGOTCHI est un moyen passif d'investir dans un très bon ensemble d'Aavegotchis en vue de l'appréciation possible du prix. Bien sûr, à chaque investissement, il y a aussi un risque de perte.
 
-Cliquez [ici](https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) pour voir la collection uGOTCHI sur Unicly.
+Cliquez [ici](https://web.archive.org/web/*/https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) pour voir la collection uGOTCHI sur Unicly.
 
 ## Valorisation
 

@@ -407,7 +407,7 @@ Giải pháp này giúp tăng chỉ số một cách nhanh chóng chỉ trong m�
 
 * **Sự tích hợp này sẽ diễn ra vào lúc Rarity Farming Mùa 2 bắt đầu.** Một trong những mục đích của cơ chế trưởng thành là mang đến một bước đệm cho hiệu ứng của phương sai số liệu một khi thế hệ haunt mới được công bố. Để Haunt 1 có thể trải nghiệm xem việc này có mang lại tác dụng gì không thì nó cần phải được triển khai càng sớm càng tốt, bởi vào giữa màu 2, các gotchi H2 đều gần như sẽ đuổi kịp chỉ số cộng thêm của H1, và cách biệt chỉ 1 2 điểm BRS mà thôi.
 
-Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi. medium. com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
+Chi tiết về bản AGIP này có thể được tìm thấy tại [đây](https://aavegotchi.medium.com/agip13-should-aavegotchi-introduce-an-aging-boost-5ee12e8c9f0)
 
 Phương án 1: Vâng, tích hợp cơ chế trưởng thành
 
@@ -438,7 +438,7 @@ Bọn mình khuyến nghị rằng tỷ lệ FRENS xác định được trả c
 
 Gần đây, phần lớn thành khoản dành cho GHST đều nằm ở Quickswap.
 
-Hãy xem qua [https://frens-taaskforce.vercel.app/](https://frens-taaskforce.vercel.app/)
+Hãy xem qua [https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/](https://web.archive.org/web/*/https://frens-taaskforce.vercel.app/)
 
 Điều này mang đến một cơ hội lớn để di chuyển một lượng thanh khoản đến cho AMM Sushiswap được sử dụng rộng rãi và giảm đi sự phụ thuộc vào Quickswap.
 
@@ -1275,7 +1275,7 @@ A brief overview of why this is good for GHST:
 
 7. More rewards for vGHST means more rewards in the hands of the Aavegotchi community
 
-None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
+None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://web.archive.org/web/*/https://www.dystopia.exchange/vote).
 
 Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
 

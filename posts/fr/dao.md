@@ -42,7 +42,7 @@ Aavegotchi suit les traces de protocoles DeFi réussis tels que Compound et Synt
 
 ## Genèse
 
-*Voir* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*Voir* [DAICO](/curve#aavegotchi-daico).
 
 La première itération du AavegotchiDAO a été lancée en tandem avec la distribution GHST sur la courbe de liaison. Les détenteurs de GHST ont eu le pouvoir de voter pour augmenter / maintenir les fonds distribués par le mécanisme de la [courbe de liaison de jetons (TBC)](/curve) réservé à Pixelcraft Studios (l'équipe derrière Aavegotchi) pour soutenir le développement. La première proposition AavegotchiDAO d'augmenter le "tapage" d'Aavegotchi DAICO à partir de 50, 00 DAI à 100 000 DAI par mois est passés avec une approbation de 99 % le 18 octobre 2020. Lorsque le moment sera venu de migrer vers AavegotchiDAO Metamorphose, les détenteurs de jetons voteront également pour effectuer la migration.
 
@@ -121,7 +121,7 @@ Je suis excité ! Alors, comment puis-je participer à l'AavegotchiDAO? Nous som
 
 * Participer aux votes AavegotchiDAO (quand ils sont disponibles!)
 
-* Les [Docs Aavegotchi](https://docs.aavegotchi.com/overview/governance) détaillent la liste des fonctions DAO que les membres peuvent appeler/utiliser afin d'implémenter les changements qui ont été votés. Par exemple, disons que asUSD a été voté comme un [type de garantie](/posts/atokens). AavegotchiDAO pourrait implémenter le changement en utilisant la fonction `addCollateralTypes()` et en spécifiant asUSD dans la fonction.
+* Les [Docs Aavegotchi](https://docs.aavegotchi.com/overview/governance) détaillent la liste des fonctions DAO que les membres peuvent appeler/utiliser afin d'implémenter les changements qui ont été votés. Par exemple, disons que asUSD a été voté comme un [type de garantie](/atokens). AavegotchiDAO pourrait implémenter le changement en utilisant la fonction `addCollateralTypes()` et en spécifiant asUSD dans la fonction.
 
 ## Forum AavegotchiDAO
 

@@ -101,7 +101,7 @@ Các lập trình viên cộng đồng của chúng ta! Hãy xem qua một vài 
 Những người bạn nghệ sĩ đa tài từ cộng đồng Gotchi. Các Aartists của bon mình đang thiết kế các trang phục Gotchi cực đẹp cho bé ma của bạn. Xem thêm tại [đây](/aartist).
 
 ### Aavegotchi
-Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn ERC-721. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/posts/wearables) được trang bị.
+Aavegotchis là những bóng ma pixel cư ngụ trên blockchain Ethereum, tồn tại dựa trên tiêu chuẩn ERC-721. Giá trị của chúng được định hình bởi độ hiếm, được tính toán thông qua nhiều yếu tố, ví dụ như những đặc tính ban đầu, lượng tài sản ký gửi được stake, và [phụ kiện](/wearables) được trang bị.
 
 ### Huy Hiệu
 Huy hiệu là những NFT ERC-1155 không thể chuyển đi được, dùng để kỷ niệm việc Gotchi của bạn tham gia vào các event đặc biệt. Một khi Huy Hiệu đã được gửi cho Gotchi của bạn, nó sẽ nằm trong Gotchi Pocket mãi mãi.
@@ -150,7 +150,7 @@ Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked w
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
 
 ### Token uGOTCHI
-uGOTCHI tokens are minted via [Unicly](https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
+uGOTCHI tokens are minted via [Unicly](https://web.archive.org/web/*/https://www.unic.ly/) and represent direct ownership of the uGOTCHI Collection. At launch, the collection is comprised of "The Aastronauts", the first five Aavegotchis to exist on Ethereum.
 
 The collection includes some of the rarest and most expensive Aavegotchis to date. Even when nakey, these Aavegotchis already boast very high rarity scores and super rare eyes (the only traits that wearables can’t even affect a little bit). But these ERC-721 Aavegotchis are not the only NFTs in the collection. Each wearable they have equipped is also an ERC-1155 NFT, many of which are extremely rare and powerful items.
 
@@ -373,7 +373,7 @@ Polygon (Formerly Matic Network) is a scaling solution for public blockchains. B
 
 To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
 
-Read more about Polygon [here](https://matic.network/).
+Read more about Polygon [here](https://polygon.technology/).
 
 ### Proof of Stake
 

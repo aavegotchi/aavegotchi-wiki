@@ -776,7 +776,7 @@ A brief overview of why this is good for GHST:
 
 6. More rewards for vGHST means more rewards in the hands of the Aavegotchi community
 
-None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://www.dystopia.exchange/vote).
+None of the other pools directly benefit GHST holders which is why only vQi-Qi is included in this SigProp (https://web.archive.org/web/*/https://www.dystopia.exchange/vote).
 
 Thank you for your support as the GotchiVault runs with the DeFi aspect of our DeFi RPG, seeks to add value to GHST, and solidifies Aavegotchi’s position as a cornerstone of Polygon DeFi and gaming.
 

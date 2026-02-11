@@ -90,13 +90,13 @@ Players can stake and earn GHST in Battle Royale Matches with up to ten players.
 
 SPIRIT FORCE ARENA can be played on either a controller or on a keyboard.
 
-The control schemes for both options could be found [here](https://dapp.aavegotchi.com/games/spirit-force-arena)
+The control schemes for both options could be found [here](https://aavegotchi.com/games)
 
 ## Download the Game
 
 SPIRIT FORCE ARENA is available on Microsoft, Apple, and Linux machines.
 
-Download the game [here](https://dapp.aavegotchi.com/games/spirit-force-arena)
+Download the game [here](https://aavegotchi.com/games)
 
 ## リンク
 

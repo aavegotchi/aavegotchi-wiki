@@ -34,7 +34,7 @@ Vale, he conseguido algunos maTokens. ¿Ahora qué?
 
 Buen trabajo fren.
 
-El siguiente paso es comprar un [portal](/portal) usando [GHST](/ghst). Los portales se pueden comprar en el Aavegotchi DApp (enlace se proporcionará al lanzamiento) o en los[Marcados secundarios](/marketplace) como Opensea. Una vez que hayas puesto las manos en un precioso portal, es hora de comenzar el proceso de invocación. Al abrir el portal, se le presentará 10 Gotchis, cada uno con un maToken o colateral requerido. Aquí es donde entra el maToken que has adquirido. ¡Añadelo al Gotchi que tiene el mismo tipo de colateral y trae a tu amigo a la vida!
+El siguiente paso es comprar un [portal](/portals) usando [GHST](/ghst). Los portales se pueden comprar en el Aavegotchi DApp (enlace se proporcionará al lanzamiento) o en los[Marcados secundarios](/marketplace) como Opensea. Una vez que hayas puesto las manos en un precioso portal, es hora de comenzar el proceso de invocación. Al abrir el portal, se le presentará 10 Gotchis, cada uno con un maToken o colateral requerido. Aquí es donde entra el maToken que has adquirido. ¡Añadelo al Gotchi que tiene el mismo tipo de colateral y trae a tu amigo a la vida!
 
 Para una explicación más detallada del proceso de apertura del portal, revisa nuestra página de [portales](/portals).
 

@@ -18,7 +18,7 @@ Note: FRENS has been sunset. Stake liquidity to earn GLTR instead via the GLTR s
 - **Current (post-FRENS):** Stake eligible liquidity positions to earn **GLTR**.
 - **Historical (FRENS era, 2022):** Staking **GHST on Polygon** earned **FRENS** (non-transferable) which could be used for raffle tickets. This is kept here for historical context and old links/citations.
 
-Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/posts/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
+Staking refers to the process of locking up your cryptocurrency in return for rewards. This is no different in the Aavegotchi project. The native token, [GHST](/ghst), can be staked in various staking contracts to earn [GAX Liquidity Token Reward (GLTR)](/gotchus-alchemica-exchange#gltr-token) rewards.
 
 ## Historical: FRENS staking (2022)
 

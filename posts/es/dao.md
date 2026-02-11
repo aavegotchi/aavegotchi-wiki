@@ -42,7 +42,7 @@ Aavegotchi follows in the footsteps of successful DeFi protocols such as Compoun
 
 ## Genesis
 
-*See* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*See* [DAICO](/curve#aavegotchi-daico).
 
 The first iteration of AavegotchiDAO was launched in tandem with the GHST token distribution event. GHST token holders had the power to vote on increasing / maintaining the funds distributed by the tap mechanism of the [token bonding curve (TBC)](/curve) reserve to Pixelcraft Studios (the team behind Aavegotchi) to support development. This initial proposal of raising the tap from 50,000 DAI to 100,000 DAI per month passed with 99% approval on 18 October 2020. When the time comes to migrate to AavegotchiDAO Metamorphosis, token holders will also vote to perform the migration.
 
@@ -121,7 +121,7 @@ I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you c
 
 * Taking part in AavegotchiDAO votes (when they are available!)
 
-* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/posts/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
+* The [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details the list of DAO functions that members can call/use in order to implement changes that have been voted in. For example, let's say that asUSD has been voted in as a [collateral type](/atokens). AavegotchiDAO could implement the change by using the `addCollateralTypes()` function and specifying asUSD within the function.
 
 ## AavegotchiDAO Forum
 

@@ -233,7 +233,7 @@ table_auctionWearablesTable
 
 ## Trang Phục Aavegotchi x Venly
 
-Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://aavegotchi. medium. com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
+Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
 
 table_venlyWearablesTable
 

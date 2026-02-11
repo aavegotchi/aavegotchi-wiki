@@ -56,7 +56,7 @@ Hãy chuẩn bị sẵn ví (nên dùng Metamask nhé) - có hai cách để mua
 * Mua GHST ngay trên [curve](/curve) ở Ethereum Mainnet (yêu cầu KYC, không may là người có quốc tịch Mỹ và Trung Quốc không thể tham gia)
 * Mua từ những sàn giao dịch phi tập trung trên Ethereum Mainnet như [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) và [ Matcha](https://matcha.xyz/markets/GHST)
 * Mua từ những Sàn giao dịch Phi tập trung trên Polygon như [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
-* Mua từ những Sàn giao dịch Tập trung như [Okex](https://www.okex.com/spot/trade/ghst-eth#type=1) và [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
+* Mua từ những Sàn giao dịch Tập trung như [Okex](https://www.okx.com/trade-spot/ghst-usdt) và [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
 
 Hãy nhớ kiểm tra kỹ địa chỉ của token nữa nhé.
 

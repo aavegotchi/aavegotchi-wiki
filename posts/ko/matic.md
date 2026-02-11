@@ -54,7 +54,7 @@ Chain ID: 137
 
 Currency Symbol (optional): MATIC
 
-Block Explorer URL (optional): https://explorer.matic.network/
+Block Explorer URL (optional): https://polygonscan.com/
 
 Once you’ve added everything, you can click on “Save”.
 
@@ -65,7 +65,7 @@ Alright you got Metamask set up and are ready to dive right in. But before you n
 
 So for everyone who wants to transfer different assets, such as ETH or USDC, here’s how you do it:
 
-1). Head over to [https://wallet.matic.network/](https://wallet.matic.network/) and login with Metamask. Make sure you’re in the “Wallet” tab, it should look something like this:
+1). Head over to [https://portal.polygon.technology/](https://portal.polygon.technology/) and login with Metamask. Make sure you’re in the “Wallet” tab, it should look something like this:
 
 <img class = "bodyImage" src = "/matic/matic-wallet.png" alt = "Matic Wallet" />
 

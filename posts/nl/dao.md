@@ -42,7 +42,7 @@ Aavegotchi volgt in de voetstappen van succesvolle DeFi protocollen zoals Compou
 
 ## Genesis
 
-*Zie* [DAICO](https://wiki.aavegotchi.com/curve/#aavegotchi-daico).
+*Zie* [DAICO](/curve#aavegotchi-daico).
 
 De eerste versie van AavegotchiDAO lanceerde in combinatie met de GHST token distributie. GHST token houders hebben de macht gehad om te stemmen over het verhogen / onderhouden van de fondsen verdeeld door het kraanmechanisme van de [token bonding curve (TBC)](/curve) reserve aan Pixelcraft Studios (het team achter Aavegotchi) ter ondersteuning van de ontwikkeling. Dit oorspronkelijke voorstel om de kraan te verhogen van 50.000 DAI naar 100.000 DAI per maand werd op 18 oktober 2020 met 99 procent goedgekeurd. Wanneer het tijd is om te migreren naar AavegotchiDAO Metamorphose, zullen tokenhouders ook stemmen om de migratie uit te voeren.
 
@@ -121,7 +121,7 @@ Ik ben wakker! Dus hoe neem ik deel aan de AavegotchiDAO? Wij staan voor je klaa
 
 * Deelnemen aan de stemming in AavegotchiDAO (wanneer ze beschikbaar zijn!)
 
-* De [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details over de lijst van DAO functies die leden kunnen aanroepen en gebruiken om wijzigingen waar gestemd is uit te voeren. Laten we bijvoorbeeld zeggen dat asUSD is gestemd als een [onderpand](/posts/atokens). AavegotchiDAO zou de wijziging kunnen implementeren door gebruik te maken van de functie `addCollateralTypes()` en het specificeren van asUSD binnen de functie.
+* De [Aavegotchi Docs](https://docs.aavegotchi.com/overview/governance) details over de lijst van DAO functies die leden kunnen aanroepen en gebruiken om wijzigingen waar gestemd is uit te voeren. Laten we bijvoorbeeld zeggen dat asUSD is gestemd als een [onderpand](/atokens). AavegotchiDAO zou de wijziging kunnen implementeren door gebruik te maken van de functie `addCollateralTypes()` en het specificeren van asUSD binnen de functie.
 
 ## AavegotchiDAO Forum
 
