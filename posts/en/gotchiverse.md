@@ -13,6 +13,8 @@ contributors: ["eris771", "unintelligent-nerd"]
 
 Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens. 
 
+> **Note:** Aavegotchi [migrated to Base](/base-migration) in July 2025. The Gotchiverse is transitioning to Base. REALM parcel migration status is tracked on the [Base Migration](/base-migration) page.
+
 The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the lickquidators, their creators.
 
 <a name="Realm"></a>
@@ -85,7 +87,7 @@ Guilds generally organize themselves in districts. Check out the [Guild page](/g
 
 <img src="/gotchiverse/gotchiverse-map-with-districts.png" alt="Aavegotchi Districts">
 
-Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
+Browse the REALM here at [verse.aavegotchi.com](https://verse.aavegotchi.com).
 
 ## REALM Parcel Sizes
 
