@@ -883,7 +883,7 @@ At the time of this writing, AavegotchiDAO treasury holds roughly:
 * 3.5 Million GHST
 
 * 3 Million Alchemica
-(Live source here: [AavegotchiDAO Treasury Balance](https://aavegotchi.com))
+(Live source here: [AavegotchiDAO Treasury Balance](https://app.aavegotchi.com/treasury))
 
 Pixelcraft Studios, on the other hand, is heavily skewed toward GHST with over 6.7 Million GHST in our primary revenue wallet while our only DAI is coming from [the curve’s monthly 150k DAI faucet](https://aavegotchi.medium.com/vote-before-you-move-to-matic-stop-over-at-aavegotchidao-cb394134f357), 50k of which is already earmarked for GHST purchases.
 

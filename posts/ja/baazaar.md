@@ -61,7 +61,7 @@ AavegotchiマーケットはAavegotchiの公式セカンダリーマーケット
 
 詳細については[こちら](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
 
-Aavegotchiバザールは [こちら](https://aavegotchi.com) をご覧ください。
+Aavegotchiバザールは [こちら](https://app.aavegotchi.com/baazaar) をご覧ください。
 
 ## 機能
 マーケットには、さまざまな商品がリストされています。

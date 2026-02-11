@@ -61,7 +61,7 @@ Baazaar — вторичный рынок на Aavegotchi. Здесь можно
 
 Дополнительную информацию ищите [тут](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f).
 
-The Aavegotchi Baazaar can be found [here](https://aavegotchi.com).
+The Aavegotchi Baazaar can be found [here](https://app.aavegotchi.com/baazaar).
 
 ## Фичи
 На рынке можно найти все, что душе угодно:

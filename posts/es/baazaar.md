@@ -61,7 +61,7 @@ Los compradores pueden comprar 1, algunos o todos los artículos de una lista m�
 
 Lee esta [publicación](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) para más información.
 
-El Baazaar de Aavegotchi se puede encontrar [aquí](https://aavegotchi.com).
+El Baazaar de Aavegotchi se puede encontrar [aquí](https://app.aavegotchi.com/baazaar).
 
 ## Funcionalidades
 Hay una variedad de productos listados en el Baazaar:
