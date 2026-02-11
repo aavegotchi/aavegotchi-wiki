@@ -80,4 +80,5 @@ Aavegotchi was created by **Pixelcraft Studios**, a Singapore-based game develop
 It is **not** affiliated with or created by the Aave Protocol team. While Aavegotchi
 integrates Aave's lending protocol (using aTokens as collateral), it is an independent
 project with separate governance, development, and treasury. The project is now governed
-by [AavegotchiDAO](/dao).
+by [AavegotchiDAO](/dao). Aavegotchi was initially funded by a grant from **AaveDAO**,
+which is the origin of the "Aave" in the name.
