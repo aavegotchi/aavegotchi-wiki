@@ -72,7 +72,7 @@ Its features include:
 * GHST token based governance
 * Platform: Snapshot/Discourse
 * Rewards: [XP](/traits#experience) for Core Votes
-* Layer: Polygon
+* Layer: Polygon (now Base - [migrated 2025-07-25](/base-migration))
 
 There are 2 types of voting in the Cocoon stage: (1) Signal Proposal, and (2) Core Proposal.
 
@@ -101,7 +101,7 @@ Its features include:
 * Aavegotchi + GHST governance
 * Platform: Custom dapp front-end
 * Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Layer: Polygon (now Base - [migrated 2025-07-25](/base-migration))
 
 ## Oasis
 
@@ -116,7 +116,7 @@ Its features include:
 * Aavegotchi + GHST governance
 * Platform: Aavegotchi Realm
 * Rewards: [XP](/traits#experience) + badges for voting
-* Layer: Polygon
+* Layer: Base ([migrated 2025-07-25](/base-migration))
 
 ## Participating in Governance
 I'm psyched up! So how do I participate in the AavegotchiDAO? Fren, we got you covered! 
