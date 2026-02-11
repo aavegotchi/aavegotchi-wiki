@@ -199,7 +199,7 @@ Cost: Variable. Depends on the rarity of the Gotchi, whether it comes with weara
 
 ### Can I start playing for free?
 
-Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain [Gotchi Lending](/gotchi-lending) program. Head to [app.aavegotchi.com/lending](https://aavegotchi.com/lending) to browse the Lending listings now.
+Yes! You can borrow an Aavegotchi and play for free thanks to our 100% on-chain [Gotchi Lending](/gotchi-lending) program. Head to [aavegotchi.com/lending](https://aavegotchi.com/lending) to browse the Lending listings now.
 
 ### How can I earn money?
 
@@ -533,7 +533,7 @@ However, you can also extend the agreement by simply not concluding it. The agre
 
 For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
 
-After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
+After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://aavegotchi.com/whitelists).
 
 ## Aambassador FAQ
 

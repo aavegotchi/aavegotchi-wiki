@@ -199,7 +199,7 @@ Kost: Variabel. Afhankelijk van de zeldzaamheid van de Gotchi, of het komt met w
 
 ### Kan ik gratis beginnen?
 
-Ja! Je kunt een Aavegotchi lenen en gratis spelen dankzij ons 100% on-chain [Gotchi Lending](/gotchi-lending) programma. Ga naar [app.aavegotchi.com/lending](https://aavegotchi.com/lending) om nu door de Lending listing te bladeren.
+Ja! Je kunt een Aavegotchi lenen en gratis spelen dankzij ons 100% on-chain [Gotchi Lending](/gotchi-lending) programma. Ga naar [aavegotchi.com/lending](https://aavegotchi.com/lending) om nu door de Lending listing te bladeren.
 
 ### Hoe kan ik geld verdienen?
 
@@ -533,7 +533,7 @@ However, you can also extend the agreement by simply not concluding it. The agre
 
 For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
 
-After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
+After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://aavegotchi.com/whitelists).
 
 ## Aambassador FAQ
 

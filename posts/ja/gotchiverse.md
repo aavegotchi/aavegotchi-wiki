@@ -279,7 +279,7 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 ### REALM Parcel Access Rights
 
-REALM Owners can toggle the access rights to their REALM Parcels at the [My REALM Parcels page](https://app.aavegotchi.com/my-realm).
+REALM Owners can toggle the access rights to their REALM Parcels at the [My REALM Parcels page](https://aavegotchi.com/my-realm).
 
 <img class="bodyImage" src="/gotchiverse/realm-access-rights.png" alt="Aavegotchi REALM Parcels Access Rights" />
 

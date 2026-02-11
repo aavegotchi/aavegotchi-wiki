@@ -199,7 +199,7 @@ Aavegotchiを入手するには、いくつかの方法があります：
 
 ### 無料でプレイを始めることはできますか？
 
-はい！ Aavegotchiを借りて、100％オンチェーンの[ゴッチ・レンディング](/gotchi-lending)・プログラムのおかげで無料で遊ぶことができます。 [app.aavegotchi.com/lending](https://aavegotchi.com/lending)にアクセスし、今すぐ貸出リストを閲覧してみてください。
+はい！ Aavegotchiを借りて、100％オンチェーンの[ゴッチ・レンディング](/gotchi-lending)・プログラムのおかげで無料で遊ぶことができます。 [aavegotchi.com/lending](https://aavegotchi.com/lending)にアクセスし、今すぐ貸出リストを閲覧してみてください。
 
 ### どうすればお金を稼ぐことができますか？
 
@@ -533,7 +533,7 @@ However, you can also extend the agreement by simply not concluding it. The agre
 
 For Gotchi Lending, the Whitelist field does not accept wallet addresses. It accepts the Whitelist ID.
 
-After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://app.aavegotchi.com/whitelists).
+After you have created a Whitelist, the Whitelist ID can be found in the [whitelists page](https://aavegotchi.com/whitelists).
 
 ## Aambassador FAQ
 

@@ -51,7 +51,7 @@ Lenders kunnen selecteren welke tokens ze moeten delen met kredietnemers. Dit be
 
 Daarnaast omvatten de opties voor token delen nu GHST naast de vier soorten Gotchus Alchemica. Dit is met name belangrijk in het seizoen van de Rarity Farming, omdat kredietverstrekkers zullen kunnen bepalen wat ze zullen krijgen, als die er zijn, deel van het GHST-saldo van een Aavegotchi willen ze delen.
 
-De lender zou ook een whitelist ID kunnen specificeren die de adressen bevat die in aanmerking komen om Gotchi te lenen. Je kunt je whitelist ID vinden op de [whitelist pagina](https://app.aavegotchi.com/whitelists).
+De lender zou ook een whitelist ID kunnen specificeren die de adressen bevat die in aanmerking komen om Gotchi te lenen. Je kunt je whitelist ID vinden op de [whitelist pagina](https://aavegotchi.com/whitelists).
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png" />
 
@@ -69,7 +69,7 @@ Tot slot beoordeelt de kredietgever de voorwaarden nog een keer en creëert hij 
 
 **Bonus stap:**
 
-Kredietgevers zullen ook de mogelijkheid hebben om [whitelisten](https://app.aavegotchi.com/whitelists)te creëren en hun Aavegotchis alleen beschikbaar te maken voor een exclusieve groep kredietnemers. Deze functie is perfect voor guilds die ervoor willen zorgen dat hun Aavegotchi NFT's in de handen van leden van hun guild komen.
+Kredietgevers zullen ook de mogelijkheid hebben om [whitelisten](https://aavegotchi.com/whitelists)te creëren en hun Aavegotchis alleen beschikbaar te maken voor een exclusieve groep kredietnemers. Deze functie is perfect voor guilds die ervoor willen zorgen dat hun Aavegotchi NFT's in de handen van leden van hun guild komen.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png" />
 
