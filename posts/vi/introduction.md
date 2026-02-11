@@ -61,7 +61,7 @@ Mối quan hệ giữa Collateral stake, Traits, Wearables, và Kinship được
 
 ## Giá trị của Aavegotchi
 
-Việc đánh giá Aavegotchi đến từ giá trị nội tại và độ hiếm của nó.
+The valuation of an Aavegotchi comes from both its intrinsic value and from its rarity value.
 
 * **Giá trị nội tại** Giá trị nội tại là giá trị được định giá bằng lượng tiền ký quỹ stake trong Aavegotchi. Nếu Aavegotchi được stake với 10 aDAI, thì giá trị nội tại sẽ là khoản 10 aDAI, cộng thêm bất kỳ aDAI phát sinh nào có được từ Lending Pool. Ban đầu, chỉ những token [ERC20](/glossary#erc-20) được liệt kê trên nền tảng Aave (aToken) sẽ được dùng để ký quỹ. Tuy nhiên, một khi AavegotchiDAO được triển khai, cộng đồng sẽ có thể vote xem những loại tiền ký quỹ nào sẽ được cho phép. 
 

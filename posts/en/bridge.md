@@ -39,7 +39,9 @@ To facilitate the transfer of assets, Pixelcraft studios created the Aavegotchi 
 ## Aavegotchi Bridge
 
 
-The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Historically it supported transfers between Ethereum and Polygon. As of 2024-2025, Aavegotchi has migrated to Base; for GHST to Base, use the canonical Ethereum↔Base bridge or fast bridges.
+The Aavegotchi Bridge is the official bridge created by Pixelcraft Studios. Historically it supported transfers between Ethereum and Polygon. As of 2024-2025, Aavegotchi’s canonical home migrated to Base; for GHST to Base, use the canonical Ethereum↔Base bridge or reputable fast bridges.
+
+Sources: [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/); [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge">
 
@@ -121,7 +123,9 @@ For GHST on Base:
 - Canonical bridge (Ethereum↔Base): Superbridge
 - Fast bridges (Polygon↔Base): Bungee, Jumper (availability subject to providers)
 
-Refer to the official blog post “GHST Token Is Now Live on Base” for current guidance.
+Reference (historical): [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/).
+
+Note: specific bridge availability changes over time; keep this section high-level and treat provider lists as time-bound.
 
 ## Centralized Bridges
 
@@ -154,5 +158,9 @@ Crypto.com is a mobile app wallet. They enable withdrawals of MATIC and USDC to 
 Binance is one of the largest cryptocurrency exchanges in the world.
 
 As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly on Polygon](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/).
+
+**Exchange availability can change over time.** On 3 February 2026, Binance announced it will [delist GHST spot and perpetual contracts on 2026-02-13 03:00 UTC](https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27).
+
+For the most up-to-date list of venues, see the GHST “Markets” tab on CoinGecko: https://www.coingecko.com/en/coins/aavegotchi#markets
 
 <img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="GHST withdrawal from Binance to Polygon">

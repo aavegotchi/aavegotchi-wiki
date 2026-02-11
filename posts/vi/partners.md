@@ -23,10 +23,9 @@ Aavegotchi là một dự án thân thiện. Hãy cùng làm quen những ngư�
 <p><a href=#polygon>Polygon</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 <p><a href=#cometh>Cometh</a></p>
-<p><a href=#dinoswap>DinoSwap</a></p>
 <p><a href=#unicly>Unicly</a></p>
 <p><a href=#venly>Venly</a></p>
-<p><a href=#gbm-auction>Đấu Giá GBM</a></p>
+<p><a href=#gbm-auction>GBM Auction</a></p>
 <p><a href=#rarible>Rarible</a></p>
 <p><a href=#yield-guild-games>Yield Guild Games</a></p>
 <p><a href=#blackpool>BlackPool</a></p>
@@ -34,6 +33,18 @@ Aavegotchi là một dự án thân thiện. Hãy cùng làm quen những ngư�
 <p><a href=#mao-dao>Mao DAO</a></p>
 <p><a href=#router-protocol>Router Protocol</a></p>
 <p><a href=#mandala-metaverse>Mandala Metaverse</a></p>
+<p><a href=#magic-eden>Magic Eden</a></p>
+<p><a href=#oneplanet>OnePlanet</a></p>
+<p><a href=#gameswift>GameSwift</a></p>
+<p><a href=#carv>CARV</a></p>
+<p><a href=#helika-analytics>Helika Analytics</a></p>
+<p><a href=#metacade>Metacade</a></p>
+<p><a href=#1kin-labs>1Kin Labs</a></p>
+<p><a href=#nitro-league>Nitro League</a></p>
+<p><a href=#base>Base</a></p>
+<p><a href=#dogami>Dogami</a></p>
+<p><a href=#aerodrome>Aerodrome</a></p>
+<p><a href=#hyperplay>HyperPlay</a></p>
 </ol>
 
 </div>
@@ -109,17 +120,6 @@ Cometh là một trò chơi mà trong đó người chơi tiến hành đào nh�
 
 Hệ sinh thái của Cometh tận dụng DeFi trên Ethereum theo một cách thú vị và truyền thống để cho phép người chơi thu thập, giao dịch, và kiếm token từ các giao thức ERC-20, và cũng như những NFT độc quyền trong Metaverse của Cometh.
 
-### DinoSwap
-
-<div class="leftImageContainer">
-<img class="leftImage" src="/partners/dinoswap.jpg" alt = "DinoSwap">
-<p class="leftImageText"><a href="https://twitter.com/DinoSwapHQ" target="_blank">DinoSwap</a></p>
-</div>
-
-DinoSwap là một dự án nền tảng crosschain, xây dựng thanh khoản cho những blockchain layer 1, AMM và các dự án đối tác. Được triển khai trên Polygon, các farmer sẽ có cơ hội để kiếm DINO và token của các dự án khác.
-
-DinoSwap mang đến những giao dịch tốc độ và phí giao dịch cực thấp nhờ có Polygon.
-
 ### Unicly
 
 <div class="leftImageContainer">
@@ -127,7 +127,7 @@ DinoSwap mang đến những giao dịch tốc độ và phí giao dịch cực 
 <p class="leftImageText"><a href="https://twitter.com/uniclyNFT" target="_blank">Unicly</a></p>
 </div>
 
-Unicly là một giao thức mở, được quản trị bởi cộng đồng để kết hợp, phân mảnh, và giao dịch NFT. Được xây dựng bởi những người đam mê sưu tập NFT và DeFi, giao thức này khuyến khích thanh khoản NFT và mang đến trải nghiệm giao dịch tài sản NFT cực thỏa mãn bằng cách kết nối AMM và yield farm đến cho thế giới NFT.
+Unicly is a permissionless, community-governed protocol to combine, fractionalize, and trade NFTs. Built by NFT collectors and DeFi enthusiasts, the protocol incentivizes NFT liquidity and provides a seamless trading experience for NFT assets by bringing AMMs and yield farming into the world of NFTs.
 
 ### Venly
 
@@ -136,16 +136,16 @@ Unicly là một giao thức mở, được quản trị bởi cộng đồng đ
 <p class="leftImageText"><a href="https://twitter.com/Venly_io" target="_blank">Venly</a></p>
 </div>
 
-Các sản phẩm ví & NFT giúp tích hợp hoàn hảo với các dự án blockchain của bạn.
+Wallet & NFT products that seamlessly integrate with your blockchain project.
 
-### Đấu Giá GBM
+### GBM Auction
 
 <div class="leftImageContainer">
-<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "Đấu Giá GBM">
-<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">Đấu Giá GBM</a></p>
+<img class="leftImage" src="/partners/gbm-auction.jpg" alt = "GBM Auction">
+<p class="leftImageText"><a href="https://twitter.com/GBMauction" target="_blank">GBM Auction</a></p>
 </div>
 
-GBM™ là hệ thống đấu giá mà trong đó người đấu giá sẽ kiếm tiền khi bị người khác đặt giá cao hơn.
+GBM™ is a proprietary auction system where bidders make money when they are outbid.
 
 ### Rarible
 
@@ -154,7 +154,7 @@ GBM™ là hệ thống đấu giá mà trong đó người đấu giá sẽ ki�
 <p class="leftImageText"><a href="https://twitter.com/rarible" target="_blank">Rarible</a></p>
 </div>
 
-Sàn giao dịch NFT đầu tiên được quản trị bởi cộng đồng. Tạo, bán và sưu tập vật phẩm an toàn với công nghệ blockchain.
+The first community-owned NFT marketplace. Create, sell or collect digital items secured with blockchain.
 
 ### Yield Guild Games
 
@@ -163,7 +163,7 @@ Sàn giao dịch NFT đầu tiên được quản trị bởi cộng đồng. T�
 <p class="leftImageText"><a href="https://twitter.com/YieldGuild" target="_blank">Yield Guild Games</a></p>
 </div>
 
-Yield Guild Games (YGG) là một guild Play-To-Earn mang người chơi đến cùng nhau để kiếm tiền thông qua các game NFT. Chúng tôi là những cư dân của Metaverse.
+Yield Guild Games (YGG) is a Play-To-Earn guild that brings players together to earn via NFT games. We are the settlers of the Metaverse.
 
 ### BlackPool
 
@@ -172,13 +172,13 @@ Yield Guild Games (YGG) là một guild Play-To-Earn mang người chơi đến 
 <p class="leftImageText"><a href="https://twitter.com/BlackpoolHQ" target="_blank">BlackPool</a></p>
 </div>
 
-Blackpool là một quỹ mới được vận hành trong ngành công nghiệp NFT: quản lý hàng loạt tài sản từ thẻ bài thể thao đến những vật phẩm nghệ thuật kỹ thuật số.
+BlackPool is a new fund operating within the NFT industry: managing a range of assets from sports cards to game items to digital art.
 
-Blackpool là DAO đầu tiên được xây dựng riêng cho NFT gaming và trading. Chiến thuật của chúng tôi sẽ dựa trên nguồn cảm hứng lâu dài cho gaming và art, do chúng tôi kết hợp những hoạt động phân tích tính dữ liệu chuyên nghiệp và máy học để có thể cung cấp kết quả tốt nhất cho người dùng.
+BlackPool is the first decentralised autonomous organisation (DAO) built solely for NFT gaming and trading. Our strategies will be based on our long-term passion for gaming and art, as we combine professional data analytics and machine learning to provide the best returns for our users.
 
-Chúng tôi sẽ dẫn đầu trong việc cung cấp các công cụ phái sinh tài chính cho các thị trường kỹ thuật số, bằng cách cung cấp các dịch vụ như chỉ số định giá tài sản, cho thuê, cơ chế bảo hiểm, v. v.
+We will lead the way in providing financial derivatives to digital marketplaces, by offering services such as asset valuation indices, leasing, insurance mechanisms, and more.
 
-BlockPool có niềm tin vững chắc vào giá trị lâu dài của những tài sản kỹ thuật số quý hiếm, và hiểu được cấp độ cao trong sự đặc thù của mỗi nền tảng NFT cần có, để có thể tối ưu hóa việc tạo ra giá trị. Do đó, chúng tôi luôn tìm kiếm những chuyên gia để có thể cải thiện hiệu suất của mỗi nền tảng.
+BlackPool firmly believes in the long term value of scarce digital assets, and understand that a high level of specialisation in each NFT platform is required to maximise value creation. Therefore, we will always seek to employ expertise to improve our performance on each platform.
 
 ### Flamingo DAO
 
@@ -187,7 +187,7 @@ BlockPool có niềm tin vững chắc vào giá trị lâu dài của những t
 <p class="leftImageText"><a href="https://twitter.com/FLAMINGODAO" target="_blank">Flamingo DAO</a></p>
 </div>
 
-Một DAO tập trung vào NFT, mong muốn khám phá những cơ hội đầu tư vào những tài sản có thể sở hữu được trên blockchain. NFT không chỉ là những bức tranh mèo. Chúng truyền cảm hứng cho nghệ thuật kỹ thuật số, vật sưu tập, và những tài sản trong game, cũng như những tài sản hữu hình khác. Những dạng tài sản kỹ thuật số mới này sẽ đóng vai trò quan trọng trong việc tạo, kiếm tiền và khuyến khích các nội dung số.
+An NFT-focused DAO that aims to explore emerging investment opportunities for ownable, blockchain-based assets. NFTs are not just cat pictures. They encompass digital art, collectibles, and in-game assets and other tangible assets. These new forms of digital property are poised to play an increasing role in helping to create, monetize, and incentivize online digital content.
 
 ### Mao DAO
 
@@ -196,7 +196,7 @@ Một DAO tập trung vào NFT, mong muốn khám phá những cơ hội đầu 
 <p class="leftImageText"><a href="https://twitter.com/maodaonft" target="_blank">Mao DAO</a></p>
 </div>
 
-MAO DAO là một dạng DAO gaming mới, hướng tới việc dẫn đầu trong quá trình hình thành nên giới p2e tại Châu Á. Họ đã tiếp nhận hàng trăm người chơi cho những trò chơi khác nhau, đầu tiên là Axie Infinity. Hiện tại, họ đã quyết định triển khai NFT Ready Player Cat, đại diện cho tư cách thành viên của DAO, một phần của quyền quản trị.
+MAO DAO is a new type of gaming DAO aiming to take the lead in shaping the play-to-earn space in Asia. They have onboarded hundreds of players into different existing games, being the first one Axie Infinity. For now, they decided to launch our Ready Player Cat NFTs which represent DAO's membership, part of governance rights.
 
 ### Router Protocol
 
@@ -215,3 +215,117 @@ Router Protocol is a modular infrastructure layer enabling blockchains to commun
 </div>
 
 Mandala is a cross-media story utilizing avatar NFTs in a geo-location AR mobile game + AAA Unreal Engine MMORPG, TV series, and graphic novel (Dark Horse).
+
+### Magic Eden
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/magic-eden.jpg" alt="Magic Eden">
+<p class="leftImageText"><a href="https://twitter.com/MagicEden" target="_blank">Magic Eden</a></p>
+</div>
+
+Magic Eden is the leading cross-chain NFT platform driving the next billion users to web3. Led by former crypto, tech, and hospitality leaders, Magic Eden is building a user-friendly platform powered by market-leading minting and trading solutions. Magic Eden brings dynamic cultural moments onto the blockchain, empowering users across thousands of digital communities to create, discover and collect unique NFTs.
+
+### OnePlanet
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/oneplanet.jpg" alt="OnePlanet">
+<p class="leftImageText"><a href="https://twitter.com/OnePlanet_NFT" target="_blank">OnePlanet</a></p>
+</div>
+
+OnePlanet is a Polygon-dedicated NFT launchpad and marketplace, offering a diverse range of NFT experiences for both creators and the community. Their comprehensive launchpad services and add-on utilities empower creators to bring their NFTs to life and monetize their work. Meanwhile, users can explore, evaluate, and interact with their NFTs in exciting new ways.
+
+### GameSwift
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/gameswift.jpg" alt="GameSwift">
+<p class="leftImageText"><a href="https://twitter.com/GameSwift_io" target="_blank">GameSwift</a></p>
+</div>
+
+GameSwift is a zkEVM modular blockchain for games that harnesses the shared security of its L1 infrastructure and provides the opportunity to scale and maximize revenue, thanks to zkEVM roll-ups.
+
+### CARV
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/carv.png" alt="CARV">
+<p class="leftImageText"><a href="https://twitter.com/carv_official" target="_blank">CARV</a></p>
+</div>
+
+CARV is building a credential and data infrastructure focused on gaming, enabling gamers with data sovereignty and games with intelligence.
+
+With consumer facing gaming hub and studio facing CRM products, CARV enable gamers with seamless credential-based gaming experiences, and empowering games with data-driven growth & intelligence, starting with web3.
+
+The name CARV is derived from the verb "carve", which means to cut or shape something by removing material. The word "carve" has a strong association with craftsmanship, precision, and attention to detail, and so are we.
+
+### Helika Analytics
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/helika-analytics.png" alt="Helika Analytics">
+<p class="leftImageText"><a href="https://twitter.com/HelikaAnalytics" target="_blank">Helika Analytics</a></p>
+</div>
+
+Helika helps gaming studios make strategic decisions with no-code analytics.
+
+### Metacade
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/metacade.jpg" alt="Metacade">
+<p class="leftImageText"><a href="https://twitter.com/Metacade_" target="_blank">Metacade</a></p>
+</div>
+
+The premier gaming platform that empowers developers and players, providing unparalleled opportunities for growth and collaboration.
+
+Our Mission: To supercharge, reward and connect developers and players, providing an unfair advantage through plug-and-play community initiatives and testing, early access, dev-player collaboration, financial rewards, gigs, accolades and a thriving ecosystem, all in a seamless, enjoyable platform.
+
+### 1Kin Labs
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/1kin-labs.jpg" alt="1Kin Labs">
+<p class="leftImageText"><a href="https://twitter.com/1KinLabs" target="_blank">1Kin Labs</a></p>
+</div>
+
+1KIN is building the next generation platform for gamers to discover and connect with the world’s best community driven games. The 1KIN platform facilitates the discovery, distribution and true digital ownership of gaming assets with cutting edge technology.
+
+### Nitro League
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/nitro-league.jpg" alt="Nitro League">
+<p class="leftImageText"><a href="https://twitter.com/nitroleaguegame" target="_blank">Nitro League</a></p>
+</div>
+
+Nitro League is a racing metaverse that's perfect for both hardcore gamers and casual players alike. This immersive world combines the best of Game-Fi to create an unforgettable gaming experience.
+
+### Base
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/base.jpg" alt="Base">
+<p class="leftImageText"><a href="https://twitter.com/base" target="_blank">Base</a></p>
+</div>
+
+Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next billion users onchain. Base is powered by Optimism's OP Stack, making it one of the most secure, scalable EVM L2s out there. The OP Stack is an open-source public good that will serve as the foundation for a “superchain” of L2s that share interoperability, sequencing, and governance.
+
+### Dogami
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/dogami.jpg" alt="Dogami">
+<p class="leftImageText"><a href="https://twitter.com/Dogami" target="_blank">Dogami</a></p>
+</div>
+
+DOGAMI is an entertainment 3.0 company backed by renowned names in both the gaming and blockchain industry. Adopt your own Dogamí, Compete against the best and Earn $DOGA. The Web3 Mobile Game Backed by Ubisoft & AnimocaBrands.
+
+### Aerodrome
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/aerodrome.jpg" alt="Aerodrome">
+<p class="leftImageText"><a href="https://twitter.com/aerodromefi" target="_blank">Aerodrome</a></p>
+</div>
+
+Aerodrome Finance is a next-generation AMM designed to serve as Base's central liquidity hub, combining a powerful liquidity incentive engine, vote-lock governance model, and friendly user experience. Aerodrome inherits the latest features from Velodrome V2. Aerodrome NFTs vote to distribute token emissions and receive incentives and fees generated by the protocol.
+
+### HyperPlay
+
+<div class="leftImageContainer">
+<img class="leftImage" src="/partners/hyperplay.jpg" alt="HyperPlay">
+<p class="leftImageText"><a href="https://x.com/HyperPlayGaming" target="_blank">HyperPlay</a></p>
+</div>
+
+HyperPlay is the game store from the future where players discover great games, and developers find a censorship-resistant and developer-loyal distribution platform. 

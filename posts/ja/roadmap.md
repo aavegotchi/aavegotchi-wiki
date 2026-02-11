@@ -23,6 +23,7 @@ contributors:
 <li><a href=#incubation>インキュベーション</a></li>
 <li><a href=#breakout>ブレイクアウト</a></li>
 <li><a href=#ubiquitous>ユビキタス</a></li>
+<li><a href=#gotchiverse-roadmap>Gotchiverse Roadmap</a></li>
 </ol>
 
 </div>
@@ -86,17 +87,88 @@ contributors:
 * その他のハウント（予定）
 * AavegotchiDAO V3(オアシス)
 
+### Year 2023-Specific Roadmap
+
+* Launching the AavegotchiDAO Foundation
+* Implementing On-chain Smart Contract Execution
+* Decentralizing our Workflow
+* Turning off the GHST Bonding Curve *(Pending DAO vote)*
+* Launch of Gotchichain – A blockchain for all things Aavegotchi
+* Gotchi in 3D
+
+For more details concerning the Year 2023 Roadmap, check out this [blog post](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
+
 ## ユビキタス
 
-<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchiロードマップ・フェーズ3：ユビキタス" />
+<img class = "bodyImage" src = "/roadmap/phase-3-ubiquitous.png" alt = "Aavegotchi Roadmap Phase 3: Ubiquitous" />
 
-ユビキタスは、私たちの数年にわたる旅の最終段階です。 2024年第1四半期からその先まで続きます！
+Ubiquitous is the final phase of our multi-year journey. It spans from Q1 2024 to beyond!
 
-このフェーズの戦略：*Aavegotchiのビジョンである「メインストリームにアピールする暗号ゲーム」を実現する。*
+Strategy for this phase: *Fulfill the Aavegotchi vision of making a crypto game with mass mainstream appeal*
 
-マイルストーン：1,000万MAU / 5万MAU
+Milestones: 10M MAU / 50K DAU
 
 * その他のハウント（予定）
 * REALM公有地販売
-* Aavegotchiミニゲームビルダー
-* Aavegotchi ハードウェアウォレット
+* Aavegotchi Minigame Builder
+* Aavegotchi Hardware Wallet
+
+## Gotchiverse Roadmap
+
+The [Gotchiverse](/gotchiverse) is an ambitious, multiyear project being developed together by Pixelcraft Studios and [AavegotchiDAO](/dao), the governing body of the Aavegotchi NFT Gaming Protocol.
+
+### Alchemical Aaltars and Alchemical Channeling
+
+This major release allows players to equip Alchemical Aaltars and Golden Aaltars onto the parcel and channel Alchemica. Aaltars can be upgraded with [Alchemica](/gotchus-alchemica) and the upgrades can be sped up by spending [GLTR token](/gotchus-alchemica-exchange#gltr-token).
+
+**Status:** Complete
+
+### Farming Release
+
+This major release allows players to survey their parcel for Alchemica and then equip Harvesters, Reservoirs, and the Maaker Bot to their parcel, enabling farming and collecting Alchemica directly from the parcel.
+
+**Status:** Complete
+
+### NFT Display + Paarty Portal Release
+
+This major release introduces the NFT Display -- an installation used for displaying NFTs of various sizes into the Gotchiverse. It also introduces the Paarty Portal, an installation that can be used to create events that support deep links to spawn at a specific location directly in the Gotchiverse.
+
+**Status:** Complete
+
+### Traits + Aarena Release
+
+This major release synthesizes the unique traits of each Aavegotchi and [Wearable](/wearables) to give every Aavegotchi in the Gotchiverse a different gameplay experience.
+
+PVP between Gotchis will also be introduced in the Citaadel in a special area known as the [Aarena](/aarena).
+
+**Status:** Under Development
+
+### Gotchiverse Developer SDK
+
+This major release allows developer to hook into the Gotchiverse to create custom experiences on their parcel.
+
+**Status:** Planning
+
+### Estaates Release
+
+This major release allows players to link parcels adjacent to each other into an [Estaate](/estaates), which gives various benefits to the Estaate owner.
+
+**Status:** Not Started
+
+### Gotchi Lodge, Guild Channeling
+
+This major release introduces the Gotchi Lodge, a special Installation within the Gotchiverse that contains an "interior" room outside of the overworld.
+
+[Guilds](/guild) will also be able to set Wearables as their official Guild Crest, and perform a form of communal channeling known as "Guild Channeling" once a week.
+
+**Status:** Not Started
+
+### The Grid Expansion
+
+This major release introduces a completely new playable area known as "The Grid", as well as new quests, storylines, and a completely new playable character -- the Lickquidator, mortal enemy of the Aavegotchis.
+
+**Status:** Not Started
+
+### Individual Features
+
+We also have many smaller features that are being worked on outside of the Major Releases.

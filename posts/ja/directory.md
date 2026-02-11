@@ -1,69 +1,74 @@
 ---
 author: Unintelligent Nerd
-date: '2020-04-23T07:00:00.000Z'
-title: 'Aavegotchi Wiki一覧'
-description: 'Aavegotchi Wiki一覧'
+date: "2020-04-23T07:00:00.000Z"
+title: "Aavegotchi Wiki一覧"
+description: "Aavegotchi Wiki一覧"
 contributors:
   - "unintelligent-nerd"
 ---
 
+
 Avegotchi Wikiのページ一覧です：
 
-* [アーンバサダー（Aambassador）](/aambassador)
+- [アーンバサダー（Aambassador）](/aambassador)
 
-* [Aarcade Taask Force](/aarcade-taask-force)
+- [Aarcade Taask Force](/aarcade-taask-force)
 
-* [アーキテクト](/aarchitect)
+- [アーキテクト](/aarchitect)
 
-* [Aarena](/aarena)
+- [アーティスト](/aartist)
 
-* [アーティスト](/aartist)
+- [Aauction](/aauction)
 
-* [Aauction](/aauction)
+- [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
 
-* [Aavegotchi Improvement Proposals](/aavegotchi-improvement-proposals)
+- [Aavegotchi Profile Page](/aavegotchi-profile)
 
-* [Aavegotchi Profile Page](/aavegotchi-profile)
+- [エステティカ（Aesthetica）](/aesthetica)
 
-* [エステティカ（Aesthetica）](/aesthetica)
+- [Aging Mechanic](/aging-mechanic)
 
-* [Aging Mechanic](/aging-mechanic)
+- [Alchemical Channeling](/alchemical-channeling)
 
-* [Alchemical Channeling](/alchemical-channeling)
+- [バッジ](/baadge)
 
-* [バッジ](/baadge)
+- [Baard (ミュージシャン)](/baard)
 
-* [Baard (ミュージシャン)](/baard)
+- [Bridge](/bridge)
 
-* [Baazaar](/baazaar)
+- [コンテスト](/contests)
 
-* [Bridge](/bridge)
+- [Contracts](/contracts)
 
-* [コンテスト](/contests)
+- [ボンディング・カーブ](/curve)
 
-* [Contracts](/contracts)
+- [AavegotchiDAO](/dao)
 
-* [ボンディング・カーブ](/curve)
+- [DAO Treasury Taask Force](/dao-treasury-taask-force)
 
-* [AavegotchiDAO](/dao)
+- [Developers](/developers)
 
-* [DAO Treasury Taask Force](/dao-treasury-taask-force)
+- [DROPT - The Fallen Gotchi](/dropt)
 
-* [Developers](/developers)
+- [Estaates（エステート）](/estaates)
 
-* [Estaates（エステート）](/estaates)
+- [Eye Shape](/eye-shape)
 
-* [Eye Shape](/eye-shape)
+- [FAQ（よくある質問）](/faq)
 
-* [FAQ（よくある質問）](/faq)
+- [Forge](/forge)
 
-* [Forge](/forge)
+- [Games](/games)
 
-* [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
+- [Gaame Jaam（ゲーム・ジャム）](/gaame-jaam)
 
 * [GHSTトークン](/ghst)
 
 * [用語解説](/glossary)
+
+* [Gotchi Battler](/gotchi-battler)
+
+* [Gotchi Heroes](/gotchi-heroes)
 
 * [ゴッチ・レンディング](/gotchi-lending)
 
@@ -83,9 +88,11 @@ Avegotchi Wikiのページ一覧です：
 
 * [キンシップ](/kinship)
 
-* [Maall](/maall)
+* [Licky's Escape](/lickys-escape)
 
-* [maToken](/matokens)
+* [Lore](/lore)
+
+* [Marketplace](/marketplace)
 
 * [メディア（Media）](/media)
 
@@ -125,9 +132,13 @@ Avegotchi Wikiのページ一覧です：
 
 * [スピリットフォース](/spirit-force)
 
+* [Spirit Force Arena](/spirit-force-arena)
+
 * [Spirit Force History](/spirit-force-history)
 
 * [ステーキング](/staking)
+
+* [Strategotchi](/strategotchi)
 
 * [チーム](/team)
 

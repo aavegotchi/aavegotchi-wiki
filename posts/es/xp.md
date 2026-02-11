@@ -17,8 +17,8 @@ Aavegotchis sube de nivel a medida que ganan más experiencia (XP). Pero, ¿cuá
 <li><a href=#gaining-xp>Ganando XP</a></li>
 <li><a href=#formula>Fórmula</a></li>
 <li><a href=#experience-table>Tabla de experiencia</a></li>
-<li><a href=#tracking-xp-received>Seguimiento de XP recibida</a></li>
-<li><a href=#xp-requirements-for-joining-guilds>Requisitos de XP para unirse a Clanes</a></li>
+<li><a href=#claiming-xp>Claiming XP</a></li>
+<li><a href=#tracking-xp-received>Tracking XP received</a></li>
 </ol>
 
 </div>
@@ -50,18 +50,16 @@ El nivel máximo que un aavegotchi podría alcanzar es 99. Cualquier cambio en e
 
 tabla_XP
 
-## Seguimiento de XP recibida
+## Claiming XP
 
-Nuestro amigo el arquitecto [](/aarchitect) Frank Pfeift ha creado una aplicación para rastrear la XP que un Gotchi ha recibido a lo largo de su vida.
+XP has to be claimed manually at the airdrop page here: https://dapp.aavegotchi.com/u/[XXXXX]/airdrops.
 
-Se puede acceder a su aplicación [aquí](https://aavegotchi-xp-dashboard.vercel.app). Tu Gotchi ID son los dígitos que se encuentran al final de la URL en tu página de perfil del [Gotchi](/aavegotchi-profile).
+Replace the [XXXXX] with your wallet address in the URL above.
 
-## Requisitos de XP para unirse a Clanes
+After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvement-proposals), all Aavegotchis you owned at the block the AGIP was created are eligible for the XP claim. There is a bulk claim ("CLAIM ALL") function that allows you to claim the XP for all AGIPs you have voted on. If the CLAIM ALL function fails, you can claim the XP for each AGIP individually.
 
-Gotchis son criaturas sociales a las que les encanta quedar con sus amigos, pero muy parecidos a los estudiantes de primer año que tratan de asistir a cada actividad del campus, se queman con demasiada actividad social.
+## Tracking XP received
 
-A medida que adquieren más experiencia y se vuelven más mundanos, su equilibrio entre vida y trabajo mejora, lo que les permite asumir más [responsabilidades del clan](/guild).
+Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
-Por lo tanto, la cantidad de Clanes a los que un Gotchi puede unirse depende de su nivel de EXP.
-
-table_xpRequirementForGuilds
+His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).

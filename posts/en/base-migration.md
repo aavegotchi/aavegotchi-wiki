@@ -1,37 +1,32 @@
 ---
-author: Coder Dan
-date: '2025-07-25T00:00:00.000Z'
-title: 'Base Migration'
-description: 'Aavegotchi migration from Polygon to Base'
-contributors: ["cinnabarhorse"]
+author: Moss
+date: "2026-02-05T00:00:00.000Z"
+title: "Migration to Base (2025)"
+description: "Historical notes and durable facts from the 2025 Polygon -> Base migration"
+contributors: ["moss", "cinnabarhorse"]
 ---
 
-## Base Migration
+## TL;DR
 
-On **July 25, 2025**, Aavegotchi officially migrated from Polygon to **Base** as its canonical home chain.
+On **2025-07-25**, the Aavegotchi team announced that Aavegotchi's **canonical home** (assets, gameplay, governance direction) had moved to **Base**, marking the end of the multi-year primary deployment on **Polygon**.
 
-### What Changed
+This page is intentionally written as **historical framing** (what happened, when), not as a "do this now" tutorial.
 
-* All Aavegotchis, wearables, and game assets now live on **Base**
-* Governance (voting, proposals) occurs on **Base**
-* Rarity farming rewards are distributed on **Base**
-* GHST token canonical address on Base: `0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB`
-* Polygon contracts are **frozen and view-only**: no transfers, no gameplay
+## Key facts (historical)
 
-### Why Base?
+- **Polygon contracts were frozen** (paused) and became **view-only / non-transferable** for most actions.
+- **Assets were mirrored to Base** using a **snapshot + minting** process.
+- Migration coverage included core game and Gotchiverse assets: **Aavegotchis, wearables, REALM parcels, installations, tiles, Alchemica, and GLTR**.
+- **GHST canonical address on Base**: `0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB`.
+- **Most users did not need to take action**: if you held assets in a wallet on Polygon, the Base versions were expected to appear in the same wallet address on Base.
+- **Legacy assets remained visible on Polygon** as **non-transferable ERC-721s** for historical continuity.
 
-Infrastructure improvements, better distribution, and Ethereum-alignment. See the [official blog post](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/).
+## What this means for where to use Aavegotchi
 
-### REALM Parcels
+- The official entry point for the modern app experience is **https://aavegotchi.com**.
+- The Polygon legacy site **https://polygon.aavegotchi.com** remains relevant for limited legacy interactions while Polygon contracts are frozen.
 
-REALM parcels were migrated to Base as part of the July 25, 2025 migration.
-This includes REALM parcels, installations, tiles, Alchemica, and GLTR.
-
-### Legacy Polygon Access
-
-For withdrawing collateral from legacy Polygon Aavegotchis: [polygon.aavegotchi.com](https://polygon.aavegotchi.com) (view-only).
-
-### Timeline
+## Timeline
 
 | Date | Event |
 |------|-------|
@@ -39,3 +34,11 @@ For withdrawing collateral from legacy Polygon Aavegotchis: [polygon.aavegotchi.
 | 2021 | Migration to Polygon |
 | 2024-04-17 | GHST token launched on Base |
 | 2025-07-25 | Full migration to Base; Polygon frozen |
+
+## References
+
+- Official blog: [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
+
+## Last verified
+
+- 2026-02-11 — Reconciled against the official blog archive post and current project migration notes.

@@ -57,7 +57,7 @@ Die Beziehung zwischen hinterlegten Sicherheiten, Eigenschaften, Kleidungsstück
 <img class = "bodyImage" src = "/introduction/aavegotchi-onion-diagram.png" alt = "Aavegotchi Zwiebel-Diagramm" />
 
 ## Wert von Aavegotchis
-Die Bewertung eines Aavegotchis ergibt sich sowohl aus seinem inneren Wert als auch aus seinem Seltenheitswert.
+The valuation of an Aavegotchi comes from both its intrinsic value and from its rarity value.
 
 * **Innerer Wert** Der innere Wert ist der Gegenwert der hinterlegten Sicherheiten des Aavegotchis. Wenn 10aDAI für das Aavegotchi hinterlegt wurden, dann beträgt der innere Wert 10 aDAI, plus die zusätzlichen aDAI aus dem Lending-Pool. Anfangs sind nur [ERC20](/glossary#erc-20) Token, die es bereits auf der Aave Plattform gibt (aTokens) als Sicherheiten verfügbar. Doch sobald der AavegotchiDAO gestartet wurde, kann die Community darüber abstimmen, welche neuen Sicherheiten zugelassen sein sollen.
 

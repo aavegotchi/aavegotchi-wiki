@@ -13,23 +13,27 @@ contributors: ["unintelligent-nerd"]
 
 Light the furnace and grab your hammers. It’s time to craft some wearables!
 
+**TL;DR:** The Forge is Aavegotchi’s crafting system for creating (forging) and breaking down (smelting) wearables using schematics, cores, alloy, and sometimes essence.
+
+**Last verified:** 2026-02-04
+
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#the-conundrum>The Conundrum</a></li>
-<li><a href=#the-forge>The Forge</a></li>
-<p><a href=#alloy>Alloy</a></p>
-<p><a href=#essence>Essence</a></p>
-<li><a href=#curbing-inflation>Curbing Inflation</a></li>
-<li><a href=#how-to-forge-and-smelt>How to Forge and Smelt</a></li>
-<p><a href=#alloy-forging-costs-and-smelting-yields>Alloy Forging Costs and Smelting Yields</a></p>
-<p><a href=#geodes>Geodes</a></p>
-<p><a href=#forging-time>Forging Time</a></p>
-<li><a href=#blacksmithing-skill>Blacksmithing Skill</a></li>
-<li><a href=#forge-wearables>Forge Wearables</a></li>
-<li><a href=#references>References</a></li>
+<li><a href="#the-conundrum">The Conundrum</a></li>
+<li><a href="#the-forge">The Forge</a></li>
+<li><a href="#alloy">Alloy</a></li>
+<li><a href="#essence">Essence</a></li>
+<li><a href="#curbing-inflation">Curbing Inflation</a></li>
+<li><a href="#how-to-forge-and-smelt">How to Forge and Smelt</a></li>
+<li><a href="#alloy-forging-costs-and-smelting-yields">Alloy Forging Costs and Smelting Yields</a></li>
+<li><a href="#geodes">Geodes</a></li>
+<li><a href="#forging-time">Forging Time</a></li>
+<li><a href="#blacksmithing-skill">Blacksmithing Skill</a></li>
+<li><a href="#forge-wearables">Forge Wearables</a></li>
+<li><a href="#references">References</a></li>
 </ol>
 
 </div>
@@ -147,6 +151,14 @@ table_blacksmithingLevels
 
 The list of Forge Wearables can be found [here](/wearables#forge-wearables).
 
+## Governance and history
+
+- **2023-02-01 (AGIP 57):** a governance proposal (“Core Framework”) was put to vote as a framework for managing future wearable emissions / core releases (part of the broader Forge rollout context at the time).
+  - Source: https://blog.aavegotchi.com/two-core-proposals-live/
+
 ## References
 
 * [Forge White paper](https://docs.google.com/document/d/1RvlJmCRudFnso45oPU0veBqo-OLwwZiMJDaNBjRhf54)
+* [Vote on AGIPs 57 and 58 now! (2023-02-01)](https://blog.aavegotchi.com/two-core-proposals-live/)
+* [Aavegotchi Forge 101 – How to Forge and Smelt (2023-01-14)](https://blog.aavegotchi.com/aavegotchi-forge-101/)
+* [Aavegotchi Forge unleashes the mystical power of Geodes](https://blog.aavegotchi.com/aavegotchi-forge-unleashes-the-mystical-power-of-geodes/)

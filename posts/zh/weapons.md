@@ -7,9 +7,9 @@ contributors:
   - "chinyh"
 ---
 
-Weapons are hand wearables classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
+Weapons are hand [wearables](/wearables) classified either as Melee or Ranged Weapon. These special Wearables can inflict damage upon Gotchis (in the [Aarena](/aarena)), Lickquidators, Enemies, and Waalls.
 
-Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others.
+Each Weapon will also be endowed with special benefits, such as extra damage to Waalls, extra damage to Lickquidators, extra attack speed, and others. For a detailed breakdown of each wearable's effects (including weapons) in combat, check out the [wearable boosts](/aarena#wearable-boosts) section.
 
 <div class="contentsBox">
 
