@@ -6,6 +6,8 @@ description: 'Trait Mappings'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note:** This page contains early Gotchiverse design notes and may not reflect the current live implementation. Treat pre-release language as historical and use the live app/docs for current mechanics.
+
 Aavegotchis have 6 [traits](/traits):
 
 * AGG = Aggressiveness

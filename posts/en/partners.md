@@ -8,6 +8,8 @@ contributors: ["unintelligent-nerd"]
 
 Aavegotchi is a frenly project. Get to know our frenly frens here!
 
+> **Note:** Integrations and partnerships change over time. This page is a mix of historical and current partners and does not guarantee an active integration.
+
 <div class="contentsBox">
 
 **Contents**

@@ -6,7 +6,7 @@ description: 'Aavegotchi Guilds'
 contributors: ["unintelligent-nerd"]
 ---
 
-REALM gameplay is coming soon! There will be plenty of activities in the Gotchiverse — from socializing to communal channeling at a Gotchi Lodge. Get to know more frens and participate in Guild-only activities here!
+Guilds are groups of players who coordinate play and activities in the Gotchiverse (including REALM parcel gameplay and communal channeling where available). Specific Guild mechanics can evolve over time; refer to the live app for current features.
 
 <div class="contentsBox">
 

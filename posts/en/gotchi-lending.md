@@ -37,7 +37,7 @@ Gotchi Lending is 100% on the blockchain, allowing for the seamless, trustless, 
 
 ## What can I do with Gotchi Lending?
 
-Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the soon-to-launch [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
+Gotchi Lending is useful for anyone who own an Aavegotchi. It’s also useful for anyone who wants to play in the [Gotchiverse](/gotchiverse). Large [guilds](/guild) will be able to utilize the feature to get the NFTs into the hands of their members, and will even have the ability to share earned funds to the guild’s treasury wallet.
 
 Individuals will be able to make use of Gotchi Lending as well, by making their Aavegotchis available publically to earn passive income, or even allowing friends and family to play as their Aavegotchi for no cost.
 
@@ -51,7 +51,7 @@ Lenders will be able to select which tokens to share with borrowers. This means 
 
 Additionally, the token sharing options now include GHST in addition to the four types of Gotchus Alchemica. This is particularly important during Rarity Farming seasons, because lenders will get to determine what, if any, portion of an Aavegotchi’s GHST balance they wish to share.
 
-The lender could also specify a whitelist ID containing the addresses that are eligible to borrow the Gotchi. You can find your whitelist ID in the [whitelists page](https://aavegotchi.com/lending/whitelists).
+The lender could also specify a whitelist ID containing the addresses that are eligible to borrow the Gotchi. You can find your whitelist ID in the [whitelists page](https://www.aavegotchi.com/lending/whitelists).
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-step-1.png">
 
@@ -69,7 +69,7 @@ Finally, the lender reviews the terms one more time and creates the lending list
 
 **Bonus Step:**
 
-Lenders will also have the ability to create [whitelists](https://aavegotchi.com/lending/whitelists), making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
+Lenders will also have the ability to create [whitelists](https://www.aavegotchi.com/lending/whitelists), making their Aavegotchis available only to an exclusive group of borrowers. This feature is perfect for guilds who want to make sure their Aavegotchi NFTs get into the hands of members of their guild.
 
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png">
 
