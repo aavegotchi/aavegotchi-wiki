@@ -1,7 +1,6 @@
 import Link from "next/link";
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { items } from "../data/sidebarItems";
-import { handleLanguageCode } from "../functions";
 import { themeHotPink } from "../theme";
 import { Category, Item } from "../types";
 
@@ -10,16 +9,6 @@ interface SidebarProps {
 }
 
 const Sidebar = (props: SidebarProps) => {
-
-    const [languageCode, setLanguageCode] = useState(undefined)
-
-
-
-    useEffect(() => {
-        const code = handleLanguageCode(navigator.languages[0])
-        setLanguageCode(code)
-    }, [])
-
 
     return (
         <div className="sidebarContainer">
@@ -110,7 +99,7 @@ const Sidebar = (props: SidebarProps) => {
                             <div className="category">{category.name}</div>
 
                             {category.items.map((item: Item) => {
-								const url = item.href.startsWith("https") ? item.href : `/${languageCode}/${item.href}`;
+								const url = item.href.startsWith("https") ? item.href : `/en/${item.href}`;
 								const href = item.href.startsWith("https") ? item.href : "/[lang]/[pageID]";
 								const img = item.href === "https://blog.aavegotchi.com" ? "blog" : item.href;
 								return (

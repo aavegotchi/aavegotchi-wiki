@@ -75,8 +75,16 @@ const Page = (props) => {
 
     }, [router.query.pageID])
 
+    useEffect(() => {
+        const lang = Array.isArray(router.query.lang) ? router.query.lang[0] : router.query.lang
+        const pageID = Array.isArray(router.query.pageID) ? router.query.pageID[0] : router.query.pageID
+        if (lang && lang !== "en" && pageID) {
+            router.replace(`/en/${pageID}`)
+        }
+    }, [router.query.lang, router.query.pageID])
+
     async function getLastCommits() {
-        const url = `https://api.github.com/repos/aavegotchi/aavegotchi-wiki/commits?path=posts/${router.query.lang}/${router.query.pageID}.md&page=1&per_page=1`
+        const url = `https://api.github.com/repos/aavegotchi/aavegotchi-wiki/commits?path=posts/en/${router.query.pageID}.md&page=1&per_page=1`
 
         const commits = await fetch(url)
         const response = await commits.json()
@@ -192,12 +200,20 @@ const Page = (props) => {
 export default Page;
 
 Page.getInitialProps = async function (ctx) {
-    const { lang, pageID } = ctx.query
+    const langQuery = Array.isArray(ctx.query.lang) ? ctx.query.lang[0] : ctx.query.lang
+    const pageQuery = Array.isArray(ctx.query.pageID) ? ctx.query.pageID[0] : ctx.query.pageID
+    const lang = typeof langQuery === "string" ? langQuery.toLowerCase() : ""
+    const pageID = typeof pageQuery === "string" ? pageQuery : "error"
 
+    if (lang !== "en" && ctx.res) {
+        ctx.res.writeHead(301, { Location: `/en/${pageID}` })
+        ctx.res.end()
+        return {}
+    }
 
-    //First check if this page exists in the language 
     try {
-        const content = await import(`../../posts/${lang}/${pageID}.md`)
+        //@ts-ignore
+        const content = await import(`../../posts/en/${pageID}.md`)
         //@ts-ignore
         const config = await import(`../../data/config.json`)
         const data = matter(content.default);
@@ -206,30 +222,15 @@ Page.getInitialProps = async function (ctx) {
             ...data
         }
     } catch (error) {
-        //Then check if this page exists in English
-        try {
-            //@ts-ignore
-            const content = await import(`../../posts/en/${pageID}.md`)
-            //@ts-ignore
-            const config = await import(`../../data/config.json`)
-            const data = matter(content.default);
-            return {
-                siteTitle: config.title,
-                ...data
-            }
-        } catch (error) {
-            //@ts-ignore
-            const content = await import(`../../posts/en/error.md`)
-            //@ts-ignore
-            const config = await import(`../../data/config.json`)
-            const data = matter(content.default);
-            return {
-                siteTitle: config.title,
-                ...data
-            }
+        //@ts-ignore
+        const content = await import(`../../posts/en/error.md`)
+        //@ts-ignore
+        const config = await import(`../../data/config.json`)
+        const data = matter(content.default);
+        return {
+            siteTitle: config.title,
+            ...data
         }
-
-
     }
 
 }

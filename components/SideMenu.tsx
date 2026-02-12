@@ -1,9 +1,8 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { slide as Menu } from 'react-burger-menu'
 
 import Link from "next/link";
 import { items } from '../data/sidebarItems'
-import { handleLanguageCode } from "../functions";
 import { Category, Item } from "../types";
 import { darkThemeColor, themeHotPink } from "../theme";
 import { useStateValue } from "../State/globalState";
@@ -14,14 +13,7 @@ interface SideMenuProps {
 
 const SideMenu = (props: SideMenuProps) => {
 
-    const [languageCode, setLanguageCode] = useState(undefined)
-
     const [{ sideMenuOpen }, dispatch] = useStateValue()
-
-    useEffect(() => {
-        const code = handleLanguageCode(navigator.languages[0])
-        setLanguageCode(code)
-    }, [])
 
     var styles = {
         bmBurgerButton: {
@@ -113,13 +105,16 @@ const SideMenu = (props: SideMenuProps) => {
                                     <div className="category">{category.name}</div>
 
                                     {category.items.map((item: Item) => {
+                                        const url = item.href.startsWith("https") ? item.href : `/en/${item.href}`
+                                        const href = item.href.startsWith("https") ? item.href : "/[lang]/[pageID]"
+                                        const img = item.href === "https://blog.aavegotchi.com" ? "blog" : item.href
                                         return (
-                                            <Link href="/[lang]/[pageID]" as={`/${languageCode}/${item.href}`}>
+                                            <Link href={href} as={url}>
                                                 <a onClick={() => {
                                                     closeMenu()
                                                 }}>
                                                     <li className="flexRow">
-                                                        <img className="sideBarIcon" src={`/icons/${item.href}.svg`} />
+                                                        <img className="sideBarIcon" src={`/icons/${img}.svg`} />
 
                                                         <div className="name">
                                                             {item.name}

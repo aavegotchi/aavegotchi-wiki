@@ -9,13 +9,7 @@ export const capitalize = (s) => {
 };
 
 export function handleLanguageCode(code: string) {
-  let finalCode: string;
-  //Handle some cases
-  if (code.toLowerCase() === "zh-cn") finalCode = "cn";
-  else if (!code) finalCode = "en";
-  else finalCode = code;
-  console.log("final code:", finalCode);
-  return finalCode.slice(0, 2);
+  return "en";
 }
 
 export function addTablesToMarkdown(markdown, pageName) {

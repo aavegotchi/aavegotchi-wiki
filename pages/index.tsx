@@ -9,7 +9,6 @@ import ReactMarkdownWithHtml from 'react-markdown/with-html'
 import htmlParser from 'react-markdown/plugins/html-parser'
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
-import { handleLanguageCode } from '../functions';
 
 interface Commit {
   date: string
@@ -135,38 +134,14 @@ const Index = (props) => {
 export default Index;
 
 Index.getInitialProps = async function (ctx) {
-
-  const { req } = ctx
   const slug = "index"
-
-  try {
-
-    let code: string
-
-    //Check if this page exists localized
-    if (req) code = req.headers['accept-language'].split(",")[0]
-    else code = navigator.languages[0]
-    const lang = handleLanguageCode(code)
-
-    const content = await import(`../posts/${lang}/${slug}.md`)
-    //@ts-ignore
-    const config = await import(`../data/config.json`)
-    const data = matter(content.default);
-    return {
-      siteTitle: config.title,
-      ...data
-    }
-  } catch (error) {
-    //If not revert to English
-    const content = await import(`../posts/en/${slug}.md`)
-    //@ts-ignore
-    const config = await import(`../data/config.json`)
-    const data = matter(content.default);
-    return {
-      siteTitle: config.title,
-      ...data
-    }
+  const content = await import(`../posts/en/${slug}.md`)
+  //@ts-ignore
+  const config = await import(`../data/config.json`)
+  const data = matter(content.default);
+  return {
+    siteTitle: config.title,
+    ...data
   }
-
 
 }
