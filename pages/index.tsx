@@ -86,7 +86,7 @@ const Index = (props) => {
 
       <NextReusableHead
         title="Aavegotchi Wiki"
-        description="The Official Wiki of Aavegotchi"
+        description="Official Aavegotchi Wiki: GHST, tokenomics, Gotchiverse, Rarity Farming, Alchemica, the Forge, contracts, tutorials, and more."
         siteName="Aavegotchi Wiki"
         url="https://wiki.aavegotchi.com"
         faviconPath="/favicon.ico"

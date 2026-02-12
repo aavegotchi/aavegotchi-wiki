@@ -9,6 +9,7 @@ Sitemap.getInitialProps = async ({ res }) => {
   if (!res) return {};
 
   res.setHeader("content-type", "application/xml");
+  res.setHeader("cache-control", "public, max-age=0, s-maxage=3600");
 
   const serverTime = new Date().toISOString();
   const baseUrl = "https://wiki.aavegotchi.com";

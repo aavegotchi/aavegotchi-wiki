@@ -1,3 +1,4 @@
-Sitemap:https://wiki.aavegotchi.com/sitemap.xml
-User-agent:*
+User-agent: *
 Disallow:
+
+Sitemap: https://wiki.aavegotchi.com/sitemap.xml
