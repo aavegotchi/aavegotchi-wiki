@@ -5,6 +5,11 @@ module.exports = {
   async redirects() {
     return [
       {
+        source: "/en/index",
+        destination: "/",
+        permanent: true,
+      },
+      {
         source: "/:lang(cn|zh|de|es|fil|fr|id|it|ja|ko|nl|ru|vi)",
         destination: "/",
         permanent: true,

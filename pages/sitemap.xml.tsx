@@ -1,29 +1,89 @@
-const Sitemap = () => null
-Sitemap.getInitialProps = async ({ res }) => {
-    if (!res) return {}
+import fs from "fs";
+import path from "path";
 
-    res.setHeader('content-type', 'application/xml')
+const Sitemap = () => null;
 
-    const date = new Date()
-    const serverTime = date.toISOString()
-    const endpoint = "https://blog.coderdan.dev"
+const SITE_URL = "https://wiki.aavegotchi.com";
 
-    var content = ""
-
-    var homepage =
-        `<url>
-                <loc>${endpoint}</loc>
-                <lastmod>${serverTime}</lastmod>
-                <changefreq>daily</changefreq>
-                <priority>0.8</priority>
-                </url>`
-
-    content = content + homepage
-
-
-
-    res.end(`<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${content}</urlset>`)
-    return {}
+function escapeXml(unsafe: string): string {
+  return unsafe
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
 }
 
-export default Sitemap
+function buildUrlEntry(loc: string, lastmod: string, changefreq: string, priority: string): string {
+  return [
+    "<url>",
+    `  <loc>${escapeXml(loc)}</loc>`,
+    `  <lastmod>${escapeXml(lastmod)}</lastmod>`,
+    `  <changefreq>${escapeXml(changefreq)}</changefreq>`,
+    `  <priority>${escapeXml(priority)}</priority>`,
+    "</url>",
+  ].join("");
+}
+
+Sitemap.getInitialProps = async ({ res }) => {
+  if (!res) return {};
+
+  res.setHeader("content-type", "application/xml");
+  res.setHeader("cache-control", "public, max-age=0, s-maxage=3600");
+
+  const nowIso = new Date().toISOString();
+
+  const urls: Array<{ loc: string; lastmod: string; changefreq: string; priority: string }> = [];
+
+  // Homepage
+  urls.push({
+    loc: `${SITE_URL}/`,
+    lastmod: nowIso,
+    changefreq: "daily",
+    priority: "1.0",
+  });
+
+  // Wiki pages are markdown files in posts/en/*.md, served at /en/<slug>.
+  // Exclude special pages that should not be indexed.
+  const postsDir = path.join(process.cwd(), "posts", "en");
+  const exclude = new Set(["error", "index"]);
+
+  try {
+    const files = fs.readdirSync(postsDir);
+
+    for (const file of files) {
+      if (!file.endsWith(".md")) continue;
+      const slug = file.slice(0, -3);
+      if (!slug || exclude.has(slug)) continue;
+
+      const filePath = path.join(postsDir, file);
+      let lastmod = nowIso;
+      try {
+        lastmod = fs.statSync(filePath).mtime.toISOString();
+      } catch {
+        // Fall back to server time if stat fails.
+      }
+
+      urls.push({
+        loc: `${SITE_URL}/en/${encodeURIComponent(slug)}`,
+        lastmod,
+        changefreq: "weekly",
+        priority: "0.6",
+      });
+    }
+  } catch (e) {
+    // If the directory is missing (unexpected), still emit a valid sitemap with the homepage.
+    // eslint-disable-next-line no-console
+    console.warn("sitemap.xml: failed to read posts dir:", e);
+  }
+
+  // Deterministic ordering
+  urls.sort((a, b) => a.loc.localeCompare(b.loc));
+
+  const content = urls.map((u) => buildUrlEntry(u.loc, u.lastmod, u.changefreq, u.priority)).join("");
+
+  res.end(`<?xml version="1.0" encoding="UTF-8"?>` + `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${content}</urlset>`);
+  return {};
+};
+
+export default Sitemap;

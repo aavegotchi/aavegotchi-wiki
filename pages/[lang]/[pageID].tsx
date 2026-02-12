@@ -103,6 +103,10 @@ const Page = (props) => {
     }
 
 
+    const pageIDFromProps = typeof props.pageID === "string" ? props.pageID : "";
+    const canonicalPath = pageIDFromProps === "index" ? "/" : `/en/${pageIDFromProps}`;
+    const canonicalUrl = `https://wiki.aavegotchi.com${canonicalPath}`;
+
     return (
         <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
@@ -110,7 +114,7 @@ const Page = (props) => {
                 title={`${frontmatter.title} -- Aavegotchi Wiki`}
                 description={frontmatter.description}
                 siteName="Aavegotchi Wiki"
-                url="https://wiki.aavegotchi.com"
+                url={canonicalUrl}
                 faviconPath="/favicon.ico"
                 image={`https://wiki.aavegotchi.com/${frontmatter.image}`}
             />
@@ -221,6 +225,7 @@ Page.getInitialProps = async function (ctx) {
         const data = matter(content.default);
         return {
             siteTitle: config.title,
+            pageID,
             ...data
         }
     } catch (error) {
@@ -231,6 +236,7 @@ Page.getInitialProps = async function (ctx) {
         const data = matter(content.default);
         return {
             siteTitle: config.title,
+            pageID,
             ...data
         }
     }
