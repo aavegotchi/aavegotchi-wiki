@@ -6,7 +6,7 @@ import SubscribeModal from '../SignupModal'
 import { useStateValue } from '../../State/globalState'
 
 interface Props {
-    logo?: JSX.Element
+    logo?: React.ReactNode
     siteTitle?: string
 }
 

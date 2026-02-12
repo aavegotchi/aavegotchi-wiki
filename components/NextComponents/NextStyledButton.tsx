@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 
 interface NextStyledButtonProps {
-    title: string | JSX.Element //Title of the button
+    title: React.ReactNode //Title of the button
     onClick: () => void
-    submittingTitle?: string | JSX.Element
+    submittingTitle?: React.ReactNode
     titleStyles?: string
-    icon?: string | JSX.Element
+    icon?: React.ReactNode
     iconPosition?: "left" | "right"
     iconStyle?: string
     iconHoverStyle?: string

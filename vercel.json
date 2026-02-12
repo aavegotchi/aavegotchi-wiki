@@ -1,12 +1,4 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "buildCommand": "npm run build",
-  "build": {
-    "env": {
-      "NODE_OPTIONS": "--openssl-legacy-provider"
-    }
-  },
-  "env": {
-    "NODE_OPTIONS": "--openssl-legacy-provider"
-  }
+  "buildCommand": "npm run build"
 }

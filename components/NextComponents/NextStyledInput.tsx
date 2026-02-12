@@ -6,8 +6,8 @@ interface Props {
     inputType?: "text" | "password"
     inputLabel?: string | undefined
     placeHolderText: string
-    buttonTitle?: string | JSX.Element
-    buttonSubmittingTitle?: string | JSX.Element
+    buttonTitle?: React.ReactNode
+    buttonSubmittingTitle?: React.ReactNode
 
     errorText?: string | undefined
     value: string
@@ -67,7 +67,7 @@ const NextStyledInput = (props: Props) => {
 
         return (
             <NextStyledButton
-                title={buttonTitle}
+                title={buttonTitle ?? ""}
                 onClick={() => onSubmit()}
                 submittingTitle={buttonSubmittingTitle}
                 submitting={submitting}

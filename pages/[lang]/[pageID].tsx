@@ -1,4 +1,4 @@
-import { useRouter } from "next/dist/client/router";
+import { useRouter } from "next/router";
 import React from 'react'
 import matter from 'gray-matter'
 import { Row, Col, Container } from "react-bootstrap";
@@ -6,8 +6,7 @@ import ReactMarkdown from "react-markdown"
 import Layout from "../../components/Layout";
 import NextReusableHead from "../../components/NextComponents/NextReusableHead";
 import Sidebar from "../../components/Sidebar";
-import ReactMarkdownWithHtml from 'react-markdown/with-html'
-import htmlParser from 'react-markdown/plugins/html-parser'
+import rehypeRaw from 'rehype-raw'
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { addTablesToMarkdown } from "../../functions";
@@ -33,40 +32,46 @@ const Page = (props) => {
     const finalMarkdown = addTablesToMarkdown(markdownBody, router.query.pageID)
 
 
-    const flatten = (text: string, child) => {
-        return typeof child === 'string'
-            ? text + child
-            : React.Children.toArray(child.props.children).reduce(flatten, text);
+    const flatten = (node: React.ReactNode): string => {
+        return React.Children.toArray(node)
+            .map((child) => {
+                if (typeof child === "string" || typeof child === "number") {
+                    return String(child)
+                }
+                if (React.isValidElement<{ children?: React.ReactNode }>(child) && child.props?.children) {
+                    return flatten(child.props.children)
+                }
+                return ""
+            })
+            .join("")
     };
 
-    /**
-     * HeadingRenderer is a custom renderer
-     * It parses the heading and attaches an id to it to be used as an anchor
-     */
-    const HeadingRenderer = props => {
-        const children = React.Children.toArray(props.children);
-        const text = children.reduce(flatten, '');
+    const createHeadingRenderer = (tag: "h1" | "h2" | "h3" | "h4" | "h5" | "h6") => (props) => {
+        const text = flatten(props.children)
         const slug = text.toLowerCase().replace(/\W/g, '-');
-        return React.createElement('h' + props.level, { id: slug }, props.children);
+        return React.createElement(tag, { id: slug }, props.children);
     };
 
-    const renderers = {
-        //This custom renderer changes how images are rendered
-        //we use it to constrain the max width of an image to its container
-
-        link: ({ children, href }) => {
-            return <Link href={href}><a target="_blank">{children}</a></Link>
+    const components = {
+        a: ({ children, href, ...props }) => {
+            if (!href) return <>{children}</>
+            if (href.startsWith("/")) {
+                return <Link href={href}>{children}</Link>
+            }
+            return (
+                <a href={href} target="_blank" rel="noreferrer" {...props}>
+                    {children}
+                </a>
+            )
         },
         code: CodeBlock,
-        heading: HeadingRenderer
+        h1: createHeadingRenderer("h1"),
+        h2: createHeadingRenderer("h2"),
+        h3: createHeadingRenderer("h3"),
+        h4: createHeadingRenderer("h4"),
+        h5: createHeadingRenderer("h5"),
+        h6: createHeadingRenderer("h6"),
     };
-
-    const parseHtml = htmlParser({
-        isValidNode: (node) => node.type !== 'script',
-        processingInstructions: [
-            /* ... */
-        ]
-    })
 
 
     useEffect(() => {
@@ -158,12 +163,9 @@ const Page = (props) => {
                         }
 
                         <hr />
-                        <ReactMarkdownWithHtml
-
-                            allowDangerousHtml={true}
-                            astPlugins={[parseHtml]}
-                            renderers={renderers}
-                            children={finalMarkdown} />
+                        <ReactMarkdown rehypePlugins={[rehypeRaw]} components={components}>
+                            {finalMarkdown}
+                        </ReactMarkdown>
                     </div>
 
                 </Col>

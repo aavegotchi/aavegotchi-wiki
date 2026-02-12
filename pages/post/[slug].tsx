@@ -130,8 +130,9 @@ export default function BlogTemplate(props) {
           </div>
           <div className="blogBody">
             <ReactMarkdown
-              renderers={{ code: CodeBlock }}
-              source={markdownBody} />
+              components={{ code: CodeBlock }}>
+              {markdownBody}
+            </ReactMarkdown>
           </div>
         </Col>
 

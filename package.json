@@ -6,13 +6,13 @@
   "version": "0.1.0",
   "author": "@cinnabarhorse",
   "scripts": {
-    "dev": "node --openssl-legacy-provider ./node_modules/.bin/next",
+    "dev": "next dev --webpack",
     "nowDev": "env-cmd -f .env now dev",
     "develop": "yarn dev",
-    "build": "node --openssl-legacy-provider ./node_modules/.bin/next build",
+    "build": "next build --webpack",
     "start": "next start",
-    "export": "node --openssl-legacy-provider ./node_modules/.bin/next export",
-    "deploy": "yarn build && yarn export",
+    "export": "echo 'next export was removed in Next.js 16; use npm run build' && exit 1",
+    "deploy": "yarn build",
     "deploy:monitor": "./scripts/deploy-and-monitor.sh",
     "replace:addresses": "node scripts/replace-addresses.mjs",
     "check:addresses": "node scripts/check-for-hardcoded-addresses.mjs",
@@ -26,22 +26,22 @@
     "bootstrap": "^4.5.3",
     "gray-matter": "^4.0.2",
     "mailchimp-api-v3": "^1.14.0",
-    "next": "^9.5.5",
+    "next": "^16.1.6",
     "node-glob": "^1.2.0",
-    "raw-loader": "^3.1.0",
-    "react": "^16.14.0",
-    "react-bootstrap": "^1.4.0",
-    "react-burger-menu": "^3.0.6",
-    "react-dom": "^16.14.0",
-    "react-markdown": "^5.0.2",
+    "raw-loader": "^4.0.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^1.6.8",
+    "react-burger-menu": "^3.1.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^10.1.0",
     "react-syntax-highlighter": "^12.2.1",
-    "webpack": "^4.44.2"
+    "rehype-raw": "^7.0.0"
   },
   "devDependencies": {
-    "@types/node": "^13.13.31",
+    "@types/node": "^20.19.11",
     "env-cmd": "^10.1.0",
     "prettier": "^1.19.1",
-    "typescript": "^3.9.7"
+    "typescript": "^5.9.3"
   },
   "keywords": [
     "next"
