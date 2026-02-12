@@ -1,68 +1,71 @@
 ---
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
-title: 'Mumbai Testnet Tutorial'
-description: 'Mumbai Testnet Tutorial'
+title: 'Base Sepolia Testnet'
+description: 'How to connect your wallet to Base Sepolia (testnet) for Aavegotchi test environments'
 contributors: ["unintelligent-nerd"]
 ---
 
-The Aavegotchi Baazaar is now live on the Mumbai Testnet! To test it out, you have to configure your Metamask and get some tokens on the Testnet. This guide will show you how!
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home migrated to **Base**. Legacy Polygon testnets (Mumbai/Amoy) are not the primary reference chain for the wiki anymore. See **[Migration to Base (2025)](/base-migration)**.
+
+This page shows how to connect your wallet to **Base Sepolia** (Base testnet) so you can use Aavegotchi test environments (when available) and view Base Sepolia contracts.
 
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#adding-mumbai-testnet-to-your-metamask>Adding Mumbai Testnet to your Metamask</a></li>
-<li><a href=#getting-tokens-from-mumbai-faucet>Getting tokens from Mumbai Faucet</a></li>
-<li><a href=#getting-mumbai-ghst>Getting Mumbai GHST</a></li>
+<li><a href=#adding-base-sepolia-to-your-metamask>Adding Base Sepolia to your MetaMask</a></li>
+<li><a href=#getting-sepolia-eth>Getting Sepolia ETH</a></li>
+<li><a href=#viewing-aavegotchi-contracts-on-base-sepolia>Viewing Aavegotchi contracts on Base Sepolia</a></li>
 </ol>
 
 </div>
 
-## Adding Mumbai Testnet to your Metamask
+## Adding Base Sepolia to your MetaMask
 
-
-To connect to the Mumbai Testnet, some configurations have to be made to your Metamask wallet.
+To connect to the **Base Sepolia** testnet, add it as a network in MetaMask.
 
 1).	First, open the extension and click the “Ethereum Mainnet” button on the top.
 
-<img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "Metamask">
+<img class = "bodyImage" src = "/mumbai-testnet/metamask.png" alt = "MetaMask">
 
 2). Select “Custom RPC”.
 
-<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "Metamask Custom RPG">
+<img class = "bodyImage" src = "/mumbai-testnet/metamask-custom-RPC.png" alt = "MetaMask Custom RPC">
 
 3). Enter the following settings:
 
-Network Name: Mumbai Testnet
+Network Name: Base Sepolia
 
-New RPC URL: https://rpc-amoy.polygon.technology/
+New RPC URL: https://sepolia.base.org
 
-Chain ID: 80001
+Chain ID: 84532
 
-Currency Symbol (optional): MATIC
+Currency Symbol (optional): ETH
 
-Block Explorer URL (optional): https://amoy.polygonscan.com/
+Block Explorer URL (optional): https://sepolia-explorer.base.org/
 
-Once you’ve added everything, you can click on “Save”. You are now on Mumbai Testnet!
+Once you’ve added everything, click “Save”. You are now on Base Sepolia.
 
-## Getting tokens from Mumbai Faucet
+Reference (network params): https://docs.base.org/base-chain/quickstart/connecting-to-base
 
-1). Head over to the Mumbai Faucet at [https://web.archive.org/web/*/https://faucet.polygon.technology/](https://web.archive.org/web/*/https://faucet.polygon.technology/).
+## Getting Sepolia ETH
 
-2). Select the tokens that you wish to get from the faucet (e.g. MATIC token), select the default Network (Mumbai), and input your Metamask wallet address into the textbox.
+You’ll need **Sepolia ETH** to transact on Base Sepolia.
 
-3). Hit the "Submit" button and wait for the tokens to be deposited into your wallet.
+1). Use a reputable **Sepolia faucet** to obtain test ETH.
 
-## Getting Mumbai GHST
+2). In MetaMask, ensure you’re on **Base Sepolia** (chain id **84532**).
 
-Once you have gotten your hands on some MATIC tokens from the Mumbai Faucet, it is time to purchase some Mumbai GHST.
+3). Send the Sepolia ETH to your wallet address and confirm it appears on Base Sepolia.
 
-1). Head over to [https://testnet.aavegotchi.com/testnet-ghst](https://testnet.aavegotchi.com/testnet-ghst).
+> Tip: Some faucets deliver Sepolia ETH on Ethereum Sepolia first. If you receive ETH on **Ethereum Sepolia**, you may need to bridge it to **Base Sepolia** using a testnet bridge flow. Follow the latest Base docs for testnet bridging guidance.
 
-2). Connect to the Mumbai Testnet.
+## Viewing Aavegotchi contracts on Base Sepolia
 
-3). Use the Mumbai MATIC tokens you have received to purchase Mumbai GHST by clicking the "Click to get MUMBAI GHST" button. Presto! You are done! 
+The wiki maintains Base Sepolia contract addresses here:
 
-Have fun at the [Aavegotchi Baazaar](https://testnet.aavegotchi.com/baazaar/portals) fren!
+- **[Contracts](/contracts#contract-addresses-on-base-sepolia-testnet)**
+
+If you are using an Aavegotchi test app, always confirm the target chain (Base Sepolia) and contract addresses from official sources before signing transactions.

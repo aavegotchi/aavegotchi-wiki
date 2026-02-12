@@ -14,6 +14,8 @@ Wanna show off your hotshot coding skills? We welcome you fren!
 
 The Aavegotchi Docs can be found [here](https://docs.aavegotchi.com/).
 
+> **Note:** As of **2025-07-25**, Aavegotchi’s canonical home is on **Base**. Legacy Polygon-era developer resources are still useful for historical reference, but should be treated as deprecated unless explicitly stated otherwise. See: **[Migration to Base](/base-migration)**.
+
 <div class="contentsBox">
 
 **Contents**
@@ -55,7 +57,7 @@ The pixelart versions of each Aavegotchi are also just a smart-contract call awa
 
 Now is the time to begin creating games for the upcoming Aavegotchi Gaming Console. Join our thriving ecosystem of on-chain assets, cryptocurrencies, and passionate players.
 
-Access the Unity SDK [here](https://dapp.aavegotchi.com/sdk).
+Access the Unity SDK [here](https://www.aavegotchi.com/sdk).
 
 ## Building the Wiki
 
@@ -99,11 +101,17 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 
 ## Subgraphs
 
-* Official Aavegotchi Subgraph: [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic)
+**Base (current):**
 
-* Aavegotchi SVGs: [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg)
+* Aavegotchi Base subgraphs are hosted on **Goldsky** (Base). (If you need the current endpoints, refer to Aavegotchi developer docs / internal dev resources; endpoints can change over time.)
 
-* Aavegotchi Raffles (Polygon): [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle)
+**Polygon (legacy / deprecated):**
+
+* (Legacy) Aavegotchi Core (Polygon / The Graph): [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-core-matic)
+
+* Aavegotchi SVGs (The Graph): [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-svg)
+
+* (Legacy) Aavegotchi Raffles (Polygon / The Graph): [https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle](https://api.thegraph.com/subgraphs/name/aavegotchi/aavegotchi-matic-raffle)
 
 ## Gaame Jaam
 

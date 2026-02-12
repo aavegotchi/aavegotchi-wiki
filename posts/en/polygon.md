@@ -6,6 +6,10 @@ description: 'Polygon Tutorial'
 contributors: ["moon14888"]
 ---
 
+> **Legacy / historical (Polygon era):** This page documents Aavegotchi’s 2021-era migration to Polygon and Polygon-era wallet setup.
+>
+> As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. See **[Migration to Base (2025)](/base-migration)**.
+
 Hey Fren! So you’ve heard about the migration to Polygon (formerly Matic Network), but got no idea what the hell that even is? Don’t worry, we’ll take you through everything step by step!
 
 In short, Polygon is a Layer 2 scaling solution for public blockchains like Ethereum. It is a decentralized platform that ensures faster and extremely low-cost transactions with finality on the main chain. If you want to know how it works in more detail, check this [article](https://web.archive.org/web/*/https://medium.com/matic-network/what-is-matic-network-466a2c493ae1) out.

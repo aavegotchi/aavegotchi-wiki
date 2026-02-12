@@ -23,8 +23,8 @@ This page is intentionally written as **historical framing** (what happened, whe
 
 ## What this means for where to use Aavegotchi
 
-- The official entry point for the modern app experience is **https://aavegotchi.com.
-- The Polygon legacy site **https://polygon.aavegotchi.com remains relevant for limited legacy interactions while Polygon contracts are frozen.
+- The official entry point for the modern app experience is **https://www.aavegotchi.com**.
+- The Polygon legacy site **https://polygon.aavegotchi.com** remains relevant for limited legacy interactions while Polygon contracts are frozen.
 
 ## Timeline
 

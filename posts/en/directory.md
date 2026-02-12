@@ -33,6 +33,8 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 - [Baard](/baard)
 
+- [Base Migration (2025)](/base-migration)
+
 - [Bridge](/bridge)
 
 - [Contests](/contests)
@@ -105,7 +107,7 @@ Here is the list of pages in the Aavegotchi Wiki:
 
 * [Missions](/missions)
 
-* [Mumbai Testnet](/mumbai-testnet)
+* [Base Sepolia Testnet](/mumbai-testnet)
 
 * [Partners](/partners)
 

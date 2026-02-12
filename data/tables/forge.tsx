@@ -46,7 +46,7 @@ export const tables
             tableName: "forgingTime",
             tableCaption: "",
             tableData: {
-                headers: ["Rarity", "Forging Time (In Polygon Blocks)"],
+                headers: ["Rarity", "Forging Time (Blocks)"],
                 data: [
                     ["Common", "32,922"],
 					["Uncommon", "98,765"],

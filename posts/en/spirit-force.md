@@ -12,6 +12,8 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">The aETH aToken</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home migrated to **Base**. “Spirit Force” (collateral inside a Gotchi) is still a core concept, but some acquisition/bridging details in this page are **Polygon-era** and may be historical. See **[Migration to Base (2025)](/base-migration)**.
+
 Every Aavegotchi is powered by Spirit Force. Upon opening a [portal](/portals), the summoner (you!) has to imbue your Gotchi with Spirit Force to summon your new-found friend to life!
 
 So what exactly is Spirit Force?

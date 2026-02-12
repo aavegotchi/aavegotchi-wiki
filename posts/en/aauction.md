@@ -51,7 +51,7 @@ The room went quiet.
 ## Aauction House
 
 
-The Aauction House is the place where aauctions take place. It can be found [here](https://dapp.aavegotchi.com/auction?status=live&itemType=all).
+The Aauction House is the place where aauctions take place. It can be found [here](https://www.aavegotchi.com/auction?status=live&itemType=all).
 
 <img class="bodyImage" src="/aauction/aavegotchi-auction-house.png" alt="Aavegotchi Auction House">
 

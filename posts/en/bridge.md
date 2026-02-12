@@ -2,7 +2,7 @@
 author: Dev Barnyard
 date: "2025-09-18T00:00:00.000Z"
 title: "Bridges"
-description: "The Aavegotchi Bridge (and other bridges to transfer Assets to and from Polygon)"
+description: "The Aavegotchi Bridge (and other bridges to transfer assets to and from Base, plus legacy Polygon)"
 contributors: ["barneychambers", "unintelligent-nerd"]
 ---
 
@@ -10,6 +10,8 @@ contributors: ["barneychambers", "unintelligent-nerd"]
 <img class="headerImage" src="/bridge/aavegotchi-bridge.gif">
 <p class="headerImageText">The Aavegotchi Bridge</p>
 </div>
+
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home is **Base**. Polygon bridging content below is largely **legacy/historical** (Polygon contracts are frozen/view-only). See: **[Migration to Base (2025)](/base-migration)**.
 
 A bridge is a piece of software that allows you to transfer assets from one blockchain to another.
 
@@ -47,9 +49,9 @@ Historical note (2023-03-22): During the on-chain governance process to close th
 
 <img class="bodyImage" src="/bridge/aavegotchi-bridge.png" alt="Aavegotchi Bridge">
 
-The Aavegotchi Bridge can be accessed [here](https://aavegotchi.com/get-tokens?p=bridge).
+The Aavegotchi Bridge can be accessed [here](https://www.aavegotchi.com/get-tokens?p=bridge).
 
-The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon:
+**Legacy (Polygon era):** The following is a step-by-step example of bridging ERC-20 tokens from Ethereum Mainnet to Polygon. It is retained for historical reference; Base-era bridging uses different UIs/providers.
 
 1). Click on the token image (circled in red below) to open a dropdown menu of tokens. Select the token that is to be transferred to Polygon.
 
@@ -122,16 +124,21 @@ If you have any questions about the Umbria Narni Bridge, or would like to chat w
 
 ### Base Bridges
 
-For GHST on Base:
+For bridging assets between Ethereum and Base, Base docs list common options (and note that `bridge.base.org` has been deprecated):
 
-- Canonical bridge (Ethereum↔Base): Superbridge
-- Fast bridges (Polygon↔Base): Bungee, Jumper (availability subject to providers)
+- Base docs (bridges): https://docs.base.org/base-chain/network-information/bridges
+- Superbridge (Base mainnet): https://superbridge.app/base
+- Superbridge (Base Sepolia): https://superbridge.app/base-sepolia
+
+Fast bridges (Polygon↔Base) vary by provider and availability over time (examples: Bungee, Jumper).
 
 Reference (historical): [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/).
 
 Note: specific bridge availability changes over time; keep this section high-level and treat provider lists as time-bound.
 
 ## Centralized Bridges
+
+> **Note:** Exchange and on-ramp support changes frequently. The examples below include legacy Polygon-era flows; always verify supported deposit/withdraw networks before sending funds.
 
 ### AscendEX
 
@@ -163,7 +170,7 @@ Binance is one of the largest cryptocurrency exchanges in the world.
 
 As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly on Polygon](https://blog.aavegotchi.com/binance-enables-ghst-deposits-and-withdrawals-on-polygon/).
 
-**Exchange availability can change over time.** On 3 February 2026, Binance announced it will [delist GHST spot and perpetual contracts on 2026-02-13 03:00 UTC](https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27).
+**Exchange availability can change over time.** Always check the exchange’s supported networks and official announcements before sending funds.
 
 For the most up-to-date list of venues, see the GHST “Markets” tab on CoinGecko: https://web.archive.org/web/*/https://www.coingecko.com/en/coins/aavegotchi#markets
 

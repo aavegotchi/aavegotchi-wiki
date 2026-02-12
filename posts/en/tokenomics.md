@@ -3,7 +3,7 @@ author: appellants
 date: "2025-09-18T00:00:00.000Z"
 title: "Tokenomics"
 description: "The Tokenomics of Aavegotchi GHST Token"
-image: "IMAGE HERE"
+image: "tokenomics/leogotchi.png"
 contributors: ["appellants", "unintelligent-nerd"]
 ---
 

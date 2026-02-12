@@ -35,7 +35,7 @@ Staking refers to locking assets in a protocol in return for rewards. In Aavegot
 
 ## Current: Base LP staking for GLTR
 
-1. Go to the [Aavegotchi staking page](https://aavegotchi.com/staking) and connect your wallet on Base.
+1. Go to the [Aavegotchi staking page](https://www.aavegotchi.com/staking?p=gltr) and connect your wallet on Base.
 2. Pick a supported pool and open its LP flow (the UI links out to the liquidity venue).
 3. Deposit tokens to mint LP tokens for the selected pool.
 4. Stake those LP tokens in Aavegotchi staking and harvest GLTR rewards.

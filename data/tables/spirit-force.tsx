@@ -27,7 +27,7 @@ export const tables
 					[`<img class="atoken" src="/spirit-force/aUNI.svg" alt = "aUNI token">`, "UNI", "Governance token of Uniswap Exchange."],
 					[`<img class="atoken" src="/spirit-force/aTUSD.svg" alt = "aTUSD token">`, "TUSD", "Stablecoin issued by TrustToken that is fully collateralized and legally protected."],
 					[`<img class="atoken" src="/spirit-force/aUSDT.svg" alt = "aUSDT token">`, "USDT", "A stablecoin that mirrors the price of the U.S. dollar, issued by Tether."],
-					[`<img class="atoken" src="/spirit-force/aWMATIC.svg" alt = "aWMATIC token">`, "MATIC", "Native token of Polygon Network"],
+					[`<img class="atoken" src="/spirit-force/aWMATIC.svg" alt = "aWMATIC token">`, "MATIC", "Wrapped MATIC (Polygon) aToken collateral (legacy / historical)."],
 					[`<img class="atoken" src="/spirit-force/aWBTC.svg" alt = "aWBTC token">`, "WBTC", "Tokenized version of Bitcoin on Ethereum."],
 					[`<img class="atoken" src="/spirit-force/aETH.svg" alt = "aETH token">`, "WETH", "Digital, global money. The currency of Ethereum DApps."]
                 ]

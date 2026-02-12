@@ -35,6 +35,7 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 ## Other Useful Pages
 
 * [Team](/team) -- See who's building Aavegotchi
+* [Migration to Base (2025)](/base-migration) -- Polygon to Base migration facts and context
 * [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
 * [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!

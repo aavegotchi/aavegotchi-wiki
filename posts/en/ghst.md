@@ -78,7 +78,7 @@ There are 3 ways to get GHST.
 
 - Aerodrome (Base)
 
-Access the DEXes through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=swap).
+Access the DEXes through the Aavegotchi UI here: https://www.aavegotchi.com/get-tokens?p=swap.
 
 ### Bridge
 
@@ -90,7 +90,7 @@ Access the DEXes through the Aavegotchi UI [here](https://dapp.aavegotchi.com/ge
 
 - Umbria Bridge — Fast bridge with GHST liquidity
 
-Access the Bridges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=bridge).
+Access the Bridges through the Aavegotchi UI here: https://www.aavegotchi.com/get-tokens?p=bridge.
 
 ### Purchase
 
@@ -101,7 +101,7 @@ Access the Bridges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/
 > - Source: [Discord announcement (2026-02-03)](https://discord.com/channels/1466071512321753238/1468185291935187004/1468185677710495911)
 > - Source: [Binance announcement](https://www.binance.com/en/support/announcement/detail/87a9bdf137f348668a85575ee02b8a27)
 
-Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.com/get-tokens?p=purchase).
+Access the Exchanges through the Aavegotchi UI here: https://www.aavegotchi.com/get-tokens?p=purchase.
 
 Make sure you get the correct token address as well.
 

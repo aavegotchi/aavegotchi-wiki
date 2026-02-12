@@ -3,7 +3,7 @@ author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Glossary'
 description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
-image: "IMAGE HERE"
+image: "glossary/glossary.png"
 contributors: ["appellants", "eris771", "unintelligent-nerd"]
 ---
 
@@ -12,6 +12,7 @@ contributors: ["appellants", "eris771", "unintelligent-nerd"]
 <p class="headerImageText">Aavegotchi after reading GotchiGlossary</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home migrated to **Base**. Some terms below are **legacy Polygon-era** references kept for historical context. See: **[Migration to Base (2025)](/base-migration)**.
 
 If you've just begun exploring the world of DeFi, welcome to this corner of the internet! This glossary aims to provide you with some information that will hopefully help you wrap your 
 head around some DeFi basics. If you're completely new to this space, this glossary will also provide you with an overview of some terms you can expect to see when navigating the 
@@ -87,6 +88,7 @@ When you're done reading this and hopefully have a better understanding of these
 <p><a href=#metaverse>Metaverse</a></p>
 <p><a href=#non-fungible-token>Non-Fungible Token (NFT)</a></p>
 <p><a href=#polygon>Polygon</a></p>
+<p><a href=#base>Base</a></p>
 <p><a href=#proof-of-stake>Proof of Stake (PoS)</a></p>
 <p><a href=#quickswap>QuickSwap</a></p>
 </ol>
@@ -103,7 +105,7 @@ Our community developers! Check out some of the [tools](/developers) and [mini-g
 Our aartistically-inclined frens from the Gotchi community. Our Aartists frens have designed some of the beaautiful wearables your Gotchis are wearing. Get to know them [here](/aartist).
 
 ### Aavegotchi
-Aavegotchis are pixelated ghosts living on the Ethereum blockchain, backed by the ERC-721 standard. Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](atokens), and equipped [wearables](/wearables).
+Aavegotchis are pixelated ghosts living on the **Base** blockchain (an Ethereum L2), backed by the ERC-721 standard. (Historically: launched on Ethereum, then Polygon.) Their value is determined by [rarity level](/rarity-farming), which is calculated via multiple factors, such as base traits, amount of [staked collateral](/atokens), and equipped [wearables](/wearables).
 
 ### Baadge
 Baadges are non-transferable ERC-1155 NFTs that commemorate your Gotchi's participation in a special event. Once a Baadge is sent to your Gotchi, it resides in their Gotchi Pocket forever.
@@ -146,7 +148,7 @@ Raffle Tickets are tickets that are used to enter Raffles to win limited edition
 Raffle Tickets could also be converted into [Drop Tickets](/glossary#drop-tickets) for the purchase of REALM parcels.
 
 ### Spirit Force
-Spirit Force refers to the amount of collateral ([maTokens](/matokens)) locked within the gotchi. Gamers can top up or reduce the amount of Spirit Force within the Aavegotchi. However, there is a minimum level of Spirit Force that an Aavegotchi requires, which is dependent on their Base Rarity Score.
+Spirit Force refers to the amount of collateral locked within the gotchi. Historically, this collateral was represented by Polygon-era **maTokens/amTokens** (Aave aTokens) used as Spirit Force. In the Base era, always confirm current Spirit Force mechanics and supported collateral from the app/contracts. See: **[Spirit Force](/spirit-force)**.
 
 ### Spirit Point
 Spirit Point refers to the point a gotchi gets when it levels up. Kinda like stat points from RPG games. You get 1 spirit point per 3 levels.
@@ -224,7 +226,7 @@ If you want to craft Godlike items or Pets, you will need some Essence. The only
 That means no banks taking a cut of your potential returns or providing you with negative interest rates. That also means no central point of failure where the entire system could collapse, or be subjected to a set of rules decided and implemented by a small group with concentrated power.
 
 ### amTokens
-amTokens are LP tokens from Aave's money market pools that is native to **Polygon**. They are **NOT THE SAME** as [maTokens](/glossary#matokens).
+**Legacy (Polygon era):** amTokens refer to Aave interest-bearing aTokens from Aave’s **Polygon** markets (used as Spirit Force collateral for Haunt 2+ gotchis). They are **not the same** as [maTokens](/glossary#matokens).
 
 ### APY
 APY stands for Annual Percentage Yield. This is the real rate of return earned on the savings you have deposited into a protocol, taking into account the effect of compounding your interest.
@@ -313,7 +315,9 @@ Check out their [site](https://aragon.org/) here.
 A bell curve is a common type of distribution for a variable, also known as the normal distribution. The term "bell curve" originates from the fact that the graph used to depict a normal distribution consists of a symmetrical bell-shaped curve. See this [page](https://www.investopedia.com/terms/b/bell-curve.asp) for more information.
 
 ### Chainlink VRF
-A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are indeed using a tamper-proof source of randomness beyond their control. In the Aavegotchi project, the Chainlink VRF is used to randomize the generation of [traits](/traits) at the point of [portal](/portals) opening, raffle prizes, and parcel surveying.
+A Verifiable Randomness Function (VRF) developed by Chainlink to generate randomness that is verifiable on-chain. It is used to provide proof that smart contracts are using a tamper-proof source of randomness beyond their control.
+
+**Legacy (Polygon era):** Aavegotchi used Chainlink VRF for randomness in features like [portal](/portals) opening, raffles, and parcel surveying. In the Base era, portal opening uses **Proof of Play VRF** (see **[Portals](/portals)**).
 
 Read more about the Chainlink VRF [here](https://blog.chain.link/verifiable-random-functions-vrf-random-number-generation-rng-feature/).
 
@@ -373,11 +377,14 @@ such as wearables, works of art, or any other type of property.
 The **opposite** of a non-fungible token is one that can be exchanged for any other of its kind, like USDC or Bitcoin. Tokens that can be swapped 1:1 for a coin of the same kind are known as fungible tokens.
 
 ### Polygon
-Polygon (Formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of Plasma framework (Plasma MoreVP) - with an account based implementation, Polygon supports all the existing Ethereum tooling along with faster and cheaper transactions.
+Polygon (formerly Matic Network) is a scaling solution for public blockchains. Based on an adapted implementation of the Plasma framework (Plasma MoreVP) with an account-based implementation, Polygon supports existing Ethereum tooling along with faster and cheaper transactions.
 
-To transfer tokens from the Ethereum Mainnet to Polygon, please refer to this [guide](/polygon).
+**Aavegotchi note:** Polygon was Aavegotchi’s primary chain during 2021-2025. As of **2025-07-25**, Aavegotchi’s canonical home is **Base**. The [Polygon guide](/polygon) is kept for legacy/historical reference.
 
 Read more about Polygon [here](https://polygon.technology/).
+
+### Base
+Base is an Ethereum L2 network (OP Stack). As of **2025-07-25**, Aavegotchi’s canonical home is on **Base**. See: **[Migration to Base (2025)](/base-migration)**.
 
 ### Proof of Stake
 
@@ -389,6 +396,6 @@ Read more about the Proof of Stake consensus mechanism [here](https://consensys.
 
 ### QuickSwap
 
-QuickSwap is a permissionless decentralized exchange (DEX) based on Ethereum, powered by [Polygon](/glossary#polygon)’s Layer 2 scalability infrastructure. By utilizing Layer 2 for transactions, QuickSwap users will be able to trade any ERC20 asset at lightning-fast speeds with near-zero gas costs.
+QuickSwap is a permissionless decentralized exchange (DEX) powered by [Polygon](/glossary#polygon). In the Aavegotchi ecosystem, QuickSwap references are primarily **legacy Polygon-era** context after the migration to Base.
 
 QuickSwap can be accessed [here](https://quickswap.exchange).
