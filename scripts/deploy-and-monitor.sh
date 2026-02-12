@@ -9,6 +9,8 @@ Options:
   -m, --message "<msg>"   Commit message if local changes need committing
   -s, --source "<branch>" Source branch to merge into main (default: current branch)
   -t, --tag "<tag>"       Optional tag to create/push after merge
+      --vercel-project     Vercel project to monitor (default: aavegotchi-wiki)
+      --vercel-scope       Vercel scope/team slug (default: bullionix)
       --no-build          Skip npm build preflight
       --skip-merge        Skip merge/push to main (monitor only current HEAD)
       --no-watch          Skip GitHub/Vercel monitoring
@@ -37,6 +39,8 @@ tag=""
 do_build="1"
 do_merge="1"
 do_watch="1"
+vercel_project="${VERCEL_PROJECT:-aavegotchi-wiki}"
+vercel_scope="${VERCEL_SCOPE:-bullionix}"
 
 while [[ $# -gt 0 ]]; do
   case "$1" in
@@ -50,6 +54,14 @@ while [[ $# -gt 0 ]]; do
       ;;
     -t|--tag)
       tag="${2:-}"
+      shift 2
+      ;;
+    --vercel-project)
+      vercel_project="${2:-}"
+      shift 2
+      ;;
+    --vercel-scope)
+      vercel_scope="${2:-}"
       shift 2
       ;;
     --no-build)
@@ -161,12 +173,22 @@ fi
 echo ""
 echo "=== Monitor Vercel ==="
 if command -v vercel >/dev/null 2>&1; then
+  vercel_cmd=(vercel list)
+  if [[ -n "$vercel_project" ]]; then
+    vercel_cmd+=("$vercel_project")
+  fi
+  vercel_cmd+=(--status READY)
+  if [[ -n "$vercel_scope" ]]; then
+    vercel_cmd+=(--scope "$vercel_scope")
+  fi
+
+  echo "Running: ${vercel_cmd[*]}"
   set +e
-  vercel list aavegotchi-wiki --status READY -y
+  "${vercel_cmd[@]}"
   vercel_status=$?
   set -e
   if [[ "$vercel_status" -ne 0 ]]; then
-    echo "Skipping Vercel summary (not authenticated or project inaccessible)."
+    echo "Skipping Vercel summary (check login/token, project, and scope)."
   fi
 else
   echo "Skipping Vercel monitoring (vercel not installed)."
