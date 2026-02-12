@@ -11,6 +11,8 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">Gotchus Alchemica Exchange</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page contains a mix of evergreen concepts and historical Polygon-era details. For canonical contract addresses and network context, see **[Migration to Base (2025)](/base-migration)** and **[Contracts](/contracts)**.
+
 The young Gotchi crept up to the entrance of the forbidden tower. Looming in front of him was a large wooden door, full of eldritch carvings and sinister symbols.
 
 The door creaked open, inviting him in.
@@ -44,7 +46,7 @@ This, my frens, is the Gotchus Alchemica Exchange (GAX).
 ## Features
 
 
-The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that will allow games built on Aavegotchi to have stable, deep liquidity for the 4 Gotchus Alchemica tokens:
+The Gotchus Alchemica Exchange (GAX) is a key piece of infrastructure in the Aavegotchi protocol that provides stable, deep liquidity for the 4 Gotchus Alchemica tokens:
 
 * FUD
 * FOMO
@@ -105,8 +107,8 @@ All GLTR spent in-game is burned from the supply (sent to burn address).
 
 The official blog post announcing GLTR spending/staking (published **2022-05-31**) listed the following addresses:
 
-- **GLTR token (Polygon):** `0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc`
-- **GLTR staking contract (Polygon):** `0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c`
+- **GLTR token (Polygon):** `{{GLTR_ADDRESS}}`
+- **GLTR staking contract (Polygon):** `{{GLTR_STAKING_ADDRESS}}`
 
 > Note: treat these as **historical Polygon-era references**; always cross-check token/contract addresses against the latest official sources before interacting.
 
@@ -116,6 +118,6 @@ The official blog post announcing GLTR spending/staking (published **2022-05-31*
 
 ## Earning GLTR
 
-Current: on Base, supported LP tokens can be staked to earn GLTR at [https://aavegotchi.com/staking](https://aavegotchi.com/staking).
+Current: on Base, supported LP tokens can be staked to earn GLTR at [https://www.aavegotchi.com/staking](https://www.aavegotchi.com/staking).
 
 Historical: on Polygon, wapGHST and Quickswap/Sushiswap LP tokens could be staked via [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking).

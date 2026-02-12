@@ -29,7 +29,7 @@ Goal: ensure **durable claims** are reflected in the wiki with correct **histori
 - Wiki target: `posts/en/ghst.md` → “Historical milestones”
 - Status: **partial** (now cited + framed; deeper bridge guidance lives on bridge page)
 
-2) **Bridge guidance referenced canonical bridge and fast-bridge options (Superbridge; Bungee/Jumper as coming soon at the time)**
+2) **Bridge guidance referenced canonical bridge and fast-bridge options (Superbridge; Bungee/Jumper as then-upcoming at the time)**
 - Wiki target: `posts/en/bridge.md` → “Base Bridges”
 - Status: **partial** (citation added; availability intentionally described as time-bound)
 
@@ -137,7 +137,7 @@ PR: (this batch)
 
 ### Durable claims → wiki mapping
 
-1) **2023-03-22: AGIP64 and AGIP65 were described as having passed on Snapshot, with planned follow-up on-chain Aragon votes** (close the bonding curve; allocate Curve DAI)
+1) **2023-03-22: AGIP64 and AGIP65 were described as having passed on Snapshot, with anticipated follow-up on-chain Aragon votes** (close the bonding curve; allocate Curve DAI)
 - Wiki target: `posts/en/aavegotchi-improvement-proposals-2023.md` → “AGIP #64” and “AGIP #65”
 - Status: **present** (blog context + citation added)
 

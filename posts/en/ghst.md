@@ -29,7 +29,7 @@ GHST is live on Base, and Aavegotchi’s canonical home has migrated to Base (hi
 - **2024-04-17:** GHST was announced as **live for trading on Base** (expanding GHST’s multichain footprint). Source: [GHST Token Is Now Live on Base (2024-04-17)](https://blog.aavegotchi.com/ghst-token-is-now-live-on-base/)
 - **2025-07-25:** Aavegotchi announced it had **migrated to Base**, with Polygon contracts frozen/view-only as part of the transition. Source: [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
 
-GHST is a fully compliant ERC20 token. You can view its contract address on Polygon here: [https://web.archive.org/web/*/https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7](https://web.archive.org/web/*/https://polygonscan.com/token/0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
+GHST is a fully compliant ERC20 token. You can view its legacy Polygon contract here: [{{GHST_POLYGON_ADDRESS}}]({{POLYGONSCAN_GHST_URL}})
 
 <div class="contentsBox">
 
@@ -60,7 +60,7 @@ GHST was initially launched using a “bonding curve” mechanism where GHST was
 
 Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
 
-As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
+As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [Etherscan]({{ETHERSCAN_GHST_URL}}) for a real-time update of the token's total supply.
 
 ## Buying GHST
 
@@ -85,11 +85,11 @@ Centralized exchange listings and supported deposit/withdraw networks change fre
 
 Make sure you get the correct token address as well.
 
-On Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550]({{ETHERSCAN_GHST_URL}})
+On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}]({{ETHERSCAN_GHST_URL}})
 
-On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7]({{POLYGONSCAN_GHST_URL}})
+On Polygon: [{{GHST_POLYGON_ADDRESS}}]({{POLYGONSCAN_GHST_URL}})
 
-On Base: [0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB]({{BASESCAN_GHST_URL}})
+On Base: [{{GHST_BASE_ADDRESS}}]({{BASESCAN_GHST_URL}})
 
 **Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 

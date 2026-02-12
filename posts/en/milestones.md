@@ -6,6 +6,8 @@ description: "Milestones of the Aaavegotchi Project"
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is a chronological archive of announcements; older entries may contain Polygon-era or Gotchichain/Geist-era framing. See: **[Migration to Base (2025)](/base-migration)**.
+
 <div class="contentsBox">
 
 **Contents**
@@ -25,7 +27,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi 2026: What Pixelcraft Is Shipping Next](https://blog.aavegotchi.com/aavegotchi-2026-what-pixelcraft-is-shipping-next/)
 
-- On **2026-01-27**, Pixelcraft published a roadmap-style update outlining its 2026 priorities (including mobile-first, crypto-native games on Base; a live iteration phase for DeFi Dungeon; and a planned Q1 mobile launch for Rektless).
+- On **2026-01-27**, Pixelcraft published a roadmap-style update outlining its 2026 priorities (including mobile-first, crypto-native games on Base; a live iteration phase for DeFi Dungeon; and a Q1 mobile launch target for Rektless).
   <p></p>
 
 ## Year 2024

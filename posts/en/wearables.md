@@ -12,6 +12,8 @@ contributors: ["cinnabarhorse", "unintelligent-nerd"]
 <p class="headerImageText">The Sergey Blue Plaid</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page includes many historical raffle/auction sets and Polygon-era references; treat those as archival context. See: **[Migration to Base (2025)](/base-migration)**.
+
 Wearables are an important component of the Aavegotchi game. Besides endowing your Aavegotchi with a sense of fashion, wearables also boost the Aavegotchi's traits and rarity score, enabling them to perform better in [mini-games](/minigames), [rarity farming](/rarity-farming), and in the [Aarena](/aarena#wearable-boosts).
 
 Wearables conform to the ERC-1155 standard.

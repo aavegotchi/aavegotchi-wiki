@@ -6,6 +6,8 @@ description: 'Aavegotchi Recipes'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page focuses on Gotchiverse crafting/recipes; older Polygon-era timing references are explicitly historical. See: **[Migration to Base (2025)](/base-migration)**.
+
 Building [Installations](/gotchiverse#building-on-realm-parcels) and upgrading them to become more powerful is an important part of the Gotchiverse experience. Different Installations require different “recipes” to build and upgrade. You can find the latest recipes on this page.
 
 <div class="contentsBox">

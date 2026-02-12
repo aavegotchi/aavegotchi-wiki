@@ -6,6 +6,8 @@ description: 'A list of Aavegotchi Improvement Proposals (AGIPs)'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is an **archive** of historical governance proposals and may include Polygon-era assumptions and time-bound language. Also note that Gotchichain/Geist ultimately **did not launch**. For current chain context, see **[Migration to Base (2025)](/base-migration)** and **[Contracts](/contracts)**.
+
 
 Heya frens. Participating in Aavegotchi Improvement Proposals (AGIPs) are what responsible gotchis do! You need to vote and get your voices heard. 
 

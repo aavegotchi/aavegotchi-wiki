@@ -6,6 +6,8 @@ description: 'Aavegotchi Milestones in 2021'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is a historical archive of 2021 milestones and includes Polygon-era announcements and language. See: **[Migration to Base (2025)](/base-migration)**.
+
 ## [Not just 1, but 8 proposals to vote for!](https://aavegotchi.medium.com/vote-now-aavegotchidao-end-of-the-year-xp-extravaganza-ce8f9dddfaec?source=user_profile---------0-------------------------------)
 
 * 2 new Core Props and 6 new SigProps to vote for!
@@ -85,7 +87,7 @@ contributors: ["unintelligent-nerd"]
 * Fulfil your Gotchi civic duty and vote!
 <p></p>
 
-## [Bridging Aavegotchis back to Ethereum Mainnet? Coming Soon!](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
+## [Bridging Aavegotchis back to Ethereum Mainnet (2021 announcement)](https://aavegotchi.medium.com/aavegotchis-are-bridging-to-ethereum-with-3x-rewards-for-trading-344432eded9f)
 * Starting Monday, 4 October 2021, Aavegotchis can be bridged back to Ethereum Mainnet using the Aavegotchi Bridge
 * NFT Marketplace Rarible is offering incentives for Aavegotchis trading in their marketplace
 * Get 3x as many RARI trading rewards for trading Aavegotchis for the next 2 weeks!!!
@@ -342,7 +344,7 @@ contributors: ["unintelligent-nerd"]
 <p></p>
 
 ## [Wait! What?! An Aavegotchi NFT Marketplace](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f)
-* On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) will be launching alongside Portals and Wearables when the game goes live in February! 
+* On 2 February 2021, the team announced that the official Aavegotchi Marketplace (Aavegotchi Baazaar) would launch alongside Portals and Wearables when the game went live later that month.
 <p></p>
 
 ## [Release of the Farmer’s Aalmanac: The Ultimate Guide to reaping GHST Rewards](https://aavegotchi.medium.com/farmers-aalmanac-the-ultimate-guide-to-reaping-ghst-to-matic-rewards-fad52d8aecf3)

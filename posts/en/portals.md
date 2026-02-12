@@ -12,7 +12,7 @@ image: "portals/portal.gif"
 <p class="headerImageText">An Aavegotchi Portal</p>
 </div>
 
-
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. Portal opening is on Base, but some terminology below (especially **maTokens/amTokens**) is **Polygon-era** Spirit Force context; verify current Spirit Force mechanics in the live app/contracts. See: **[Migration to Base (2025)](/base-migration)** and **[Spirit Force](/spirit-force)**.
 
 How do you summon an Aavegotchi and bring it from the Nether realm to your screen? Through a Portal, of course! 
 
@@ -75,9 +75,9 @@ More information on rarity farming can be found [here](/rarity-farming).
 
 ## Claiming an Aavegotchi
 
-To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force can be acquired directly through the [Aavegotchi UI](/spirit-force#buying-matokens-amtokens).
+To claim an Aavegotchi from the portal, you need to stake the required amount of [Spirit Force](/spirit-force) into the Portal. Spirit Force collateral can be acquired directly through the Aavegotchi app UI (see **[Spirit Force](/spirit-force)**).
 
-In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The [maTokens/amTokens](/spirit-force#buying-matokens-amtokens) you stake to it provide this intrinsic value. 
+In addition to their monetary value as dictated by scarcity and market forces, each Aavegotchi also has an intrinsic value. The Spirit Force collateral you stake provides this intrinsic value. (Historically, Polygon-era Spirit Force was represented by maTokens/amTokens; confirm Base-era collateral mechanics in the app.)
 
 **For more information on Spirit Force, see [here](/spirit-force).**
 
@@ -99,7 +99,7 @@ For example, if the Base Rarity Score is less than 300, you need to stake at lea
 
 You can increase or decrease the Spirit Force (staked maToken/amToken amount) of your Aavegotchi later via the Aavegotchi Dapp UI.
 
-To claim your Gotchi, you need to perform 2 transactions. First, you need to approve the smart contract to spend the maToken/amToken in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
+To claim your Gotchi, you need to perform 2 transactions. First, you approve the smart contract to spend the required Spirit Force collateral token in your wallet. The subsequent transaction allows you to claim the Aavegotchi.
 
 ## Interacting with your Aavegotchi
 

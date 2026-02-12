@@ -6,7 +6,7 @@ description: "Historical notes on the Gotchiverse Game Bible design document and
 contributors: ["moss"]
 ---
 
-The **Gotchiverse Game Bible** was a public-facing game design document published by Pixelcraft to describe planned Gotchiverse gameplay, economy, and building systems.
+The **Gotchiverse Game Bible** was a public-facing game design document published by Pixelcraft to describe intended Gotchiverse gameplay, economy, and building systems.
 
 - Source (announcement): [Introducing the Gotchiverse Game Bible (2022-01-14)](https://blog.aavegotchi.com/introducing-the-gotchiverse-game-bible/)
 - Source (GitHub repo linked in the announcement): https://github.com/aavegotchi/gotchiverse-bible
