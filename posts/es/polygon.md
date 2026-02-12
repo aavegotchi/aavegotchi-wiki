@@ -33,7 +33,7 @@ Como puede que sepas o no, el lanzamiento de Aavegotchi Mainnet estaba previsto 
 
 Estaba claro que un lanzamiento en Ethereum Mainnet era imposible. Dado que Polygon ya ha estado trabajando junto a diferentes proyectos NFT (como OpenSea), la elección fue relativamente fácil. La comunidad compartió este sentimiento y votó a favor de un lanzamiento en Polygon con 76%.
 
-Para una discusión extendida sobre este tema, vea este medium [post](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
+Para una discusión extendida sobre este tema, vea este medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2).
 
 ## Agrega Polygon a Metamask
 

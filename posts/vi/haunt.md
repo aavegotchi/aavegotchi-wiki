@@ -34,7 +34,7 @@ Haunt 1 đã được triển khai vào ngày 2 tháng Ba 2021. 10,000 Aavegotch
 
 10.000 portal đầu tiên đã được bán hết sạch chỉ trong vòng 1 phút. Việc này đã là một thành công lớn với tất cả các thông số trừ việc không phải ai cũng có được một Portal.
 
-Các Aavegotchi thế hệ Haunt 1 cũng mang trong mình một bức Ảnh Nền Haunt 1. Hãy xem qua [bài viết medium](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) này và cách nhận nó nếu bạn có một Gotchi thuộc thế hệ Haunt 1. Ảnh nền được lập trình để không thể chuyển đi được. Điều này có nghĩa là từ đây đến mãi về sau, chỉ có những Aavegotchi thuộc thế hệ Haunt 1 có thể trang bị ảnh nền portal tuyệt đẹp này!
+Các Aavegotchi thế hệ Haunt 1 cũng mang trong mình một bức Ảnh Nền Haunt 1. Hãy xem qua [bài viết medium](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) này và cách nhận nó nếu bạn có một Gotchi thuộc thế hệ Haunt 1. Ảnh nền được lập trình để không thể chuyển đi được. Điều này có nghĩa là từ đây đến mãi về sau, chỉ có những Aavegotchi thuộc thế hệ Haunt 1 có thể trang bị ảnh nền portal tuyệt đẹp này!
 
 Bức ảnh nền độc quyền này đã được bỏ phiếu trong [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis).
 

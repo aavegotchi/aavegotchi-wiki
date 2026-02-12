@@ -67,7 +67,7 @@ GHST 특별 판매는 2020년 9월 14일부터 14일간 열렸으며 누구나 �
 
 한정 판매, 특별 판매 참가자들은 특별판매가 종료되는 시점에서부터 1년에 걸쳐 구매한 GHST 토큰을 얻게 됩니다. 180일 후에는, 총 공급량의 약 50%에 해당하는 '최초 릴리스(initial release)'가 있을 예정이며, 그 후 185일 동안 잔여 공급량들이 점차 분배되는 '드립 릴리스(drip release)'가 있을 예정입니다.
 
-For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
+For more details on this, read on in the [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) and [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 **모두에게 열린 Bonding Curve에 따른 판매**
 
@@ -161,7 +161,7 @@ The following table details the percentage changes in each category across Reven
 
 table_revenueSharing
 
-The rationale for the changes from V1 to V2 can be found [here](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+The rationale for the changes from V1 to V2 can be found [here](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
 
 ## Token Supply
 

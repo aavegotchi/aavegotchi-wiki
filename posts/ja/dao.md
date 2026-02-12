@@ -188,7 +188,7 @@ AavegotchiDAOガバナンス・フォーラムは Discourse を使用してい�
 * 代替案（プランB、プランCなど）がある場合
 * 提案の終了時期は、Snapshot Communityの掲示板にアクティブな提案のみが表示されるように、提案開始時期から30日以内としてください。
 
-詳細は、この[Medium記事](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)をご覧ください。
+詳細は、この[Medium記事](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)をご覧ください。
 
 ## 議決権行使（投票）
 

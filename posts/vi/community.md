@@ -44,9 +44,9 @@ Kênh Discord của bọn mình cũng là một nơi tuyệt vời dành cho nh�
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/community/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Xem Bài Viết Của Chúng Tôi Trên Medium**</a>
+<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/community/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Xem Bài Viết Của Chúng Tôi Trên Medium**</a>
 
-<p style="margin-left: 4.8em">Trang Medium của Aavegotchi một một nơi tuyệt vời dành cho các độc giả quan tâm đển quá trình phát triển của dự án Aavegotchi. Đây là nơi mà bạn sẽ tìm thấy những cập nhật cộng đồng chuyên sâu, cũng như những thông tin chi tiết về<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffle (xổ số), </a> những sự kiện và đôi khi thậm chí bắt gặp một số fan-fiction được lấy cảm hứng từ Gotchi</p>
+<p style="margin-left: 4.8em">Trang Medium của Aavegotchi một một nơi tuyệt vời dành cho các độc giả quan tâm đển quá trình phát triển của dự án Aavegotchi. Đây là nơi mà bạn sẽ tìm thấy những cập nhật cộng đồng chuyên sâu, cũng như những thông tin chi tiết về<a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60"> raffle (xổ số), </a> những sự kiện và đôi khi thậm chí bắt gặp một số fan-fiction được lấy cảm hứng từ Gotchi</p>
 
 &nbsp;<a name="Telegram"></a>
 

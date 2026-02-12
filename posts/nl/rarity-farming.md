@@ -98,7 +98,7 @@ Meer categorieën zullen later toegevoegd worden als het Aavegotchi spel zich bl
 
 Speler beloningen worden elke twee weken verdeeld via onchain snapshots. Oorspronkelijk was dit een handmatig proces dat door Pixelcraft wordt afgehandeld, maar uiteindelijk kan het geautomatiseerd worden door de DAO. Na elke snapshot, kunnen beloningen worden opgeëist door alle succesvolle Rarity Farmers en de volgende ronde begint meteen.
 
-Hoe worden de GHST beloningen voor Rarity Farming gefundeerd? [40% van alle GHST dat gespendeerd wordt aan wearables, consumables, en andere spel items worden gedoneerd aan de Rarity Farming beloningen pool](https://web.archive.org/web/*/https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
+Hoe worden de GHST beloningen voor Rarity Farming gefundeerd? [40% van alle GHST dat gespendeerd wordt aan wearables, consumables, en andere spel items worden gedoneerd aan de Rarity Farming beloningen pool](https://aavegotchi.medium.com/rarity-farming-has-arrived-heres-how-to-play-1f1d3342dbc8).
 
 De laatste zeldzaamheidsscore van een Aavegotchi in het totale Aavegotchi Universe verschuift constant als spelers meer Aavegotchis oproepen, rust meer wearabels uit en verhoog hun Aavegotchis. Daarom moeten de spelers strategische beslissingen nemen over de opleiding en de uitrusting van hun Aavegotchis. Dat is hoe door Rarity Farming Aavegotchi doordachte gameplay en actieve deelname van gebruikers aanmoedigt, terwijl ze de beste farmers belonen voor hun spookoogsten.
 

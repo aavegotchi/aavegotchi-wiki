@@ -45,29 +45,29 @@ Aavegotchi-"Missionen" bieten eine tolle Möglichkeit, das Aavegotchi-Projekt ke
 &nbsp;
 
 
-[**MISSION 1:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Kommentar im Aavegotchi Litepaper.
+[**MISSION 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Kommentar im Aavegotchi Litepaper.
 
-[**MISSION 2:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Lade einen Freund in den Discord ein.
+[**MISSION 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Lade einen Freund in den Discord ein.
 
-[**MISSION 3:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Füge dem Aavegotchi Community Pitch Papier ein oder zwei Sätze hinzu.
+[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Füge dem Aavegotchi Community Pitch Papier ein oder zwei Sätze hinzu.
 
-[**MISSION 4:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweete uns auf Twitter, sag uns, warum du Aavegotchi liebst und markiere zwei Freunde.
+[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweete uns auf Twitter, sag uns, warum du Aavegotchi liebst und markiere zwei Freunde.
 
-[**MISSION 5:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Stell eine Frage in unserem Telegram.
+[**MISSION 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Stell eine Frage in unserem Telegram.
 
-[**MISSION 6:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Nutze unser Testnet, um Testnet (nicht echtes) GHST von der Testnet Bonding Curve zu kaufen (die KEIN KYC erfordert - die echte Bonding Curve schon, aber **du kannst alle Missionen ohne KYC abschliessen). ** Hier wirst du plötzlich zum Experten in der Nutzung von Testnets, wenn du es vorher nicht warst, und wirst dich superschlau fühlen, wenn du jedem helfen kannst, der nach dir kommt. Wenn du bei Mission 6 nicht weiterkommst, frag uns! Wir freuen uns, wenn wir unsere Aagenten unterstützen können.
+[**MISSION 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Nutze unser Testnet, um Testnet (nicht echtes) GHST von der Testnet Bonding Curve zu kaufen (die KEIN KYC erfordert - die echte Bonding Curve schon, aber **du kannst alle Missionen ohne KYC abschliessen). ** Hier wirst du plötzlich zum Experten in der Nutzung von Testnets, wenn du es vorher nicht warst, und wirst dich superschlau fühlen, wenn du jedem helfen kannst, der nach dir kommt. Wenn du bei Mission 6 nicht weiterkommst, frag uns! Wir freuen uns, wenn wir unsere Aagenten unterstützen können.
 
-[**MISSION 7:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Stimme über einen Aavegotchi Governance Vorschlag ab.
+[**MISSION 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Stimme über einen Aavegotchi Governance Vorschlag ab.
 
-[**MISSION 8:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Zeit für Memes! Erstelle ein Meme zum Thema Aavegotchi in einer beliebigen Sprache und poste es in unserem Meme-Thread auf Reddit.
+[**MISSION 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Zeit für Memes! Erstelle ein Meme zum Thema Aavegotchi in einer beliebigen Sprache und poste es in unserem Meme-Thread auf Reddit.
 
-[**MISSION 9:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Unsere anspruchsvollste Mission) Schreib einen kurzen Artikel oder erstell ein kurzes Video über Aavegotchi (300 Wörter für Artikel, oder 30 Sekunden für Videos). Veröffentliche deine Kreation auf der Plattform deiner Wahl (es gibt mehrere Optionen für jede) und retweete uns ein weiteres Mal zusammen mit dem Link zu deinem tollen Content.
+[**MISSION 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Unsere anspruchsvollste Mission) Schreib einen kurzen Artikel oder erstell ein kurzes Video über Aavegotchi (300 Wörter für Artikel, oder 30 Sekunden für Videos). Veröffentliche deine Kreation auf der Plattform deiner Wahl (es gibt mehrere Optionen für jede) und retweete uns ein weiteres Mal zusammen mit dem Link zu deinem tollen Content.
 
-[**MISSION 10:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) Erstelle ein AAVEGOTCHI (im Testnet) mit unserem Aavegotchi-Builder, adoptiere dein Gotchi als deinen Avatar (für 72 Stunden) und teile deine Kreation mit dem Rest der Aavegotchi Fam!
+[**MISSION 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) Erstelle ein AAVEGOTCHI (im Testnet) mit unserem Aavegotchi-Builder, adoptiere dein Gotchi als deinen Avatar (für 72 Stunden) und teile deine Kreation mit dem Rest der Aavegotchi Fam!
 
-[**MISSION 11:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Schau dir unser neues Wiki an! Wähle zwei Dinge aus, die deiner Meinung nach nützlich sein könnten, um das Wiki zur bestmöglichen Ressource zu machen.
+[**MISSION 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Schau dir unser neues Wiki an! Wähle zwei Dinge aus, die deiner Meinung nach nützlich sein könnten, um das Wiki zur bestmöglichen Ressource zu machen.
 
-[**MISSION 12:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Sei ein Moovie Star! Markiere 2 deiner Lieblings-Krypto-Youtuber und lass sie wissen, dass die #GotchiGang unterwegs ist!
+[**MISSION 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Sei ein Moovie Star! Markiere 2 deiner Lieblings-Krypto-Youtuber und lass sie wissen, dass die #GotchiGang unterwegs ist!
 
 &nbsp;
 

@@ -188,7 +188,7 @@ Với COCOON, bọn mình sẽ bắt đầu đi theo những thước đo Cách 
 * Kế hoạch dự phòng (Kế hoạch B, kế hoạch C, v. v.)
 * Thời lượng của bản đề xuất không nên dài quá 30 ngày kể từ khi bắt đầu, vậy nên hãy đảm bảo rằng chỉ có những bản đề xuất đang cho phép bỏ phiếu mới được nằm trên bảng Snapshot cộng đồng.
 
-Xem thêm chi tiết tại [bài viết Medium](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)này.
+Xem thêm chi tiết tại [bài viết Medium](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)này.
 
 ## Bỏ phiếu
 

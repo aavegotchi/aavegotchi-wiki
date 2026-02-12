@@ -149,7 +149,7 @@ table_santaWearablesTable
 
 ## Trang Phục Chủ Đề OKex
 
-Vào ngày 7 Tháng Mười năm 2020, Aavegotchi đã hợp tác với OKex để tạo ra một bộ wearables đặc biệt được truyền cảm hứng bởi Jay Hao, CEO của OKex. Những người gửi token GHST vào nền tảng OKex, nếu may mắn, sẽ có một cơ hội để giành được những wearables này. Chỉ có 150 wearables được tạo ra. Top 5 người gửi tiền sẽ tự động giành được 5 bộ trang phục hoàn chỉnh. Những 125 NFT còn lại sẽ được phát ngẫu nhiên cho những ai gửi hơn 10 GHST vào OKex. Hãy nhấp vào [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) để xem thông tin chi tiết.
+Vào ngày 7 Tháng Mười năm 2020, Aavegotchi đã hợp tác với OKex để tạo ra một bộ wearables đặc biệt được truyền cảm hứng bởi Jay Hao, CEO của OKex. Những người gửi token GHST vào nền tảng OKex, nếu may mắn, sẽ có một cơ hội để giành được những wearables này. Chỉ có 150 wearables được tạo ra. Top 5 người gửi tiền sẽ tự động giành được 5 bộ trang phục hoàn chỉnh. Những 125 NFT còn lại sẽ được phát ngẫu nhiên cho những ai gửi hơn 10 GHST vào OKex. Hãy nhấp vào [đây](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) để xem thông tin chi tiết.
 
 table_okexWearablesTable
 
@@ -225,7 +225,7 @@ table_layer2WearablesTable
 
 ## Trang Phục Đấu Giá
 
-Sự kiện "Đấu Giá Kiếm Tiền" đầu tiên đã được tổ chức vào hôm thứ Năm, ngày 15 tháng 7 năm 2021. Đấu Giá Kiếm tiền được vận hành theo mô hình đấu giá của GBM. Hãy xem thêm những ưu điểm to lớn trong việc phân phối NFT từ mô hình này so với các mô hình cũ bằng cách truy cập vào trang wen và đọc [bài viết Medium](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29) của chúng tôi.
+Sự kiện "Đấu Giá Kiếm Tiền" đầu tiên đã được tổ chức vào hôm thứ Năm, ngày 15 tháng 7 năm 2021. Đấu Giá Kiếm tiền được vận hành theo mô hình đấu giá của GBM. Hãy xem thêm những ưu điểm to lớn trong việc phân phối NFT từ mô hình này so với các mô hình cũ bằng cách truy cập vào trang wen và đọc [bài viết Medium](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29) của chúng tôi.
 
 Chương trình đấu giá đầu tiên có sự xuất hiện của hai bộ trang phục mới cũng như một vật phẩm có độ hiếm common. Hãy sẵn sàng cho các gamer, steampunk và thậm chí là một cốc cà phê!
 
@@ -233,7 +233,7 @@ table_auctionWearablesTable
 
 ## Trang Phục Aavegotchi x Venly
 
-Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://web.archive.org/web/*/https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
+Sự kết hợp giữa Aavegotchi và Venly, mang đến cho Aavegotchi lượng người chơi game NFT đông đảo. Hãy đọc qua [bài viết này](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) để có thêm thông tin.
 
 table_venlyWearablesTable
 

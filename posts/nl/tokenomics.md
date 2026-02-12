@@ -67,7 +67,7 @@ De middelen die hier ter beschikking werden gesteld, werden gebruikt voor bootst
 
 Deelnemers van de Private Verkoop en Voorverkoop zullen hun GHST-tokens voor een jaar laten berusten beginnend bij het sluiten van de Voorverkoop ronde. Na 180 dagen wordt een eerste uitgave vrijgegeven die overeenkomt met ongeveer 50 procent van het totale bedrag, gevolgd door een drip release van de resterende tokens in de komende 185 dagen.
 
-Voor meer details hierover, lees dan de [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) en [Community Update #4](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
+Voor meer details hierover, lees dan de [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) en [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 **Publieke Bonding Curve Verkoop**
 
@@ -161,7 +161,7 @@ De volgende tabel geeft details over het percentage wijzigingen in elke categori
 
 tabel_revenueDelen
 
-De reden voor de wijzigingen van V1 naar V2 kan je vinden [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+De reden voor de wijzigingen van V1 naar V2 kan je vinden [hier](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
 
 ## Token Supply
 

@@ -149,7 +149,7 @@ table_santaWearablesTable
 
 ## OKexウェアラブル
 
-2020年10月7日、AavegotchiはOKexと提携し、OKexのCEOであるジェイ・ハオ氏をイメージした特別なウェアラブルセットを作りました。 OKexのプラットフォームでGHSTトークンを預けた幸運な預金者は、これらのウェアラブルを獲得するチャンスがありました。 150個のウェアラブルをご用意しています。 上位5名の入金者は、自動的に5点セットを獲得することができます。 しかし、残りの125個のNFTは、10GHST以上入金した人にランダムに授与されます。 詳しくは[こちら](https://web.archive.org/web/*/https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)をご覧ください。
+2020年10月7日、AavegotchiはOKexと提携し、OKexのCEOであるジェイ・ハオ氏をイメージした特別なウェアラブルセットを作りました。 OKexのプラットフォームでGHSTトークンを預けた幸運な預金者は、これらのウェアラブルを獲得するチャンスがありました。 150個のウェアラブルをご用意しています。 上位5名の入金者は、自動的に5点セットを獲得することができます。 しかし、残りの125個のNFTは、10GHST以上入金した人にランダムに授与されます。 詳しくは[こちら](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2)をご覧ください。
 
 table_okexWearablesTable
 
@@ -225,7 +225,7 @@ table_layer2WearablesTable
 
 ## オークション・ウェアラブル
 
-2021年7月15日（木）～18日（日）の期間、第1回「入札型オークション」を開催しました。 ビッド・トゥー・アーン（Bid-to-Earn）のオークションは、我々のフレンズであるGBM.accessの技術によって実現されています。 このNFTの配信方法が、なぜ旧来のモデルよりも大きな利点をもたらすのかについては、同社のサイトを訪問し、公開された[Mediumの記事](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)をお読みください。
+2021年7月15日（木）～18日（日）の期間、第1回「入札型オークション」を開催しました。 ビッド・トゥー・アーン（Bid-to-Earn）のオークションは、我々のフレンズであるGBM.accessの技術によって実現されています。 このNFTの配信方法が、なぜ旧来のモデルよりも大きな利点をもたらすのかについては、同社のサイトを訪問し、公開された[Mediumの記事](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)をお読みください。
 
 この最初のオークションでは、2つの新しいウェアラブルセットと、楽しくて新しいコモン・レアリティー・アイテムが出品されます。 ゲーマー、スチームパンク、そしてコーヒーカップがゲットできます！
 
@@ -233,7 +233,7 @@ table_auctionWearablesTable
 
 ## Aavegotchi × Venly・ウェアラブル
 
-AavegotchiとVenlyのコラボにより、Aavegotchiを大勢のNFTゲームファンに紹介します。 詳しくは[この投稿](https://web.archive.org/web/*/https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)をお読みください。
+AavegotchiとVenlyのコラボにより、Aavegotchiを大勢のNFTゲームファンに紹介します。 詳しくは[この投稿](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7)をお読みください。
 
 table_venlyWearablesTable
 

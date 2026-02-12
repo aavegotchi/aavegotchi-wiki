@@ -45,29 +45,29 @@ Aavegotchiの「ミッション」は、Aavegotchiプロジェクトを大いに
 &nbsp;
 
 
-[**ミッション1：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)Aavegotchiライトペーパーにコメントする。
+[**ミッション1：**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e)Aavegotchiライトペーパーにコメントする。
 
-[**ミッション2：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4)Discordに友達を1人招待する。
+[**ミッション2：**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4)Discordに友達を1人招待する。
 
-[**ミッション3：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)Aavegotchiコミュニティー・ピッチ・ペーパーにプロジェクトの感想を1～2文追加する。
+[**ミッション3：**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13)Aavegotchiコミュニティー・ピッチ・ペーパーにプロジェクトの感想を1～2文追加する。
 
-[**ミッション4：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)ツィッターでAavegotchiを愛する理由をリツイートし、2人の友人をタグ付けする。
+[**ミッション4：**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de)ツィッターでAavegotchiを愛する理由をリツイートし、2人の友人をタグ付けする。
 
-[**ミッション5：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)我々のテレグラムで質問をする。
+[**ミッション5：**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d)我々のテレグラムで質問をする。
 
-[**ミッション6：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)我々のテストネットを使って、テストネットのボンディングカーブからテストネットのGHST（本物ではない）を購入する（これはKYCを必要としません - 本物のボンディングカーブは必要ですが、**KYCなしですべてのミッションを完了することができます**）。ここで突然、テストネットのエキスパートとなり、後に続く人たちを助けることができ、とても賢くなったように感じることでしょう。 もしミッション6で行き詰まったら、私たちに聞いてください！ 私たちは喜んでエージェントをアシストします。
+[**ミッション6：**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9)我々のテストネットを使って、テストネットのボンディングカーブからテストネットのGHST（本物ではない）を購入する（これはKYCを必要としません - 本物のボンディングカーブは必要ですが、**KYCなしですべてのミッションを完了することができます**）。ここで突然、テストネットのエキスパートとなり、後に続く人たちを助けることができ、とても賢くなったように感じることでしょう。 もしミッション6で行き詰まったら、私たちに聞いてください！ 私たちは喜んでエージェントをアシストします。
 
-[**ミッション7：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)Aavegotchiのガバナンス・プロポーザルに投票する。
+[**ミッション7：**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645)Aavegotchiのガバナンス・プロポーザルに投票する。
 
-[**ミッション8：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)ミームタイム！ Aavegotchiをテーマにしたミームを好きな言語で作成し、Redditのミームスレッドに投稿してください。
+[**ミッション8：**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301)ミームタイム！ Aavegotchiをテーマにしたミームを好きな言語で作成し、Redditのミームスレッドに投稿してください。
 
-[**ミッション9：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)（一番高い難易度のミッション）Aavegotchiに関する短い記事を書くか、短いビデオを作る（記事の場合は300ワード、ビデオの場合は30秒）。 あなたが選んだプラットフォームで作品を公開し（それぞれいくつかのオプションがあります）、そして、あなたの素晴らしいAavegotchiコンテンツへのリンクとともに、私たちにもリツイートしてください。
+[**ミッション9：**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd)（一番高い難易度のミッション）Aavegotchiに関する短い記事を書くか、短いビデオを作る（記事の場合は300ワード、ビデオの場合は30秒）。 あなたが選んだプラットフォームで作品を公開し（それぞれいくつかのオプションがあります）、そして、あなたの素晴らしいAavegotchiコンテンツへのリンクとともに、私たちにもリツイートしてください。
 
-[**ミッション10：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)Aavegotchiビルダーを使ってAavegotchiを（テストネットで）作成し、ゴッチをアバターとして採用し（72時間）、Aavegotchiファミリーのみんなと作品を共有しよう。
+[**ミッション10：**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936)Aavegotchiビルダーを使ってAavegotchiを（テストネットで）作成し、ゴッチをアバターとして採用し（72時間）、Aavegotchiファミリーのみんなと作品を共有しよう。
 
-[**ミッション11：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)新しいWikiをチェックしよう！ このウィキを最高のリソースにするために、役に立つと思うことを2つ選んでください。
+[**ミッション11：**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44)新しいWikiをチェックしよう！ このウィキを最高のリソースにするために、役に立つと思うことを2つ選んでください。
 
-[**ミッション12：**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)ムービースターになろう！ お気に入りのクリプト・ユーチューバーを2人タグ付けして、#GotchiGangが来たことを知らせよう！
+[**ミッション12：**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)ムービースターになろう！ お気に入りのクリプト・ユーチューバーを2人タグ付けして、#GotchiGangが来たことを知らせよう！
 
 &nbsp;
 

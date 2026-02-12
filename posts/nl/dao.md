@@ -188,7 +188,7 @@ Om signaalvoorstellen te maken waarop de #GotchiGang kan stemmen, moet u zich ho
 * Alle alternatieve paden (Plan B, Plan C, etc)
 * De eindtijd van een voorstel mag niet langer zijn dan 30 dagen vanaf de begintijd. om ervoor te zorgen dat alleen actieve voorstellen worden weergegeven op het communautaire bestuur Snapshot.
 
-Meer details zijn te vinden in dit [Medium bericht](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
+Meer details zijn te vinden in dit [Medium bericht](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333).
 
 ## Stemmen
 

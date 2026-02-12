@@ -34,7 +34,7 @@ Hunt 1 werd gelanceerd op 2 maart 2021. 10.000 Aavegotchi [Portalen](/portals) w
 
 De eerste 10.000 portalen werden in minder dan één minuut uitverkocht. De lancering was een enorm succes voor alle metrieken behalve het feit dat niet iedereen een Portaal kon hebben.
 
-Hunt 1 Aavegotchis komen ook met een exclusieve Haunt 1-Achtergrond. Bekijk dit [medium bericht](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) over hoe je het kan claimen als je een Haunt 1 Gotchi hebt. De achtergrond is geprogrammeerd om niet overdraagbaar te zijn. Dit betekent dat vanaf nu tot voor altijd alleen Haunt 1 Aavegotchis deze prachtige portal-thema achtergrond kunnen uitrusten!
+Hunt 1 Aavegotchis komen ook met een exclusieve Haunt 1-Achtergrond. Bekijk dit [medium bericht](https://aavegotchi.medium.com/aavegotchi-nft-backgrounds-are-live-and-ready-to-be-equipped-92c8b5bb92a8) over hoe je het kan claimen als je een Haunt 1 Gotchi hebt. De achtergrond is geprogrammeerd om niet overdraagbaar te zijn. Dit betekent dat vanaf nu tot voor altijd alleen Haunt 1 Aavegotchis deze prachtige portal-thema achtergrond kunnen uitrusten!
 
 Deze exclusieve achtergrond werd gestemd op [AGIP-5](/aavegotchi-improvement-proposals#give-unique-non-transferable-background-to-haunt-1-aavegotchis).
 

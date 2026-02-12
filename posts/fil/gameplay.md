@@ -37,7 +37,7 @@ Makabibili ka ng isang Portal sa Aavegotchi dApp o sa isang external na NFT mark
 
 Ang [Wearables](https://wiki.aavegotchi.com/en/wearables) ay mahalagang parte ng gameplay ng Aavegotchi. Sa pagsusuot mo ng Wearables sa iyong Aavegotchi, puwede mong mapataas ang rarity score at traits ng iyong cute na alaga nang sa gayon ay gumaling ito sa rarity farming at minigames.
 
-Puwede ka nang makakuha ng isang Wearable Voucher sa limited edition [Raffles](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) at i-redeem ito para sa katumbas na Wearable kapag nag-launch ang Aavegotchi sa Mainnet.
+Puwede ka nang makakuha ng isang Wearable Voucher sa limited edition [Raffles](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) at i-redeem ito para sa katumbas na Wearable kapag nag-launch ang Aavegotchi sa Mainnet.
 
 ## Rarity farming
 

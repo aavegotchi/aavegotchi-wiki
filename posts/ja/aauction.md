@@ -109,12 +109,12 @@ Remember, setting a realistic starting bid is key. A 4% listing fee applies, whi
 
 ## 過去のオークション
 
-* 2021年7月15日-18日: [ゲーマーとスチームパンクのセットウェアラブルをフィーチャーした史上初のオークション](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* 2021年7月15日-18日: [ゲーマーとスチームパンクのセットウェアラブルをフィーチャーした史上初のオークション](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
-* 2021年8月26日 - 29日: [12,000のH2ポータル, 13,944アイテム](https://web.archive.org/web/*/https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* 2021年8月26日 - 29日: [12,000のH2ポータル, 13,944アイテム](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 
-* 2021年10月28日 - 31日: [ゴッチお城内の16,000区画をフィーチャーした最初のランドセール](https://web.archive.org/web/*/https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* 2021年10月28日 - 31日: [ゴッチお城内の16,000区画をフィーチャーした最初のランドセール](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
-* 2021年10月2日 - 5日: [ゴッチお城内の7,000区画をフィーチャーした第二のランドセール](https://web.archive.org/web/*/https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 2021年10月2日 - 5日: [ゴッチお城内の7,000区画をフィーチャーした第二のランドセール](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
 
 * 25 April 2024: [Godlike Staff of Charming schematic](https://blog.aavegotchi.com/3-new-features-now-live-in-the-aavegotchi-auction-house/)

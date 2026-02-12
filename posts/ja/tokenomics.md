@@ -67,7 +67,7 @@ GHSTプリセールは、2020年9月14日に開催され、制限時間は14日�
 
 プライベートセールとプリセールの参加者は、プリセールラウンドの終了から1年間かけてGHSTトークンを確定させます。 180日後に総額の約50%に相当する初期リリースが行われ、その後185日間かけて残りのトークンがドリップリリースされる予定です。
 
-この詳細については、[「Aavegotchiホワイトペーパー」](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing)と[「コミュニティアップデート#4」](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4)をお読みください。
+この詳細については、[「Aavegotchiホワイトペーパー」](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing)と[「コミュニティアップデート#4」](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4)をお読みください。
 
 **パブリック・ボンディングカーブ・セール**
 
@@ -161,7 +161,7 @@ Aavegotchiのボンディングカーブは、懸念の分離によってこの�
 
 table_revenueSharing
 
-V1からV2への変更の根拠は、[こちら](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)でご確認ください。
+V1からV2への変更の根拠は、[こちら](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587)でご確認ください。
 
 ## Token Supply
 

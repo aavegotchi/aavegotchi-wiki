@@ -47,10 +47,10 @@ is currently slated for 4 January 2021, so check out our <a href="https://wiki.a
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/community/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**在Medium查看我们**</a>
+<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/community/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**在Medium查看我们**</a>
 
 <p style="margin-left: 4.8em">Aavegotchi Medium对于想跟上Aavegotchi项目的读者来说是一个很好的地方。 This is where you’ll find in-depth community updates, 
-as well as detailed information on <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired <a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fiction.</a></p>
+as well as detailed information on <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">raffles,</a> events and even occasionally come across some inspired <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi fan-fiction.</a></p>
 
 &nbsp;<a name="Telegram"></a>
 

@@ -33,7 +33,7 @@ Aavegotchi Mainnet xém tí được triển khai vào ngày 4 tháng Giêng 202
 
 Rõ ràng là game có thể được khởi chạy trên Mainnet của Ethereum. Nhưng bởi Polygon đang làm việc cùng với những dự án NFT khác (ví dụ như Opensea) rồi nên lựa chọn này cũng dễ hiểu. Cộng đồng đã thể hiện quan điểm của mình và 76% trong số họ đã bỏ phiếu để game được triển khai trên Polygon.
 
-Để thao luận nhiều hơn về vấn đề này, mời bạn tìm hiểu thêm tại [bài viết ](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) trên Medium này nhé.
+Để thao luận nhiều hơn về vấn đề này, mời bạn tìm hiểu thêm tại [bài viết ](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) trên Medium này nhé.
 
 ## Thêm Polygon vào Metamask
 

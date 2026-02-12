@@ -149,7 +149,7 @@ tafel_santaWearablesTable
 
 ## OKex Wearables
 
-Op 7 oktober 2020 werkt Aavegotchi samen met OKex om een speciale set wearables te creëren geïnspireerd door Jay Hao, de CEO van OKex. Gelukkige deposanten die hun GHST tokens op het OKex platform storten, maakten kans om deze wearabels te winnen. 150 wearables zijn beschikbaar. De top 5 deposanten winnen automatisch de volledige 5 stuk. Maar de resterende 125 NFT's zullen willekeurig worden toegekend aan iedereen die meer dan 10 GHST deponeert. Zie [hier](https://web.archive.org/web/*/https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) voor meer informatie.
+Op 7 oktober 2020 werkt Aavegotchi samen met OKex om een speciale set wearables te creëren geïnspireerd door Jay Hao, de CEO van OKex. Gelukkige deposanten die hun GHST tokens op het OKex platform storten, maakten kans om deze wearabels te winnen. 150 wearables zijn beschikbaar. De top 5 deposanten winnen automatisch de volledige 5 stuk. Maar de resterende 125 NFT's zullen willekeurig worden toegekend aan iedereen die meer dan 10 GHST deponeert. Zie [hier](https://aavegotchi.medium.com/win-special-edition-aavegotchi-x-okex-wearable-nfts-d41728e1f7d2) voor meer informatie.
 
 tafel_okexWearablesTable
 
@@ -225,7 +225,7 @@ tafel_layer2WearablesTable
 
 ## Veiling Wearables
 
-De eerste "Bid-to-Earn Auction" werd gehouden van donderdag 15 juli tot zondag 18 juli 2021. Bid-to-earn veilingen worden aangedreven door de technologieën van onze rens bij GBM.auction. Leer waarom deze NFT distributiemethode enorme voordelen biedt ten opzichte van oudere modellen, door hun site te bezoeken en te lezen [ons gepubliceerde Medium stuk](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
+De eerste "Bid-to-Earn Auction" werd gehouden van donderdag 15 juli tot zondag 18 juli 2021. Bid-to-earn veilingen worden aangedreven door de technologieën van onze rens bij GBM.auction. Leer waarom deze NFT distributiemethode enorme voordelen biedt ten opzichte van oudere modellen, door hun site te bezoeken en te lezen [ons gepubliceerde Medium stuk](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29).
 
 Deze eerste Aauction bevat twee gloednieuwe sets wearables en een leuk nieuw common-rarity item. Bereid je voor op gamers, steampunks en zelfs een kopje koffie!
 
@@ -233,7 +233,7 @@ tafel_auctionWearablesTable
 
 ## Aavegotchi x Venly Wearables
 
-Een samenwerking tussen Aavegotchi en Venly om Aavegotchi te introduceren aan een enorm NFT gaming publiek. Lees dit [bericht](https://web.archive.org/web/*/https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) voor meer informatie.
+Een samenwerking tussen Aavegotchi en Venly om Aavegotchi te introduceren aan een enorm NFT gaming publiek. Lees dit [bericht](https://aavegotchi.medium.com/exclusive-wearables-nft-drop-and-venly-market-ama-happening-this-week-e84ecd39f4a7) voor meer informatie.
 
 tafel_venlyWearablesTable
 

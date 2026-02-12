@@ -44,9 +44,9 @@ Discord 对于有疑问的小伙伴来说也是一个很好的平台，加入其
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**在 Medium 上查看最新进展**</a>
+<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**在 Medium 上查看最新进展**</a>
 
-<p style="margin-left: 4.8em">Aavegotchi Medium 对于想具体了解 Aavegotchi 项目的读者来说是一个很好的地方。 在这里你会看到完整而深入的社区进展，以及关于 <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">奖券</a> 的具体信息，好玩的活动甚至是鼓舞人心的 <a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi 粉丝小说</a>。</p>
+<p style="margin-left: 4.8em">Aavegotchi Medium 对于想具体了解 Aavegotchi 项目的读者来说是一个很好的地方。 在这里你会看到完整而深入的社区进展，以及关于 <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">奖券</a> 的具体信息，好玩的活动甚至是鼓舞人心的 <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">Gotchi 粉丝小说</a>。</p>
 
 &nbsp;<a name="Telegram"></a>
 

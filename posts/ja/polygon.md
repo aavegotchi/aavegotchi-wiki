@@ -33,7 +33,7 @@ Polygon（ポリゴン）は、Ethereum（イーサリアム）のようなパ�
 
 イーサリアムメインネットでのローンチは不可能であることは明らかでした。 Polygon（ポリゴン）はすでにさまざまなNFTプロジェクト（OpenSeaなど）と連携していたため、選択は比較的簡単でした。 コミュニティはこの気持ちを共有し、76%でポリゴンでのローンチに投票しました。
 
-このトピックに関する詳細な議論は、こちらのMediumの[投稿](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)をご覧ください。
+このトピックに関する詳細な議論は、こちらのMediumの[投稿](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2)をご覧ください。
 
 ## MetamaskにPolygonを追加する
 

@@ -33,7 +33,7 @@ Zoals u wellicht weet, was de lancering van Aavegotchi Mainnet gepland voor 4 ja
 
 Het was duidelijk dat een lancering op Ethereum Mainnet onmogelijk was. Aangezien Polygon al heeft samengewerkt met verschillende NFT-projecten (zoals OpenSea) was de keuze relatief eenvoudig. De gemeenschap deelde dit gevoel en stemde voor een lancering op Polygon met 76 procent.
 
-Zie dit medium [post](https://web.archive.org/web/*/https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) voor een uitgebreide discussie over dit onderwerp.
+Zie dit medium [post](https://aavegotchi.medium.com/why-aavegotchi-chose-polygon-356238977fb2) voor een uitgebreide discussie over dit onderwerp.
 
 ## Voeg Polygon toe aan uw Metamask
 

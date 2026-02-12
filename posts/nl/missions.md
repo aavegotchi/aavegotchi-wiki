@@ -45,29 +45,29 @@ Aavegotchi "missies" zijn een leuke manier om een goed inzicht te krijgen in het
 &nbsp;
 
 
-[**MISSIE 1:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Commentaar in de Aavegotchi Litepaper.
+[**MISSIE 1:**](https://aavegotchi.medium.com/aavegotchi-community-update-3-4d733e8275e) Commentaar in de Aavegotchi Litepaper.
 
-[**MISSIE 2:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Nodig een fren uit voor Discord.
+[**MISSIE 2:**](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4) Nodig een fren uit voor Discord.
 
-[**MISSION 3:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Voeg een of twee van je gedachten over het project toe aan het Aavegotchi Community Pitch papier.
+[**MISSION 3:**](https://aavegotchi.medium.com/aavegotchi-community-update-5-39d240b3bd13) Voeg een of twee van je gedachten over het project toe aan het Aavegotchi Community Pitch papier.
 
-[**MISSION 4:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet ons op Twitter met waarom je van Aavegotchi houdt en twee frenen tagt.
+[**MISSION 4:**](https://aavegotchi.medium.com/aavegotchi-community-update-6-ecece9ba73de) Retweet ons op Twitter met waarom je van Aavegotchi houdt en twee frenen tagt.
 
-[**MISSIE 5:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Stel een vraag in onze Telegram.
+[**MISSIE 5:**](https://aavegotchi.medium.com/aavegotchi-community-update-7-a8f1ce2b297d) Stel een vraag in onze Telegram.
 
-[**MISSIE 6:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Gebruik ons testnet om testnet te kopen (niet echte) GHST van de testnet band curve (dit vereist GEEN KYC - de echte band curve doet maar **u kunt alle missies uitvoeren zonder KYC).** Hier word je opeens een expert in het gebruik van testnetten, als je dat nog niet eerder hebt gedaan. en heeft een gevoel van superslim hulp aan iedereen die na jou komt. Als je vastzit in Mission 6, vraag het ons! We zijn blij onze agenten te aassiseren.
+[**MISSIE 6:**](https://aavegotchi.medium.com/aavegotchi-community-update-8-8e2bcba353b9) Gebruik ons testnet om testnet te kopen (niet echte) GHST van de testnet band curve (dit vereist GEEN KYC - de echte band curve doet maar **u kunt alle missies uitvoeren zonder KYC).** Hier word je opeens een expert in het gebruik van testnetten, als je dat nog niet eerder hebt gedaan. en heeft een gevoel van superslim hulp aan iedereen die na jou komt. Als je vastzit in Mission 6, vraag het ons! We zijn blij onze agenten te aassiseren.
 
-[**MISSIE 7:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Stem op een Aavegotchi governance-voorstel.
+[**MISSIE 7:**](https://aavegotchi.medium.com/aavegotchi-community-update-9-3c297c4ae645) Stem op een Aavegotchi governance-voorstel.
 
-[**KISSIE 8:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Maak een Aavegotchi-thema meme aan in elke taal die je wilt en plaats het op onze meme thread op Reddit.
+[**KISSIE 8:**](https://aavegotchi.medium.com/aavegotchi-community-update-10-d0b8af0df301) Meme-time! Maak een Aavegotchi-thema meme aan in elke taal die je wilt en plaats het op onze meme thread op Reddit.
 
-[**MISSIE 9:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Onze uitdagende mission) Schrijf een kort artikel of maak een korte video over Aavegotchi (300 woorden voor artikelen, of 30 seconden voor video's). Publiceer uw creatie op het gekozen platform (er zijn verschillende opties beschikbaar voor elk van deze), en stel ons nog een keer een keer op de hoogte van uw link naar uw aavesome Aavegotchi content.
+[**MISSIE 9:**](https://aavegotchi.medium.com/aavegotchi-community-update-12-7f85605e33dd) (Onze uitdagende mission) Schrijf een kort artikel of maak een korte video over Aavegotchi (300 woorden voor artikelen, of 30 seconden voor video's). Publiceer uw creatie op het gekozen platform (er zijn verschillende opties beschikbaar voor elk van deze), en stel ons nog een keer een keer op de hoogte van uw link naar uw aavesome Aavegotchi content.
 
-[**MISSIE 10:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) MAAK EEN AAVEGOTCHI (op testnet) met behulp van onze Aavegotchi builder, stem uw Gotchi als uw avatar (voor 72 uur) en deel uw creatie met de rest van de beroem van de Aavegotchi!
+[**MISSIE 10:**](https://aavegotchi.medium.com/aavegotchi-dev-update-3-mission-10-46bd59837936) MAAK EEN AAVEGOTCHI (op testnet) met behulp van onze Aavegotchi builder, stem uw Gotchi als uw avatar (voor 72 uur) en deel uw creatie met de rest van de beroem van de Aavegotchi!
 
-[**MISSIE 11:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Bekijk onze nieuwe wiki! Kies twee dingen die nuttig kunnen zijn om te helpen om er de beste bron van te maken.
+[**MISSIE 11:**](https://aavegotchi.medium.com/aavegotchi-community-update-16-b4db0f05b44) Bekijk onze nieuwe wiki! Kies twee dingen die nuttig kunnen zijn om te helpen om er de beste bron van te maken.
 
-[**MISSIE 12:**](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Wees een Moovie Star! Tag 2 van je favoriete Crypto Youtubers en laat ze weten dat de #GotchiGang komt!
+[**MISSIE 12:**](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50) Wees een Moovie Star! Tag 2 van je favoriete Crypto Youtubers en laat ze weten dat de #GotchiGang komt!
 
 &nbsp;
 

@@ -46,10 +46,10 @@ entrar y chatear. </p>
 
 &nbsp;<a name="Twitter"></a>
 
-<a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Léenos en Medium**</a>
+<a href="https://aavegotchi.medium.com/" target = "_blank"><img src="/socialmedia/medium.png" alt = "aavegotchi medium" width="59" height="59"> &nbsp;&nbsp;&nbsp;**Léenos en Medium**</a>
 
 <p style="margin-left: 4.8em">La página de Aavegotchi Medium es un gran lugar para los lectores que quieren mantenerse al día con el proyecto Aavegotchi. Aquí encontrarás información detallada sobre las actualizaciones de la comunidad, 
-así como información detallada sobre <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">sorteos,</a> eventos e incluso de vez en cuando encuentran alguna inspirada <a href = "https://web.archive.org/web/*/https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">fan-ficción de Aavegotchi.</a></p>
+así como información detallada sobre <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">sorteos,</a> eventos e incluso de vez en cuando encuentran alguna inspirada <a href = "https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69">fan-ficción de Aavegotchi.</a></p>
 
 &nbsp;<a name="Telegram"></a>
 

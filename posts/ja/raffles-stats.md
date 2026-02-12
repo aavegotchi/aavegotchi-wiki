@@ -40,35 +40,35 @@ contributors:
 ## ウェアラブル ラッフルウェアラブル ラッフル
 
 ### ラッフル1 (Chainlink テーマ)
-[10 - 13 November 2020](https://web.archive.org/web/*/https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b) table_wearableRaffle1
+[10 - 13 November 2020](https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b) table_wearableRaffle1
 
 ### ラッフル2 (Aave テーマ)
-[8 - 11 December 2020](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0) table_wearableRaffle2
+[8 - 11 December 2020](https://aavegotchi.medium.com/aavesome-announcing-an-aave-themed-nft-raffle-details-prize-list-inside-2d95c0af92a0) table_wearableRaffle2
 
 ### ラッフル3 (Ethereum テーマ)
-[31 December 2020 - 3 January 2021](https://web.archive.org/web/*/https://aavegotchi.medium.com/release-the-aapes-aavegotchi-raffle-3-details-revealed-3d7af1feb7ad) table_wearableRaffle3
+[31 December 2020 - 3 January 2021](https://aavegotchi.medium.com/release-the-aapes-aavegotchi-raffle-3-details-revealed-3d7af1feb7ad) table_wearableRaffle3
 
 ### ラッフル4 (Layer 2 テーマ)
-[29 March - 1 April 2021](https://web.archive.org/web/*/https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9) table_wearableRaffle4
+[29 March - 1 April 2021](https://aavegotchi.medium.com/layer2-lfg-raffle-4-details-announced-29ee1a61e9f9) table_wearableRaffle4
 
 ### ラッフル5 (Partnerships テーマ)
-[24 September - 27 September 2021](https://web.archive.org/web/*/https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225) table_wearableRaffle5
+[24 September - 27 September 2021](https://aavegotchi.medium.com/got-frens-raffle-5-exclusive-wearables-revealed-f8543b6ab225) table_wearableRaffle5
 
 ### ラッフル6 (DeFi RPG テーマ)
-[26 - 29 January 2022](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8) table_wearableRaffle6
+[26 - 29 January 2022](https://aavegotchi.medium.com/aavegotchi-defi-rpg-wearables-raffle-revealed-468632d055d8) table_wearableRaffle6
 
 ## ポータル ラッフル
 
 ### ラッフル1 (ハウント 2 ポータル ドロップ)
-[5 - 8 September 2021](https://web.archive.org/web/*/https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e) table_portalRaffle1
+[5 - 8 September 2021](https://aavegotchi.medium.com/120-days-of-gotchi-6fad19d5c82e) table_portalRaffle1
 
 ## ランド ラッフル
 
 ### ラッフル1
-[5 - 8 November 2021](https://web.archive.org/web/*/https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e) table_landRaffle1
+[5 - 8 November 2021](https://aavegotchi.medium.com/first-gotchiverse-land-raffle-confirmed-for-novembers-first-weekend-2c1ac538e54e) table_landRaffle1
 
 ### ラッフル2
-[10 - 13 December 2021](https://web.archive.org/web/*/https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957) table_landRaffle2
+[10 - 13 December 2021](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957) table_landRaffle2
 
 ## FAKE Gotchis Card Raffle
 [9 - 12 November 2022](https://blog.aavegotchi.com/dont-miss-out-on-the-fake-gotchis-card-raffle/) table_fakeGotchisCardRaffle

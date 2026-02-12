@@ -109,12 +109,12 @@ Remember, setting a realistic starting bid is key. A 4% listing fee applies, whi
 
 ## Denières Aauctions
 
-* 15 - 18 Juillet 2021 : [Première Aauction avec les sets d'équipement Gamer et Steampunk](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
+* 15 - 18 Juillet 2021 : [Première Aauction avec les sets d'équipement Gamer et Steampunk](https://aavegotchi.medium.com/aavegotchi-bid-to-earn-auctions-are-coming-to-polygon-4bf26a09db29)
 
-* 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://web.archive.org/web/*/https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
+* 26 - 29 August 2021: [12,000 Haunt 2 Portals, 13,944 Wearables](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-haunt-2-8bd086f9026c)
 
-* 28 - 31 octobre 2021 : [Première vente aux enchères avec 16 000 parcelles au sein de la Citaadelle](https://web.archive.org/web/*/https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
+* 28 - 31 octobre 2021 : [Première vente aux enchères avec 16 000 parcelles au sein de la Citaadelle](https://aavegotchi.medium.com/the-ultimate-guide-to-aavegotchi-land-sale-1-coming-this-halloween-4af9134236f3)
 
-* 2 - 5 décembre 2021 : [Seconde vente aux enchères avec 7 000 parcelles dans la Citaadel](https://web.archive.org/web/*/https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
+* 2 - 5 décembre 2021 : [Seconde vente aux enchères avec 7 000 parcelles dans la Citaadel](https://aavegotchi.medium.com/second-gotchiverse-land-sale-confirmed-to-begin-december-2nd-8bc7b7dd9957)
 
 * 25 April 2024: [Godlike Staff of Charming schematic](https://blog.aavegotchi.com/3-new-features-now-live-in-the-aavegotchi-auction-house/)

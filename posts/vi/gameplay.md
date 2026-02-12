@@ -37,7 +37,7 @@ Bạn có thể mua một Portal trên dApp của Aavegotchi hoặc những th�
 
 [Wearables](https://wiki.aavegotchi.com/en/wearables) là một phần quan trọng trong lối chơi của Aavegotchi. Bằng cách mặc trang phục cho Aavegotchi, bạn có thể tăng chỉ số độ hiếm và đặc điểm cho những người bạn ma đáng yêu, giúp các bé hoạt động tốt hơn trong rarity farming và minigames.
 
-Hiện tại bạn có thể giành lấy một Wearable Voucher thông qua một phiên bản giới hạn của [Raffle](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) và nhận được một Wearable tương tự khi Aavegotchi khởi chạy trên Mainnet chính thức.
+Hiện tại bạn có thể giành lấy một Wearable Voucher thông qua một phiên bản giới hạn của [Raffle](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60) và nhận được một Wearable tương tự khi Aavegotchi khởi chạy trên Mainnet chính thức.
 
 ## Rarity farming
 

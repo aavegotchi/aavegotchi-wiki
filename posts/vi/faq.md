@@ -288,7 +288,7 @@ Vist [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=s
 
 ## Những câu hỏi về Raffle (Xổ số)
 
-See <a href="https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
+See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60">Raffles</a> for general information on raffles.
 
 
 

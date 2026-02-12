@@ -50,7 +50,7 @@ Aavegotchi Baazaar là khu chợ chính chủ dành cho Aavegotchi. Người bá
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-baazaar.png" alt = "Aavegotchi Baazaar" />
 
-Xem thêm [bài viết](https://web.archive.org/web/*/https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
+Xem thêm [bài viết](https://aavegotchi.medium.com/surprise-were-launching-an-aavegotchi-nft-marketplace-f8a388e89d7f) này để có thêm nhiều thông tin chi tiết.
 
 Người dùng có thể truy cập vào Aavegotchi Baazaar tại [đây](https://aavegotchi.com/baazaar/aavegotchis).
 

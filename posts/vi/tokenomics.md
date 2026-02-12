@@ -67,7 +67,7 @@ Số tiền nhận được đã được dùng để hỗ trợ thanh khoản t
 
 Những người tham gia vào Private Sale và Pre-Sale sẽ dần nhận được token GHST của mình sau một năm, bắt đầu kể từ khi vòng Pre-Sale kết thúc. Sau 180 ngày, đợt trả token đầu tiên tương đương với 50% trên tổng số sẽ được thực hiện, sau đó là một đợt trả token với quy mô nhỏ để trả số lượng token còn lại trong vòng 185 ngày tiếp theo.
 
-Để biết thêm nhiều thông tin chi tiết hơn, hãy đọc qua [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) và [Community Update #4](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
+Để biết thêm nhiều thông tin chi tiết hơn, hãy đọc qua [Aavegotchi Whitepaper](https://drive.google.com/file/d/186zOapKeHNNJ9y8LIByQQ64rs0eJUlEF/view?usp=sharing) và [Community Update #4](https://aavegotchi.medium.com/aavegotchi-community-update-4-1744633c3fc4).
 
 **Sale Công Khai Thông Qua Bonding Curve**
 
@@ -161,7 +161,7 @@ Bảng sau đây cho thấy phần trăm thay đổi của mỗi hạng mục qu
 
 table_revenueSharing
 
-Các thay đổi quan trọng từ V1 sang V2 có thể tìm thấy ở [đây](https://web.archive.org/web/*/https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
+Các thay đổi quan trọng từ V1 sang V2 có thể tìm thấy ở [đây](https://aavegotchi.medium.com/aavegotchi-haunt-2-signal-proposal-is-live-a2849c6f4587).
 
 ## Token Supply
 
