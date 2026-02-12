@@ -11,6 +11,8 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">Gaame Jaam</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page documents a 2021-era hackathon (Polygon-era context) and is preserved for **historical reference**. See: **[Migration to Base (2025)](/base-migration)**.
+
 The Aavegotchi Gaame Jaam was held from 1 - 5 September 2021. Aspiring game developers took part in the hackathon to create their very own [mini-game](/minigames). Get the inside scoop of the Gaame Jaam here!
 
 <div class="contentsBox">

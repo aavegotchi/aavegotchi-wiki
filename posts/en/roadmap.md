@@ -13,9 +13,9 @@ contributors: ["hackingmoneyph", "unintelligent-nerd"]
 
 Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
 
-> **Historical note:** This roadmap page is a snapshot of planning docs from the 2021-2023 era. Many items have since shipped, changed, or been superseded. Notably, Gotchichain/Geist ultimately did not launch, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
+> **Historical note (Base era):** This roadmap page is a snapshot of planning docs from the 2021-2023 era. Many items have since shipped, changed, or been superseded. Notably, Gotchichain/Geist ultimately **did not launch**, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
 >
-> For newer updates, see **[Milestones](/milestones)** and the official blog.
+> For current context, see **[Migration to Base (2025)](/base-migration)**, **[Milestones](/milestones)**, and the official blog.
 
 <div class="contentsBox">
 
@@ -49,7 +49,7 @@ Milestones: 25K MAU / 5K DAU
 * Social media integrations (Link Aavegotchi via Discord/Twitter)
 * NFT Aauctions
 * REALM Gotchiverse Litepaper Release
-* Haunt 2 (planned)
+* Haunt 2 (then-upcoming)
 * REALM Gotchiverse Presale
 
 ### Q3 2021
@@ -87,7 +87,7 @@ Milestones: 1M MAU / 25K DAU
 * REALM third-party Dapp Integration
 * GotchiGang Referral Program
 * Aavegotchi Mobile App alpha launch
-* More Haunts (planned)
+* More Haunts (then-upcoming)
 * AavegotchiDAO V3 (Oasis)
 
 ### Year 2023-Specific Roadmap
@@ -96,7 +96,7 @@ Milestones: 1M MAU / 25K DAU
 * Implementing On-chain Smart Contract Execution
 * Decentralizing our Workflow
 * Turning off the GHST Bonding Curve *(Pending DAO vote)*
-* Launch of Gotchichain – A blockchain for all things Aavegotchi *(planned; ultimately did not launch)*
+* Launch of Gotchichain – A blockchain for all things Aavegotchi *(announced; ultimately did not launch)*
 * Gotchi in 3D
 
 For more details concerning the Year 2023 Roadmap, check out this [blog post](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
@@ -111,7 +111,7 @@ Strategy for this phase: *Fulfill the Aavegotchi vision of making a crypto game 
 
 Milestones: 10M MAU / 50K DAU
 
-* More Haunts (planned)
+* More Haunts (then-upcoming)
 * REALM Public Land Sales
 * Aavegotchi Minigame Builder
 * Aavegotchi Hardware Wallet

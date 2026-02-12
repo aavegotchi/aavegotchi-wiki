@@ -6,6 +6,8 @@ description: 'Aavegotchi Milestones in 2020'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is a historical archive of 2020 milestones and references early Ethereum/Polygon-era context. See: **[Migration to Base (2025)](/base-migration)**.
+
 ## [The Final Aavegotchi Mission!](https://aavegotchi.medium.com/aavegotchi-community-update-18-dbaa35b1ed50)
 
 * Ready up frens! This 29 December 2020 announcement is biiigg!

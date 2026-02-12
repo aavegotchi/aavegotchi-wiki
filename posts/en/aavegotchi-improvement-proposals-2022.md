@@ -6,6 +6,8 @@ description: 'A list of Aavegotchi Improvement Proposals (AGIPs) in Year 2022'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is an **archive** of 2022-era governance proposals and contains historical Polygon-era assumptions and time-bound language. For current chain context, see **[Migration to Base (2025)](/base-migration)** and **[Contracts](/contracts)**.
+
 
 <div class="contentsBox">
 

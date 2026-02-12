@@ -464,9 +464,9 @@ There are 2 possibilities for this:
 
 ### How do you allow borrowed Gotchis to channel Alchemica from parcels owned by the lender?
 
-**Base era (canonical):** Head to [https://louper.dev/diamond/0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372?network=base](https://louper.dev/diamond/0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372?network=base), connect your wallet, and look for the access-rights function (facet naming may differ). The Base REALM contract address is also listed on **[Contracts](/contracts#contract-addresses-on-base)**.
+**Base era (canonical):** Head to [https://louper.dev/diamond/{{BASE_REALM_PARCELS}}?network=base](https://louper.dev/diamond/{{BASE_REALM_PARCELS}}?network=base), connect your wallet, and look for the access-rights function (facet naming may differ). The Base REALM contract address is also listed on **[Contracts](/contracts#contract-addresses-on-base)**.
 
-**Legacy Polygon reference:** [https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon](https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon)
+**Legacy Polygon reference:** [https://louper.dev/diamond/{{REALM_DIAMOND_ADDRESS}}?network=polygon](https://louper.dev/diamond/{{REALM_DIAMOND_ADDRESS}}?network=polygon)
 
 **_realmIds**: an array [] containing the IDs of your parcels
 

@@ -6,7 +6,9 @@ description: 'Aavegotchi Guilds'
 contributors: ["unintelligent-nerd"]
 ---
 
-Guilds are groups of players who coordinate play and activities in the Gotchiverse (including REALM parcel gameplay and communal channeling where available). Specific Guild mechanics can evolve over time; refer to the live app for current features.
+Guilds are groups of players who coordinate play and activities in the Gotchiverse. This page documents the original Guild Crest / Gotchi Lodge / Guild Channeling design and may include historical or time-bound assumptions; verify current live mechanics in the app.
+
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. See: **[Migration to Base (2025)](/base-migration)**.
 
 <div class="contentsBox">
 

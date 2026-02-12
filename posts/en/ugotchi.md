@@ -11,6 +11,8 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">Terence McKenna</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is largely a 2021-era historical snapshot (including time-bound valuations and marketplace context) and should not be read as current market guidance. See: **[Migration to Base (2025)](/base-migration)**.
+
 "Sir. It has been a pleasure to get to know you."
 
 The Gotchi Minister salutes Terence McKenna and his team.
@@ -103,7 +105,7 @@ The following points of consideration were made to the Appraisers:
 
 1. Each Aavegotchi is an ERC-721. Each wearable that is equipped is also a collectible ERC-1155.
 
-2. All of these NFTs are trading on the [Baazaar](/baazaar) and are priced in GHST (currently going for 1.34 each). I highly recommend using the filters and exploring the prices. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
+2. All of these NFTs are trading on the [Baazaar](/baazaar) and are priced in GHST (spot price varies over time). I highly recommend using the filters and exploring the prices. You can also find some of the most exciting sales by following the fan-maintained [Aavegotchistats](https://twitter.com/GotchiStats) on Twitter.
 
 3. Godlike wearables are the rarest with only 5 existing in total. This is followed by Mythicals. The Gotchis in the Unicly collection are all wearing multiple Godlikes and Mythicals.
 

@@ -32,6 +32,7 @@
       "ghstUsdcLP": "0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4"
     },
     "misc": {
+      "atfSafePolygon": "0x921D8FDF089775D5AC61b2d6e8f34F1edd554D8f",
       "burn": "0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF"
     },
     "baseDiamonds": {
@@ -59,6 +60,7 @@
     }
   },
   "links": {
+    "snapshotPoapProposalId": "0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e",
     "uniswapBaseGHST": "https://app.uniswap.org/explore/tokens/base/0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb",
     "basescanGHST": "https://basescan.org/token/0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB",
     "etherscanGHST": "https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550",

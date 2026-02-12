@@ -11,6 +11,8 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">The Aarcade Taask Force</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is primarily **historical context** from the Polygon era; verify any operational details (signers, multisig, budgets) against current DAO forum/Discord updates. See: **[Migration to Base (2025)](/base-migration)**.
+
 The Aarcade Taask Force (ATF) is a group of [aarchitects](/aarchitect) that are involved in the creation of [mini-games](/minigames). Some of their aims include organizing rewarding periodic events and supporting the growth of the development community.
 
 <div class="contentsBox">
@@ -54,4 +56,8 @@ In Jan 2023, the Aarcade Taask Force was formally created through the passing of
 
 ## Multisig Address
 
-The ATF multisig address can be found here: [0x921D8FDF089775D5AC61b2d6e8f34F1edd554D8f](https://app.safe.global/matic:0x921D8FDF089775D5AC61b2d6e8f34F1edd554D8f/settings/setup).
+**Legacy (Polygon era):** Historically, the ATF used a Polygon Safe multisig.
+
+If this has changed post-migration, please update this section with the current canonical multisig and signer set.
+
+- Safe (Polygon): [{{ATF_SAFE_POLYGON_ADDRESS}}](https://app.safe.global/matic:{{ATF_SAFE_POLYGON_ADDRESS}}/settings/setup)

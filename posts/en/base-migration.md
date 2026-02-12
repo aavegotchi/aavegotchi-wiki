@@ -17,7 +17,7 @@ This page is intentionally written as **historical framing** (what happened, whe
 - **Polygon contracts were frozen** (paused) and became **view-only / non-transferable** for most actions.
 - **Assets were mirrored to Base** using a **snapshot + minting** process.
 - Migration coverage included core game and Gotchiverse assets: **Aavegotchis, wearables, REALM parcels, installations, tiles, Alchemica, and GLTR**.
-- **GHST canonical address on Base**: `0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB`.
+- **GHST canonical address on Base**: `{{GHST_BASE_ADDRESS}}`.
 - **Most users did not need to take action**: if you held assets in a wallet on Polygon, the Base versions were expected to appear in the same wallet address on Base.
 - **Legacy assets remained visible on Polygon** as **non-transferable ERC-721s** for historical continuity.
 
@@ -28,12 +28,7 @@ This page is intentionally written as **historical framing** (what happened, whe
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 2020-2021 | Launch on Ethereum |
-| 2021 | Migration to Polygon |
-| 2024-04-17 | GHST token launched on Base |
-| 2025-07-25 | Full migration to Base; Polygon frozen |
+table_timeline
 
 ## References
 

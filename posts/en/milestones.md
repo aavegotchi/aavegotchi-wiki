@@ -6,6 +6,8 @@ description: "Milestones of the Aaavegotchi Project"
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is a chronological archive of announcements; older entries may contain Polygon-era or Gotchichain/Geist-era framing. See: **[Migration to Base (2025)](/base-migration)**.
+
 <div class="contentsBox">
 
 **Contents**
@@ -25,7 +27,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi 2026: What Pixelcraft Is Shipping Next](https://blog.aavegotchi.com/aavegotchi-2026-what-pixelcraft-is-shipping-next/)
 
-- On **2026-01-27**, Pixelcraft published a roadmap-style update outlining its 2026 priorities (including mobile-first, crypto-native games on Base; a live iteration phase for DeFi Dungeon; and a planned Q1 mobile launch for Rektless).
+- On **2026-01-27**, Pixelcraft published a roadmap-style update outlining its 2026 priorities (including mobile-first, crypto-native games on Base; a live iteration phase for DeFi Dungeon; and a Q1 mobile launch target for Rektless).
   <p></p>
 
 ## Year 2024
@@ -40,7 +42,7 @@ contributors: ["unintelligent-nerd"]
 ## [A new partnership with Camelot](https://blog.aavegotchi.com/camelot-launching-on-geist/)
 
 - Aavegotchi is excited to announce a new partnership with Camelot, creators of the Orbital Liquidity Network, and the largest decentralized exchange (DEX) on Arbitrum.
-- The post announced a collaboration intended to power liquidity on Geist, a then-planned Layer 3 blockchain.
+- The post announced a collaboration intended to power liquidity on Geist, a then-proposed Layer 3 blockchain concept.
 - Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
   <p></p>
 
@@ -140,7 +142,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi chooses Base as settlement layer for Gotchichain](https://blog.aavegotchi.com/aavegotchi-chooses-base-as-settlement-layer-for-gotchichain/)
 
-- The post announced that Gotchichain, a then-planned Layer 3 (L3) rollup dedicated to Aavegotchi gaming, would use Base as its settlement layer.
+- The post announced that Gotchichain, a then-proposed Layer 3 (L3) rollup dedicated to Aavegotchi gaming, would use Base as its settlement layer.
 - Base is a leading EVM-compatible Layer 2 (L2) chain developed by Coinbase that offers a safe, low-cost, and developer-friendly way to develop onchain, while still remaining strongly aligned with Ethereum.
 - Update: Ultimately, Aavegotchi migrated to Base and Gotchichain was not launched.
   <p></p>
@@ -224,7 +226,7 @@ contributors: ["unintelligent-nerd"]
 ## [A new partnership with GameSwift!](https://blog.aavegotchi.com/game-tech-spotlight-announcing-a-new-partnership-with-gameswift/)
 
 - Aavegotchi is now partnering with GameSwift, a pioneering modular gaming blockchain built on zkEVM technology, and one of the world’s leading Web3 gaming aggregators!
-- As part of the partnership, GameSwift planned to showcase Aavegotchi releases such as **Gotchi Guardians** and the **Gotchiverse Arena**.
+- As part of the partnership, GameSwift intended to showcase Aavegotchi releases such as **Gotchi Guardians** and the **Gotchiverse Arena**.
   <p></p>
 
 ## [The Gotchi Gaming Revolution has arrived!](https://blog.aavegotchi.com/its-official-the-aavegotchi-gaming-revolution-has-just-arrived/)
@@ -334,13 +336,13 @@ contributors: ["unintelligent-nerd"]
 
 ## [Web 3 Gaming Studio Inverse Worlds to Develop on Aavegotchi's Supernet](https://blog.aavegotchi.com/inverse-worlds-to-develop-on-aavegotchis-supernet/)
 
-- The post announced that Inverse Worlds planned to develop on Gotchichain (a then-planned Aavegotchi gaming chain / Polygon Supernet).
+- The post announced that Inverse Worlds intended to develop on Gotchichain (a then-proposed Aavegotchi gaming chain / Polygon Supernet).
 - Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
   <p></p>
 
 ## [Introducing Gotchichain: Aavegotchi X Polygon Supernets](https://blog.aavegotchi.com/introducing-gotchichain-aavegotchi-x-polygon-supernets/)
 
-- The post announced Gotchichain as a dedicated blockchain for all things Aavegotchi, powered by Polygon Supernets, with a planned early Q3 2023 launch.
+- The post announced Gotchichain as a dedicated blockchain for all things Aavegotchi, powered by Polygon Supernets, targeting early Q3 2023 for launch.
 - Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
   <p></p>
 

@@ -286,7 +286,7 @@ Initially, the Great Portal Capacity will be 1% of total supply, but this can be
 
 **Pixelcraft Studios**, the Gotchiverse’s dev house, also receives 30% of crafted Alchemica. These Alchemica balances can quickly be put to work in any endeavor supporting the growth of the Aavegotchi protocol and Gotchiverse game. Besides just diamond-handing, user acquisition, strategic allocations and marketing initiatives are some of the ways Alchemica can be put to work.
 
-**A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, planned Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
+**A 5% token burn** is the cherry on top of this Crafting Revenue Distribution plan. A burn of this significance will help to offset the various ebbs and flows of Alchemica inflation, whether it be from player adoption spikes, scheduled Alchemical events like The Great Battles, or very lucky surveyed REALM Parcels.
 
 ### REALM Parcel Access Rights
 
