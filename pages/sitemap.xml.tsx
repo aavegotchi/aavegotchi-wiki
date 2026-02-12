@@ -1,5 +1,4 @@
-import fs from "fs";
-import path from "path";
+import type { GetServerSideProps } from "next";
 
 const Sitemap = () => null;
 
@@ -25,12 +24,7 @@ function buildUrlEntry(loc: string, lastmod: string, changefreq: string, priorit
   ].join("");
 }
 
-Sitemap.getInitialProps = async ({ res }) => {
-  if (!res) return {};
-
-  res.setHeader("content-type", "application/xml");
-  res.setHeader("cache-control", "public, max-age=0, s-maxage=3600");
-
+export const getServerSideProps: GetServerSideProps = async ({ res }) => {
   const nowIso = new Date().toISOString();
 
   const urls: Array<{ loc: string; lastmod: string; changefreq: string; priority: string }> = [];
@@ -45,10 +39,16 @@ Sitemap.getInitialProps = async ({ res }) => {
 
   // Wiki pages are markdown files in posts/en/*.md, served at /en/<slug>.
   // Exclude special pages that should not be indexed.
-  const postsDir = path.join(process.cwd(), "posts", "en");
-  const exclude = new Set(["error", "index"]);
-
   try {
+    // Defer Node built-ins to server-only execution; bundling `fs` for the client breaks Next builds.
+    // eslint-disable-next-line @typescript-eslint/no-var-requires
+    const fs = require("fs") as typeof import("fs");
+    // eslint-disable-next-line @typescript-eslint/no-var-requires
+    const path = require("path") as typeof import("path");
+
+    const postsDir = path.join(process.cwd(), "posts", "en");
+    const exclude = new Set(["error", "index"]);
+
     const files = fs.readdirSync(postsDir);
 
     for (const file of files) {
@@ -81,9 +81,15 @@ Sitemap.getInitialProps = async ({ res }) => {
   urls.sort((a, b) => a.loc.localeCompare(b.loc));
 
   const content = urls.map((u) => buildUrlEntry(u.loc, u.lastmod, u.changefreq, u.priority)).join("");
+  const xml =
+    `<?xml version="1.0" encoding="UTF-8"?>` +
+    `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${content}</urlset>`;
 
-  res.end(`<?xml version="1.0" encoding="UTF-8"?>` + `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${content}</urlset>`);
-  return {};
+  res.setHeader("content-type", "application/xml");
+  res.setHeader("cache-control", "public, max-age=0, s-maxage=3600");
+  res.end(xml);
+
+  return { props: {} };
 };
 
 export default Sitemap;
