@@ -55,7 +55,7 @@ The Aavegotchi Unity SDK is packed with everything you need to get started build
 
 The pixelart versions of each Aavegotchi are also just a smart-contract call away thanks to all Gotchi traits and artwork being 100% stored on-chain. Everything you need for 2D pixel gotchis is right here: [https://docs.aavegotchi.com/overview/onchain-svgs](https://docs.aavegotchi.com/overview/onchain-svgs)
 
-Now is the time to begin creating games for the upcoming Aavegotchi Gaming Console. Join our thriving ecosystem of on-chain assets, cryptocurrencies, and passionate players.
+Now is a great time to begin creating games for the Aavegotchi Gaming Console initiative. Join our thriving ecosystem of on-chain assets, cryptocurrencies, and passionate players.
 
 Access the Unity SDK [here](https://www.aavegotchi.com/sdk).
 
