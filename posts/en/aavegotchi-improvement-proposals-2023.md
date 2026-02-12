@@ -329,7 +329,7 @@ Not changing the template.
 
 *Related material:*
 
-Template: [https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
+Template: [https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333](https://web.archive.org/web/*/https://aavegotchi.medium.com/scaling-aavegotchidao-c7e589de0333)
 
 Weighted voting: [https://docs.snapshot.org/proposals/voting-types#weighted-voting](https://docs.snapshot.org/proposals/voting-types#weighted-voting)
 

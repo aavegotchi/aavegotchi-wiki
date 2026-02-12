@@ -55,16 +55,16 @@ Hi frens. Welcome to our repository of Aavegotchi Smart Contract Addresses. Befo
 
 ## Contract Addresses on Base Sepolia Testnet
 
-- GHST Token: [0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae](https://sepolia.basescan.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae)
-- Aavegotchi Diamond: [0x6Cff314D21244BB4a907A5D5E5305abE07eefAeC](https://sepolia.basescan.org/token/0x6Cff314D21244BB4a907A5D5E5305abE07eefAeC)
-- Forge Diamond: [0x607E447b8222cdd73Fc9AA7D399784FB1f4E8f3a](https://sepolia.basescan.org/token/0x607E447b8222cdd73Fc9AA7D399784FB1f4E8f3a)
-- Wearable Diamond: [0x03e26fF22F4BbbeD3049A02242e1D4C43947Feb0](https://sepolia.basescan.org/token/0x03e26fF22F4BbbeD3049A02242e1D4C43947Feb0)
-- REALM Diamond: [0x37D140074B2f771bEa7ef23288EB87064e45bF8D](https://sepolia.basescan.org/token/0x37D140074B2f771bEa7ef23288EB87064e45bF8D)
-- Installation Diamond: [0x5Aefdc5283B24EEa7b50FFBBf7FB8A2bD4537609](https://sepolia.basescan.org/token/0x5Aefdc5283B24EEa7b50FFBBf7FB8A2bD4537609)
-- Tile Diamond: [0x96B19Fa954d961fAD4b665e3259C72466ca4C1dA](https://sepolia.basescan.org/token/0x96B19Fa954d961fAD4b665e3259C72466ca4C1dA)
-- Gotchi Guardians Skins Diamond: [0xab1e7e320f02107bf2748179ed0c0bcfd5532e4a](https://sepolia.basescan.org/token/0xab1e7e320f02107bf2748179ed0c0bcfd5532e4a)
-- Gotchi Guardians Profile Diamond: [0x15517138573ce459943da529c9530ef76a22b713](https://sepolia.basescan.org/token/0x15517138573ce459943da529c9530ef76a22b713)
-- GBM Baazaar Diamond: [0x0f685B66D7a5E67EDC584c5FdD28E38ba05fAFbb](https://sepolia.basescan.org/token/0x0f685B66D7a5E67EDC584c5FdD28E38ba05fAFbb)
+- GHST Token: [0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae](https://sepolia-explorer.base.org/address/0xe97f36a00058aa7dfc4e85d23532c3f70453a7ae)
+- Aavegotchi Diamond: [0x6Cff314D21244BB4a907A5D5E5305abE07eefAeC](https://sepolia-explorer.base.org/address/0x6Cff314D21244BB4a907A5D5E5305abE07eefAeC)
+- Forge Diamond: [0x607E447b8222cdd73Fc9AA7D399784FB1f4E8f3a](https://sepolia-explorer.base.org/address/0x607E447b8222cdd73Fc9AA7D399784FB1f4E8f3a)
+- Wearable Diamond: [0x03e26fF22F4BbbeD3049A02242e1D4C43947Feb0](https://sepolia-explorer.base.org/address/0x03e26fF22F4BbbeD3049A02242e1D4C43947Feb0)
+- REALM Diamond: [0x37D140074B2f771bEa7ef23288EB87064e45bF8D](https://sepolia-explorer.base.org/address/0x37D140074B2f771bEa7ef23288EB87064e45bF8D)
+- Installation Diamond: [0x5Aefdc5283B24EEa7b50FFBBf7FB8A2bD4537609](https://sepolia-explorer.base.org/address/0x5Aefdc5283B24EEa7b50FFBBf7FB8A2bD4537609)
+- Tile Diamond: [0x96B19Fa954d961fAD4b665e3259C72466ca4C1dA](https://sepolia-explorer.base.org/address/0x96B19Fa954d961fAD4b665e3259C72466ca4C1dA)
+- Gotchi Guardians Skins Diamond: [0xab1e7e320f02107bf2748179ed0c0bcfd5532e4a](https://sepolia-explorer.base.org/address/0xab1e7e320f02107bf2748179ed0c0bcfd5532e4a)
+- Gotchi Guardians Profile Diamond: [0x15517138573ce459943da529c9530ef76a22b713](https://sepolia-explorer.base.org/address/0x15517138573ce459943da529c9530ef76a22b713)
+- GBM Baazaar Diamond: [0x0f685B66D7a5E67EDC584c5FdD28E38ba05fAFbb](https://sepolia-explorer.base.org/address/0x0f685B66D7a5E67EDC584c5FdD28E38ba05fAFbb)
 
 ## Contract Addresses on Ethereum Sepolia Testnet
 
