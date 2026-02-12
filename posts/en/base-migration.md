@@ -28,12 +28,7 @@ This page is intentionally written as **historical framing** (what happened, whe
 
 ## Timeline
 
-| Date | Event |
-|------|-------|
-| 2020-2021 | Launch on Ethereum |
-| 2021 | Migration to Polygon |
-| 2024-04-17 | GHST token launched on Base |
-| 2025-07-25 | Full migration to Base; Polygon frozen |
+table_timeline
 
 ## References
 
