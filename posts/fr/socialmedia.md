@@ -87,7 +87,7 @@ Nous nous réjouissons de vous accueillir les frens! Rendez-vous sur l'une de no
 
 ## Aavegotchi Malaisie
 
-Aavegotchi Malaisie est l'endroit idéal pour se détendre dans la famille Aavegotchi malaisienne ! Découvrez notre [Groupe Facebook](https://www.facebook.com/groups/aavegotchimalaysia)! L'Aambassadeur malaisien Buzz Lightyear / Jason Chew vous souhaite la bienvenue!
+Aavegotchi Malaisie est l'endroit idéal pour se détendre dans la famille Aavegotchi malaisienne ! Découvrez notre [Groupe Facebook](https://www.facebook.com/groups/aavegotchimalaysia/)! L'Aambassadeur malaisien Buzz Lightyear / Jason Chew vous souhaite la bienvenue!
 
 
 

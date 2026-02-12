@@ -71,6 +71,6 @@ Hier zijn enkele MATIC faucets die je wat gratis MATIC geven om transacties uit 
 
 * [Matic Supply](https://matic.supply/)
 
-* [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
+* [Mac&Cheese Finance Matic Faucet](https://wallet.polygon.technology/polygon/gas-swap)
 
 Als de veilingen niet werken, Kom terug naar de Aavegotchi Discord [hier](https://discord.com/invite/NPwnWB6) en ga naar het #matic-verzoek-kanaal en sommige van onze griezelige vrienden geven je wat MATIC.

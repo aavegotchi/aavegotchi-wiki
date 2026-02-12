@@ -41,7 +41,7 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 - Aavegotchi Diamond (Deprecated): [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://web.archive.org/web/*/https://polygonscan.com/token/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 - Wearable Diamond (Deprecated): [0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f](https://polygonscan.com/address/0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f)
 - GHST Staking Diamond: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://web.archive.org/web/*/https://polygonscan.com/token/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
-- Aavegotchi GBM Diamond (Deprecated): [0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe](https://web.archive.org/web/*/https://polygonscan.com/token/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe)
+- Aavegotchi GBM Diamond (Deprecated): [0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe](https://explorer-mainnet.maticvigil.com/address/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe/transactions)
 - Aavegotchi GBM Baazaar Diamond (Deprecated): [0xd5543237c656f25eea69f1e247b8fa59ba353306](https://polygonscan.com/address/0xd5543237c656f25eea69f1e247b8fa59ba353306)
 - Aavegotchi Raffle Contract (Deprecated): [0x6c723cac1E35FE29a175b287AE242d424c52c1CE](https://web.archive.org/web/*/https://polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE)
 - Gotchiverse REALM Diamond (Deprecated): [0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11](https://web.archive.org/web/*/https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11)
@@ -57,17 +57,17 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 - FAKE Gotchi Card Diamond (ERC1155) (Deprecated): [0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7](https://polygonscan.com/address/0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7)
 - Forge Diamond (Deprecated): [0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442](https://polygonscan.com/address/0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442)
 
-- Installations Diamond Address: [{{INSTALLATIONS_DIAMOND_ADDRESS}}](https://polygonscan.com/address/{{INSTALLATIONS_DIAMOND_ADDRESS}})
+- Installations Diamond Address: [0x19f870bD94A34b3adAa9CaA439d333DA18d6812A](https://polygonscan.com/address/0x19f870bD94A34b3adAa9CaA439d333DA18d6812A)
 
-- Tiles Diamond Address: [{{TILES_DIAMOND_ADDRESS}}](https://polygonscan.com/address/{{TILES_DIAMOND_ADDRESS}})
+- Tiles Diamond Address: [0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355](https://polygonscan.com/address/0x9216c31d8146bCB3eA5a9162Dc1702e8AEDCa355)
 
-- Aavegotchi and Wearables Address: [{{AAVEGOTCHI_WEARABLES_ADDRESS}}](https://polygonscan.com/address/{{AAVEGOTCHI_WEARABLES_ADDRESS}})
+- Aavegotchi and Wearables Address: [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://polygonscan.com/address/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 
 ### Tokens Contracts
 
-- GHST Token Address: [{{GHST_POLYGON_ADDRESS}}](https://polygonscan.com/address/{{GHST_POLYGON_ADDRESS}})
+- GHST Token Address: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://polygonscan.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7)
 
-- wapGHST Token Address: [{{WAP_GHST_ADDRESS}}](https://polygonscan.com/address/{{WAP_GHST_ADDRESS}})
+- wapGHST Token Address: [0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea](https://polygonscan.com/address/0x73958d46b7aa2bc94926d8a215fa560a5cdca3ea)
 
 - FUD Token Address: [0x403E967b044d4Be25170310157cB1A4Bf10bdD0f](https://web.archive.org/web/*/https://polygonscan.com/token/0x403E967b044d4Be25170310157cB1A4Bf10bdD0f)
 
@@ -81,18 +81,18 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 
 ### Staking Contracts
 
-- stkGHST-QUICK Address: [{{stkGHST_QUICK}}](https://polygonscan.com/address/{{stkGHST_QUICK}})
+- stkGHST-QUICK Address: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://polygonscan.com/address/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
 
-- stkGHST-USDC Address: [{{stkGHST_USDC}}](https://polygonscan.com/address/{{stkGHST_USDC}})
+- stkGHST-USDC Address: [0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09](https://polygonscan.com/address/0x04439eC4ba8b09acfae0E9b5D75A82cC63b19f09)
 
 - GHST-WETH Liquidity Pool: [0xccb9d2100037f1253e6c1682adf7dc9944498aff](https://polygonscan.com/address/0xccb9d2100037f1253e6c1682adf7dc9944498aff)
 
-- GLTR Staking Address: [{{GLTR_STAKING_ADDRESS}}](https://polygonscan.com/address/{{GLTR_STAKING_ADDRESS}})
+- GLTR Staking Address: [0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c](https://polygonscan.com/address/0x1fE64677Ab1397e20A1211AFae2758570fEa1B8c)
 
 ### Others
 
 - DAO Address: [0xb208f8BB431f580CC4b216826AFfB128cd1431aB](https://polygonscan.com/address/0xb208f8BB431f580CC4b216826AFfB128cd1431aB/tokens)
 
-- Burn Address (for portals & baazaar): [{{BURN_ADDRESS}}](https://polygonscan.com/address/{{BURN_ADDRESS}}/tokens)
+- Burn Address (for portals & baazaar): [0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF](https://polygonscan.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens)
 
 - Rarity Farming Rewards Address: [0x27DF5C6dcd360f372e23d5e63645eC0072D0C098](https://polygonscan.com/address/0x27DF5C6dcd360f372e23d5e63645eC0072D0C098/token-transfers)

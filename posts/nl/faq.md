@@ -207,7 +207,7 @@ Met Aavegotchi en The Gotchiverse zijn er een aantal manieren om geld te verdien
 
 ### Heb ik KYC nodig om Aavegotchi te spelen of om de GHST token te bezitten?
 
-Nee! Je hoeft alleen KYC te doen als je GHST direct van de [bonding curve](/curve) wilt kopen. U kunt GHST kopen op [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550&outputCurrency=ETH) zonder KYC, evenals op [bepaalde beurzen](https://web.archive.org/web/*/https://www.coingecko.com/en/coins/aavegotchi#markets). Ondertussen is **geen KYC** vereist om [portalen](/portals) te kopen, [mini-games](/minigames), [staking GHST](/staking), of voor elk ander aspect van het Aavegotchi project zelf.
+Nee! Je hoeft alleen KYC te doen als je GHST direct van de [bonding curve](/curve) wilt kopen. U kunt GHST kopen op [Uniswap](https://aavegotchi.com/get-tokens?p=swap) zonder KYC, evenals op [bepaalde beurzen](https://web.archive.org/web/*/https://www.coingecko.com/en/coins/aavegotchi#markets). Ondertussen is **geen KYC** vereist om [portalen](/portals) te kopen, [mini-games](/minigames), [staking GHST](/staking), of voor elk ander aspect van het Aavegotchi project zelf.
 
 De onderstaande tabel vat de informatie samen:
 
@@ -633,7 +633,7 @@ You could still access Polygon using the Trezor One. For all others, it is not p
 
 ### Why can't I see my Polygon GHST on Metamask?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: {{GHST_POLYGON_ADDRESS}}
+Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
 
 ### Why can't I see my LP Tokens on QuickSwap?
 

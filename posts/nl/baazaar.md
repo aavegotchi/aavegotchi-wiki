@@ -46,7 +46,7 @@ Kom en test je mettle! Kopers en verkopers gelijk!
 
 ## Aavegotchi Baazaar
 
-De Aavegotchi Baazaar is de officiële secundaire markt voor Aavegotchi. Verkopers kunnen hun producten te koop aanbieden. Voor elke nieuwe aanbieding op de Aavegotchi Baazaar zal er een vergoeding van 0.1 GHST zijn. Dit om spamlijsten op Polygon te voorkomen. Deze 0.1 GHST gaat noch naar Pixelcraft Studios noch naar AavegotchiDAO. In plaats daarvan wordt het direct naar het [brandadres](https://explorer-mainnet.maticvigil.com/address/{{BURN_ADDRESS}}/tokens) op Polygon gestuurd wanneer een aanbieding wordt aangemaakt of bijgewerkt.
+De Aavegotchi Baazaar is de officiële secundaire markt voor Aavegotchi. Verkopers kunnen hun producten te koop aanbieden. Voor elke nieuwe aanbieding op de Aavegotchi Baazaar zal er een vergoeding van 0.1 GHST zijn. Dit om spamlijsten op Polygon te voorkomen. Deze 0.1 GHST gaat noch naar Pixelcraft Studios noch naar AavegotchiDAO. In plaats daarvan wordt het direct naar het [brandadres](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) op Polygon gestuurd wanneer een aanbieding wordt aangemaakt of bijgewerkt.
 
 Wanneer een artikel wordt verkocht, krijgt de verkoper 96,5% van de verkoopprijs naar zijn portemonnee gedeponeerd. De overige 3,5 procent is als volgt toegewezen:
 * 2% naar Pixelcraft Studios

@@ -50,7 +50,7 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 - Aavegotchi Diamond (Deprecated): [0x86935F11C86623deC8a25696E1C19a8659CbF95d](https://web.archive.org/web/*/https://polygonscan.com/token/0x86935F11C86623deC8a25696E1C19a8659CbF95d)
 - Wearable Diamond (Deprecated): [0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f](https://polygonscan.com/address/0x58de9AaBCaeEC0f69883C94318810ad79Cc6a44f)
 - GHST Staking Diamond: [0xA02d547512Bb90002807499F05495Fe9C4C3943f](https://web.archive.org/web/*/https://polygonscan.com/token/0xA02d547512Bb90002807499F05495Fe9C4C3943f)
-- Aavegotchi GBM Diamond (Deprecated): [0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe](https://web.archive.org/web/*/https://polygonscan.com/token/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe)
+- Aavegotchi GBM Diamond (Deprecated): [0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe](https://explorer-mainnet.maticvigil.com/address/0xa44c8e0eCAEFe668947154eE2b803Bd4e6310EFe/transactions)
 - Aavegotchi GBM Baazaar Diamond (Deprecated): [0xd5543237c656f25eea69f1e247b8fa59ba353306](https://polygonscan.com/address/0xd5543237c656f25eea69f1e247b8fa59ba353306)
 - Aavegotchi Raffle Contract (Deprecated): [0x6c723cac1E35FE29a175b287AE242d424c52c1CE](https://web.archive.org/web/*/https://polygonscan.com/token/0x6c723cac1E35FE29a175b287AE242d424c52c1CE)
 - Gotchiverse REALM Diamond (Deprecated): [0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11](https://web.archive.org/web/*/https://polygonscan.com/token/0x1D0360BaC7299C86Ec8E99d0c1C9A95FEfaF2a11)

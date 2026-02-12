@@ -163,7 +163,7 @@ I started gotchiverse project from scratch and I know the ins and outs of the pr
 
 <div class="leftImageContainer">
 <img class="leftImage" src="/team/shohan.png" alt = "Shohan">
-<p class="leftImageText"><a href="https://www.linkedin.com/in/shohanr/" target="_blank">Shohan</a></p>
+<p class="leftImageText">Shohan</p>
 </div>
 
 I am Shohan, professional game developer, having more than 5+ years of experience, I have work experience in gameplay programming, backend programming to various aspect of game development. I have worked for some top game studios like Stillfront (Moonfrog Labs). I have a Master degree in Computer Science. I am working in REALM frontend gameplay mostly where frens can roam around, explore and make fun.

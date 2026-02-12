@@ -66,11 +66,11 @@ Prepara tus carteras (preferiblemente Metamask) - hay un par de maneras de compr
 
 Asegúrate de que también obtienes la dirección correcta del token.
 
-En Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
+En Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 
-En Polígon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
+En Polígon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
 
-En Base: [{{GHST_BASE_ADDRESS}}](https://basescan.org/token/{{GHST_BASE_ADDRESS}})
+En Base: [0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB](https://basescan.org/token/0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB)
 
 **Por favor verifique estos enlaces contra otras fuentes de Aavegotchi publicadas oficialmente - nunca hace daño a ser cuidadoso.**
 

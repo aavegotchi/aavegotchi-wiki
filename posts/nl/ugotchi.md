@@ -91,7 +91,7 @@ De uGOTCHI Token laat tokenhouders direct eigendom van de Aastronauten toe. Het 
 
 De uGOTCHI Token is een goede manier voor mensen die graag worden blootgesteld aan een verzameling zeldzame Gotchis. Voor degenen die geen tijd hebben om een Gotchi te bezitten en te verzorgen is de uGOTCHI token een passieve manier om te investeren in een zeer goede set Aavegotchis voor prijswaardering. Natuurlijk brengt dat bij elke investering ook het risico van verlies met zich mee.
 
-Klik [hier](https://web.archive.org/web/*/https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068) om de uGOTCHI collectie op Unicly te bekijken.
+Klik [hier](https://web.archive.org/web/20210408004721/https://app.unic.ly/) om de uGOTCHI collectie op Unicly te bekijken.
 
 ## Waardering
 

@@ -82,7 +82,7 @@ Bọn mình đang trông các bạn quá đây này! Hãy vào bất kỳ kênh 
 
 ## Aavegotchi Malaysia
 
-Aavegotchi Malaysia là nơi tụ họp dành cho cả Gia Đình Aavegotchi ở đất nước Malaysia tuyệt vời! Hãy xem qua [Nhóm Facebook](https://www.facebook.com/groups/aavegotchimalaysia) của bọn mình nhé! Aambassador của Malaysia, Buzz Lightyear / Jason Chew rất vui được đón tiếp các bạn!
+Aavegotchi Malaysia là nơi tụ họp dành cho cả Gia Đình Aavegotchi ở đất nước Malaysia tuyệt vời! Hãy xem qua [Nhóm Facebook](https://www.facebook.com/groups/aavegotchimalaysia/) của bọn mình nhé! Aambassador của Malaysia, Buzz Lightyear / Jason Chew rất vui được đón tiếp các bạn!
 
 
 

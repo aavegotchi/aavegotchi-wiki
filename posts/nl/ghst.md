@@ -54,15 +54,15 @@ Het gaat daarbij om:
 Maak uw portemonnees (bij voorkeur Metamask) klaar - er zijn een aantal manieren om GHST tokens te kopen:
 
 * Om het rechtstreeks te kopen van de [curve](/curve) op Ethereum Mainnet (dit vereist echter KYC, wat burgers van de Verenigde Staten en China helaas uitsluit)
-* Koop het van Decentralized Exchanges on Ethereum Mainnet zoals [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=ETH&outputCurrency=0x3f382dbd960e3a9bbceae22651e88158d2791550) en [Matcha](https://web.archive.org/web/*/https://matcha.xyz/markets/GHST)
+* Koop het van Decentralized Exchanges on Ethereum Mainnet zoals [Uniswap](https://aavegotchi.com/get-tokens?p=swap) en [Matcha](https://web.archive.org/web/*/https://matcha.xyz/markets/GHST)
 * Koop het van Decentralized Exchanges op Polygon zoals [QuickSwap](https://quickswap.exchange/#/swap?outputCurrency=0x385eeac5cb85a38a9a07a70c73e0a3271cfb54a7)
 * Koop het van Centralized Exchanges zoals [OKex](https://www.okx.com/trade-spot/ghst-usdt) en [Binance](https://www.binance.com/en/trade/GHST_ETH?layout=pro)
 
 Zorg ervoor dat je ook het juiste token adres hebt.
 
-Op Ethereum Mainnet: [0x3F382Db960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}})
+Op Ethereum Mainnet: [0x3F382Db960E3a9bbCeaE22651E88158d2791550](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550)
 
-Op Polygon: [{{GHST_POLYGON_ADDRESS}}](https://explorer-mainnet.maticvigil.com/address/{{GHST_POLYGON_ADDRESS}}/transactions)
+Op Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7](https://explorer-mainnet.maticvigil.com/address/0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7/transactions)
 
 **Controleer deze links met andere officieel gepubliceerde Aavegotchi bronnen - het doet nooit pijn om extra voorzichtig te zijn.**
 

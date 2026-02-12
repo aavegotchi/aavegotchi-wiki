@@ -83,7 +83,7 @@ Discordは、一般的な質問、そうでない質問、技術的なサポー�
 
 ## Aavegotchiマレーシア
 
-Aavegotchiマレーシアは、マレーシアのAavegotchiファミリーのための場所です。 [Facebookグループ](https://www.facebook.com/groups/aavegotchimalaysia)をチェックしてね！ マレーシアのAambassador Buzz Lightyear / Jason Chew（ジェーソン・チュー氏）があなたをお迎えします！
+Aavegotchiマレーシアは、マレーシアのAavegotchiファミリーのための場所です。 [Facebookグループ](https://www.facebook.com/groups/aavegotchimalaysia/)をチェックしてね！ マレーシアのAambassador Buzz Lightyear / Jason Chew（ジェーソン・チュー氏）があなたをお迎えします！
 
 
 

@@ -71,6 +71,6 @@ Polygonで取引を行うにはMATICトークンが必要です。
 
 * [Matic Supply（マティック・サプライ）](https://matic.supply/)
 
-* [Mac&Cheese Finance Faucet（マック&チーズ・ファイナンス・マティック・フォセット）](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
+* [Mac&Cheese Finance Faucet（マック&チーズ・ファイナンス・マティック・フォセット）](https://wallet.polygon.technology/polygon/gas-swap)
 
 もしこの蛇口（フォセット）が使えない場合は、[こちら](https://discord.com/invite/NPwnWB6)にあるAavegotchi Discordの#matic-requestsチャンネルに入れば、私たちのfrenly frensがMATICを提供してくれるでしょう。

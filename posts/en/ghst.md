@@ -60,7 +60,7 @@ GHST was initially launched using a “bonding curve” mechanism where GHST was
 
 Following the removal of the bonding curve, the total supply of GHST token is now fixed at 52,747,802 GHST.
 
-As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [etherscan](https://etherscan.io/token/{{GHST_ETHEREUM_ADDRESS}}) for a real-time update of the token's total supply.
+As GHST will still be burnt through various mechanisms in the Aavegotchi ecosystem, please refer to the contract on [etherscan](https://etherscan.io/token/0x3F382DbD960E3a9bbCeaE22651E88158d2791550) for a real-time update of the token's total supply.
 
 ## Buying GHST
 
@@ -105,11 +105,11 @@ Access the Exchanges through the Aavegotchi UI [here](https://dapp.aavegotchi.co
 
 Make sure you get the correct token address as well.
 
-On Ethereum Mainnet: [{{GHST_ETHEREUM_ADDRESS}}]({{ETHERSCAN_GHST_URL}})
+On Ethereum Mainnet: [0x3F382DbD960E3a9bbCeaE22651E88158d2791550]({{ETHERSCAN_GHST_URL}})
 
-On Polygon: [{{GHST_POLYGON_ADDRESS}}]({{POLYGONSCAN_GHST_URL}})
+On Polygon: [0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7]({{POLYGONSCAN_GHST_URL}})
 
-On Base: [{{GHST_BASE_ADDRESS}}]({{BASESCAN_GHST_URL}})
+On Base: [0xcD2F22236DD9Dfe2356D7C543161D4d260FD9BcB]({{BASESCAN_GHST_URL}})
 
 **Please verify these links against other officially published Aavegotchi sources - it never hurts to be extra careful.**
 

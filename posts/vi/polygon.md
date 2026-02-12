@@ -71,6 +71,6 @@ Bạn cần có token MATIC để giao dịch trên Polygon.
 
 * [Matic Supply](https://matic.supply/)
 
-* [Mac&Cheese Finance Matic Faucet](https://macncheese.finance/matic-polygon-mainnet-faucet.php)
+* [Mac&Cheese Finance Matic Faucet](https://wallet.polygon.technology/polygon/gas-swap)
 
 Nếu faucet không hoạt động, hãy vào Aavegotchi Discord [here](https://discord.com/invite/NPwnWB6)và đi vào kênh #matic-requests để nhận được MATIC từ những người bạn khác nhé.

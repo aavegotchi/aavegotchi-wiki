@@ -91,7 +91,7 @@ Token uGOTCHI cho phép người nắm giữ chúng sở hữu trực tiếp b�
 
 Token uGOTCHI là rất thích hợp với những ai mong muốn được tiếp cận với bộ sưu tập các Gotchi hiếm. Với những ai không có thời gian sở hữu và chăm sóc cho Gotchi, token uGOTCHI là cách thức bị động để đầu tư vào một bộ sưu tập Aavegotchi tốt về giá thành. Tất nhiên, trong mọi hình thức đầu tư, các rủi ro mất mát luôn tìm ẩn.
 
-Hãy nhấp [vào đây](https://web.archive.org/web/*/https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)để xem bộ sưu tập uGOTCHI trên Unicly.
+Hãy nhấp [vào đây](https://web.archive.org/web/20210408004721/https://app.unic.ly/)để xem bộ sưu tập uGOTCHI trên Unicly.
 
 ## Định giá
 

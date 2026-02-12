@@ -89,7 +89,7 @@ Wij verheugen ons erop u welkom te heten! Ga naar een van onze kanalen om meer t
 
 ## Aavegotchi Malaysia
 
-Aavegotchi Maleisië is de plek om te hangen voor de Maleisische Aavegotchiaanse familie! Bekijk onze [Facebook Groep](https://www.facebook.com/groups/aavegotchimalaysia)! De Maleisische Aambassadeur Buzz Lightyear / Jason Chew verwelkomt u!
+Aavegotchi Maleisië is de plek om te hangen voor de Maleisische Aavegotchiaanse familie! Bekijk onze [Facebook Groep](https://www.facebook.com/groups/aavegotchimalaysia/)! De Maleisische Aambassadeur Buzz Lightyear / Jason Chew verwelkomt u!
 
 
 

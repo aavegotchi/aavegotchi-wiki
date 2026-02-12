@@ -46,7 +46,7 @@ contributors:
 
 ## Aavegotchiマーケット
 
-AavegotchiマーケットはAavegotchiの公式セカンダリーマーケットプレイスです。 販売者は項目をリストすることができます。 市場に新規上場するたびに、0.1GHSTの上場手数料がかかります。 これは、Polygonでのスパムリストを防ぐためです。 この0.1GHSTは、PixelcraftStudiosにもAavegotchiDAOにも適用されません。 その代わりに、リストが作成または更新されるときに、Polygonの[バーンアドレス](https://explorer-mainnet.maticvigil.com/address/{{BURN_ADDRESS}}/tokens) に直接送信されます。
+AavegotchiマーケットはAavegotchiの公式セカンダリーマーケットプレイスです。 販売者は項目をリストすることができます。 市場に新規上場するたびに、0.1GHSTの上場手数料がかかります。 これは、Polygonでのスパムリストを防ぐためです。 この0.1GHSTは、PixelcraftStudiosにもAavegotchiDAOにも適用されません。 その代わりに、リストが作成または更新されるときに、Polygonの[バーンアドレス](https://explorer-mainnet.maticvigil.com/address/0xFFfFfFffFFfffFFfFFfFFFFFffFFFffffFfFFFfF/tokens) に直接送信されます。
 
 アイテムが販売されるとき、売り手はウオレットに販売価格の96.5％を受け取ります。 他の3.5％は次のように割り当てられます：
 * Pixelcraft Studiosへ2%

@@ -89,7 +89,7 @@ otros 3,100 amigos. Completa con pegatinas Aavegotchi Telegram, el Aavegotchi Te
 
 ## Aavegotchi Malaysia
 
-Aavegotchi Malaysia es el lugar ideal para pasar el rato para la familia Malaya de Aavegotchi! ¡Echa un vistazo a nuestro [grupo de Facebook](https://www.facebook.com/groups/aavegotchimalaysia)! Malaysian Aambassador Buzz Lightyear / Jason Chew te dan la bienvenida!
+Aavegotchi Malaysia es el lugar ideal para pasar el rato para la familia Malaya de Aavegotchi! ¡Echa un vistazo a nuestro [grupo de Facebook](https://www.facebook.com/groups/aavegotchimalaysia/)! Malaysian Aambassador Buzz Lightyear / Jason Chew te dan la bienvenida!
 
 
 

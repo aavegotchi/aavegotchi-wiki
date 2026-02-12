@@ -91,7 +91,7 @@ uGOTCHIトークンは、トークン所有者がアストロノーツの直接�
 
 uGOTCHIトークンは、希少なゴッチのコレクションに触れることに興味がある人にとって、良い方法です。 ゴッチを所有し、手入れをする時間がない人にとって、uGOTCHIトークンは、非常に優れたゴッチセットに投資し、価格上昇を狙うパッシブな方法と言えます。 もちろん、すべての投資において、これには損失のリスクも伴います。
 
-UniclyでuGOTCHIコレクションを見るには[ここ](https://web.archive.org/web/*/https://www.app.unic.ly/#/utoken-contract/0x30c2a84aed6db30e31cf4d7059b1836c12c68068)をクリックしてください。
+UniclyでuGOTCHIコレクションを見るには[ここ](https://web.archive.org/web/20210408004721/https://app.unic.ly/)をクリックしてください。
 
 ## 評価額
 
