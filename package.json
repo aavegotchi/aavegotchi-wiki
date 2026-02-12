@@ -13,6 +13,7 @@
     "start": "next start",
     "export": "node --openssl-legacy-provider ./node_modules/.bin/next export",
     "deploy": "yarn build && yarn export",
+    "deploy:monitor": "./scripts/deploy-and-monitor.sh",
     "replace:addresses": "node scripts/replace-addresses.mjs",
     "check:addresses": "node scripts/check-for-hardcoded-addresses.mjs",
     "discord:fetch": "node scripts/fetch-discord-announcements.mjs",
