@@ -1806,7 +1806,7 @@ table_agip128
 **Proposal Summary:**
 
 We would like to ask for a small funding from the Aavegotchi DAO, funding that will help run and improve community websites and services, which have been actively used and maintained.
-Our tools have been vetted multiple times and most of them are part of the official tools list from [https://dapp.aavegotchi.com/tools?type=apps](https://dapp.aavegotchi.com/tools?type=apps.).
+Our tools have been vetted multiple times and most of them are part of the official tools list from [https://www.aavegotchi.com/tools?type=apps](https://www.aavegotchi.com/tools?type=apps).
 
 Each of the below projects will receive 600 GHST / each for the whole period of 6 months, as long as the website is active at the end of the payment period, according to the uptime links below (should show All systems operational).
 

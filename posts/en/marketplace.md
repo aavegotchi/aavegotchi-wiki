@@ -60,7 +60,7 @@ Buyers may buy 1, some, or all of a multiple item listing.
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-marketplace.png" alt = "Aavegotchi Marketplace">
 
-The Aavegotchi Marketplace can be found [here](https://dapp.aavegotchi.com/baazaar/aavegotchis). If you see a “not functional on Base” banner, use aavegotchi.com as the entry point while Base migration completes.
+	The Aavegotchi Marketplace can be found here: https://www.aavegotchi.com/baazaar/aavegotchis (canonical entry point: https://www.aavegotchi.com). As of the 2025 migration, Aavegotchi’s canonical home is on Base; Polygon-era surfaces are legacy. See: [Migration to Base (2025)](/base-migration).
 
 ## Features
 

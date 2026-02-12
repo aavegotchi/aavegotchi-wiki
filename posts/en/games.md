@@ -15,7 +15,7 @@ The Aavegotchi Game Center serves as a hub for all games within the Aavegotchi e
 
 Designed with both players and developers in mind, the Game Center features new games for players to discover, but also offers a space for developers to showcase their projects.
 
-The Game Center is accessible at [https://dapp.aavegotchi.com/games](https://dapp.aavegotchi.com/games).
+The Game Center is accessible at [https://www.aavegotchi.com/games](https://www.aavegotchi.com/games).
 
 <div class="contentsBox">
 
