@@ -2,13 +2,13 @@
 author: Unintelligent Nerd
 date: "2025-09-18T00:00:00.000Z"
 title: "Geist (historical)"
-description: "Geist was a planned Aavegotchi gaming chain; it ultimately did not launch."
+description: "Geist was an announced Aavegotchi gaming chain concept; it ultimately did not launch."
 contributors: ["unintelligent-nerd"]
 ---
 
 > **Deprecated / historical**
 >
-> Geist (also referred to as **Gotchichain** in some announcements) was a planned Aavegotchi gaming chain concept. It ultimately **did not launch**, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
+> Geist (also referred to as **Gotchichain** in some announcements) was an announced Aavegotchi gaming chain concept. It ultimately **did not launch**, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
 >
 > For current chain/network information, see: **[Migration to Base (2025)](/base-migration)**, **[Contracts](/contracts)**, and **[GHST Token](/ghst)**. For the original Gotchichain plan, see **[Gotchichain (historical)](/gotchichain)**.
 
@@ -19,7 +19,7 @@ contributors: ["unintelligent-nerd"]
 
 ## What Was Announced (Historical Summary)
 
-Geist was announced as a planned L3 powered by Base, Arbitrum, Alchemy, and Aavegotchi.
+Geist was announced as an L3 concept powered by Base, Arbitrum, Alchemy, and Aavegotchi.
 
 The announcement described Geist as the onchain home of Aavegotchi, the Aavegotchi Gaming Console, and official and community-built games.
 
@@ -27,11 +27,11 @@ The announcement described Geist as the onchain home of Aavegotchi, the Aavegotc
 
 The Geist announcement described a chain built using the Arbitrum stack, with goals like fast blocks, a custom gas token ([GHST](/ghst)), and permissionless transacting.
 
-Planned features included:
+Features described included:
 
 - **A chain-wide membership program.** Geist Members would have enjoyed access to reward campaigns across games on the chain.
 - **World-class uptime and developer tooling.** Described as powered by Alchemy.
-- **Native NFT marketplace.** Planned integration with the Aavegotchi [Marketplace (Baazaar)](/marketplace).
+- **Native NFT marketplace.** Described as integrating with the Aavegotchi [Marketplace (Baazaar)](/marketplace).
 - **CEX onramps.** Described as working with Coinbase and other exchanges to support ETH and GHST onramps.
 - **Native VRF.** Described as a Pixelcraft-developed onchain randomness system.
 - **Account abstraction and gasless relayers.** Described as powered by Thirdweb.

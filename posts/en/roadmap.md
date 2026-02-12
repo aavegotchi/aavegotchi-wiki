@@ -96,7 +96,7 @@ Milestones: 1M MAU / 25K DAU
 * Implementing On-chain Smart Contract Execution
 * Decentralizing our Workflow
 * Turning off the GHST Bonding Curve *(Pending DAO vote)*
-* Launch of Gotchichain – A blockchain for all things Aavegotchi *(planned; ultimately did not launch)*
+* Launch of Gotchichain – A blockchain for all things Aavegotchi *(announced; ultimately did not launch)*
 * Gotchi in 3D
 
 For more details concerning the Year 2023 Roadmap, check out this [blog post](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
