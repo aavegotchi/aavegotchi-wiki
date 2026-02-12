@@ -13,6 +13,10 @@ contributors: ["hackingmoneyph", "unintelligent-nerd"]
 
 Hey frens, buckle up and join us on our multi-year journey to make Aavegotchi a household name! Our Roadmap consists of three major sections. Read on for more!
 
+> **Historical note:** This roadmap page is a snapshot of planning docs from the 2021-2023 era. Many items have since shipped, changed, or been superseded. Notably, Gotchichain/Geist ultimately did not launch, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
+>
+> For newer updates, see **[Milestones](/milestones)** and the official blog.
+
 <div class="contentsBox">
 
 **Contents**
@@ -92,7 +96,7 @@ Milestones: 1M MAU / 25K DAU
 * Implementing On-chain Smart Contract Execution
 * Decentralizing our Workflow
 * Turning off the GHST Bonding Curve *(Pending DAO vote)*
-* Launch of Gotchichain – A blockchain for all things Aavegotchi
+* Launch of Gotchichain – A blockchain for all things Aavegotchi *(planned; ultimately did not launch)*
 * Gotchi in 3D
 
 For more details concerning the Year 2023 Roadmap, check out this [blog post](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
@@ -115,6 +119,8 @@ Milestones: 10M MAU / 50K DAU
 ## Gotchiverse Roadmap
 
 The [Gotchiverse](/gotchiverse) is an ambitious, multiyear project being developed together by Pixelcraft Studios and [AavegotchiDAO](/dao), the governing body of the Aavegotchi NFT Gaming Protocol.
+
+> **Note:** The "Status" labels below reflect the original roadmap snapshot and may be outdated. Use the live app and recent official posts as the source of truth for current status.
 
 ### Alchemical Aaltars and Alchemical Channeling
 

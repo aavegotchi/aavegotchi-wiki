@@ -6,6 +6,8 @@ description: 'History about Aavegotchi Spirit Force'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** This page explains how the term “Spirit Force” evolved during the Ethereum and Polygon eras. As of **2025-07-25**, Aavegotchi’s canonical home migrated to **Base**. See **[Migration to Base (2025)](/base-migration)**.
+
 
 Spirit Force?
 

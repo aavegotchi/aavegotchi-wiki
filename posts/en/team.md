@@ -15,6 +15,8 @@ contributors: ["vanilladelphia", "unintelligent-nerd"]
 
 Wanna know who's behind the cute gotchis? We got ya covered. Presenting the people behind Aavegotchi!
 
+> **Note:** Team roles and contributors change over time. This page is maintained on a best-effort basis and may not reflect current staffing.
+
 <div class="contentsBox">
 
 **Contents**

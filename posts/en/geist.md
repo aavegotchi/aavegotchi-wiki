@@ -1,55 +1,56 @@
 ---
 author: Unintelligent Nerd
 date: "2025-09-18T00:00:00.000Z"
-title: "Geist"
-description: "Geist"
+title: "Geist (historical)"
+description: "Geist was a planned Aavegotchi gaming chain; it ultimately did not launch."
 contributors: ["unintelligent-nerd"]
 ---
 
-**Deprecated notice**
+> **Deprecated / historical**
+>
+> Geist (also referred to as **Gotchichain** in some announcements) was a planned Aavegotchi gaming chain. It ultimately **did not launch**, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
+>
+> For current chain/network information, see: **[Migration to Base (2025)](/base-migration)**, **[Contracts](/contracts)**, and **[GHST Token](/ghst)**. For the original Gotchichain plan, see **[Gotchichain (historical)](/gotchichain)**.
 
-Gotchichain (Geist) was not launched. Aavegotchi has migrated to Base, and this page is kept for historical reference only. For current information, see the [GHST Token](/ghst) page and recent posts on the official blog.
+Geist was announced as a planned L3 powered by Base, Arbitrum, Alchemy, and Aavegotchi.
 
-Geist is a new L3 powered by Base, Arbitrum, Alchemy, and Aavegotchi.
-
-Geist is built to be the onchain home of Aavegotchi, the Aavegotchi Gaming Console, and all of our official and community-built games. Games or dapps that include Aavegotchi elements (tokens, NFTs, tooling, lore) will be prioritized for deployment.
+The announcement described Geist as the onchain home of Aavegotchi, the Aavegotchi Gaming Console, and official and community-built games.
 
 <div class="contentsBox">
 
 **Contents**
 
 <ol>
-<li><a href=#features>Features</a></li>
-<li><a href=#polter-testnet>Polter Testnet</a></li>
+<li><a href=#features>Features (as described)</a></li>
+<li><a href=#polter-testnet>Polter Testnet (as described)</a></li>
 </ol>
 
 </div>
 
-## Features
+## Features (as described)
 
+The Geist announcement described a chain built using the Arbitrum stack, with goals like fast blocks, a custom gas token ([GHST](/ghst)), and permissionless transacting.
 
-Geist is built using the cutting-edge Arbitrum stack, the leading rollup chain stack for crypto gaming. Standard benefits of the Arbitrum stack such as <250ms block time, custom gas token ([GHST](/ghst)), and permissionless transacting all apply.
+Planned features included:
 
-Here’s what sets Geist apart:
+- **A chain-wide membership program.** Geist Members would have enjoyed access to reward campaigns across games on the chain.
 
-- **A chain-wide membership program.** Geist Members will enjoy exclusive access to reward campaigns across all games on the chain. Non-members can still transact and play games on the chain, but will miss out on many of the benefits.
+- **World-class uptime and developer tooling.** Described as powered by Alchemy.
 
-- **World-class Uptime and the Complete Developer Platform.** Powered by Alchemy, the leader in blockchain infrastructure, Geist offers high uptime and familiar developer tools such as Token API, Transaction API, and Webhooks.
+- **Native NFT marketplace.** Planned integration with the Aavegotchi [Marketplace (Baazaar)](/marketplace).
 
-- **Native NFT Marketplace.** Geist supports the Aavegotchi [Baazaar](/marketplace), a fully onchain NFT marketplace with royalties enabled.
+- **CEX onramps.** Described as working with Coinbase and other exchanges to support ETH and GHST onramps.
 
-- **CEX Onramps.** Geist is collaborating closely with Coinbase and other CEXes to allow for ETH and GHST onramps.
+- **Native VRF.** Described as a Pixelcraft-developed onchain randomness system.
 
-- **Native VRF.** Geist supports a native onchain random number generator (VRF) developed by Pixelcraft Studios, allowing game developers to deliver provable randomness to their players.
+- **Account abstraction and gasless relayers.** Described as powered by Thirdweb.
 
-- **Account Abstraction and Gasless Relayers.** Geist supports the latest in account abstraction, smart wallets, and gasless transactions, powered by Thirdweb.
+- **Native staking with revenue sharing.** Described as contingent on a future [AavegotchiDAO](/dao) proposal.
 
-- **Native Staking with revenue sharing.** Pending a future [AavegotchiDAO](/dao) proposal, Geist will support staking GHST to earn a portion of both marketplace and sequencer fees.
+- **Permissioned contract deployment.** Intended to prevent congestion and enforce quality control.
 
-- **Permissioned contract deployment.** To prevent network congestion and ensure quality control.
+## Polter Testnet (as described)
 
-## Polter Testnet
+The Geist announcement described a "Polter Testnet" as the testing ground for migrations and features.
 
-The Polter Testnet, the official testnet of Geist, is the testing ground for all Aavegotchi asset migrations and features.
-
-Learn more about Polter Testnet and Geist Mainnet in the [Official docs](https://docs.aavegotchi.com/geist/overview).
+Official docs (historical): https://docs.aavegotchi.com/geist/overview

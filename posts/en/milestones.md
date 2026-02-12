@@ -34,20 +34,20 @@ contributors: ["unintelligent-nerd"]
 ## [14 Ebic New Wearables Are Coming!](https://blog.aavegotchi.com/14-stunning-new-wearables/)
 
 - In July 2024, AavegotchiDAO hosted a community design competition where talented artists flexed their pixel-crafting skills to create fourteen new Wearable Schematics.
-- Now, these unique Wearables are about to hit the Gotchiverse, and to make things even more exciting, 10% of them will be distributed through the first-ever DAO Forge Competition!
+- The post announced that these wearables were about to hit the Gotchiverse, and that 10% would be distributed through the first-ever DAO Forge Competition.
   <p></p>
 
 ## [A new partnership with Camelot](https://blog.aavegotchi.com/camelot-launching-on-geist/)
 
 - Aavegotchi is excited to announce a new partnership with Camelot, creators of the Orbital Liquidity Network, and the largest decentralized exchange (DEX) on Arbitrum.
-- This collaboration will power liquidity on Geist, our upcoming Layer 3 blockchain, allowing decentralized exchange of value to an ecosystem of curated games and dapps.
+- The post announced a collaboration intended to power liquidity on Geist, a then-planned Layer 3 blockchain.
 - Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
   <p></p>
 
 ## [Introducing the Geist Blockchain!](https://blog.aavegotchi.com/introducing-geist/)
 
 - Previously codenamed “Gotchichain”, Geist is the first members-only blockchain, built for gaming.
-- It will be a new L3 powered by Base, Arbitrum, Alchemy, and of course, Aavegotchi.
+- The post described it as a new L3 powered by Base, Arbitrum, Alchemy, and Aavegotchi.
 - Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
   <p></p>
 
@@ -58,7 +58,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Rarity Farming Season 9](https://blog.aavegotchi.com/rarity-farming-season-9/)
 
-- Rarity Farming Season 9 will begin on August 10th, 2024 at 10AM EST/2PM UTC!
+- Rarity Farming Season 9 began on August 10, 2024 at 10AM EST / 2PM UTC.
 - Dress your Gotchis up and farm dat GHST!
   <p></p>
 
@@ -82,7 +82,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [New map in Gotchi Guardians](https://blog.aavegotchi.com/new-map-mount-oomf/)
 
-- Mount Oomf, the fiery source of all FOMO within our spectral world, will feature as the second map in Gotchi Guardians!
+- The post announced Mount Oomf, the fiery source of all FOMO within the spectral world, as the second map in Gotchi Guardians.
   <p></p>
 
 ## [Aavegotchi June Highlights](https://blog.aavegotchi.com/aavegotchi-june-highlights/)
@@ -93,12 +93,12 @@ contributors: ["unintelligent-nerd"]
 
 ## [Alchemica Tokens are Now Live on Base!](https://blog.aavegotchi.com/alchemica-is-now-live-on-base/)
 
-- As of today, it is now possible to transfer your Alchemica (and GLTR!) from Polygon to Base via our new chain abstraction tech, powered by Socket Protocol.
+- The post announced it was now possible to transfer Alchemica (and GLTR) from Polygon to Base via chain abstraction tech, powered by Socket Protocol.
   <p></p>
 
 ## [Get Ready Gotchi Battlers - Rarity Farming Season 8 Tournaments are upon us!](https://blog.aavegotchi.com/get-ready-gotchi-battlers-rarity-farming-season-8-tournaments-are-upon-us/)
 
-- We're excited to announce the upcoming tournaments for Rarity Farming Season 8, featuring a massive 150,000 GHST prize pool, as well as new updates to give you even more ways to strategize and compete with your ghostly besties.
+- The post announced tournaments for Rarity Farming Season 8, featuring a 150,000 GHST prize pool.
 - This season introduces double-elimination tournaments, the ability to have two substitutes per team, and a preparation phase between each round for strategic adjustments. Whether you're a seasoned battler or a fresh contender, this season offers the perfect stage to showcase your skills and claim your share of the epic prize pools.
   <p></p>
 
@@ -140,14 +140,14 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi chooses Base as settlement layer for Gotchichain](https://blog.aavegotchi.com/aavegotchi-chooses-base-as-settlement-layer-for-gotchichain/)
 
-- Gotchichain, our upcoming Layer 3 (L3) rollup dedicated to Aavegotchi gaming, will use Base as its settlement layer
+- The post announced that Gotchichain, a then-planned Layer 3 (L3) rollup dedicated to Aavegotchi gaming, would use Base as its settlement layer.
 - Base is a leading EVM-compatible Layer 2 (L2) chain developed by Coinbase that offers a safe, low-cost, and developer-friendly way to develop onchain, while still remaining strongly aligned with Ethereum.
 - Update: Ultimately, Aavegotchi migrated to Base and Gotchichain was not launched.
   <p></p>
 
 ## [Are you ready for Rarity Farming Season 8?!?!](https://blog.aavegotchi.com/rarity-farming-season-8/)
 
-- Rarity Farming Season 8 is commencing on March 16th, 2024 at 10AM EST/2PM UTC!
+- Rarity Farming Season 8 commenced on March 16, 2024 at 10AM EST / 2PM UTC.
 - This season comes with the Gotchi Battler category too! Form your team and aim for the top!
   <p></p>
 
@@ -178,13 +178,13 @@ contributors: ["unintelligent-nerd"]
 ## [Eighteen new Wearable Schematics are hot off the presses, ready for forging 🔥](https://blog.aavegotchi.com/terrifying-nightmare-fuel-now-heres-how-to-get-them/)
 
 - Voted on by AavegotchiDAO, these eighteen new Schematics fill the trait gaps in all six rarity levels, ensuring your Gotchi has the widest range of wearable combinations to choose from
-- In line with the method proposed in AGIP90, this new batch of Schematics will be distributed 40% via FRENS Raffle, and 60% via Geodes
-- The Raffle will be held December 13-16. Beginning at 2:30PM UTC on December 13, it ends at 2:30PM UTC on December 16th, coinciding with the Aavegotchi community hangout
+- The post described a distribution plan: 40% via FRENS Raffle, and 60% via Geodes.
+- The post announced a raffle window: December 13-16 (beginning at 2:30PM UTC on December 13, ending at 2:30PM UTC on December 16), coinciding with the Aavegotchi community hangout.
   <p></p>
 
 ## [Spirit Force Arena is soft launching first on HyperPlay!](https://blog.aavegotchi.com/spirit-force-arena-is-soft-launching-first-on-hyperplay/)
 
-- Spirit Force Arena, the first Battle Royale game from Aavegotchi, will list on HyperPlay with an exclusive early access DEMO version starting November 17th at 5PM UTC (9AM PST)!
+- The post announced Spirit Force Arena would list on HyperPlay with an exclusive early access DEMO version starting November 17 at 5PM UTC (9AM PST).
   <p></p>
 
 ## [Test Your Skill in the Arena Playtest](https://blog.aavegotchi.com/happening-now-test-your-skill-in-the-arena-playtest/)
@@ -218,18 +218,18 @@ contributors: ["unintelligent-nerd"]
 ## [The Aavegotchi x Sandbox shared Metaverse experience](https://blog.aavegotchi.com/this-is-what-happens-when-metaverses-collide/)
 
 - Are you ready to experience Aavegotchi in The Sandbox? 👀
-- It's gonna go live on October 25th in The Sandbox, with TWO claimable airdrops.
+- The post announced it would go live on October 25, 2023 in The Sandbox, with two claimable airdrops.
   <p></p>
 
 ## [A new partnership with GameSwift!](https://blog.aavegotchi.com/game-tech-spotlight-announcing-a-new-partnership-with-gameswift/)
 
 - Aavegotchi is now partnering with GameSwift, a pioneering modular gaming blockchain built on zkEVM technology, and one of the world’s leading Web3 gaming aggregators!
-- As part of the partnership, GameSwift will showcase on its platform both of Aavegotchi’s much-anticipated upcoming releases: **Gotchi Guardians**, a fusion of high-stakes survival and tower defense game, and the **Gotchiverse Arena**, a multiplayer battle-royale deathmatch game deeply integrated with the Aavegotchi IP
+- As part of the partnership, GameSwift planned to showcase Aavegotchi releases such as **Gotchi Guardians** and the **Gotchiverse Arena**.
   <p></p>
 
 ## [The Gotchi Gaming Revolution has arrived!](https://blog.aavegotchi.com/its-official-the-aavegotchi-gaming-revolution-has-just-arrived/)
 
-- Did you know that Aavegotchi is gonna become the next Steam and Epic Games?
+- The post introduced the Aavegotchi Game Center and framed it as a major step toward a broader Aavegotchi gaming platform.
 - Come and sample the games in the newwwww Game Center! 👀
   <p></p>
 
@@ -241,7 +241,7 @@ contributors: ["unintelligent-nerd"]
 ## [August 2023 Dev Update!](https://blog.aavegotchi.com/aavegotchi-dev-update-august-2023/)
 
 - Have you seen the 3D Gotchiverse?
-- 3D Aarena, flying Gotchis, and Gotchi Guardians.........soon!
+- The post teased 3D Aarena, flying Gotchis, and Gotchi Guardians.
   <p></p>
 
 ## [Let's welcome Andy Tudor, our new Gotchiverse Game Director](https://blog.aavegotchi.com/game-industry-titan-wants-to-bring-aavegotchi-to-the-mainstream/)
@@ -291,7 +291,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Aavegotchi heading for Consensus 2023!](https://blog.aavegotchi.com/yee-haw-aavegotchi-heads-to-texas-for-consensus/)
 
-- Aavegotchi will be at Consensus 2023 in Austin, Texas next week!
+- The post announced Aavegotchi would be at Consensus 2023 in Austin, Texas.
 - There will be aavesome Gotchi swag and merch!
   <p></p>
 
@@ -334,14 +334,14 @@ contributors: ["unintelligent-nerd"]
 
 ## [Web 3 Gaming Studio Inverse Worlds to Develop on Aavegotchi's Supernet](https://blog.aavegotchi.com/inverse-worlds-to-develop-on-aavegotchis-supernet/)
 
-- Inverse Worlds is coming to Gotchichain!
-- The web3 game studio, which focuses on building social metaverses, has big plans for development on Aavegotchi’s own Polygon Supernet.
+- The post announced that Inverse Worlds planned to develop on Gotchichain (a then-planned Aavegotchi gaming chain / Polygon Supernet).
+- Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
   <p></p>
 
 ## [Introducing Gotchichain: Aavegotchi X Polygon Supernets](https://blog.aavegotchi.com/introducing-gotchichain-aavegotchi-x-polygon-supernets/)
 
-- Gotchichain is gonna be a dedicated blockchain for all things Aavegotchi!
-- It is powered by Polygon Supernets and will be launching in early Q3 2023!
+- The post announced Gotchichain as a dedicated blockchain for all things Aavegotchi, powered by Polygon Supernets, with a planned early Q3 2023 launch.
+- Update: Gotchichain/Geist did not launch; Aavegotchi later migrated to Base.
   <p></p>
 
 ## [Aavegotchi partners with Magic Eden!](https://blog.aavegotchi.com/aavegotchi-nfts-are-now-available-on-magic-eden/)
@@ -362,7 +362,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [The Great GHST Migration](https://blog.aavegotchi.com/let-the-great-ghst-migration-begin/)
 
-- We are gonna turn off the bonding curve!
+- The post announced the plan to turn off the bonding curve.
 - Here's what you need to know/do!
   <p></p>
 

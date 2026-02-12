@@ -12,6 +12,8 @@ contributors: ["eris771", "unintelligent-nerd"]
 <p class="headerImageText">Aavegotchi Goes Brrrrr</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s **canonical home** migrated to **Base**. Some answers below are **legacy Polygon-era** FAQs kept for historical context. For Base-era onboarding, start here: **[Migration to Base (2025)](/base-migration)**, **[Contracts](/contracts)**, **[Marketplace](/marketplace)**.
+
 <a name="FAQ"></a>
 
 <div class="contentsBox">
@@ -111,7 +113,7 @@ contributors: ["eris771", "unintelligent-nerd"]
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
 <p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
 <p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
-<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
+<p><a href=#legacy-can-i-use-my-aavegotchi-on-ethereum-to-play-the-gotchiverse->Legacy: Can I use my Aavegotchi on Ethereum to play the Gotchiverse?</a></p>
 <p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
 <p><a href=#if-i-buy-an-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy an Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
 <p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
@@ -155,11 +157,11 @@ By petting them every 12 hours!
 
 ### How do I play in the REALM?
 
-Once you have a gotchi in your wallet, REALM gameplay is accessible at [verse.aavegotchi.com](https://gotchiverse.io/).
+Once you have a gotchi in your wallet (Base era: on **Base**), REALM gameplay is accessible at [gotchiverse.io](https://gotchiverse.io/).
 
 ### What blockchain is Aavegotchi on?
 
-Aavegotchi is deployed on Polygon, the leading side chain to Ethereum.
+As of **2025-07-25**, Aavegotchi’s canonical home is **Base**. See: **[Migration to Base (2025)](/base-migration)**.
 
 ### Is Aavegotchi an official Aave project? How much is Aave involved?
 
@@ -171,7 +173,7 @@ Yes, you can buy and sell Aavegotchis on our secondary NFT marketplace, the Aave
 
 ### What is the Gotchiverse?
 
-The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [verse.aavegotchi.com](https://gotchiverse.io/).
+The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [gotchiverse.io](https://gotchiverse.io/).
 
 ### How much does it cost to play Aavegotchi?
 There are a couple of ways to get an Aavegotchi:
@@ -204,7 +206,7 @@ With Aavegotchi and The Gotchiverse there are a number of ways to earn money. Th
 No. The aTokens staked inside an Aavegotchi cannot be used as collateral for borrowing on the Aave platform. Thus, such aTokens cannot get liquidated.
 
 ### What are maTokens?
-maTokens are aTokens from Aave V2 which have been transferred to Polygon. Like aTokens, they accrue interest over time!
+**Legacy (Polygon era):** maTokens refer to bridged Aave V2 aTokens that were used as Spirit Force collateral for **Haunt 1** Aavegotchis on Polygon. Like aTokens, they accrued interest over time. In the Base era, treat maToken/amToken guidance as historical unless the current app/contracts explicitly reference it.
 
 ### Could CAPTCHA be used to prevent bots?
 No. The [Aaavegotchi.com website](https://aavegotchi.com/) is just an interface. Bots would still easily bypass the interface and interact with the underlying smart contract directly.
@@ -214,7 +216,7 @@ This is a feature of permissionless blockchains. It cannot be stopped.
 ### Are amTokens the same as maTokens?
 No. amTokens are **not** the same as maTokens.
 
-maTokens are aTokens from Aave V2 on Ethereum Mainnet that have been represented on Polygon. They are created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
+**Legacy (Polygon era):** maTokens are aTokens from Aave V2 on Ethereum Mainnet that were represented on Polygon. They were created by [Nick](/team#nick-mudge) to hasten the launch of Aavegotchi on Polygon.
 
 Subsequently, Aave themselves shifted over to Polygon. Tokens from their Aave (Polygon) markets are known as amTokens.
 
@@ -231,6 +233,8 @@ Both maTokens and amTokens accrue interest. However, *the way* they accrue inter
 * amTokens increase in **quantity** over time. This applies to Aavegotchis from Haunt 2 and onwards. The interest accrued is reflected as quantity. Hence, it is possible to withdraw amTokens once sufficient interest has been generated.
 
 ### Why can't I swap my assets for maLINK/maUNI on QuickSwap?
+**Legacy (Polygon era):** This question refers to QuickSwap routing for Polygon-era maTokens.
+
 QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You have to manually swap to maUSDC first and then get the respective maToken.
 
 **Doesn't work**: ETH/USDC -> maUNI/maLINK
@@ -238,13 +242,15 @@ QuickSwap has routing problems for a few maTokens such as maUNI and maLINK. You 
 **Works**: maUSDC -> maUNI/maLINK
 
 ### Will Aavegotchi be integrated with OpenSea?
-Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. The challenge is with OpenSea Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with it. OpenSea Polygon does not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft has informed OpenSea that they will not be pursuing a listing on Polygon.
+> **Note:** This answer is primarily a **legacy Polygon-era** explanation. Marketplace and network support can change over time, especially after the **2025-07-25** migration to **Base**. Always verify current integrations before trading.
+
+Aavegotchi is fully compatible with OpenSea (and other secondary marketplaces) on Ethereum Mainnet. Historically, the challenge was with OpenSea on Polygon. When someone puts up a Gotchi for sale on the Baazaar, their wearables are also listed along with it. OpenSea Polygon did not have this locking mechanism in place. Hence, Gotchi sellers on OpenSea Polygon could rug would-be buyers of the Gotchi's wearables. To protect buyers, Pixelcraft informed OpenSea that they would not be pursuing a listing on Polygon.
 
 Similarly, there are some constraints with the listing of wearables on OpenSea Polygon. Due to the way OpenSea Polygon parses contracts, they have some difficulties parsing the ERC-1155 wearables. The issue is that the same address holds both ERC-721s (Gotchis) and ERC-1155s (wearables). Their infrastructure is not set up to handle both in the same contract.
 
 ### Where can I find the Aavegotchi Litepaper?
 
-There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
+There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the Gotchiverse and REALM (the land parcels in the Gotchiverse).
 
 They can be found here:
 
@@ -255,13 +261,13 @@ They can be found here:
 
 ### What is wapGHST?
 
-wapGHST stands for Wrapped Aave Polygon GHST. It is a wrapped, static form of apGHST (formerly known as amGHST in Aave v2).
+wapGHST stands for Wrapped Aave Polygon GHST. It is a wrapped, static form of apGHST (formerly known as amGHST in Aave v2). This is legacy Polygon-era terminology.
 
 This is legacy Polygon-era staking terminology. FRENS was sunset in 2022.
 
 The current staking flow is on Base: stake supported LP tokens to earn GLTR.
 
-Visit [https://aavegotchi.com/staking](https://aavegotchi.com/staking) to start staking.
+See: **[Staking](/staking)**.
 
 ## Raffle FAQ
 
@@ -288,7 +294,7 @@ class (such as rare, mythical, etc).  On the [Baazaar](/baazaar), whether they h
 
 
 ### How do you transfer raffle tickets?
-Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://aavegotchi.com/baazaar/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
+Raffle Tickets are based on the ERC-1155 standard. They can be transferred through the [Tickets page](https://www.aavegotchi.com/baazaar/tickets) on the Aavegotchi DApp. Beneath each Ticket category that you own, there will be a Transfer button (see screenshot below). Click on that button to transfer tickets belonging to that category.
 
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets.png" alt = "Transfer Aavegotchi Raffle Tickets">
 
@@ -329,7 +335,7 @@ If you’re the highest bidder at the end of the Auction, you’ll see a “Clai
 ## Wearable FAQ
 
 ### Do I need to transfer my wearable vouchers to Polygon?
-No. Both claimed and unclaimed wearable vouchers will be automatically transferred to Polygon when Aavegotchi launches.
+This is a legacy (pre-launch) Polygon-era FAQ and is historical. As of **2025-07-25**, Aavegotchi’s canonical home is **Base**. If you are dealing with legacy vouchers/assets, use the current app inventory and see **[Migration to Base (2025)](/base-migration)** for context.
 
 ### Are there limited quantities for each wearable?
 Yes. Each wearable has a limited quantity. You can check out the quantity at the [Wearables page](/wearables).
@@ -355,7 +361,7 @@ Each user can purchase up to 50 portals in 1 transaction. This is to prevent wha
 Yes, you can leave the portal opened, go acquire the specific aToken, and come back later to summon your gotchi. You do not need to prepare the aTokens beforehand.
 
 ### When will portals be released?
-Portals will be released on Polygon at February.
+This is a pre-launch, Polygon-era answer and is historical. Portal drops have occurred; for future drop schedules, check current official announcements and the main app entry point: **https://www.aavegotchi.com**.
 
 ## AavegotchiDAO FAQ
 
@@ -378,7 +384,7 @@ Secondly, it is entirely possible, even likely, that some Signal Proposals will 
 **If a Signal Proposal does not reach the 20% quorum, this does not discount the proposal’s merits, it simply means the proposal is not automatically being upgraded to a binding, community wide vote.** Any well-written signal proposal with good ideas should still be considered a healthy contribution to the DAO and may very well influence Pixelcraft and future community proposals. Pixelcraft may occasionally choose Signal Proposals that did not reach quorum and still craft Core Proposals based on them.
 
 ### I Spent all my GHST budget on Portals and Wearables — Where’s my Voice?
-You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
+You’re in luck! The Aavegotchi game has always intended to allocate voting power based on Aavegotchi ownership, in addition to just holding GHST. With the passing of [AGIP 9](/aavegotchi-improvement-proposals#voting-power-based-on-wearables--maall-price), wearables now have voting power in AavegotchiDAO. The voting power (measured in GHST) of a given wearable is based on its Rarity Type/Maall price. See [here](/wearables#voting-power) for more information.
 
 ### What about Funding Proposals?
 Funding requests are not found in the *Cocoon* proposal template, primarily because the “walk before run” principle suggests we focus on establishing a healthy framework before introducing financial complexities.
@@ -397,9 +403,7 @@ Aavegotchi rarity is based on a bell curve - meaning **both extremely high and e
 
 ### How much does it cost to play?
 
-Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after 
-game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the 
-open market prices currently are for certain wearables at the [Baazaar](/baazaar).
+Portal and in-game asset prices vary by drop and can change over time (historically: Haunt 1 portals cost 100 GHST). For current prices, check the live app and the [Marketplace](/marketplace). Asset pricing can also be adjusted via governance vote (see [AavegotchiDAO](/dao)).
 
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
@@ -432,7 +436,7 @@ There are 3 possibilities for this:
 
 * Withdraw from Vortex confirmed, but you have not withdrawn from Gotchi Pocket. Claim from your Gotchi Pocket (Top right in the UI).
 
-* Transaction confirmed, but the listing was created before Alchemica tokens were deployed on Polygon. This listing was likely created with “placeholder” Alchemica. Please wait until rental period expires then re-create a new listing with the same parameters. Then you will be able to claim the tokens.
+* **Legacy (Polygon era):** Transaction confirmed, but the listing was created before Alchemica tokens were deployed on Polygon. This listing was likely created with “placeholder” Alchemica. Please wait until rental period expires then re-create a new listing with the same parameters. Then you will be able to claim the tokens.
 
 ### Claimable rewards in my Gotchi Pocket disappeared!
 
@@ -460,7 +464,9 @@ There are 2 possibilities for this:
 
 ### How do you allow borrowed Gotchis to channel Alchemica from parcels owned by the lender?
 
-Head to [https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon](https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon), connect your wallet, scroll down to RealmFacet, click Write and select **setParcelsAccessRights**, then follow the screenshot below to input the information.
+**Base era (canonical):** Head to [https://louper.dev/diamond/0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372?network=base](https://louper.dev/diamond/0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372?network=base), connect your wallet, and look for the access-rights function (facet naming may differ). The Base REALM contract address is also listed on **[Contracts](/contracts#contract-addresses-on-base)**.
+
+**Legacy Polygon reference:** [https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon](https://louper.dev/diamond/0x1d0360bac7299c86ec8e99d0c1c9a95fefaf2a11?network=polygon)
 
 **_realmIds**: an array [] containing the IDs of your parcels
 
@@ -554,6 +560,8 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 ## Bridging FAQ
 
+> **Note (Base era):** These questions refer to legacy Ethereum<->Polygon bridging and early Ethereum-marketplace flows. As of **2025-07-25**, Aavegotchi’s canonical home is **Base** and Polygon contracts are frozen/view-only. For current guidance, see **[Migration to Base (2025)](/base-migration)** and **[Bridges](/bridge)**.
+
 ### Can I still pet my Aavegotchi once it has been bridged back to Ethereum?
 
 **YES**, the developers of Gotchi World and Gotchi Care (Gotchi petting services) have graciously offered to auto-pet all bridged Aavegotchis, ensuring you still earn kinship while your Gotchi is on Ethereum! While vacationing on Ethereum your Aavegotchi will continue to grow its kinship score by two points every day, but it would definitely appreciate a visit or two from its master! It’s lonely in spaace…
@@ -568,19 +576,21 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 ### Can my Gotchi equip or unequip wearables while on Ethereum?
 
-**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. However, you can bridge back to Polygon anytime you please (normal bridging charges apply).
+**NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. Legacy: you could bridge back to Polygon to resume normal interactions. Base era: the canonical chain is **Base** (see **[Migration to Base (2025)](/base-migration)**).
 
-### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
+### Legacy: Can I use my Aavegotchi on Ethereum to play the Gotchiverse?
 
-**NO**, since the Gotchiverse runs on Polygon, any Gotchis on Ethereum Mainnet will not be able to participate in the Gotchiverse. Bridge back over anytime you want to play!
+**NO**, gameplay happens on the canonical chain (Base era: **Base**). If you are dealing with legacy bridged assets, refer to **[Migration to Base (2025)](/base-migration)**.
 
 ### Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?
 
-**YES** but **NOT YET**. Portals are an immediate yes because they are also ERC-721 tokens. The wearables and consumables are ERC-1155 items and will have their own bridge opening in the coming weeks.
+**Legacy:** This was written during early bridge rollout. Current bridge support varies by asset and chain; check the current app UI and official announcements for what is supported.
 
 ### If I buy an Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?
 
-Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/get-tokens?p=bridge). You can bridge back anytime you like!
+**Legacy (Polygon era):** This referred to the Ethereum<->Polygon bridge UI.
+
+**Base era:** See **[Bridges](/bridge)** and **[Migration to Base (2025)](/base-migration)**.
 
 ### Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?
 **NO**, you can only trade on Ethereum marketplaces like Rarible while the Aavegotchi is bridged.
@@ -592,38 +602,46 @@ Simply visit [aavegotchi.com/bridge](https://aavegotchi.com/get-tokens?p=bridge)
 
 ### Is Aavegotchi on-chain?
 
-All elements of the Aavegotchi game are [stored on the Ethereum blockchain](https://twitter.com/aavegotchi/status/1328548543909351429). You can read more about our unique design using the Diamond Standard [here](/glossary#diamond-standard).
+Aavegotchi is fully on-chain (EVM smart contracts). As of **2025-07-25**, the canonical contracts are on **Base**. See: **[Contracts](/contracts)** and **[Migration to Base (2025)](/base-migration)**. You can read more about the Diamond Standard [here](/glossary#diamond-standard).
 
 ### Which wallet should I use with Aavegotchi?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://www.venly.io/) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Venly (formerly Arkane)](https://www.venly.io/) also support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
  
 For android devices, using the Metamask app with the in-built browser is a good choice.
 
 ### Will Aavegotchi run on Layer 2?
 
-Yes! Aavegotchi uses [Polygon](https://polygon.technology/) as a Layer 2 solution. The team selected Polygon as they have a strong team, made progress on decentralization, and what appears to be a strong network effect with other NFT platforms like OpenSea. 
+Yes. As of **2025-07-25**, Aavegotchi’s canonical home is **Base** (an Ethereum L2). Historically, Aavegotchi’s primary deployment was on **Polygon** during 2021-2025. See: **[Migration to Base (2025)](/base-migration)**.
 
 ### Do I need to migrate my Aave tokens?
 
-Aavegotchi will work with aTokens from [Aave version 2.0](https://web.archive.org/web/*/https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :) 
+This is a legacy (pre-launch) answer. Aavegotchi uses Aave aTokens as collateral. If you still have legacy Aave v1 positions, migrate them to a supported version before attempting to use them with Aavegotchi. For historical context on the Aave v2 rollout, see [Aave version 2.0](https://web.archive.org/web/*/https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a).
 
 ### How do I migrate to Polygon?
-Check out our [Polygon Migration Guide](/polygon).
+**Legacy (Polygon era):** Check out our [Polygon Migration Guide](/polygon).
+
+**Base era:** See **[Migration to Base (2025)](/base-migration)**.
 
 ### I have a ledger / trezor, what do I do?
-You could still access Polygon using the Trezor One. For all others, it is not possible for now. You could create a new Metamask wallet and DM @Jesse | gldnXross#6482 for help.
+Wallet and hardware wallet support changes over time. In general, MetaMask plus a hardware wallet can work, but you must ensure you are connected to the correct network (now **Base**) and using the current app entry point.
+
+If you run into issues, ask for help in the official Aavegotchi Discord support channels, and **never trust unsolicited DMs**.
 
 ### Why can't I see my Polygon GHST on Metamask?
 
-Make sure you have completed two transactions: (1) approve transaction, and (2) migration from Mainnet to Polygon transaction. The token address for GHST on Polygon is as follows: 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+**Legacy (Polygon era):** Make sure you are connected to the **Polygon** network in MetaMask and that you have completed the relevant bridge/migration steps. You may need to add the GHST token contract as a custom token in MetaMask.
+
+For canonical token addresses across **Base / Ethereum / Polygon (deprecated)**, see: **[Contracts](/contracts)**.
 
 ### Why can't I see my LP Tokens on QuickSwap?
 
 After you have staked your LP tokens on QuickSwap, you will not be able to see them in your wallet. Unstake them if you want to see them being reflected in your wallet.
 
 ### Can I send Polygon-side tokens to Centralized Exchanges directly?
-**No!** You should not send Polygon-side tokens to Centralized Exchanges (e.g. Binance, Coinbase, etc) directly. You have to bridge them back into Ethereum Mainnet before doing so.
+**Legacy framing:** In the Polygon era, most exchanges did not support direct deposits from Polygon for all tokens.
+
+**General rule:** Only deposit to an exchange using a network that the exchange explicitly supports for that token. If the exchange does not support that chain (Polygon/Base/etc) for deposits, bridge to a supported network first.
 
 ### Why is Metamask rejecting my token symbol?
 
@@ -635,23 +653,13 @@ Quite a number of people have encountered this issue as the stkGHST-QUICK token 
 
 ### I withdrew my GHST from Polygon but I have yet to receive them even after a long wait
 
-I withdrew my GHST tokens (or any other assets for that matter) from Polygon back to Ethereum Mainnet using the [Aavegotchi Bridge](https://aavegotchi.com/get-tokens?p=bridge). After a few hours, I have yet to receive my assets on Ethereum Mainnet. What can I do?
+**Legacy (Polygon era):** Withdrawals from Polygon back to Ethereum (via bridges) can take hours and may require a final “claim” transaction on the destination chain.
 
-First, head over to the [Polygon Block Explorer](https://polygonscan.com/) and key in your transaction ID. Obtain the Block Number of your transaction.
-
-Next, replace the [blockNumber] portion in the following URL with your actual Block Number and go to that URL:
-
-https://polygonscan.com/]
-
-That URL will indicate the status of your withdrawal transaction. 
-
-If your transaction has not been processed by Polygon, please continue to wait patiently. There have been cases where it took up to 6 hours.
-
-If your transaction has been processed by Polygon and your assets still do not appear on the Aavegotchi Bridge UI, please contact Coderdan (or any other aapprentices) for support.
+Check the transaction on **Polygonscan**, and check the bridge UI for a pending “claim/exit” step. If you are still stuck, ask for help in the official Discord support channels.
 
 ### Why am I experiencing lag on Polygon?
 
-You might want to try connecting to the other Polygon RPC: https://web.archive.org/web/*/https://rpc-mainnet.maticvigil.com/
+**Legacy (Polygon era):** You might want to try connecting to another Polygon RPC (providers change over time).
 
 For step-by-step instructions on how to do so, please refer to our [Polygon Guide](/polygon).
 
@@ -676,4 +684,3 @@ First, head over to the [My Aavegotchis page](https://aavegotchi.com/lending/aav
 Do note that each Gotchi will have its own Smart Contract Address.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
-

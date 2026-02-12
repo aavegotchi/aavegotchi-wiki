@@ -23,15 +23,17 @@ It's alright fren. We were once newbies as well. We know how you feel.
 
 We have prepared some tutorials (articles and videos) to help kickstart your journey! You will become one with us soon enough. :)
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. Tutorials about Polygon migration are preserved primarily for **historical reference**. See **[Migration to Base (2025)](/base-migration)**.
+
 <div class="contentsBox">
 
 **Contents** 
 
 <ul>
 <li><a href=#aavegotchi-raffles>Aavegotchi Raffles</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
-<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
-<li><a href=#buying-tokens-straight-into-polygon>Buying tokens straight into Polygon</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--video->Legacy: Migrate GHST token from Ethereum Mainnet to Polygon (Video)</a></li>
+<li><a href=#migrate-ghst-token-from-ethereum-mainnet-to-polygon--article->Legacy: Migrate GHST token from Ethereum Mainnet to Polygon (Article)</a></li>
+<li><a href=#buying-tokens-straight-into-polygon>Legacy: Buying tokens straight into Polygon</a></li>
 <li><a href=#matokens>maTokens</a></li>
 <li><a href=#participating-in-gbm-auctions>Participating in GBM Auctions</a></li>
 <li><a href=#aavegotchi--land-auction-guide>Aavegotchi: Land Auction Guide</a></li>
@@ -54,7 +56,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <hr>
 
-### Migrate GHST token from Ethereum Mainnet to Polygon (Video)
+### Legacy: Migrate GHST token from Ethereum Mainnet to Polygon (Video)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7H22_refiQM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
@@ -64,7 +66,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 
 <hr>
 
-### Migrate GHST token from Ethereum Mainnet to Polygon (Article)
+### Legacy: Migrate GHST token from Ethereum Mainnet to Polygon (Article)
 Click [here](/polygon) for the article
 
 * Learn why was Polygon (formerly Matic Network) selected as the Layer 2 solution for Aavegotchi
@@ -74,7 +76,7 @@ Click [here](/polygon) for the article
 
 <hr>
 
-### Buying tokens straight into Polygon
+### Legacy: Buying tokens straight into Polygon
 Click [here](https://trasher.substack.com/p/buying-your-tokens-straight-into) for the article
 
 * Learn how to use fiat currency to buy tokens directly to Polygon

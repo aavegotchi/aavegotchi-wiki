@@ -31,7 +31,7 @@ This page is primarily historical reference for the Polygon-era FRENS ticket flo
 ## Purchasing Tickets
 
 
-During the FRENS era, once you had enough FRENS, you could use the [Shop Bulk Buy user interface](https://aavegotchi.com/baazaar/tickets) to purchase tickets with FRENS.
+During the FRENS era, once you had enough FRENS, you could use the [Shop Bulk Buy user interface](https://www.aavegotchi.com/baazaar/tickets) to purchase tickets with FRENS.
 
 Unlike FRENS, Tickets can be transferred from one wallet to another. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
 
