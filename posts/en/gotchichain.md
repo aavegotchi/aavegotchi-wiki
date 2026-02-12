@@ -2,14 +2,14 @@
 author: Pixelcraft Studios
 date: "2023-04-03T00:00:00.000Z"
 title: "Gotchichain (historical)"
-description: "Gotchichain was a planned Aavegotchi gaming chain announced in 2023; it ultimately did not launch."
+description: "Gotchichain was announced as an Aavegotchi gaming chain concept in 2023; it ultimately did not launch."
 contributors: ["moss"]
 ---
 
 ## TL;DR
 
-- **2023-04-03:** Pixelcraft announced **Gotchichain** as a planned, dedicated Aavegotchi gaming chain using **Polygon Supernets**.
-- The announcement described **GHST** as the planned **gas token** on Gotchichain, with assets minted on Polygon PoS and bridged over for gameplay.
+- **2023-04-03:** Pixelcraft announced **Gotchichain** as a dedicated Aavegotchi gaming chain concept using **Polygon Supernets**.
+- The announcement described **GHST** as the intended **gas token** on Gotchichain, with assets minted on Polygon PoS and bridged over for gameplay.
 - **Update:** Gotchichain ultimately **did not launch**; Aavegotchi later **migrated to Base**.
 
 ## Key facts (from the 2023 announcement)

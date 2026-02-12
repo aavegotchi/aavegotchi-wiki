@@ -11,6 +11,8 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">The Aauction House</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. Any Polygon-era auction links below are preserved for **historical reference**. See: **[Migration to Base (2025)](/base-migration)**.
+
 "VR Headset going for 3000 GHST"
 
 A gotchi raises his hand.

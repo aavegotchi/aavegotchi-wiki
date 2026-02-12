@@ -11,6 +11,8 @@ Hey Fam! Ever miss out on an Aavegotchi talk/chat session because you couldn't m
 
 Frens, we also have our own [Aavegotchi Youtube Channel](https://www.youtube.com/channel/UCA3lYApVK7qjVKUdtw_QM2g) too :D
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. Some older talks/videos reference Polygon, Gotchichain/Geist (which ultimately **did not launch**), and other historical plans; treat those as time-bound archival context. See: **[Migration to Base (2025)](/base-migration)**.
+
 ### Guaranteed CHAOS! A new victim plays Gotchi Guardians | Devlog 4 (7 December 2023)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRb82zMeRiM?si=R3WvGGoOE5A6JmPZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -125,5 +127,3 @@ Link to video [here](https://www.youtube.com/watch?v=oJ8XH5sldhc)
 
 ### Aavegotchi and Chainlink Live Q&A: DeFi-staked Crypto Collectibles with Chainlink VRF (1 October 2020)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bkvAa177ts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-

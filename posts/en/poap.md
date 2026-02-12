@@ -35,7 +35,7 @@ POAPs not only have cool designs and allow you to brag your badges with everyone
 
 In June 2021, our fren GotchiLove highlighted that the [dev team at POAP has created a Snapshot plugin allowing voters to be rewarded with POAP Badges](https://dao.aavegotchi.com/t/poap-plugin-for-snapshot-votes/1932).
 
-A [proposal](https://snapshot.org/#/aavegotchi.eth/proposal/0xd28d1927cbcee262fe8a4cd4c2363e5ac1c313e893caef40600c9c536817311e) was made to introduce POAP badges for Snapshot voting and it passed.
+A [proposal](https://snapshot.org/#/aavegotchi.eth/proposal/{{SNAPSHOT_POAP_PROPOSAL_ID}}) was made to introduce POAP badges for Snapshot voting and it passed.
 
 Members who are interested to contribute to the POAP design process can check out this [Discourse thread](https://dao.aavegotchi.com/t/poap-design-process/2854).
 

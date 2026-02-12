@@ -11,6 +11,7 @@ image: "icons/introduction.svg"
 <p class="headerImageText">The Aavegotchi Wiki</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. Some older wiki pages and links reference Polygon-era flows for historical context; start here if you’re onboarding in 2026: **[Migration to Base (2025)](/base-migration)**.
 
 Welcome to the official Aavegotchi Wiki, fren! 
 
@@ -35,8 +36,8 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 ## Other Useful Pages
 
 * [Team](/team) -- See who's building Aavegotchi
-* [Migration to Base (2025)](/base-migration) -- Polygon to Base migration facts and context
-* [Roadmap](/roadmap) -- The up-to-date roadmap of Aavegotchi
+* [Migration to Base (2025)](/base-migration) -- Migration facts and context
+* [Roadmap](/roadmap) -- Historical roadmap snapshot (see [Milestones](/milestones) and the official blog for newer updates)
 * [FAKE Gotchis](https://www.fakegotchis.com/) -- A Frenly Art Karmic Experiment
 * [Tutorials](/tutorials) -- Gotchi tutorials for the newcomer!
 * [Directory](/directory) -- Listing of every page in the Wiki

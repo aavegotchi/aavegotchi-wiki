@@ -67,7 +67,7 @@ Cores allow for control over inflation within each specific wearable rarity tier
 
 <img src="/forge/alloy.png" alt="Aavegotchi Alloy">
 
-Alloy is the most liquid of all resources and it controls the overall supply of wearables. At this time no new alloy is planned to be released. This means you will have to smelt old wearables in order to make new ones! And with a 10% loss from each smelt, we, for the very first time, will have deflation of wearables. Brilliant!
+Alloy is the most liquid of all resources and it controls the overall supply of wearables. As of the **Last verified** date above, no new alloy is expected to be released. This means you will have to smelt old wearables in order to make new ones! And with a 10% loss from each smelt, we, for the very first time, will have deflation of wearables. Brilliant!
 
 The [DAO](/dao) has decided to send half of the lost alloy to be burned forever and the other half to the DAO for future use.
 

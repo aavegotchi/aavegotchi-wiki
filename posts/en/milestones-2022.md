@@ -6,9 +6,11 @@ description: 'Aavegotchi Milestones in 2022'
 contributors: ["unintelligent-nerd"]
 ---
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page is a historical archive of 2022 milestones and includes Polygon-era announcements and time-bound language from that period. See: **[Migration to Base (2025)](/base-migration)**.
+
 ## [Aavegotchi Forge: SOON!](https://blog.aavegotchi.com/the-forge-is-coming-blacksmithing-skill-new-wearables-and-a-way-to-combat-inflation/)
 
-* The Aavegotchi Forge is coming soon!
+* The Aavegotchi Forge announcement (pre-launch at the time).
 * Familiarize yourself with Alloys and Essences!
 * Learn how to forge and smelt too!
 <p></p>
@@ -28,7 +30,7 @@ contributors: ["unintelligent-nerd"]
 * Check it out here!
 <p></p>
 
-## [Get ready to fight Gotchigang! The Aarena is launching soon!](https://blog.aavegotchi.com/the-gotchiverse-gets-its-first-taste-of-combat-aarena-preview-launching-this-december/)
+## [Get ready to fight Gotchigang! The Aarena preview](https://blog.aavegotchi.com/the-gotchiverse-gets-its-first-taste-of-combat-aarena-preview-launching-this-december/)
 * The Aarena will be available soon!
 * Check out the features and the roadmap in this blog post
 <p></p>
@@ -181,7 +183,7 @@ contributors: ["unintelligent-nerd"]
 
 ## [Gotchi UBI is coming to the Gotchiverse!](https://blog.aavegotchi.com/gotchi-ubi-is-coming-to-the-gotchiverse/)
 * Gotchi UBI is a daily stipend of Gotchus Alchemica available once every 24 hours to each Aavegotchi that enters the Gotchiverse
-* It will launch on the 18th of May!
+* It launched on **2022-05-18**.
 <p></p>
 
 ## [April Updates](https://blog.aavegotchi.com/aavegotchi-april-update/)
@@ -231,7 +233,7 @@ contributors: ["unintelligent-nerd"]
 * Collect as much Alchemica as possible to craft a limited edition Golden Aaltar NFT!
 <p></p>
 
-## [Gotchi Lending is coming soon!](https://blog.aavegotchi.com/aavegotchis-gotchi-lending-dates-announced/)
+## [Gotchi Lending dates announced](https://blog.aavegotchi.com/aavegotchis-gotchi-lending-dates-announced/)
 * Gotchi Lending is coming out on 28 March!
 * Gotchi owners can now trustlessly lend out their Gotchis to other players for a set duration
 <p></p>

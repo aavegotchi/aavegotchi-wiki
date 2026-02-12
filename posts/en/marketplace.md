@@ -11,6 +11,8 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">The Marketplace</p>
 </div>
 
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. This page focuses on the current Base-era marketplace, with Polygon-era marketplace references treated as legacy/historical. See: **[Migration to Base (2025)](/base-migration)**.
+
 "Psst.....you there"
 
 The Merchant Gotchi surreptitiously beckons you over to his stall, with a glint in his eye.
