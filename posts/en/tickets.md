@@ -11,9 +11,9 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">Ooooo that Shiny Godlike Ticket!</p>
 </div>
 
-Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes. They can be purchased using FRENS obtained from staking or on the [Baazaar](/baazaar) using [GHST tokens](/ghst).
+Tickets are NFTs that allow you to participate in Aavegotchi Raffles to win prizes.
 
-In this page, you will learn how to purchase tickets using FRENS and to participate in raffles using those tickets!
+This page is primarily historical reference for the Polygon-era FRENS ticket flow. FRENS was sunset in 2022. The current staking system on Base uses LP staking to earn GLTR.
 
 <div class="contentsBox">
 
@@ -31,7 +31,7 @@ In this page, you will learn how to purchase tickets using FRENS and to particip
 ## Purchasing Tickets
 
 
-Once you have enough FRENS, head to the [Shop Bulk Buy user interface](https://aavegotchi.com/baazaar/tickets) to purchase tickets with FRENS.
+During the FRENS era, once you had enough FRENS, you could use the [Shop Bulk Buy user interface](https://aavegotchi.com/baazaar/tickets) to purchase tickets with FRENS.
 
 Unlike FRENS, Tickets can be transferred from one wallet to another. They can also be bought/sold on secondary marketplaces such as the [Baazaar](/baazaar).
 
@@ -48,7 +48,7 @@ On the other hand, Drop Tickets are used to participate in **NFT Raffles** to wi
 
 table_RaffleTickets
 
-Blog post: [Stake GHST, Make FRENS Live on Ethereum Mainnet!](
+Historical blog post: [Stake GHST, Make FRENS Live on Ethereum Mainnet!](
 https://aavegotchi.medium.com/stake-ghst-make-frens-live-on-ethereum-mainnet-658bd507d67b)
 
 Users are allowed to buy tickets belonging to different categories in a single transaction. You do **not** need to create separate buy transactions for each category of raffle ticket.
@@ -77,22 +77,22 @@ Random numbers for the Raffle prize winners are generated through Chainlink's [o
 
 After the raffle has concluded, winners can claim their prizes on Polygon.
 
-The entire process of staking GHST and winning prizes can be illustrated using the following infographics:
+The historical process of staking GHST and winning prizes can be illustrated using the following infographics:
 
-* Process of staking GHST to winning wearables in Wearable Raffles
+* Historical process: staking GHST to win wearables in Wearable Raffles
 
 <img class = "bodyImage" src = "/tickets/raffle-tickets-infographic.png" alt = "Aavegotchi Raffle Tickets">
 
-* Process of staking GHST to winning Portals/REALM parcels in NFT Raffles
+* Historical process: staking GHST to win Portals/REALM parcels in NFT Raffles
 
 <img class = "bodyImage" src = "/tickets/drop-tickets-infographic.png" alt = "Aavegotchi Drop Tickets">
 
-* Process of staking GHST to winning [REALM parcels](/metaverse#realm-parcel-sizes)
+* Historical process: staking GHST to win [REALM parcels](/metaverse#realm-parcel-sizes)
 
 <img class="bodyImage" src="/tickets/drop_ticket_post.png" alt="Aavegotchi Drop Tickets">
 
 ## Past Raffles Statistics
-Knowing how to stake FRENS and participate in Raffles is good, you say. But what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
+Knowing how to use FRENS and participate in raffles was important in that era, but what about the numbers? What are the probabilities of winning a wearable based on past raffles? Visit the [Raffles Statistics page](/raffles-stats) for the historical data.
 
 ## More Resources
 

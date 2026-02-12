@@ -328,7 +328,7 @@ To balance this, the team has decided to raffle off the remaining 20% of REALM p
 
 Method 2: Raffle (20%)
 
-The secondary distribution method for REALM Parcels will be Chainlink VRF-powered Raffles. Participants will enter via Drop Tickets that are used for Portal and REALM Raffles. Drop Tickets can be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/staking#purchasing-raffle-tickets) at a rate of 10,000 FRENS points per Drop Ticket. Begin accruing FRENS points now by [staking GHST](/staking).
+The secondary distribution method for REALM Parcels was Chainlink VRF-powered Raffles. Participants entered via Drop Tickets that were used for Portal and REALM Raffles. In that era, Drop Tickets could be earned by holding summoned Aavegotchis, participating in Missions, or by converting FRENS points or other [Raffle tickets](/tickets) at a rate of 10,000 FRENS points per Drop Ticket. FRENS emissions were sunset in 2022; current staking is Base LP staking for GLTR.
 
 ### Drop Tickets
 
@@ -338,7 +338,7 @@ Drop Tickets are ERC-1155 NFTs that are fully tradable on the Aavegotchi [Baazaa
 
 There are three ways to get Drop Tickets:
 
-* Convert 10,000 FRENS into one Drop Ticket
+* Legacy flow: convert 10,000 FRENS into one Drop Ticket
 * Convert other Raffle Tickets into a Drop Ticket
 * Refer your friends to earn Drop Tickets 🔥
 

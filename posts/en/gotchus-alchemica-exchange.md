@@ -81,7 +81,7 @@ This ensures that Aavegotchi has a sustainable source of player rewards income t
 
 **Utility**
 
-The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block on the Polygon PoS network.**
+The primary utility of GAX Liquidity Token Reward (GLTR) is allowing players in the Gotchiverse to speed up the crafting and upgrading of their [Installations](/gotchiverse#building-on-realm-parcels) by burning GLTR, allowing them to reach higher levels of the game faster. **Every burned GLTR is equivalent to one block worth of crafting acceleration.**
 
 GLTR also has a secondary utility, being the main token required for [Wearable Crest](/guild#accessing-a-guild) auctions. Guilds will also have the choice to burn GLTR to speed up the time for their next Guild Channeling.
 
@@ -116,6 +116,6 @@ The official blog post announcing GLTR spending/staking (published **2022-05-31*
 
 ## Earning GLTR
 
-wapGHST or Quickswap/Sushiswap LP tokens could be staked to earn daily GLTR rewards at [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking).
+Current: on Base, supported LP tokens can be staked to earn GLTR at [https://aavegotchi.com/staking](https://aavegotchi.com/staking).
 
-Stakers will start accruing GLTR tokens on each Polygon block, according to their share of the pool.
+Historical: on Polygon, wapGHST and Quickswap/Sushiswap LP tokens could be staked via [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking).

@@ -60,7 +60,7 @@ We have prepared some tutorials (articles and videos) to help kickstart your jou
 * Learn how to migrate your GHST token from Ethereum Mainnet to Polygon (formerly Matic Network)
 * Learn how to configure MetaMask to display Polygon
 * Learn how to add tokens from Polygon to your MetaMask
-* Learn how to stake GHST tokens on Polygon
+* Learn the legacy Polygon-era GHST staking flow (FRENS era)
 
 <hr>
 

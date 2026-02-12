@@ -257,11 +257,11 @@ They can be found here:
 
 wapGHST stands for Wrapped Aave Polygon GHST. It is a wrapped, static form of apGHST (formerly known as amGHST in Aave v2).
 
-Stakers earn yield on their GHST deposits in Aave V3 in addition to FRENS.
+This is legacy Polygon-era staking terminology. FRENS was sunset in 2022.
 
-The APY accrued will not appear in your balance of wapGHST. Rather, it will accrue to your GHST balance during the unwrapping process (when you return to vanilla GHST).
+The current staking flow is on Base: stake supported LP tokens to earn GLTR.
 
-Visit [https://aavegotchi.com/earn?tab=staking](https://aavegotchi.com/earn?tab=staking) to start staking. Stakers do not need to visit Aave. They just need to approve their tokens, then click "Wrap GHST" to wrap/unwrap your GHST into wapGHST. 
+Visit [https://aavegotchi.com/staking](https://aavegotchi.com/staking) to start staking.
 
 ## Raffle FAQ
 
@@ -271,7 +271,7 @@ See <a href="https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f
 
 ### Does buying a ticket mean I'm entered into the raffle?
 
-No! Please be aware simply buying tickets with FRENS **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that
+No! Please be aware simply buying tickets with FRENS (legacy raffles) **does not automatically enter you into the raffle.** You need to STAKE your tickets during the 72 hour-time period that
  the raffle is open. This includes two transactions on the Raffle page - **approve** your tickets, **and enter** your tickets. If you’ve submitted your tickets successfully, you’ll 
 see the number of tickets you’ve entered in the raffle on the Stats page. 
 
@@ -297,7 +297,7 @@ You will then be brought to another page where you can specify the recipient's a
 <img class = "bodyImage" src = "/faq/transfer-raffle-tickets2.png" alt = "Transfer Aavegotchi Raffle Tickets">
 
 ### Will there be Raffles after Mainnet launches?
-Yes, there will be additional raffles after Mainnet launches. However, they will be infrequent and would not be announced beforehand. This is to reward users who are still staking and accumulating their [FRENS](/glossary#frens) and/or raffle tickets.
+This answer is historical and refers to the FRENS era. FRENS emissions were sunset in 2022. Current staking on Base rewards GLTR from LP staking.
 
 ## Aauction FAQ
 
@@ -676,5 +676,4 @@ First, head over to the [My Aavegotchis page](https://aavegotchi.com/lending/aav
 Do note that each Gotchi will have its own Smart Contract Address.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
-
 

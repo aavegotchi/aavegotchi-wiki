@@ -23,7 +23,7 @@ Head to [Introduction](/introduction) for a high-level overview of the Aavegotch
 
 ## Popular Pages
 * [GHST](/ghst) -- Learn about the eco-governance token of Aavegotchi
-* [Staking](/staking) -- Learn how to stake GHST to make FRENS
+* [Staking](/staking) -- Learn how to stake Base LP tokens to earn GLTR
 * [DAO](/dao) -- Everything there is to know about AavegotchiDAO
 * [Wearables](/wearables) -- Fashion for your Aavegotchi
 * [Games](/games) -- Play some Games with your Aavegotchi
@@ -52,4 +52,4 @@ Anyone can contribute to the Wiki, you just need write permissions for our [Gith
 
 If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
 
-Then head to our Github Repo and dive right in with your first commit. 
+Then head to our Github Repo and dive right in with your first commit.
