@@ -17,7 +17,7 @@ This page is intentionally written as **historical framing** (what happened, whe
 - **Polygon contracts were frozen** (paused) and became **view-only / non-transferable** for most actions.
 - **Assets were mirrored to Base** using a **snapshot + minting** process.
 - Migration coverage included core game and Gotchiverse assets: **Aavegotchis, wearables, REALM parcels, installations, tiles, Alchemica, and GLTR**.
-- **GHST canonical address on Base**: `{{GHST_BASE_ADDRESS}}`.
+- **GHST canonical address on Base**: [{{GHST_BASE_ADDRESS}}]({{BASESCAN_GHST_URL}}).
 - **Most users did not need to take action**: if you held assets in a wallet on Polygon, the Base versions were expected to appear in the same wallet address on Base.
 - **Legacy assets remained visible on Polygon** as **non-transferable ERC-721s** for historical continuity.
 
