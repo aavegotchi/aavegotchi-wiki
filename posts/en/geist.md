@@ -1,48 +1,30 @@
 ---
-author: Unintelligent Nerd
-date: "2025-09-18T00:00:00.000Z"
+author: moss
+date: "2026-02-12T00:00:00.000Z"
 title: "Geist (historical)"
-description: "Geist was an announced Aavegotchi gaming chain concept; it ultimately did not launch."
-contributors: ["unintelligent-nerd"]
+description: "Geist (aka Gotchichain) was announced as an Aavegotchi gaming chain concept; it ultimately did not launch."
+contributors: ["moss"]
 ---
 
-> **Deprecated / historical**
+> Geist (also referred to as **Gotchichain** in some announcements) was announced as an Aavegotchi gaming chain concept. It ultimately **did not launch**, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
 >
-> Geist (also referred to as **Gotchichain** in some announcements) was an announced Aavegotchi gaming chain concept. It ultimately **did not launch**, and Aavegotchi’s canonical home migrated to **Base** on **2025-07-25**.
->
-> For current chain/network information, see: **[Migration to Base (2025)](/base-migration)**, **[Contracts](/contracts)**, and **[GHST Token](/ghst)**. For the original Gotchichain plan, see **[Gotchichain (historical)](/gotchichain)**.
+> For current chain/network information, see: **[Migration to Base (2025)](/base-migration)**, **[Contracts](/contracts)**, and **[GHST Token](/ghst)**.
 
 ## TL;DR
 
-- Geist was announced as a gaming-focused chain concept, with ideas like GHST as a gas token, memberships, and ecosystem rewards.
+- Geist was described as a gaming-focused chain concept with GHST as a gas token, memberships, and ecosystem rewards.
 - Geist ultimately **did not launch**; Aavegotchi later migrated to **Base**.
 
 ## What Was Announced (Historical Summary)
 
-Geist was announced as an L3 concept powered by Base, Arbitrum, Alchemy, and Aavegotchi.
+The Geist announcement described (at the time) a chain concept focused on:
 
-The announcement described Geist as the onchain home of Aavegotchi, the Aavegotchi Gaming Console, and official and community-built games.
+- Fast blocks and gaming UX.
+- A chain-wide membership program and reward campaigns across games.
+- Native marketplace support for Aavegotchi assets.
+- Onramps, account abstraction / smart wallets, and developer tooling.
 
-## Features (as described)
-
-The Geist announcement described a chain built using the Arbitrum stack, with goals like fast blocks, a custom gas token ([GHST](/ghst)), and permissionless transacting.
-
-Features described included:
-
-- **A chain-wide membership program.** Geist Members would have enjoyed access to reward campaigns across games on the chain.
-- **World-class uptime and developer tooling.** Described as powered by Alchemy.
-- **Native NFT marketplace.** Described as integrating with the Aavegotchi [Marketplace (Baazaar)](/marketplace).
-- **CEX onramps.** Described as working with Coinbase and other exchanges to support ETH and GHST onramps.
-- **Native VRF.** Described as a Pixelcraft-developed onchain randomness system.
-- **Account abstraction and gasless relayers.** Described as powered by Thirdweb.
-- **Native staking with revenue sharing.** Described as contingent on a future [AavegotchiDAO](/dao) proposal.
-- **Permissioned contract deployment.** Intended to prevent congestion and enforce quality control.
-
-## Polter Testnet (as described)
-
-The Geist announcement described a "Polter Testnet" as the testing ground for migrations and features.
-
-Official docs (historical): https://docs.aavegotchi.com/geist/overview
+Because chain roadmaps and implementations can change, treat these as historical notes, not present-tense guarantees.
 
 ## References
 

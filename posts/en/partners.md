@@ -8,7 +8,7 @@ contributors: ["unintelligent-nerd"]
 
 Aavegotchi is a frenly project. Get to know our frenly frens here!
 
-> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. Integrations and partnerships change over time; this page is a mix of historical and current partners and does not guarantee an active integration. Treat chain/platform availability as time-bound and verify current integrations via official announcements. See: **[Migration to Base (2025)](/base-migration)**.
+> **Note (Base era):** As of **2025-07-25**, Aavegotchi’s canonical home has migrated to **Base**. Partnership entries below include historical Polygon-era context; treat chain/platform availability as time-bound and verify current integrations via official announcements. See: **[Migration to Base (2025)](/base-migration)**.
 
 <div class="contentsBox">
 

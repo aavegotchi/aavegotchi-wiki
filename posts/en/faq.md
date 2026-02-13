@@ -113,7 +113,7 @@ contributors: ["eris771", "unintelligent-nerd"]
 <p><a href=#can-my-aavegotchi-still-earn-rarity-farming-rewards-while-it-is-on-ethereum->Can my Aavegotchi still earn Rarity Farming rewards while it is on Ethereum?</a></p>
 <p><a href=#can-my-gotchi-be-bridged-over-with-wearables-equipped->Can my Gotchi be bridged over with wearables equipped?</a></p>
 <p><a href=#can-my-gotchi-equip-or-unequip-wearables-while-on-ethereum->Can my Gotchi equip or unequip wearables while on Ethereum?</a></p>
-<p><a href=#legacy-can-i-use-my-aavegotchi-on-ethereum-to-play-the-gotchiverse->Legacy: Can I use my Aavegotchi on Ethereum to play the Gotchiverse?</a></p>
+<p><a href=#can-i-still-use-my-aavegotchi-to-play-in-the-upcoming-gotchiverse-game-while-it-is-on-ethereum->Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?</a></p>
 <p><a href=#can-individual-wearables--portals--and-consumables-be-bridged-to-ethereum-and-listed-on-rarible-as-well->Can individual Wearables, Portals, and Consumables be bridged to Ethereum and listed on Rarible as well?</a></p>
 <p><a href=#if-i-buy-an-aavegotchi-on-ethereum-through-rarible--how-do-i-bridge-it-back-to-polygon->If I buy an Aavegotchi on Ethereum through Rarible, how do I bridge it back to Polygon?</a></p>
 <p><a href=#can-i-sell-my-aavegotchi-on-the-baazaar-while-it-s-bridged-to-ethereum->Can I sell my Aavegotchi on the Baazaar while it’s bridged to Ethereum?</a></p>
@@ -157,7 +157,7 @@ By petting them every 12 hours!
 
 ### How do I play in the REALM?
 
-Once you have a gotchi in your wallet (Base era: on **Base**), REALM gameplay is accessible at [gotchiverse.io](https://gotchiverse.io/).
+Once you have a gotchi in your wallet (Base era: on **Base**), REALM gameplay is accessible at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 ### What blockchain is Aavegotchi on?
 
@@ -173,7 +173,7 @@ Yes, you can buy and sell Aavegotchis on our secondary NFT marketplace, the Aave
 
 ### What is the Gotchiverse?
 
-The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [gotchiverse.io](https://gotchiverse.io/).
+The Gotchiverse is Pixelcraft Studio’s flagship title that celebrates the best of blockchain technology. The metaverse is built on the Aavegotchi Protocol, and is co-created with direct input from the community via AavegotchiDAO. Within the Gotchiverse players can craft NFTs, explore, socialize, and earn. To learn more, check out the [litepaper](https://docs.google.com/document/d/1hUHF29F3_tByWd8ezSphYEE0gPJYg3K5CN1K-X3_WK8/edit) and the [Gotchiverse Game Bible](https://github.com/aavegotchi/gotchiverse-bible). You can start playing now at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 ### How much does it cost to play Aavegotchi?
 There are a couple of ways to get an Aavegotchi:
@@ -250,7 +250,7 @@ Similarly, there are some constraints with the listing of wearables on OpenSea P
 
 ### Where can I find the Aavegotchi Litepaper?
 
-There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the Gotchiverse and REALM (the land parcels in the Gotchiverse).
+There are 2 Aavegotchi Litepapers: (1) The Original Litepaper summarizing the key points of the Aavegotchi Project, and (2) The Newest Litepaper introducing the upcoming Gotchiverse and REALM, the land parcels in the Gotchiverse.
 
 They can be found here:
 
@@ -403,7 +403,9 @@ Aavegotchi rarity is based on a bell curve - meaning **both extremely high and e
 
 ### How much does it cost to play?
 
-Portal and in-game asset prices vary by drop and can change over time (historically: Haunt 1 portals cost 100 GHST). For current prices, check the live app and the [Marketplace](/marketplace). Asset pricing can also be adjusted via governance vote (see [AavegotchiDAO](/dao)).
+Portals are expected to cost 100 GHST for the first haunt. Costs for other items like wearables, consumables and land will be announced as they’re officially released - though after
+game launch, [the DAO](/dao) will have the power to **adjust asset prices via governance vote**. In the meantime, you can check out what some of the
+open market prices currently are for certain wearables at the [Baazaar](/baazaar).
 
 ### Does changing the collateral staked affect kinship level?
 No, increasing or decreasing the collateral/aToken staked in the Aavegotchi does not affect kinship level.
@@ -578,7 +580,7 @@ DM BowtiedNerd#6509 on Discord with all the required information that's in the [
 
 **NO**, your Gotchi is basically frozen as a snapshot of the moment it was bridged. Legacy: you could bridge back to Polygon to resume normal interactions. Base era: the canonical chain is **Base** (see **[Migration to Base (2025)](/base-migration)**).
 
-### Legacy: Can I use my Aavegotchi on Ethereum to play the Gotchiverse?
+### Can I still use my Aavegotchi to play in the upcoming Gotchiverse game while it is on Ethereum?
 
 **NO**, gameplay happens on the canonical chain (Base era: **Base**). If you are dealing with legacy bridged assets, refer to **[Migration to Base (2025)](/base-migration)**.
 
@@ -606,7 +608,7 @@ Aavegotchi is fully on-chain (EVM smart contracts). As of **2025-07-25**, the ca
 
 ### Which wallet should I use with Aavegotchi?
 
-<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Venly (formerly Arkane)](https://www.venly.io/) also support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
+<a href="https://metamask.io/">Metamask</a> has by far been the best option to use with Aavegotchi according to our community’s experience. Metamask and [Arkane wallet](https://www.venly.io/) - which will be integrating with Aavegotchi soon - also both support ERC1155 tokens, meaning you’ll be able to see all of your assets (such as wearables) in your wallet in addition to your GHST tokens.
  
 For android devices, using the Metamask app with the in-built browser is a good choice.
 
@@ -616,7 +618,7 @@ Yes. As of **2025-07-25**, Aavegotchi’s canonical home is **Base** (an Ethereu
 
 ### Do I need to migrate my Aave tokens?
 
-This is a legacy (pre-launch) answer. Aavegotchi uses Aave aTokens as collateral. If you still have legacy Aave v1 positions, migrate them to a supported version before attempting to use them with Aavegotchi. For historical context on the Aave v2 rollout, see [Aave version 2.0](https://web.archive.org/web/*/https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a).
+Aavegotchi will work with aTokens from [Aave version 2.0](https://web.archive.org/web/*/https://medium.com/datadriveninvestor/aave-has-officially-launched-version-2-of-its-mainnet-with-several-network-upgrades-b34fa0bd111a) - so be sure to migrate any tokens you have on version 1 before trying to claim your Aavegotchi. According to Stani, we [should have a migration tool out soon](https://twitter.com/StaniKulechov/status/1334546997827809285) (before launch) :)
 
 ### How do I migrate to Polygon?
 **Legacy (Polygon era):** Check out our [Polygon Migration Guide](/polygon).

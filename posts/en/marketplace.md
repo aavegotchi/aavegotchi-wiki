@@ -62,7 +62,7 @@ Buyers may buy 1, some, or all of a multiple item listing.
 
 <img class = "bodyImage" src = "/marketplace/aavegotchi-marketplace.png" alt = "Aavegotchi Marketplace">
 
-The Aavegotchi Marketplace can be found here: https://www.aavegotchi.com/baazaar/aavegotchis (canonical entry point: https://www.aavegotchi.com). As of the 2025 migration, Aavegotchi’s canonical home is on Base; Polygon-era surfaces are legacy. See: **[Migration to Base (2025)](/base-migration)**.
+	The Aavegotchi Marketplace can be found here: https://www.aavegotchi.com/baazaar/aavegotchis (canonical entry point: https://www.aavegotchi.com). As of the 2025 migration, Aavegotchi’s canonical home is on Base; Polygon-era surfaces are legacy. See: [Migration to Base (2025)](/base-migration).
 
 ## Features
 
@@ -84,4 +84,4 @@ The Marketplace comes equipped with filter functions to help buyers narrow down 
 
 ## Secondary Marketplaces
 
-Besides the official Aavegotchi Marketplace, items may also appear on third-party NFT marketplaces on Base and/or Ethereum depending on bridge support and metadata compatibility. Network support evolves over time; always verify marketplace support and bridging requirements before listing or purchasing.
+Besides the official Aavegotchi Marketplace, secondary marketplaces include Magic Eden and OnePlanet on Polygon, and Rarible on Ethereum. As network support evolves with the Base migration, verify marketplace support and bridging requirements before listing or purchasing.

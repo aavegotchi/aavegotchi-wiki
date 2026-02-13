@@ -14,8 +14,6 @@ contributors: ["eris771", "unintelligent-nerd"]
 Beyond the Human Realm, there is the Ether Realm, where smart contracts twinkle and dark forests lurk. Travel a bit further down the rabbit hole, and one eventually discovers the Gotchiverse Realm. When a yield farmer in the Ether Realm is liquidated, its spirit journeys to the Gotchiverse, where it reincarnates as an Aavegotchi. Aavegotchis are a spectral species who love nothing more than [farming](/rarity-farming), [voting](/dao), and shitposting with their frens. 
 
 > **Note:** Aavegotchi [migrated to Base](/base-migration) in July 2025. Gotchiverse assets, including REALM parcels, installations, tiles, Alchemica, and GLTR, are on Base.
->
-> This page contains a mix of lore, early design docs, and historical (Polygon-era) mechanics. Some wording is pre-launch and may not reflect current live mechanics; use the in-game UI and recent official posts as the source of truth.
 
 The Gotchiverse began with only a handful of Aavegotchis, but as liquidations grew within the Ether Realm, so the population of the Gotchiverse burgeoned, with thousands of Aavegotchis exploring, building, and settling in its vast expanses, and even building great structures to worship the lickquidators, their creators.
 
@@ -91,7 +89,7 @@ Guilds generally organize themselves in districts. Check out the [Guild page](/g
 
 <img src="/gotchiverse/gotchiverse-map-with-districts.png" alt="Aavegotchi Districts">
 
-Browse the REALM here at [gotchiverse.io](https://gotchiverse.io/).
+Browse the REALM here at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 ## REALM Parcel Sizes
 
@@ -101,7 +99,7 @@ Parcels come in three sizes, with each size providing greater deposits of Alchem
 * Reasonably Sized: Contain reasonable deposits of Alchemica and building space (16 x 16 pixels)
 * Spacious: Contain huge deposits of Alchemica and building space (32 x 64 pixels)
 
-*Exact material amounts were historically calculated via [Chainlink VRF](/glossary#chainlink-vrf) (Polygon era). Verify current Base-era randomness mechanics in the live app/contracts.
+*Exact Material amounts are calculated by [Chainlink VRF](/glossary#chainlink-vrf) upon purchase.
 
 Some parcels will be next to or adjacent to Alchemica deposits. These parcels will see farming boosters indicated on the gotchiverse dashboard and when they are listed on the Baazaar.
 
@@ -140,7 +138,7 @@ There is also a [Gotchi Lending](/gotchi-lending) feature that allows Gotchi own
 
 ## Entering the Gotchiverse
 
-The Gotchiverse is accessible at [gotchiverse.io](https://gotchiverse.io/).
+The Gotchiverse is accessible at [verse.aavegotchi.com](https://gotchiverse.io/).
 
 First, you need to select your Gotchi's spawn location.
 
@@ -213,9 +211,9 @@ Trading of Gotchus Alchemica will take place on the [Gotchus Alchemica Exchange 
 
 ### Average Alchemica Per Parcel
 
-Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. Historically, the surveying process used an onchain call to Chainlink VRF to generate verifiable randomness.
+Similar to the “Portal” mechanic in Aavegotchi, REALM Parcels must be surveyed before they finally reveal the quantity of Alchemica that rests inside them. The surveying process is an onchain call to Chainlink VRF, a truly randomized number generator.
 
-At launch, all existing REALM Parcels could be surveyed if their owners chose to, or the surveying process could be delayed until a future date.
+When the Gotchiverse is released, all existing REALM Parcels can be surveyed if their owners choose to, or the surveying process can be delayed until a future date.
 
 The range of Alchemica available for each Parcel Type is listed below, for the entire Act 1, and for Round 1 of Act 1, which distributes roughly 25% of the Alchemica contained within.
 

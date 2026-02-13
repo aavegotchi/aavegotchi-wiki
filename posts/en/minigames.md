@@ -11,7 +11,7 @@ contributors: ["unintelligent-nerd"]
 <p class="headerImageText">Let's Game!</p>
 </div>
 
-What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game is exploring the Aavegotchi [Realm](/gotchiverse) overworld with friends and pitting your Aavegotchis against theirs.
+What’s the fun of owning an Aavegotchi if you can’t play with it? One of the core experiences of the Aavegotchi game will be exploring the Aavegotchi [Realm](/gotchiverse) overworld with friends and pitting your Aavegotchis against theirs.
 
 Some mini-games will be played using simple random number generators (RNGs), whereas others will offer more immersive, player-controlled experiences.
 
@@ -40,17 +40,13 @@ For a list of past mini-game XP events, check out this page [here](/minigame-xp-
 XP is needed for Aavegotchis to remain competitive on the [Rarity Farming](/rarity-farming) XP leaderboard to win [GHST](/ghst) prizes.
 
 ## Official Mini-Games
-Official Aavegotchi games and experiences are surfaced via the Aavegotchi Games page:
-
-https://www.aavegotchi.com/games
-
-The lineup changes over time, so treat the app as the source of truth for what is currently live.
+Soon! The Devs are hard at work. More information will be released here once it is available!
 
 ## Community-created Mini-Games
 
 Some of our [aarchitect frens](/aarchitect) have created some mini-games of their own! Try them out!
 
-The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://www.aavegotchi.com/games)
+The Mini-Games section of the Aavegotchi.com DApp can be found [here](https://aavegotchi.com/games)
 
 ### Reverse Pacman by aaron555
 

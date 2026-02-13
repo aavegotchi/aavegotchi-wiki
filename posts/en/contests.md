@@ -6,7 +6,7 @@ description: 'Our Winners!'
 contributors: ["unintelligent-nerd"]
 ---
 
-Hey Aavegotchi Fam! Pixelcraft has hosted various Aavegotchi contests to engage the community over the years. Here, you can take a look at past contests and winning submissions.
+Hey Aavegotchi Fam! From time to time, we will host various Aavegotchi contests to engage the community. It will be fun and there will be prizes to be won! Here, you can take a look at our past contests and the submissions we have received from the winners!
 
 <div class="contentsBox">
 
@@ -26,7 +26,7 @@ Hey Aavegotchi Fam! Pixelcraft has hosted various Aavegotchi contests to engage 
 ## Aavegotchi Mission 8 Meme Contest Winners
 
 
-In [Aavegotchi Mission 8](/missions), aagents were tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/). The top 3 upvoted memes (as measured on October 9 at 8PM SGT) received 300, 200, and 100 GHST each, respectively.
+In [Aavegotchi Mission 8](/missions), aagents are tasked to create the dankest meme featuring some aspect of Aavegotchi or GHST token on the [Aavegotchi subreddit](https://web.archive.org/web/*/https://www.reddit.com/r/Aavegotchi/). Upvote your favs! The top 3 upvoted memes on October 9, 8PM SGT will receive 300, 200, and 100 GHST each, respectively.
 
 ### <span style="color:gold">1st place: Aavegotchi PAC MAN by Zemus</span>
 
@@ -58,7 +58,7 @@ On Friday Oct 30 (4pm UTC / 12 Noon EST / 12 Midnight SGT), the ghosts *literall
 
 ## Aavegotchi Mission 9 Content Contest
 
-Aavegotchi aagents smashed past the all-time high of 1000! No longer were you aagents, but members of the fast-growing Gotchi Gang. For Mission 9, aagents were asked to create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video), as chosen by the core team, earned GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with Pixelcraft.
+Aavegotchi aagents smashed past the All-Time High of 1000! No longer are you aagents, but members of the fast-growing Gotchi Gang! For this week's mission, shill Aavegotchi further! Create a piece of content about Aavegotchi (either in written or video form). The top 3 pieces in each category (written and video) as chosen by the core team, will each earn themselves some sweet GHST bounties totaling 300/100/50 respectively, as well as an opportunity to create more content with us.
 
 ### Video Category
 

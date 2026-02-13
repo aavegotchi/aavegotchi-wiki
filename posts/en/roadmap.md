@@ -96,7 +96,7 @@ Milestones: 1M MAU / 25K DAU
 * Implementing On-chain Smart Contract Execution
 * Decentralizing our Workflow
 * Turning off the GHST Bonding Curve *(Pending DAO vote)*
-* Launch of Gotchichain – A blockchain for all things Aavegotchi *(announced; ultimately did not launch)*
+* Launch of Gotchichain – A blockchain for all things Aavegotchi
 * Gotchi in 3D
 
 For more details concerning the Year 2023 Roadmap, check out this [blog post](https://blog.aavegotchi.com/2023-year-of-the-gotchi-roadmap/)
@@ -119,8 +119,6 @@ Milestones: 10M MAU / 50K DAU
 ## Gotchiverse Roadmap
 
 The [Gotchiverse](/gotchiverse) is an ambitious, multiyear project being developed together by Pixelcraft Studios and [AavegotchiDAO](/dao), the governing body of the Aavegotchi NFT Gaming Protocol.
-
-> **Note:** The "Status" labels below reflect the original roadmap snapshot and may be outdated. Use the live app and recent official posts as the source of truth for current status.
 
 ### Alchemical Aaltars and Alchemical Channeling
 

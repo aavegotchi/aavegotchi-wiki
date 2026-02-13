@@ -112,7 +112,7 @@ Each Weapon will also be endowed with special benefits, such as extra damage to 
 
 ## LINK Themed Set
 
-Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, including Aavegotchi's historical use of Chainlink VRF to generate verifiable randomness for onchain traits.
+Distributed via an exclusive, limited-edition Raffle in November 2020, these LINK-themed wearables celebrate Aavegotchi's partnership with Chainlink, specifically our use of Chainlink VRF to ensure that Aavegotchis have verifiable, provably random traits.
 
 table_linkWearablesTable
 
@@ -130,7 +130,7 @@ table_ethereumWearablesTable
 
 ## Aagent Wearables Set
 
-The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet.
+The Aagent Wearables Set is a limited edition set that is given to all [Level 12 Aagents](/missions) who have completed all 12 Aagent Missions before the launch of Aavegotchi on Mainnet. Pictures and Quantity coming up soon!
 
 table_aagentWearablesTable
 
@@ -144,7 +144,7 @@ table_farmerWearablesTable
 
 ## Santa Wearables Set
 
-One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth was airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information.
+One of our friends accidentally sent 4000 LINK (~$50,000) to the GHST Staking Contract. We raised funds from our community to help him out. Everyone who donated more than $20 worth of ANY ERC20 token to SantaGotchi.eth will be airdropped a limited edition Santagotchi Hat. See [here](https://twitter.com/aavegotchi/status/1339738554906243072) for more information. Picture for the wearable will be out soon! Other items in the Santa wearables set will be available soon as well.
 
 table_santaWearablesTable
 
