@@ -10,6 +10,7 @@
     "nowDev": "env-cmd -f .env now dev",
     "develop": "yarn dev",
     "build": "next build --webpack",
+    "test": "node scripts/test-llms-txt.mjs",
     "start": "next start",
     "export": "echo 'next export was removed in Next.js 16; use npm run build' && exit 1",
     "deploy": "yarn build",
