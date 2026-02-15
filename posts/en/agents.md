@@ -40,6 +40,14 @@ Placeholder notes (TBD; update when the canonical implementation is finalized):
 
 The first public skills are being developed as standalone repos.
 
+### Skill directory / overview
+
+Repo: [aavegotchi/aavegotchi-agent-skills](https://github.com/aavegotchi/aavegotchi-agent-skills)
+
+Placeholder description:
+
+- Index of known skills and how they’re expected to be composed/installed (TBD).
+
 ### GBM Skill
 
 Repo: [aavegotchi/aavegotchi-gbm-skill](https://github.com/aavegotchi/aavegotchi-gbm-skill)
@@ -59,6 +67,14 @@ Placeholder description:
 - Create and manage Baazaar listings (TBD).
 - Purchase items subject to budgets/allowlists (TBD).
 - Support “shopping list” or “market-making” style behaviors (TBD).
+
+### Autopet Skill
+
+Repo: [aaigotchi/aavegotchi-autopet](https://github.com/aaigotchi/aavegotchi-autopet)
+
+Placeholder description:
+
+- Keep an Aavegotchi’s kinship topped up by “petting” on a schedule or when thresholds are hit (TBD).
 
 ## How Agents work (high level)
 
@@ -88,10 +104,11 @@ Placeholder checklist (TBD):
 
 ## References
 
+- [aavegotchi/aavegotchi-agent-skills](https://github.com/aavegotchi/aavegotchi-agent-skills)
 - [aavegotchi/aavegotchi-gbm-skill](https://github.com/aavegotchi/aavegotchi-gbm-skill)
 - [aavegotchi/aavegotchi-baazaar-skill](https://github.com/aavegotchi/aavegotchi-baazaar-skill)
+- [aaigotchi/aavegotchi-autopet](https://github.com/aaigotchi/aavegotchi-autopet)
 
 ## Last verified
 
 - 2026-02-15 — Draft page created (placeholder content).
-
