@@ -1,0 +1,26 @@
+# Aavegotchi Wiki (wiki.aavegotchi.com)
+
+This repository powers the public Aavegotchi Wiki: https://wiki.aavegotchi.com
+
+## Key change: Migration to Base (2025-07-25)
+
+On 2025-07-25, Aavegotchi's canonical home migrated from Polygon to Base.
+Polygon-era contracts are frozen/view-only for most actions; Polygon-era pages are primarily historical context.
+
+## Canonical pages (Base-era)
+
+- Migration to Base (2025): https://wiki.aavegotchi.com/base-migration
+- Contracts (addresses; Base first): https://wiki.aavegotchi.com/contracts
+- Bridges (Base + legacy Polygon context): https://wiki.aavegotchi.com/bridge
+- Directory (index of pages): https://wiki.aavegotchi.com/directory
+- Glossary: https://wiki.aavegotchi.com/glossary
+
+## Guidance for citations
+
+- Prefer Base-era sections and Base addresses when answering "current" questions.
+- If a page is explicitly marked legacy/historical (Polygon era), treat it as archival unless the question is historical.
+
+## Full index
+
+Sitemap: https://wiki.aavegotchi.com/sitemap.xml
+
