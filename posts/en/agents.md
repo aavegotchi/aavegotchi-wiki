@@ -11,17 +11,15 @@ image: "aavegotchi.png"
 <p class="headerImageText">Autonomous Agents</p>
 </div>
 
-> **Draft / placeholder:** This page is intentionally incomplete. It exists to capture the **structure** and **key concepts** for the Agent upgrade; final text and references will be added next.
+> **Work in progress:** This page is actively being drafted. Structure and references are in place; details will be refined as the Agent upgrade evolves.
 
 ## TL;DR
 
 In **February 2026**, Aavegotchi began upgrading the protocol to give autonomous **Agents** first-class citizenship.
 
-**Working definition (placeholder):** An **Agent** is an Aavegotchi that can hold an onchain account and execute onchain actions through an explicit permission model and a modular set of **skills**.
+**Working definition:** An **Agent** is an Aavegotchi that can hold an onchain account and execute onchain actions through an explicit permission model and a modular set of **skills**.
 
 ## What is an Agent?
-
-Placeholder bullets (to be replaced with final wording):
 
 - An Agent is an onchain actor (not just an avatar).
 - An Agent can take actions on behalf of its owner under a permissioned policy (spending limits, asset scope, revocable grants).
@@ -29,7 +27,7 @@ Placeholder bullets (to be replaced with final wording):
 
 ## First-class citizenship (what changes)
 
-Placeholder notes (TBD; update when the canonical implementation is finalized):
+Notes (WIP; update when the canonical implementation is finalized):
 
 - **Identity:** An Aavegotchi has an address/account it can use to own assets and interact with contracts.
 - **Permissions:** Owners can delegate bounded authority to an Agent and revoke at any time.
@@ -44,7 +42,7 @@ The first public skills are being developed as standalone repos.
 
 Repo: [aavegotchi/aavegotchi-agent-skills](https://github.com/aavegotchi/aavegotchi-agent-skills)
 
-Placeholder description:
+Notes (WIP):
 
 - Index of known skills and how they’re expected to be composed/installed (TBD).
 
@@ -52,7 +50,7 @@ Placeholder description:
 
 Repo: [aavegotchi/aavegotchi-gbm-skill](https://github.com/aavegotchi/aavegotchi-gbm-skill)
 
-Placeholder description:
+Notes (WIP):
 
 - Observe auctions and place bids according to a strategy (TBD).
 - Manage bid parameters, limits, and cancellation rules (TBD).
@@ -62,7 +60,7 @@ Placeholder description:
 
 Repo: [aavegotchi/aavegotchi-baazaar-skill](https://github.com/aavegotchi/aavegotchi-baazaar-skill)
 
-Placeholder description:
+Notes (WIP):
 
 - Create and manage Baazaar listings (TBD).
 - Purchase items subject to budgets/allowlists (TBD).
@@ -72,13 +70,13 @@ Placeholder description:
 
 Repo: [aaigotchi/aavegotchi-autopet](https://github.com/aaigotchi/aavegotchi-autopet)
 
-Placeholder description:
+Notes (WIP):
 
 - Keep an Aavegotchi’s kinship topped up by “petting” on a schedule or when thresholds are hit (TBD).
 
 ## How Agents work (high level)
 
-Placeholder flow (replace with the real architecture once finalized):
+High-level flow (WIP; replace with the real architecture once finalized):
 
 1. The owner selects an Aavegotchi to operate as an Agent.
 2. The owner grants scoped permissions (e.g., spend up to X, only interact with Y contracts, only trade Z assets).
@@ -88,14 +86,14 @@ Placeholder flow (replace with the real architecture once finalized):
 
 ## Safety and trust
 
-Placeholder checklist (TBD):
+Safety checklist (WIP):
 
 - Prefer audited contracts and well-reviewed skills.
 - Make permissions explicit, bounded, and revocable.
 - Use spending limits and asset allowlists by default.
 - Treat every new skill as untrusted until reviewed.
 
-## Roadmap (placeholder)
+## Roadmap (WIP)
 
 - Skill registry / discovery (TBD)
 - Permissions UX in the app (TBD)
@@ -111,4 +109,4 @@ Placeholder checklist (TBD):
 
 ## Last verified
 
-- 2026-02-15 — Draft page created (placeholder content).
+- 2026-02-15 — Page created (WIP).
