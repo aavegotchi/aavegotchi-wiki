@@ -15,3 +15,34 @@ Use one of these instead:
    - In the markdown page (`posts/en/<pageID>.md`), put `table_<name>` on its own line.
    - Create `data/tables/<pageID>.tsx` exporting `tables`, where each entry has `tableName` matching `<name>`.
 2. Alternative: raw HTML `<table>...</table>` blocks (only when the table is truly one-off).
+
+## Workflow Velocity Upgrades (2026-02-16)
+
+### Start-Task Preflight
+
+Use the global preflight command before major work:
+
+```bash
+cstart <task-slug>
+```
+
+### Fast Check Gate
+
+```bash
+./scripts/fast-check.sh
+```
+
+Default checks:
+
+- `yarn test`
+- `yarn build`
+
+### PR Automation
+
+```bash
+./scripts/open-pr.sh
+```
+
+### Post-Merge Recap
+
+`post-merge-recap` runs on pushes to `main`/`master` and uploads a markdown recap artifact.

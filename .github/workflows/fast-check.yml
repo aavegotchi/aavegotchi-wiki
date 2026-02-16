@@ -1,0 +1,28 @@
+name: fast-check
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: fast-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  fast-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn --frozen-lockfile
+
+      - name: Run fast-check gate
+        run: ./scripts/fast-check.sh
