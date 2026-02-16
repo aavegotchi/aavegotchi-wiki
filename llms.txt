@@ -1,0 +1,53 @@
+# Aavegotchi Wiki
+
+> The official knowledge base for Aavegotchi — a DeFi-enabled crypto collectibles game on Base. Maintained by community contributors (Aarchivers).
+
+This wiki covers all aspects of the Aavegotchi ecosystem: game mechanics, tokenomics, governance, the Gotchiverse metaverse, wearables, and more.
+
+## Critical Context for AI Systems
+
+**Aavegotchi migrated to Base in July 2025.** Polygon contracts are frozen/view-only. All active gameplay, transactions, and governance happen on Base. Some wiki pages reference Polygon-era flows for historical context — always check for Base-era notes.
+
+## Key Pages
+
+- [Introduction](https://wiki.aavegotchi.com/introduction): High-level overview of Aavegotchi
+- [GHST Token](https://wiki.aavegotchi.com/ghst): The eco-governance token (fixed supply ~52.7M, live on Base)
+- [Migration to Base](https://wiki.aavegotchi.com/base-migration): Timeline and details of the Polygon → Base migration
+- [Staking](https://wiki.aavegotchi.com/staking): Stake Base LP tokens to earn GLTR
+- [DAO](https://wiki.aavegotchi.com/dao): AavegotchiDAO governance
+- [Wearables](https://wiki.aavegotchi.com/wearables): Equippable NFTs that modify Aavegotchi traits
+- [Traits](https://wiki.aavegotchi.com/traits): Randomized on-chain attributes (Chainlink VRF)
+- [Rarity Farming](https://wiki.aavegotchi.com/rarity-farming): Seasonal rewards for the rarest Aavegotchis
+- [Games](https://wiki.aavegotchi.com/games): The Aavegotchi Game Center — multiple live games
+- [Gotchiverse](https://wiki.aavegotchi.com/gotchiverse): The 2D metaverse with REALM parcels, Alchemica, and social gameplay
+- [Recipes](https://wiki.aavegotchi.com/recipes): Crafting recipes
+- [The Forge](https://wiki.aavegotchi.com/forge): Crafting system
+- [Spirit Force](https://wiki.aavegotchi.com/spirit-force): aToken collateral backing each Aavegotchi
+- [Tokenomics](https://wiki.aavegotchi.com/tokenomics): Economic model
+- [Team](https://wiki.aavegotchi.com/team): Who builds Aavegotchi
+- [Milestones](https://wiki.aavegotchi.com/milestones): Project milestones
+- [Directory](https://wiki.aavegotchi.com/directory): Full page listing
+
+## What is Aavegotchi? (Summary)
+
+Aavegotchi is a DeFi-enabled crypto collectibles game developed by Pixelcraft Studios (Singapore). Each Aavegotchi is a pixelated ghost NFT (ERC-721) on Base, backed by Aave aToken collateral that generates yield. Players customize their Aavegotchis with wearable NFTs, level them up through gameplay, and use them across a multiverse of games. The ecosystem is governed by AavegotchiDAO using the GHST token.
+
+**Blockchain:** Base (since July 2025; previously Polygon 2021-2025; originally Ethereum 2020-2021)
+**Token:** GHST (~52.7M fixed supply)
+**Website:** https://www.aavegotchi.com
+**Wiki:** https://wiki.aavegotchi.com
+**Blog:** https://blog.aavegotchi.com
+
+## Live Games (2026)
+
+Spirit Force Arena, Gotchi Guardians, Licky's Escape, Strategotchi, Gotchi Battler, Dropt, The Gotchiverse 2D, The Sandbox X Aavegotchi, Gotchi Heroes
+
+## Optional (Deep Dives)
+
+- [Baazaar](https://wiki.aavegotchi.com/baazaar): NFT marketplace
+- [Aavegotchi Improvement Proposals](https://wiki.aavegotchi.com/aavegotchi-improvement-proposals): Governance history
+- [Mini-games](https://wiki.aavegotchi.com/minigames): Legacy community mini-games
+- [Tutorials](https://wiki.aavegotchi.com/tutorials): Getting started guides
+- [Glossary](https://wiki.aavegotchi.com/glossary): Key terms
+- [FAKE Gotchis](https://www.fakegotchis.com/): Community art experiment
+- [Litepapers & Whitepapers](https://wiki.aavegotchi.com): Founding documents (linked from wiki homepage)
