@@ -1,0 +1,32 @@
+name: post-merge-recap
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  recap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate recap
+        run: ./scripts/post-merge-recap.sh "${{ github.event.before }}" "${{ github.sha }}" > post-merge-recap.md
+
+      - name: Publish step summary
+        run: cat post-merge-recap.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload recap artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: post-merge-recap
+          path: post-merge-recap.md
