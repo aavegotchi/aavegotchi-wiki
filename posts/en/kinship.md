@@ -64,3 +64,10 @@ Every Aavegotchi is eligible to engage in Alchemical Channeling **once every 24 
 ## Kinship Burning
 
 Following the implementation of [AGIP-82](/aavegotchi-improvement-proposals#channel-alchemica-through-a--2-kinship-burn), Aavegotchis will experience a -2 kinship point burn for each alchemical channeling event.
+
+## Related Pages
+
+- [Rarity Farming](/rarity-farming)
+- [Alchemical Channeling](/alchemical-channeling)
+- [Spirit Force](/spirit-force)
+- [Traits](/traits)

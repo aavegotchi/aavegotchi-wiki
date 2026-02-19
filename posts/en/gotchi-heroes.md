@@ -56,3 +56,10 @@ Gotchi Heroes features over 100 NFT's in the form of equippable items, upgrades,
 * [Twitter](https://x.com/slowsundaygames)
 
 * [YouTube](https://www.youtube.com/@gotchiheroes)
+
+## Related Pages
+
+- [Game Center](/games)
+- [Mini-games](/minigames)
+- [XP](/xp)
+- [Social Media](/socialmedia)

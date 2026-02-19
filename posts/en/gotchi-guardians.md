@@ -32,3 +32,10 @@ Gotchi Guardians has had campaigns where players could **earn GHST**. Because re
 
 ## Last verified
 - 2026-02-04 — Verified that the Steam store link and browser entrypoint are referenced by official blog posts above.
+
+## Related Pages
+
+- [Game Center](/games)
+- [Gotchi Battler](/gotchi-battler)
+- [Missions](/missions)
+- [Social Media](/socialmedia)

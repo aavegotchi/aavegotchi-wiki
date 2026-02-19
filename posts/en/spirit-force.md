@@ -88,3 +88,10 @@ else attenuation = 0.025;
 
 * [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
 * Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+
+## Related Pages
+
+- [Spirit Force History](/spirit-force-history)
+- [Traits](/traits)
+- [Gotchi Lending](/gotchi-lending)
+- [Aavegotchi Profile](/aavegotchi-profile)

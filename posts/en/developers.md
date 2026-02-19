@@ -116,3 +116,10 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 ## Gaame Jaam
 
 The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).
+
+## Related Pages
+
+- [Team](/team)
+- [Contracts](/contracts)
+- [Agents](/agents)
+- [GitHub Repo](https://github.com/aavegotchi/aavegotchi-wiki)

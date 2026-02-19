@@ -59,3 +59,11 @@ And it described the baseline earn rate as **"1 FREN per day per GHST staked"**,
 
 **References (historical):**
 - Blog (2022-05-28): https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
+
+## Related Pages
+
+- [GHST](/ghst)
+- [Tokenomics](/tokenomics)
+- [Migration to Base (2025)](/base-migration)
+- [Gotchiverse](/gotchiverse)
+- [Contracts](/contracts)

@@ -95,3 +95,10 @@ Link to game [here](https://samugotchi-shodown.vercel.app/)
 Link to game [here](https://web.archive.org/web/*/https://astegotchi.aavegames.com/)
 
 <img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game">
+
+## Related Pages
+
+- [Game Center](/games)
+- [XP](/xp)
+- [Mini-Game XP Events](/minigame-xp-events)
+- [Missions](/missions)

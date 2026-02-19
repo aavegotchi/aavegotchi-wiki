@@ -104,3 +104,10 @@ Download the game [here](https://aavegotchi.com/games)
 * [Discord Server](https://discord.com/invite/ef8rkZm5Zp)
 
 * [Twitter](https://twitter.com/spiritforcegg)
+
+## Related Pages
+
+- [Gotchi Battler](/gotchi-battler)
+- [Gotchiverse](/gotchiverse)
+- [Traits](/traits)
+- [Spirit Force](/spirit-force)

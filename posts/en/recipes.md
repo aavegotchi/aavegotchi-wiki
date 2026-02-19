@@ -185,3 +185,10 @@ table_halloweenDecorations
 *From 14 - 27 December 2022 only*
 
 table_christmasDecorations
+
+## Related Pages
+
+- [Gotchiverse](/gotchiverse)
+- [Gotchus Alchemica](/gotchus-alchemica)
+- [The Forge](/forge)
+- [Estaates](/estaates)

@@ -212,3 +212,10 @@ And what a salesman he was!  Although unfortunately he wasn't good enough to sel
 When our dreamers decided they would create an entirely on chain version of the classic toy from the 90's everyone called them crazy.  But Coder Dan had heard this before, but he knew they WERE right.  they couldn't do this, at least not by themselves.  They needed the best, nigh, the best of the best... but who?  "Xibot!" Dan said immediately.  "If there is anyone who can capture the essence of a classic so near and dear to our hearts, it has to be him!".  "Hmm, but what about the smart contracts?" said GldnXross.  Surely there is no one possibly good enough to store these things ENTIRELY on chain! "There's one person" said Dan. "this guy loves smart contracts so much, he writes smart contracts for smart contracts."  "Wait, I've heard of this guy..." Said GldnXross "Nick Mudge!"  "And Community? Surely we will need someone incredible to quash the spammers, and help the noobs!"  Dan looked up... "There is tell of a man, with the patience of a saint, and the banhammer of Thor." The name of that man? JC Crown.
 
 So this is how our heroes assembled, some details have been edited for time.
+
+## Related Pages
+
+- [Partners](/partners)
+- [Social Media](/socialmedia)
+- [Developers](/developers)
+- [Aambassadors](/aambassador)

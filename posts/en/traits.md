@@ -121,3 +121,10 @@ For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
 
 Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
+
+## Related Pages
+
+- [Trait Mappings](/trait-mappings)
+- [Rarity Farming](/rarity-farming)
+- [Kinship](/kinship)
+- [Wearables](/wearables)

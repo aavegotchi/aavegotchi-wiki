@@ -62,3 +62,10 @@ The Gotchi Battler Docs contain more information on [Special Attacks](https://go
 * [Gotchi Battler Website](https://gotchibattler.com/)
 
 * [Gotchi Battler Docs](https://gotchi-battler-1.gitbook.io/gotchi-battler)
+
+## Related Pages
+
+- [Game Center](/games)
+- [Gotchi Guardians](/gotchi-guardians)
+- [Spirit Force Arena](/spirit-force-arena)
+- [Traits](/traits)

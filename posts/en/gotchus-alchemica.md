@@ -70,3 +70,11 @@ The remaining 66.6% (or 10% of total supply) will be **vested via the same sched
 50% of all Alchemica have been earmarked for Parcels in the Gotchiverse, including all three Acts and replenishings in each Act.
 
 Act 1 will distribute roughly 25% of the total supply, whereas Act 2 and Act 3 will distribute 15% and 10%, respectively.
+
+## Related Pages
+
+- [Gotchiverse](/gotchiverse)
+- [Alchemical Channeling](/alchemical-channeling)
+- [Recipes](/recipes)
+- [Tokenomics](/tokenomics)
+- [GAX](/gotchus-alchemica-exchange)

@@ -74,3 +74,10 @@ Lenders will also have the ability to create [whitelists](https://aavegotchi.com
 <img class="bodyImage" src="/gotchi-lending/gotchi-lending-bonus-step.png">
 
 On the other side of the coin, borrowers will have a number of filters at their disposal to allow them to find the Aavegotchi that best suits their needs. Aavegotchis available to borrow can be filtered by earnings split, upfront cost, duration, and shared tokens.
+
+## Related Pages
+
+- [Aavegotchi Profile](/aavegotchi-profile)
+- [Marketplace](/marketplace)
+- [Rarity Farming](/rarity-farming)
+- [Traits](/traits)

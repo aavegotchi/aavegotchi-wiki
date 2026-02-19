@@ -59,3 +59,10 @@ This was formalized in a [DAO vote / AGIP 15](/aavegotchi-improvement-proposals#
 * Goobz
 
 * Diddlypoo
+
+## Related Pages
+
+- [Wearables](/wearables)
+- [Wearable Sets](/sets)
+- [Traits](/traits)
+- [AavegotchiDAO](/dao)

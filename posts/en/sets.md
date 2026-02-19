@@ -44,3 +44,9 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 table_sets
 
+## Related Pages
+
+- [Wearables](/wearables)
+- [Traits](/traits)
+- [Rarity Farming](/rarity-farming)
+- [Marketplace](/marketplace)

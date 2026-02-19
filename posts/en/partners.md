@@ -330,4 +330,11 @@ Aerodrome Finance is a next-generation AMM designed to serve as Base's central l
 <p class="leftImageText"><a href="https://x.com/HyperPlayGaming" target="_blank">HyperPlay</a></p>
 </div>
 
-HyperPlay is the game store from the future where players discover great games, and developers find a censorship-resistant and developer-loyal distribution platform. 
+HyperPlay is the game store from the future where players discover great games, and developers find a censorship-resistant and developer-loyal distribution platform.
+
+## Related Pages
+
+- [Team](/team)
+- [Social Media](/socialmedia)
+- [Games](/games)
+- [Developers](/developers)
