@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
-description: 'All about Aavegotchi Portals'
+description: "Guide to Aavegotchi Portals, including summon mechanics, opening flow, rarity context, and historical plus Base-era notes."
 contributors: ["appellants", "unintelligent-nerd"]
 image: "portals/portal.gif"
 ---

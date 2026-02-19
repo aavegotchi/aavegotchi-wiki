@@ -2,7 +2,7 @@
 author: Moon
 date: '2020-04-23T07:00:00.000Z'
 title: 'Polygon'
-description: 'Polygon Tutorial'
+description: "Historical tutorial for Aavegotchi on Polygon, preserved for context after the canonical ecosystem migration to Base in 2025."
 contributors: ["moon14888"]
 ---
 

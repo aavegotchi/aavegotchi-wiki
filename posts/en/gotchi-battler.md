@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchi Battler'
-description: 'Gotchi Battler'
+description: "Overview of Gotchi Battler gameplay, team setup, combat loop, and reward context for players exploring Aavegotchi auto-battler modes."
 contributors: ["unintelligent-nerd"]
 ---
 

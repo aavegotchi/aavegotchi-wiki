@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+description: "Learn how Aavegotchi XP works, including leveling thresholds, progression milestones, and how experience impacts gameplay opportunities."
 contributors: ["unintelligent-nerd"]
 ---
 

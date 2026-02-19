@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Spirit Force'
-description: 'All about Aavegotchi Spirit Force'
+description: "Guide to Spirit Force collateral in Aavegotchi, including legacy aToken terminology and the modern Base-era interpretation."
 image: "spirit-force/aETH.svg"
 contributors: ["unintelligent-nerd"]
 ---

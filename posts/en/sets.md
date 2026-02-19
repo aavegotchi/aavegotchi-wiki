@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearable Sets'
-description: 'All about Aavegotchi Wearable Sets'
+description: "Guide to Aavegotchi wearable sets, including set bonus mechanics, trait interactions, and optimization for gameplay performance."
 contributors: ["unintelligent-nerd"]
 ---
 

@@ -2,7 +2,7 @@
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
 title: 'Mini-games'
-description: 'All about Aavegotchi minigames'
+description: "Overview of Aavegotchi mini-games, including play styles, ecosystem role, and where to find current game-specific documentation."
 contributors: ["unintelligent-nerd"]
 ---
 

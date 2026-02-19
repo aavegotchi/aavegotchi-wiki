@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchus Alchemica'
-description: 'Gotchus Alchemica'
+description: "Learn the four Gotchus Alchemica resources, their role in Gotchiverse crafting and economy, and how players acquire and use them."
 contributors: ["unintelligent-nerd"]
 ---
 

@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Strategotchi'
-description: 'Strategotchi'
+description: "Overview of Strategotchi, a turn-based grid strategy game where squads mine Alchemica while navigating hazards and opponents."
 contributors: ["unintelligent-nerd"]
 ---
 

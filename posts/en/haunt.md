@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Haunts'
-description: 'Haunt'
+description: "Learn how Aavegotchi Haunts define NFT generations, supply waves, and differences between legacy and newer Gotchi cohorts."
 contributors: ["unintelligent-nerd"]
 ---
 

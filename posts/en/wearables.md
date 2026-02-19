@@ -2,7 +2,7 @@
 author: Coder Dan
 date: "2020-04-23T07:00:00.000Z"
 title: "Wearables"
-description: "All about Aavegotchi Wearables"
+description: "Comprehensive guide to Aavegotchi wearables, covering slots, rarity, trait modifiers, set synergy, and marketplace usage."
 image: "wearables/sergey-blue.png"
 contributors: ["cinnabarhorse", "unintelligent-nerd"]
 ---
@@ -267,3 +267,11 @@ table_gotchigangWearablesTable
 ## Base Wearables
 
 table_baseWearablesTable
+
+## Related Pages
+
+- [Wearable Sets](/sets)
+- [Traits](/traits)
+- [Weapons](/weapons)
+- [Marketplace](/marketplace)
+- [Rarity Farming](/rarity-farming)

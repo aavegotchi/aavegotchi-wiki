@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Spirit Force Arena'
-description: 'Test your mettle in the Spirit Force Arena!'
+description: "Historical overview of Spirit Force Arena, an early battle concept page linked to competitive Gotchiverse gameplay references."
 contributors: ["unintelligent-nerd"]
 ---
 

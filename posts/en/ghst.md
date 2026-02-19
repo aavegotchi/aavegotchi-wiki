@@ -2,7 +2,7 @@
 author: letsgobankless
 date: "2025-09-18T00:00:00.000Z"
 title: "GHST Token"
-description: "The eco-governance token of Aavegotchi"
+description: "Learn about GHST, the Aavegotchi ecosystem token used for governance, trading, utility payments, and core onchain game interactions."
 image: "ghst/ghsttoken.svg"
 contributors: ["letsgobankless", "appellants", "unintelligent-nerd"]
 ---
@@ -128,3 +128,12 @@ These include:
 ## Is GHST decentralized?
 
 Yes, GHST is a fully decentralized token, with no admin privileges or backdoors. Originally deployed under the ownership of AavegotchiDAO, when the bonding curve turned off, the DAO that maintained admin keys to GHST was also dismantled, meaning that no one owns the admin keys to GHST any longer.
+
+## Related Pages
+
+- [Tokenomics](/tokenomics)
+- [Staking](/staking)
+- [Bonding Curve](/curve)
+- [AavegotchiDAO](/dao)
+- [Bridge](/bridge)
+- [Contracts](/contracts)

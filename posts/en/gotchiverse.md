@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchiverse'
-description: 'All about the Gotchiverse'
+description: "Comprehensive Gotchiverse guide covering REALM zones, parcels, Alchemica systems, gameplay loops, and Base-era migration context."
 contributors: ["eris771", "unintelligent-nerd"]
 ---
 
@@ -359,3 +359,13 @@ After each Great Battle in Act 1, players will be able to survey their Parcel ag
 The Bubble Ups concept grew out of the debated Paatch 0.1c where Increase Boost Amounts failed to pass. Alchemica Bubble Ups provide additional utility to boosts, while still requiring the player to actively harvest the Alchemica that bubbles up.
 
 Alchemica Bubble Ups are sporadic (but not infrequent) events where Alchemica pickups appear on top of deposits of Alchemica in the Gotchiverse, especially near active parcels. Notably, it is **Pixelcraft’s Gameplay vested release allocation** that will support these Alchemical releases, although AavegotchiDAO can also vote to supplement the amount.
+
+## Related Pages
+
+- [Gotchus Alchemica](/gotchus-alchemica)
+- [Alchemical Channeling](/alchemical-channeling)
+- [Rarity Farming](/rarity-farming)
+- [Guilds](/guild)
+- [Estaates](/estaates)
+- [Recipes](/recipes)
+- [The Forge](/forge)

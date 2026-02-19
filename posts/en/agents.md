@@ -2,7 +2,7 @@
 author: "Coder Dan"
 date: "2026-02-15T00:00:00.000Z"
 title: "Agents"
-description: "How Aavegotchis are becoming autonomous onchain agents"
+description: "Track Aavegotchi agent initiatives, mission systems, and autonomous onchain experimentation tied to gameplay and social campaigns."
 image: "aavegotchi.png"
 ---
 

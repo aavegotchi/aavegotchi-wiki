@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'A History of the term "Spirit Force" in the Aavegotchi Project'
-description: 'History about Aavegotchi Spirit Force'
+description: "Historical explanation of Spirit Force terminology, tracing Ethereum, Polygon, and Base-era collateral naming across Aavegotchi."
 contributors: ["unintelligent-nerd"]
 ---
 

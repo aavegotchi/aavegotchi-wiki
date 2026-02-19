@@ -2,7 +2,7 @@
 author: wagyuchicken
 date: "2025-09-18T00:00:00.000Z"
 title: "Rarity Farming"
-description: "Everything you need to know about Rarity Farming!"
+description: "Complete guide to Aavegotchi Rarity Farming, including scoring categories, strategy basics, and reward distribution mechanics."
 contributors:
   ["cinnabarhorse", "wagyuchicken", "appellants", "unintelligent-nerd"]
 ---
@@ -116,3 +116,12 @@ For data pertaining to the Rarity Farming Seasons (including Base-era seasons), 
 Rarity Farming Rewards are disbursed to your Aavegotchi inventories (Yes! Each of your Aavegotchi has their own personal inventory!).
 
 First, head over to the [My Aavegotchis page](https://aavegotchi.com/lending/aavegotchis). Click on any one of your Aavegotchi. At the bottom-right corner of the screen, there will be a "Pocket" button. Click on it to view your Aavegotchi's inventory. You can see the amount of GHST your Gotchi has won from Rarity Farming (as well as their equipped wearables).
+
+## Related Pages
+
+- [Rarity Farming Seasons](/rarity-farming-seasons)
+- [Traits](/traits)
+- [Kinship](/kinship)
+- [Wearables](/wearables)
+- [Wearable Sets](/sets)
+- [Tickets](/tickets)

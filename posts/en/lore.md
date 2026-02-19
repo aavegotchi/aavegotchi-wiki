@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Lore'
-description: 'The mysterious origins of Aavegotchis...'
+description: "Explore Aavegotchi lore, origin stories, and worldbuilding references that connect game mechanics, characters, and community culture."
 contributors: ["unintelligent-nerd"]
 ---
 

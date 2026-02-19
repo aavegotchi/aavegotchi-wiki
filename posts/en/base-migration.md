@@ -37,3 +37,12 @@ table_timeline
 ## Last verified
 
 - 2026-02-11 — Reconciled against the official blog archive post and current project migration notes.
+
+## Related Pages
+
+- [Contracts](/contracts)
+- [Bridge](/bridge)
+- [Gotchiverse](/gotchiverse)
+- [Staking](/staking)
+- [Tokenomics](/tokenomics)
+- [Polygon (Historical)](/polygon)

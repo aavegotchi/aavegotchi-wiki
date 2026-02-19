@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Eye Shape'
-description: 'Aavegotchi Eye Shape'
+description: "Reference list of Aavegotchi eye shapes (EYS), with trait mapping context for rarity scoring, aesthetics, and collectible identity."
 contributors: ["unintelligent-nerd"]
 ---
 

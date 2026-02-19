@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Wiki'
-description: 'All about the Aavegotchi Wiki'
+description: "Official Aavegotchi Wiki homepage with curated links to core docs on GHST, Gotchiverse, governance, contracts, and Base migration."
 image: "icons/introduction.svg"
 ---
 
@@ -55,3 +55,38 @@ Anyone can contribute to the Wiki, you just need write permissions for our [Gith
 If you'd like to contribute, head to the #wiki channel in the Aavegotchi Discord and ask one of our Aarchivers for permission.
 
 Then head to our Github Repo and dive right in with your first commit.
+
+## Explore by Topic Cluster
+
+### Onboarding
+- [Introduction](/introduction)
+- [FAQ](/faq)
+- [Glossary](/glossary)
+- [Directory](/directory)
+
+### Economy and Governance
+- [GHST](/ghst)
+- [Tokenomics](/tokenomics)
+- [Staking](/staking)
+- [AavegotchiDAO](/dao)
+- [AGIPs](/aavegotchi-improvement-proposals)
+
+### Gotchiverse Gameplay
+- [Gotchiverse](/gotchiverse)
+- [Gotchus Alchemica](/gotchus-alchemica)
+- [Rarity Farming](/rarity-farming)
+- [The Forge](/forge)
+- [Recipes](/recipes)
+
+### Contracts and Migration
+- [Migration to Base (2025)](/base-migration)
+- [Contracts](/contracts)
+- [Bridge](/bridge)
+- [Polygon (Historical)](/polygon)
+
+### Games
+- [Game Center](/games)
+- [Gotchi Guardians](/gotchi-guardians)
+- [Gotchi Battler](/gotchi-battler)
+- [Licky's Escape](/lickys-escape)
+- [Strategotchi](/strategotchi)

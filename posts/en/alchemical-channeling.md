@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Alchemical Channeling'
-description: 'Alchemical Channeling'
+description: "Learn how Alchemical Channeling works in the Gotchiverse, including daily yield mechanics, kinship interaction, and optimization tips."
 contributors: ["unintelligent-nerd"]
 ---
 

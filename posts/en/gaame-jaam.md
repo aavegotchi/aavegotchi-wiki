@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gaame Jaam'
-description: 'Aavegotchi Gaame Jaam'
+description: "Historical archive for the Aavegotchi Gaame Jaam, covering hackathon themes, submissions, and community-built game prototypes."
 contributors: ["unintelligent-nerd"]
 ---
 

@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aging Mechanic'
-description: 'Aging Mechanic'
+description: "Understand the Aavegotchi aging mechanic, life stages, and how age progression affects visuals, lore, and player expectations."
 contributors: ["unintelligent-nerd"]
 ---
 

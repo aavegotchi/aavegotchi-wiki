@@ -2,7 +2,7 @@
 author: moss
 date: "2026-02-12T00:00:00.000Z"
 title: "Aarena (Legacy)"
-description: "Historical reference page for the Gotchiverse Aarena concept"
+description: "Historical reference for the Gotchiverse Aarena concept, including early mechanics, lore context, and links to related battle docs."
 contributors: ["moss"]
 ---
 

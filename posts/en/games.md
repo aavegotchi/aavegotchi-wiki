@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Game Center'
-description: 'Aavegotchi Game Center'
+description: "Hub page for Aavegotchi games across the ecosystem, with links to active titles, gameplay docs, and community experiences."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -52,3 +52,12 @@ The Game Center is accessible at [https://www.aavegotchi.com/games](https://www.
 ## Minigames
 
 Before the introduction of the Aavegotchi Game Center, Aavegotchi community developers loosely come together to develop mini-games. Read more about the mini-games of old [here](/minigames).
+
+## Related Pages
+
+- [Gotchi Guardians](/gotchi-guardians)
+- [Gotchi Battler](/gotchi-battler)
+- [Gotchi Heroes](/gotchi-heroes)
+- [Licky's Escape](/lickys-escape)
+- [Strategotchi](/strategotchi)
+- [Mini-games](/minigames)

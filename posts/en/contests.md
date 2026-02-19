@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Contests'
-description: 'Our Winners!'
+description: "Archive of Aavegotchi community contests, winners, and event highlights, with references to creative competitions and prize campaigns."
 contributors: ["unintelligent-nerd"]
 ---
 

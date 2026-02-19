@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Milestones in 2022'
-description: 'Aavegotchi Milestones in 2022'
+description: "Timeline of major Aavegotchi milestones in 2022, including gameplay updates, governance decisions, and ecosystem initiatives."
 contributors: ["unintelligent-nerd"]
 ---
 

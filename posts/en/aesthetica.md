@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aesthetica'
-description: 'Aavegotchi Aesthetica'
+description: "Learn what Aesthetica items are in the Gotchiverse and how cosmetic parcel decorations differ from gameplay-affecting installations."
 contributors: ["unintelligent-nerd"]
 ---
 

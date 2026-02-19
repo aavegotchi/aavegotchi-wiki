@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Statistics for Past Aavegotchi Raffles'
-description: 'Statistics for Past Raffles'
+description: "Historical statistics for past Aavegotchi raffles, including ticket distribution, category participation, and outcome trends."
 contributors: ["unintelligent-nerd"]
 ---
 

@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tickets'
-description: 'Aavegotchi Tickets and Raffle prizes!'
+description: "Guide to Aavegotchi raffle tickets, prize categories, and how ticket mechanics connect to events and ecosystem participation."
 contributors: ["unintelligent-nerd"]
 ---
 

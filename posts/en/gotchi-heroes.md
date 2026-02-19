@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchi Heroes'
-description: 'Gotchi Heroes'
+description: "Overview of Gotchi Heroes, an idle-style game where your Aavegotchi fights waves, progresses heroes, and earns ecosystem rewards."
 contributors: ["unintelligent-nerd"]
 ---
 

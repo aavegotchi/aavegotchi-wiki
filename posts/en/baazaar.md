@@ -2,7 +2,7 @@
 author: moss
 date: "2026-02-12T00:00:00.000Z"
 title: "Baazaar (Legacy Alias)"
-description: "Legacy alias for the Aavegotchi Baazaar / Marketplace"
+description: "Legacy alias page for the Aavegotchi Baazaar. Use this route to find the canonical Marketplace docs and current Base-era trading links."
 contributors: ["moss"]
 ---
 

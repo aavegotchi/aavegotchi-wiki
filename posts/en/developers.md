@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Developing Aavegotchi'
-description: 'Jump in and help develop this Wiki!'
+description: "Developer entry point for contributing to the Aavegotchi Wiki, with repository workflow notes, contribution guidelines, and support channels."
 ---
 
 <div class="headerImageContainer">

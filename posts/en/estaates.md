@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Estaates'
-description: 'Aavegotchi Estaates'
+description: "Learn how Gotchiverse Estaates combine multiple REALM parcels, enabling shared build zones, expanded layouts, and cooperative management."
 contributors: ["unintelligent-nerd"]
 ---
 

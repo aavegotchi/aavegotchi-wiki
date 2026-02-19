@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Recipes'
-description: 'Aavegotchi Recipes'
+description: "Gotchiverse recipes guide covering installation crafting inputs, outputs, and how recipe planning fits parcel development strategy."
 contributors: ["unintelligent-nerd"]
 ---
 

@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: "2025-09-18T00:00:00.000Z"
 title: "Staking"
-description: "Stake Base LP tokens and earn GLTR"
+description: "Guide to Aavegotchi staking on Base, including supported LP positions, GLTR emissions context, and participation workflow."
 contributors: ["mudgen", "unintelligent-nerd"]
 ---
 

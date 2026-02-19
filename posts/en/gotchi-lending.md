@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchi Lending'
-description: 'Gotchi Lending'
+description: "Guide to Gotchi Lending for borrowers and lenders, covering listing flow, rental terms, and gameplay utility for borrowed gotchis."
 contributors: ["unintelligent-nerd"]
 ---
 

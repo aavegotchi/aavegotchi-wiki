@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: "2020-04-23T07:00:00.000Z"
 title: "Milestones"
-description: "Milestones of the Aaavegotchi Project"
+description: "Chronological archive of Aavegotchi milestones across multiple years, documenting product launches, governance, and ecosystem growth."
 contributors: ["unintelligent-nerd"]
 ---
 

@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Profile'
-description: 'Aavegotchi Profile'
+description: "Overview of the Aavegotchi profile page, including core stats, equipped wearables, and how profile traits affect gameplay."
 contributors: ["unintelligent-nerd"]
 ---
 

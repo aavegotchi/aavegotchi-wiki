@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: "2020-04-23T07:00:00.000Z"
 title: "Aavegotchi Contracts Addresses"
-description: "Aavegotchi Contracts Addresses"
+description: "Canonical index of Aavegotchi smart contract addresses, with Base-era deployment references and verification links for safe interactions."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -105,3 +105,11 @@ _Note: All contracts on Polygon are deprecated and provided for historical refer
 - FAKE Gotchis Art Diamond (ERC721) (Deprecated): [0xA4E3513c98b30d4D7cc578d2C328Bd550725D1D0](https://polygonscan.com/address/0xA4E3513c98b30d4D7cc578d2C328Bd550725D1D0)
 - FAKE Gotchi Card Diamond (ERC1155) (Deprecated): [0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7](https://polygonscan.com/address/0x9f6BcC63e86D44c46e85564E9383E650dc0b56D7)
 - Forge Diamond (Deprecated): [0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442](https://polygonscan.com/address/0x4fDfc1B53Fd1D80d969C984ba7a8CE4c7bAaD442)
+
+## Related Pages
+
+- [Migration to Base (2025)](/base-migration)
+- [Bridge](/bridge)
+- [GHST](/ghst)
+- [Tokenomics](/tokenomics)
+- [Spirit Force](/spirit-force)

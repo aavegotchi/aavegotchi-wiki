@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Memes'
-description: 'The meme game is stronk with this one'
+description: "Collection of Aavegotchi community memes and contest highlights that capture the ecosystem's humor, culture, and social creativity."
 contributors: ["unintelligent-nerd"]
 ---
 

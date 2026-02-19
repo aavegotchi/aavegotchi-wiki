@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Lickys Escape'
-description: 'Lickys Escape'
+description: "Overview of Licky's Escape, a single-player magnetic puzzle game in the Aavegotchi ecosystem, with gameplay and access links."
 contributors: ["unintelligent-nerd"]
 ---
 

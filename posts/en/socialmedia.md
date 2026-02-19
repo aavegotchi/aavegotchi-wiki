@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Social Media'
-description: 'All about the Aavegotchi Community'
+description: "Community social hub with Aavegotchi channels, official communication touchpoints, and places to follow ecosystem updates."
 contributors: ["eris771"]
 ---
 <div class="headerImageContainer">

@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Kinship'
-description: 'Everything you need to know about Kinship and petting your Gotchi!'
+description: "Guide to Aavegotchi Kinship, including petting mechanics, kinship levels, and how social care can influence gameplay-related systems."
 contributors: ["unintelligent-nerd"]
 ---
 

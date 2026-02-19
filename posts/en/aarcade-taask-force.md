@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aarcade Taask Force'
-description: 'Aarcade Taask Force'
+description: "Historical overview of the Aarcade Taask Force, a community group that supported mini-game strategy, feedback loops, and ecosystem planning."
 contributors: ["unintelligent-nerd"]
 ---
 

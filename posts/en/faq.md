@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'FAQ'
-description: 'Short Answers to Quick Questions'
+description: "Quick answers to common Aavegotchi questions, including onboarding, gameplay basics, Base-era migration context, and support resources."
 image: "faq/faq.png"
 contributors: ["eris771", "unintelligent-nerd"]
 ---
@@ -686,3 +686,11 @@ First, head over to the [My Aavegotchis page](https://aavegotchi.com/lending/aav
 Do note that each Gotchi will have its own Smart Contract Address.
 
 <p style="font-style:italic; font-size:13px;">...to be continued!</p>
+
+## Related Pages
+
+- [Introduction](/introduction)
+- [Glossary](/glossary)
+- [Migration to Base (2025)](/base-migration)
+- [Contracts](/contracts)
+- [Gotchiverse](/gotchiverse)

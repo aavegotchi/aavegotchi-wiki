@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'AavegotchiDAO'
-description: 'All about AavegotchiDAO'
+description: "Guide to AavegotchiDAO governance, including AGIPs, voting process, treasury decisions, and how token holders shape ecosystem direction."
 image: "icons/dao.svg"
 contributors: ["vanilladelphia", "cinnabarhorse", "hackingmoneyph", "unintelligent-nerd"]
 ---
@@ -222,3 +222,11 @@ As responsible stewards, members of AavegotchiDAO will play a role in determinin
 The AavegotchiDAO treasury is located [here](https://aavegotchi.com/dao?p=treasury).
 
 MikeyJay and Eitri proposed the creation of a DAO Treasury Dashboard in [AGIP-76](/aavegotchi-improvement-proposals#create-a-dao-treasury-dashboard). The completed dashboard can be found [here](https://web.archive.org/web/*/https://dune.com/eitri/aavegotchi-dao-treasury)
+
+## Related Pages
+
+- [AGIPs (Overview)](/aavegotchi-improvement-proposals)
+- [AGIPs 2023](/aavegotchi-improvement-proposals-2023)
+- [DAO Treasury Taask Force](/dao-treasury-taask-force)
+- [Tokenomics](/tokenomics)
+- [GHST](/ghst)
