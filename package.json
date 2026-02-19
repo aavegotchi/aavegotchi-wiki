@@ -10,7 +10,7 @@
     "nowDev": "env-cmd -f .env now dev",
     "develop": "yarn dev",
     "build": "next build --webpack",
-    "test": "node scripts/test-llms-txt.mjs",
+    "test": "node scripts/test-llms-txt.mjs && node scripts/test-seo-quality.mjs",
     "start": "next start",
     "export": "echo 'next export was removed in Next.js 16; use npm run build' && exit 1",
     "deploy": "yarn build",
@@ -20,7 +20,8 @@
     "discord:fetch": "node scripts/fetch-discord-announcements.mjs",
     "discord:update": "node scripts/update-pages-from-announcements.mjs",
     "discord:sync": "npm run discord:fetch && npm run discord:update",
-    "discord:revert": "node scripts/revert-announcement-blocks.mjs"
+    "discord:revert": "node scripts/revert-announcement-blocks.mjs",
+    "check:seo": "node scripts/check-seo-quality.mjs --strict"
   },
   "dependencies": {
     "@now/node": "^1.8.5",

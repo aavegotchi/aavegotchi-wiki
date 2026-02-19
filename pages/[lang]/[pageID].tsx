@@ -10,6 +10,7 @@ import rehypeRaw from 'rehype-raw'
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { addTablesToMarkdown } from "../../functions";
+const { createSeoMetadata, buildWebPageStructuredData, buildBreadcrumbStructuredData } = require("../../lib/seo")
 
 interface Commit {
     date: string
@@ -27,9 +28,39 @@ const Page = (props) => {
 
     const markdownBody = props.content
     const frontmatter = props.data
+    const pageIDFromProps = typeof props.pageID === "string" ? props.pageID : "";
+    const routePageID = Array.isArray(router.query.pageID) ? router.query.pageID[0] : router.query.pageID
+    const resolvedPageID = typeof routePageID === "string" ? routePageID : pageIDFromProps
 
     //Override the content and add tables
-    const finalMarkdown = addTablesToMarkdown(markdownBody, router.query.pageID)
+    const finalMarkdown = addTablesToMarkdown(markdownBody, resolvedPageID)
+    const canonicalPath = pageIDFromProps === "index" ? "/" : `/en/${pageIDFromProps}`;
+    const canonicalUrl = `https://wiki.aavegotchi.com${canonicalPath}`;
+    const imagePath = typeof frontmatter.image === "string" ? frontmatter.image.trim() : ""
+    const imageUrl = imagePath ? `https://wiki.aavegotchi.com/${imagePath.replace(/^\//, "")}` : undefined
+
+    const seo = createSeoMetadata({
+        pageID: resolvedPageID,
+        title: frontmatter.title,
+        description: frontmatter.description,
+        markdownBody: finalMarkdown,
+    })
+    const structuredData = [
+        buildWebPageStructuredData({
+            pageTitle: seo.pageTitle,
+            description: seo.description,
+            canonicalUrl,
+            pageID: resolvedPageID,
+            keywords: seo.keywords,
+            author: frontmatter.author,
+            publishedAt: frontmatter.date,
+        }),
+        buildBreadcrumbStructuredData({
+            pageTitle: seo.pageTitle,
+            canonicalUrl,
+            pageID: resolvedPageID,
+        }),
+    ]
 
 
     const flatten = (node: React.ReactNode): string => {
@@ -102,21 +133,17 @@ const Page = (props) => {
 
     }
 
-
-    const pageIDFromProps = typeof props.pageID === "string" ? props.pageID : "";
-    const canonicalPath = pageIDFromProps === "index" ? "/" : `/en/${pageIDFromProps}`;
-    const canonicalUrl = `https://wiki.aavegotchi.com${canonicalPath}`;
-
     return (
         <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
             <NextReusableHead
-                title={`${frontmatter.title} -- Aavegotchi Wiki`}
-                description={frontmatter.description}
+                title={seo.title}
+                description={seo.description}
                 siteName="Aavegotchi Wiki"
                 url={canonicalUrl}
                 faviconPath="/favicon.ico"
-                image={`https://wiki.aavegotchi.com/${frontmatter.image}`}
+                image={imageUrl}
+                structuredData={structuredData}
             />
 
 
