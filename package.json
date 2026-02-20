@@ -10,7 +10,7 @@
     "nowDev": "env-cmd -f .env now dev",
     "develop": "yarn dev",
     "build": "next build --webpack",
-    "test": "node scripts/test-llms-txt.mjs && node scripts/test-seo-quality.mjs",
+    "test": "node scripts/test-llms-txt.mjs && node scripts/test-seo-quality.mjs && node scripts/test-analytics-mode.mjs",
     "start": "next start",
     "export": "echo 'next export was removed in Next.js 16; use npm run build' && exit 1",
     "deploy": "yarn build",
@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@now/node": "^1.8.5",
+    "@vercel/analytics": "^1.6.1",
     "bootstrap": "^4.5.3",
     "gray-matter": "^4.0.2",
     "mailchimp-api-v3": "^1.14.0",
