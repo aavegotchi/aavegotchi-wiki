@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Spirit Force'
-description: 'All about Aavegotchi Spirit Force'
+description: "Guide to Spirit Force collateral in Aavegotchi, including legacy aToken terminology and the modern Base-era interpretation."
 image: "spirit-force/aETH.svg"
 contributors: ["unintelligent-nerd"]
 ---
@@ -88,3 +88,10 @@ else attenuation = 0.025;
 
 * [Twitter thread](https://twitter.com/mudgen/status/1352399348219445250) by [Nick Mudge](/team#nick-mudge) on his successful deployment of aTokens on Polygon as maTokens
 * Nick Mudge dives into the [technicalities of maTokens](https://aavegotchi.substack.com/p/aaves-interest-bearing-atokens-on)
+
+## Related Pages
+
+- [Spirit Force History](/spirit-force-history)
+- [Traits](/traits)
+- [Gotchi Lending](/gotchi-lending)
+- [Aavegotchi Profile](/aavegotchi-profile)

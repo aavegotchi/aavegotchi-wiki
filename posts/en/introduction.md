@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi'
-description: 'Introduction to the Aavegotchi Wiki'
+description: "Introduction to Aavegotchi covering core concepts, NFT gameplay, DeFi roots, and where to start in the modern Base-era ecosystem."
 image: "aavegotchi.png"
 contributors: ["cinnabarhorse", "unintelligent-nerd"]
 ---
@@ -82,3 +82,12 @@ integrates Aave's lending protocol (using aTokens as collateral), it is an indep
 project with separate governance, development, and treasury. The project is now governed
 by [AavegotchiDAO](/dao). Aavegotchi was initially funded by a grant from **AaveDAO**,
 which is the origin of the "Aave" in the name.
+
+## Related Pages
+
+- [FAQ](/faq)
+- [Glossary](/glossary)
+- [GHST](/ghst)
+- [Gotchiverse](/gotchiverse)
+- [Migration to Base (2025)](/base-migration)
+- [Tutorials](/tutorials)

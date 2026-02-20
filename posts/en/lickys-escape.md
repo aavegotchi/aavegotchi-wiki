@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Lickys Escape'
-description: 'Lickys Escape'
+description: "Overview of Licky's Escape, a single-player magnetic puzzle game in the Aavegotchi ecosystem, with gameplay and access links."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -56,3 +56,10 @@ Download Licky's Escape on the Apple App Store [here](https://apps.apple.com/us/
 ## Links
 
 * [Licky's Escape Website](https://www.lickysescape.com/)
+
+## Related Pages
+
+- [Game Center](/games)
+- [Mini-games](/minigames)
+- [XP](/xp)
+- [Missions](/missions)

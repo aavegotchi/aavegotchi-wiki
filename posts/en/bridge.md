@@ -175,3 +175,10 @@ As of 31st May 2022, they have [enabled GHST deposits and withdrawals directly o
 For the most up-to-date list of venues, see the GHST “Markets” tab on CoinGecko: https://web.archive.org/web/*/https://www.coingecko.com/en/coins/aavegotchi#markets
 
 <img class="bodyImage" src="/bridge/ghst-withdrawal-from-binance-to-polygon.png" alt="GHST withdrawal from Binance to Polygon">
+
+## Related Pages
+
+- [Migration to Base (2025)](/base-migration)
+- [Contracts](/contracts)
+- [GHST](/ghst)
+- [Polygon (Historical)](/polygon)

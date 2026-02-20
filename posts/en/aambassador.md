@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aambassadors'
-description: 'Aavegotchi Aambassadors'
+description: "Meet the Aavegotchi Aambassadors, community contributors driving education, outreach, and ecosystem growth across regions and channels."
 contributors: ["unintelligent-nerd"]
 ---
 

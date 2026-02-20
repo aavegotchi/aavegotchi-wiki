@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Guilds'
-description: 'Aavegotchi Guilds'
+description: "Overview of Aavegotchi Guilds, including social coordination tools, guild structures, and historical Gotchi Lodge mechanics."
 contributors: ["unintelligent-nerd"]
 ---
 

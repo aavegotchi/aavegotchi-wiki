@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Weapons'
-description: 'Aavegotchi Weapons'
+description: "Overview of Aavegotchi weapons, including melee and ranged wearables, combat utility, and where weapon data is maintained."
 contributors: ["unintelligent-nerd"]
 ---
 

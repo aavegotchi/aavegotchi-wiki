@@ -9,6 +9,7 @@ import ReactMarkdown from 'react-markdown'
 import rehypeRaw from 'rehype-raw'
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
+const { createSeoMetadata, buildWebPageStructuredData, buildBreadcrumbStructuredData, buildWebsiteStructuredData } = require("../lib/seo")
 
 interface Commit {
   date: string
@@ -21,6 +22,31 @@ const Index = (props) => {
   const CodeBlock = require('../components/CodeBlock').default
   const markdownBody = props.content
   const frontmatter = props.data
+  const seo = createSeoMetadata({
+    pageID: "index",
+    title: frontmatter.title || "Aavegotchi Wiki",
+    description: "Official Aavegotchi Wiki: GHST, tokenomics, Gotchiverse, Rarity Farming, Alchemica, the Forge, contracts, tutorials, and more.",
+    markdownBody,
+  })
+  const structuredData = [
+    buildWebsiteStructuredData({
+      description: seo.description,
+    }),
+    buildWebPageStructuredData({
+      pageTitle: seo.pageTitle,
+      description: seo.description,
+      canonicalUrl: "https://wiki.aavegotchi.com",
+      pageID: "index",
+      keywords: seo.keywords,
+      author: frontmatter.author,
+      publishedAt: frontmatter.date,
+    }),
+    buildBreadcrumbStructuredData({
+      pageTitle: seo.pageTitle,
+      canonicalUrl: "https://wiki.aavegotchi.com",
+      pageID: "index",
+    }),
+  ]
 
   const [latestCommit, setLatestCommit] = useState<Commit>(undefined)
 
@@ -85,11 +111,12 @@ const Index = (props) => {
     <Layout pathname="/" siteTitle={props.title} siteDescription={props.description}>
 
       <NextReusableHead
-        title="Aavegotchi Wiki"
-        description="Official Aavegotchi Wiki: GHST, tokenomics, Gotchiverse, Rarity Farming, Alchemica, the Forge, contracts, tutorials, and more."
+        title={seo.title}
+        description={seo.description}
         siteName="Aavegotchi Wiki"
         url="https://wiki.aavegotchi.com"
         faviconPath="/favicon.ico"
+        structuredData={structuredData}
       />
 
 

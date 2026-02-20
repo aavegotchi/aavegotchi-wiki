@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi POAPs'
-description: 'Aavegotchi POAPs'
+description: "Learn about Aavegotchi POAPs, collectible attendance NFTs linked to governance participation, events, and community milestones."
 contributors: ["unintelligent-nerd"]
 ---
 

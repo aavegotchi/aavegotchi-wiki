@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'DROPT - The Fallen Gotchi'
-description: 'DROPT - The Fallen Gotchi'
+description: "Overview of DROPT: The Fallen Gotchi, including game concept, team background, and links for players tracking development updates."
 contributors: ["unintelligent-nerd"]
 ---
 

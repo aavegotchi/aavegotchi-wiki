@@ -2,7 +2,7 @@
 author: wagyuchicken
 date: '2020-04-23T07:00:00.000Z'
 title: 'Traits'
-description: 'Everything you need to know about Aavegotchi traits!'
+description: "Guide to Aavegotchi traits, including primary stat meanings, rarity implications, and how trait spreads affect strategy."
 contributors: ["cinnabarhorse", "wagyuchicken", "unintelligent-nerd"]
 ---
 Aavegotchis are born with traits. Just like how your traits define who you are as a person, an Aavegotchi's traits are important in determining their livelihood as a ghost too! These multiple traits that they possess influence their [Trait Base Rarity](/rarity-farming#base-rarity-score), their performance in [mini-games](/minigames), and the [wearables](/wearables) that they are allowed to wear. Aavegotchis summoned from [portals](/portals) are born with a combination of randomly-generated traits. However, the Aavegotchi’s traits can change with <a href=#level>level</a>, equipped wearables and consumables used. 
@@ -121,3 +121,10 @@ For more information, check out the [Aging Mechanic](/aging-mechanic) page.
 These 6 traits are the base traits. To turn Aavegotchi into a full-fledged game in the [Gotchiverse](/gotchiverse), we need more nuanced variables.
 
 Find out what these base traits map into in the [Trait Mappings page](/trait-mappings).
+
+## Related Pages
+
+- [Trait Mappings](/trait-mappings)
+- [Rarity Farming](/rarity-farming)
+- [Kinship](/kinship)
+- [Wearables](/wearables)

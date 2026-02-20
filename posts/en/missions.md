@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Missions'
-description: 'All about Aavegotchi Missions'
+description: "Guide to Aavegotchi Missions and agent campaigns, including mission flow, rewards framing, and links to related ecosystem docs."
 image: "missions/aagent.png"
 contributors: ["eris771", "unintelligent-nerd"]
 ---
@@ -96,3 +96,10 @@ The focus of this campaign will be on spreading awareness about the Aavegotchi R
 <img class="bodyImage" src="/missions/share2earn-reward-tiers.png" alt="Aavegotchi Share2Earn Campaign Reward Tiers">
 
 **UPDATE: This program has temporarily closed due to large volume of suspected bot activity. Stay tuned in the Aavegotchi Discord for announcements about re-opening.**
+
+## Related Pages
+
+- [Agents](/agents)
+- [Game Center](/games)
+- [Social Media](/socialmedia)
+- [AavegotchiDAO](/dao)

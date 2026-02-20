@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Glossary'
-description: 'Glossary with information about Aavegotchi, NFT and DeFi terminology.'
+description: "Glossary of Aavegotchi, NFT, and DeFi terminology, including Base-era definitions and historical Polygon-era terms for context."
 image: "glossary/glossary.png"
 contributors: ["appellants", "eris771", "unintelligent-nerd"]
 ---
@@ -399,3 +399,11 @@ Read more about the Proof of Stake consensus mechanism [here](https://consensys.
 QuickSwap is a permissionless decentralized exchange (DEX) powered by [Polygon](/glossary#polygon). In the Aavegotchi ecosystem, QuickSwap references are primarily **legacy Polygon-era** context after the migration to Base.
 
 QuickSwap can be accessed [here](https://quickswap.exchange).
+
+## Related Pages
+
+- [Introduction](/introduction)
+- [FAQ](/faq)
+- [GHST](/ghst)
+- [Gotchiverse](/gotchiverse)
+- [Contracts](/contracts)

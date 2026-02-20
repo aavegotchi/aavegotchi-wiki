@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Media'
-description: "Aavegotchi Media"
+description: "Media archive for Aavegotchi talks, interviews, and recordings, with links to catch up on ecosystem updates and community broadcasts."
 contributors: ["unintelligent-nerd"]
 ---
 

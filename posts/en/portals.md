@@ -2,7 +2,7 @@
 author: appellants
 date: '2020-04-23T07:00:00.000Z'
 title: 'Portals'
-description: 'All about Aavegotchi Portals'
+description: "Guide to Aavegotchi Portals, including summon mechanics, opening flow, rarity context, and historical plus Base-era notes."
 contributors: ["appellants", "unintelligent-nerd"]
 image: "portals/portal.gif"
 ---
@@ -118,3 +118,10 @@ If you wish to retrieve the staked collateral backing your Aavegotchi, you have 
 2. **Burn your Aavegotchi**, releasing it back to the Nether Realm and returning all of your collateral. 
 
 **Before placing your Aavegotchi for sale on secondary markets such as OpenSea, please "lock" your Aavegotchi via the Dapp UI, to help the buyer ensure all of the Aavegotchi's belongings will transfer with it.**
+
+## Related Pages
+
+- [Haunts](/haunt)
+- [Gotchiverse](/gotchiverse)
+- [Tickets](/tickets)
+- [Rarity Farming](/rarity-farming)

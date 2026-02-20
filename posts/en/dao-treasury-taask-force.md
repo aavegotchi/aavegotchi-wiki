@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'DAO Treasury Taask Force'
-description: 'DAO Treasury Taask Force'
+description: "Historical overview of the DAO Treasury Taask Force and its role in treasury strategy, proposal research, and governance recommendations."
 contributors: ["unintelligent-nerd"]
 ---
 

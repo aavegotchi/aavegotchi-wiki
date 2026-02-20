@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Recipes'
-description: 'Aavegotchi Recipes'
+description: "Gotchiverse recipes guide covering installation crafting inputs, outputs, and how recipe planning fits parcel development strategy."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -185,3 +185,10 @@ table_halloweenDecorations
 *From 14 - 27 December 2022 only*
 
 table_christmasDecorations
+
+## Related Pages
+
+- [Gotchiverse](/gotchiverse)
+- [Gotchus Alchemica](/gotchus-alchemica)
+- [The Forge](/forge)
+- [Estaates](/estaates)

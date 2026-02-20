@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aauction House'
-description: 'Aavegotchi Aauction House'
+description: "Historical guide to the Aavegotchi Aauction House, including auction flow, bid mechanics, and links to current marketplace resources."
 contributors: ["unintelligent-nerd"]
 ---
 

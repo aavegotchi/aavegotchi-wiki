@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Mini-Game XP Events'
-description: 'Mini-Game XP Events'
+description: "Reference for Aavegotchi mini-game XP events, including event format, leaderboard competition, and progression implications."
 contributors: ["unintelligent-nerd"]
 ---
 

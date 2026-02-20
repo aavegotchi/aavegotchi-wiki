@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Strategotchi'
-description: 'Strategotchi'
+description: "Overview of Strategotchi, a turn-based grid strategy game where squads mine Alchemica while navigating hazards and opponents."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -95,3 +95,10 @@ Players have access to Solo, a support character providing temporary boosts.
 * [Twitter](https://twitter.com/Strategotchi)
 
 * [Strategotchi Discord Server](https://discord.com/invite/xv8uEXdE9m)
+
+## Related Pages
+
+- [Game Center](/games)
+- [Gotchi Battler](/gotchi-battler)
+- [Gotchiverse](/gotchiverse)
+- [Traits](/traits)

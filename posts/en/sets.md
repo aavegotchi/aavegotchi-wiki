@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearable Sets'
-description: 'All about Aavegotchi Wearable Sets'
+description: "Guide to Aavegotchi wearable sets, including set bonus mechanics, trait interactions, and optimization for gameplay performance."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -44,3 +44,9 @@ The colour of the border surrounding the wearables indicates its rarity:
 
 table_sets
 
+## Related Pages
+
+- [Wearables](/wearables)
+- [Traits](/traits)
+- [Rarity Farming](/rarity-farming)
+- [Marketplace](/marketplace)

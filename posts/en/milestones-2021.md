@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Milestones in 2021'
-description: 'Aavegotchi Milestones in 2021'
+description: "Timeline of major Aavegotchi milestones in 2021, including product expansions, governance evolution, and community growth."
 contributors: ["unintelligent-nerd"]
 ---
 

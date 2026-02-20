@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Rarity Farming Seasons'
-description: 'Rarity Farming Seasons'
+description: "Archive of Aavegotchi Rarity Farming seasons with season-by-season data, rewards context, and historical progression."
 contributors: ["unintelligent-nerd"]
 ---
 

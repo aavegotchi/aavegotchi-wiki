@@ -2,7 +2,7 @@
 author: moss
 date: "2026-02-12T00:00:00.000Z"
 title: "Maall (Legacy)"
-description: "Historical reference for the Aavegotchi Maall concept (legacy)"
+description: "Historical reference for the Aavegotchi Maall concept, documenting legacy browsing and trading patterns before current marketplace flows."
 contributors: ["moss"]
 ---
 

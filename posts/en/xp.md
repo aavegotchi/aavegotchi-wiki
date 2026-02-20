@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Experience (XP)'
-description: 'Learn about Aavegotchi Experience (XP) here!'
+description: "Learn how Aavegotchi XP works, including leveling thresholds, progression milestones, and how experience impacts gameplay opportunities."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -63,3 +63,10 @@ After voting on an [Aavegotchi Improvement Proposal (AGIP)](/aavegotchi-improvem
 Our frenly [aarchitect](/aarchitect) Frank Pfeift has created an application to track the XP that a Gotchi has received over its lifetime.
 
 His app can be accessed [here](https://aavegotchi-xp-dashboard.vercel.app). Your Gotchi ID is the digits that are found at the end of the URL at your [Gotchi Profile Page](/aavegotchi-profile).
+
+## Related Pages
+
+- [Mini-games](/minigames)
+- [Mini-Game XP Events](/minigame-xp-events)
+- [Rarity Farming](/rarity-farming)
+- [Traits](/traits)

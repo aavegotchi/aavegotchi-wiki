@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: "2025-09-18T00:00:00.000Z"
 title: "Marketplace"
-description: "Aavegotchi Marketplace"
+description: "Guide to the Aavegotchi Marketplace (Baazaar), including listings, offers, and Base-era trading flows for ecosystem assets."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -85,3 +85,11 @@ The Marketplace comes equipped with filter functions to help buyers narrow down 
 ## Secondary Marketplaces
 
 Besides the official Aavegotchi Marketplace, secondary marketplaces include Magic Eden and OnePlanet on Polygon, and Rarible on Ethereum. As network support evolves with the Base migration, verify marketplace support and bridging requirements before listing or purchasing.
+
+## Related Pages
+
+- [Baazaar (Legacy Alias)](/baazaar)
+- [Wearables](/wearables)
+- [Tickets](/tickets)
+- [GHST](/ghst)
+- [Contracts](/contracts)

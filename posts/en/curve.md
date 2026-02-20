@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Bonding Curve'
-description: 'The Aavegotchi Bonding Curve'
+description: "Learn how the GHST bonding curve works, including price-supply mechanics, treasury effects, and historical tokenomics context."
 image: "curve/bonding-curve.png"
 contributors: ["unintelligent-nerd"]
 ---

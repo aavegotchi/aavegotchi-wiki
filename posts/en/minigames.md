@@ -2,7 +2,7 @@
 author: Zer0dot
 date: '2020-04-23T07:00:00.000Z'
 title: 'Mini-games'
-description: 'All about Aavegotchi minigames'
+description: "Overview of Aavegotchi mini-games, including play styles, ecosystem role, and where to find current game-specific documentation."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -95,3 +95,10 @@ Link to game [here](https://samugotchi-shodown.vercel.app/)
 Link to game [here](https://web.archive.org/web/*/https://astegotchi.aavegames.com/)
 
 <img class = "bodyImage" src = "/minigames/astegotchi.png" alt = "Astegotchi Aavegotchi Mini-Game">
+
+## Related Pages
+
+- [Game Center](/games)
+- [XP](/xp)
+- [Mini-Game XP Events](/minigame-xp-events)
+- [Missions](/missions)

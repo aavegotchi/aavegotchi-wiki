@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: "2020-04-23T07:00:00.000Z"
 title: "Aavegotchi Wiki Directory"
-description: "Aavegotchi Wiki Directory"
+description: "Complete directory of Aavegotchi Wiki pages to help you navigate gameplay, governance, contracts, tokenomics, and ecosystem resources."
 contributors: ["unintelligent-nerd"]
 ---
 

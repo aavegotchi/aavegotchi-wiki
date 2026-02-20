@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchi Battler'
-description: 'Gotchi Battler'
+description: "Overview of Gotchi Battler gameplay, team setup, combat loop, and reward context for players exploring Aavegotchi auto-battler modes."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -62,3 +62,10 @@ The Gotchi Battler Docs contain more information on [Special Attacks](https://go
 * [Gotchi Battler Website](https://gotchibattler.com/)
 
 * [Gotchi Battler Docs](https://gotchi-battler-1.gitbook.io/gotchi-battler)
+
+## Related Pages
+
+- [Game Center](/games)
+- [Gotchi Guardians](/gotchi-guardians)
+- [Spirit Force Arena](/spirit-force-arena)
+- [Traits](/traits)

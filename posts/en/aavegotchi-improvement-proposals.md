@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Improvement Proposals (AGIPs)'
-description: 'A list of Aavegotchi Improvement Proposals (AGIPs)'
+description: "Central index of Aavegotchi Improvement Proposals (AGIPs), with links to yearly archives, proposal history, and governance references."
 contributors: ["unintelligent-nerd"]
 ---
 

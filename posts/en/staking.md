@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: "2025-09-18T00:00:00.000Z"
 title: "Staking"
-description: "Stake Base LP tokens and earn GLTR"
+description: "Guide to Aavegotchi staking on Base, including supported LP positions, GLTR emissions context, and participation workflow."
 contributors: ["mudgen", "unintelligent-nerd"]
 ---
 
@@ -59,3 +59,11 @@ And it described the baseline earn rate as **"1 FREN per day per GHST staked"**,
 
 **References (historical):**
 - Blog (2022-05-28): https://blog.aavegotchi.com/aavegotchi-staking-a-step-by-step-guide-to-staking-ghst-and-earning-frens/
+
+## Related Pages
+
+- [GHST](/ghst)
+- [Tokenomics](/tokenomics)
+- [Migration to Base (2025)](/base-migration)
+- [Gotchiverse](/gotchiverse)
+- [Contracts](/contracts)

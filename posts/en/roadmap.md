@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Roadmap'
-description: 'The Aavegotchi Roadmap'
+description: "Historical Aavegotchi roadmap overview documenting major phases, planned initiatives, and links to milestone outcomes."
 contributors: ["hackingmoneyph", "unintelligent-nerd"]
 ---
 
@@ -175,3 +175,10 @@ This major release introduces a completely new playable area known as "The Grid"
 ### Individual Features
 
 We also have many smaller features that are being worked on outside of the Major Releases.
+
+## Related Pages
+
+- [Milestones](/milestones)
+- [Milestones 2022](/milestones-2022)
+- [AavegotchiDAO](/dao)
+- [Games](/games)

@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Wearables Taask Force'
-description: 'Wearables Taask Force'
+description: "Historical overview of the Wearables Taask Force and its role in curation, analysis, and proposal support for wearable systems."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -59,3 +59,10 @@ This was formalized in a [DAO vote / AGIP 15](/aavegotchi-improvement-proposals#
 * Goobz
 
 * Diddlypoo
+
+## Related Pages
+
+- [Wearables](/wearables)
+- [Wearable Sets](/sets)
+- [Traits](/traits)
+- [AavegotchiDAO](/dao)

@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Developing Aavegotchi'
-description: 'Jump in and help develop this Wiki!'
+description: "Developer entry point for contributing to the Aavegotchi Wiki, with repository workflow notes, contribution guidelines, and support channels."
 ---
 
 <div class="headerImageContainer">
@@ -116,3 +116,10 @@ Coyote, our devangelist, has created 2 tutorials on mini-game creation.
 ## Gaame Jaam
 
 The Aavegotchi Gaame Jaam/Hackathon was held from 1 - 5 September 2021. Check out the cool mini-games created [here](/gaame-jaam).
+
+## Related Pages
+
+- [Team](/team)
+- [Contracts](/contracts)
+- [Agents](/agents)
+- [GitHub Repo](https://github.com/aavegotchi/aavegotchi-wiki)

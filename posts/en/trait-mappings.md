@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Trait Mappings'
-description: 'Trait Mappings'
+description: "Reference table for Aavegotchi trait mappings and abbreviations used in analytics, rarity scoring, and gameplay discussion."
 contributors: ["unintelligent-nerd"]
 ---
 

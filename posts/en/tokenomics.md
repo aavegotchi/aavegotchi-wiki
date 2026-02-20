@@ -2,7 +2,7 @@
 author: appellants
 date: "2025-09-18T00:00:00.000Z"
 title: "Tokenomics"
-description: "The Tokenomics of Aavegotchi GHST Token"
+description: "In-depth GHST tokenomics guide covering supply mechanics, utility sinks, demand drivers, and long-term ecosystem incentives."
 image: "tokenomics/leogotchi.png"
 contributors: ["appellants", "unintelligent-nerd"]
 ---
@@ -166,3 +166,12 @@ The rationale for the changes from V1 to V2 can be found [here](https://aavegotc
 ## Token Supply
 
 Following the closure of the [bonding curve](/curve) in [AGIP-64](/aavegotchi-improvement-proposals#close-the-ghst-bonding-curve), the supply of GHST has been fixed at 52,747,802, subject to burns. For live supply, check [Etherscan]({{ETHERSCAN_GHST_URL}}), [Polygonscan]({{POLYGONSCAN_GHST_URL}}), or [Basescan]({{BASESCAN_GHST_URL}}).
+
+## Related Pages
+
+- [GHST](/ghst)
+- [Bonding Curve](/curve)
+- [Staking](/staking)
+- [AavegotchiDAO](/dao)
+- [Rarity Farming](/rarity-farming)
+- [Gotchiverse](/gotchiverse)

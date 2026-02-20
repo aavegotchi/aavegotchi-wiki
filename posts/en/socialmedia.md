@@ -2,7 +2,7 @@
 author: eris
 date: '2020-04-23T07:00:00.000Z'
 title: 'Social Media'
-description: 'All about the Aavegotchi Community'
+description: "Community social hub with Aavegotchi channels, official communication touchpoints, and places to follow ecosystem updates."
 contributors: ["eris771"]
 ---
 <div class="headerImageContainer">
@@ -94,7 +94,9 @@ We look forward to welcoming you, fren! Head over to any of our channels to lear
 
 Aavegotchi Malaysia is the place to hang out for the Malaysian Aavegotchi Fam! Check out our [Facebook Group](https://www.facebook.com/groups/aavegotchimalaysia/)! Malaysian Aambassador Buzz Lightyear / Jason Chew welcomes you!
 
+## Related Pages
 
-
-
-
+- [Partners](/partners)
+- [Team](/team)
+- [Contests](/contests)
+- [Missions](/missions)

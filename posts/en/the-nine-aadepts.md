@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'The Nine Aadepts'
-description: 'The Nine Aadepts'
+description: "Story archive for The Nine Aadepts, a community-written Aavegotchi narrative that expands lore and character mythology."
 contributors: ["unintelligent-nerd"]
 ---
 

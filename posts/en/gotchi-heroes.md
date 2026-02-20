@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Gotchi Heroes'
-description: 'Gotchi Heroes'
+description: "Overview of Gotchi Heroes, an idle-style game where your Aavegotchi fights waves, progresses heroes, and earns ecosystem rewards."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -56,3 +56,10 @@ Gotchi Heroes features over 100 NFT's in the form of equippable items, upgrades,
 * [Twitter](https://x.com/slowsundaygames)
 
 * [YouTube](https://www.youtube.com/@gotchiheroes)
+
+## Related Pages
+
+- [Game Center](/games)
+- [Mini-games](/minigames)
+- [XP](/xp)
+- [Social Media](/socialmedia)

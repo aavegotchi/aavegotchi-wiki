@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Spirit Force Arena'
-description: 'Test your mettle in the Spirit Force Arena!'
+description: "Historical overview of Spirit Force Arena, an early battle concept page linked to competitive Gotchiverse gameplay references."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -104,3 +104,10 @@ Download the game [here](https://aavegotchi.com/games)
 * [Discord Server](https://discord.com/invite/ef8rkZm5Zp)
 
 * [Twitter](https://twitter.com/spiritforcegg)
+
+## Related Pages
+
+- [Gotchi Battler](/gotchi-battler)
+- [Gotchiverse](/gotchiverse)
+- [Traits](/traits)
+- [Spirit Force](/spirit-force)

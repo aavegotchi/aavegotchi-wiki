@@ -29,11 +29,13 @@ Sitemap.getInitialProps = async ({ res }) => {
   const urls = [
     {
       loc: `${baseUrl}/`,
+      lastmod: serverTime,
       priority: "1.0",
       changefreq: "daily",
     },
     ...slugs.map((slug: string) => ({
       loc: `${baseUrl}/en/${slug}`,
+      lastmod: serverTime,
       priority: "0.7",
       changefreq: "weekly",
     })),
@@ -43,7 +45,7 @@ Sitemap.getInitialProps = async ({ res }) => {
     .map(
       (u) => `<url>
   <loc>${u.loc}</loc>
-  <lastmod>${serverTime}</lastmod>
+  <lastmod>${u.lastmod}</lastmod>
   <changefreq>${u.changefreq}</changefreq>
   <priority>${u.priority}</priority>
 </url>`

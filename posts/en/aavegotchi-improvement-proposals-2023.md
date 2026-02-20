@@ -2,7 +2,7 @@
 author: Coder Dan
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Improvement Proposals (AGIPs)'
-description: 'A list of Aavegotchi Improvement Proposals (AGIPs) in Year 2023'
+description: "Archive of Aavegotchi Improvement Proposals (AGIPs) for 2023, including proposal context, voting windows, and recorded outcomes."
 contributors: ["unintelligent-nerd"]
 ---
 

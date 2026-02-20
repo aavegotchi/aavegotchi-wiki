@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Baadges'
-description: 'Aavegotchi Baadges'
+description: "Guide to Aavegotchi Baadges, non-transferable commemorative NFTs earned through events, governance participation, and ecosystem milestones."
 contributors: ["unintelligent-nerd"]
 ---
 

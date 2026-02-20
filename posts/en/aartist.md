@@ -2,7 +2,7 @@
 author: Unintelligent Nerd
 date: '2020-04-23T07:00:00.000Z'
 title: 'Aavegotchi Aartists'
-description: 'Get to know our Aavegotchi Aartists here!'
+description: "Meet Aavegotchi Aartists and explore community-made art, featured creators, and visual contributions across the Gotchiverse."
 ---
 
 You know what's groovy? Our community aartists! Get to know them (and their creations) here!

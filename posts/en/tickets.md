@@ -2,7 +2,7 @@
 author: Nick Mudge
 date: '2020-04-23T07:00:00.000Z'
 title: 'Tickets'
-description: 'Aavegotchi Tickets and Raffle prizes!'
+description: "Guide to Aavegotchi raffle tickets, prize categories, and how ticket mechanics connect to events and ecosystem participation."
 contributors: ["unintelligent-nerd"]
 ---
 
@@ -99,3 +99,10 @@ Knowing how to use FRENS and participate in raffles was important in that era, b
 - [Aavegotchi Raffles — A FRENLY Guide](https://aavegotchi.medium.com/aavegotchi-raffles-a-frenly-guide-66f624c9bc60)
 - [Aavegotchi ❤ Chainlink Raffle — You Just WON](https://aavegotchi.medium.com/aavegotchi-chainlink-raffle-you-just-won-af87712f1018)
 - [Anon and the Green Ticket](https://aavegotchi.medium.com/anon-and-the-green-ticket-5776969b3a69)
+
+## Related Pages
+
+- [Raffles Stats](/raffles-stats)
+- [Rarity Farming](/rarity-farming)
+- [Marketplace](/marketplace)
+- [Portals](/portals)
