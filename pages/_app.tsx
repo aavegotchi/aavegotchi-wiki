@@ -6,6 +6,7 @@ import '../css/fonts.css'
 import '../css/styles.css'
 import BackToTopButton from '../components/BackToTop'
 import SideMenu from '../components/SideMenu'
+import AnalyticsLoader from '../components/AnalyticsLoader'
 
 import { GlobalState } from '../State/globalState'
 import { initialState } from '../State/initialState'
@@ -52,6 +53,7 @@ class MyApp extends App {
 
 
                 <Component {...pageProps} />
+                <AnalyticsLoader />
 
                 <style jsx>
                     {`
