@@ -1,0 +1,199 @@
+# Aavegotchi Wiki — Full LLM Context
+
+> The official knowledge base for Aavegotchi — a DeFi-enabled crypto collectibles game on Base (L2). Aavegotchis are yield-generating NFT avatars backed by Aave aTokens, governed by the GHST token and AavegotchiDAO. Developed by Pixelcraft Studios (Singapore).
+
+---
+
+## Project Overview
+
+Aavegotchi is a DeFi-enabled crypto collectibles game developed by Pixelcraft Studios (Singapore). Each Aavegotchi is a pixelated ghost NFT (ERC-721) on Base, backed by Aave aToken collateral that generates yield. Players customize their Aavegotchis with wearable NFTs, level them up through gameplay and governance participation, and use them across a multiverse of games. The ecosystem is governed by AavegotchiDAO using the GHST token.
+
+**Blockchain:** Base (since July 2025; previously Polygon 2021–2025; originally Ethereum 2020–2021)
+**Website:** https://www.aavegotchi.com
+**Wiki:** https://wiki.aavegotchi.com
+**Blog:** https://blog.aavegotchi.com
+**GitHub:** https://github.com/aavegotchi
+
+### Base Migration (2025)
+
+On 2025-07-25, Aavegotchi's canonical home migrated from Polygon to Base. Polygon-era contracts are frozen/view-only for most actions. All current gameplay, transactions, and governance happen on Base. Polygon-era wiki pages are primarily historical context.
+
+---
+
+## Tokens
+
+### GHST (Eco-Governance Token)
+
+GHST is the eco-governance token that powers the whole Aavegotchi ecosystem. Holding GHST grants voting power in AavegotchiDAO (1 token = 1 vote). GHST is the main currency for trading NFTs on the Aavegotchi marketplace (Baazaar).
+
+- **Fixed supply:** ~52,747,802 GHST (bonding curve closed March 2023)
+- **Token standard:** ERC-20
+- **Contract (Ethereum):** 0x3F382DbD960E3a9bbCeaE22651E88158d2791550
+- **Contract (Base):** 0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
+- **Contract (Polygon, legacy):** 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
+
+GHST was initially launched via a bonding curve mechanism (backed by DAI). In 2023, AavegotchiDAO voted to close the bonding curve (AGIP-65), making GHST free-floating. The ~30M DAI collateral was distributed per governance terms.
+
+**Revenue sharing model:**
+- EARN IT: Rewards for active players and rarity farmers
+- DAO IT: Treasury funding for AavegotchiDAO discretionary spending
+- BURN IT: GHST burns through ecosystem mechanisms
+- BUIDL IT: Ongoing rewards for developers
+
+### Gotchus Alchemica (In-Game Resource Tokens)
+
+Four ERC-20 tokens used in the Gotchiverse for crafting installations and tiles on REALM parcels:
+- **FUD** (Flexible Unified Denomination)
+- **FOMO** (Fear Of Missing Out)
+- **ALPHA**
+- **KEK**
+
+These tokens can be harvested from REALM parcels, channeled through Aavegotchis, and traded on the Gotchus Alchemica Exchange (GAX).
+
+### GLTR (GAX Liquidity Token Reward)
+
+Earned by staking Alchemica-GHST LP tokens on QuickSwap. Used to instantly speed up crafting of installations and tiles in the Gotchiverse.
+
+---
+
+## Core Game Mechanics
+
+### Aavegotchi NFTs
+
+Each Aavegotchi is an ERC-721 NFT that:
+- Manages an escrow contract holding Aave-backed ERC-20 collateral (aTokens / "Spirit Force")
+- Has randomized on-chain traits generated via Chainlink VRF
+- Can equip wearable NFTs (ERC-998 Composable standard)
+- Gains experience (XP) through gameplay and governance participation
+- Builds kinship through regular interaction
+
+### Traits
+
+Aavegotchis have six core traits, each scored 0–100 on a bell curve:
+- Energy (Lazy ↔ Energetic)
+- Aggression (Calm ↔ Aggressive)
+- Spookiness (Cuddly ↔ Spooky)
+- Brain Size (Smol ↔ Galaxy)
+- Eye Shape
+- Eye Color
+
+Traits determine rarity (Common, Uncommon, Rare, Mythical, Godlike) and affect which wearables can be equipped and how the Aavegotchi performs in games.
+
+### Spirit Force (Collateral)
+
+Every Aavegotchi is backed by aToken collateral from Aave. The aTokens generate yield over time, increasing the intrinsic value of the Aavegotchi. The minimum stake required depends on the collateral type.
+
+### Wearables
+
+Equippable NFT items that modify Aavegotchi traits and rarity. Wearables have rarity tiers and some are exclusive to certain collateral types or trait ranges. Wearable sets provide bonus trait modifiers when all items in the set are equipped.
+
+### Portals & Haunts
+
+Aavegotchis are summoned through Portals. Each Portal reveals 10 potential Aavegotchis with random traits; the player chooses one and stakes collateral to summon it. Haunts are limited edition Portal sales (Haunt 1: 10,000 portals; Haunt 2: 15,000 portals).
+
+### Rarity Farming
+
+Seasonal reward system distributing GHST to holders of the rarest Aavegotchis. Leaderboard categories include BRS (Base Rarity Score), Kinship, and XP. Multiple seasons have been completed.
+
+### The Forge
+
+A crafting system where players can smelt wearables into core materials and use those materials to forge new wearables, including exclusive Forge-only items.
+
+---
+
+## The Gotchiverse
+
+The Gotchiverse is Aavegotchi's open-world 2D metaverse. Key features:
+
+- **REALM Parcels:** Land NFTs in the Gotchiverse (Humble, Reasonable, Spacious sizes across districts: Citaadel, Grid)
+- **Installations:** Structures built on REALM parcels using Alchemica (Aaltar, Harvester, Reservoir, etc.)
+- **Alchemical Channeling:** Daily ritual where Aavegotchis channel Alchemica from the Gotchiverse through their Aaltar
+- **Estaates:** Groups of REALM parcels that can be managed together
+
+---
+
+## Games
+
+Aavegotchi hosts multiple games in its Game Center:
+- **Spirit Force Arena:** PvP arena game
+- **Gotchi Guardians:** Tower defense game
+- **Gotchi Battler:** Auto-battler game
+- **Licky's Escape:** Casual runner game
+- **Strategotchi:** Strategy game
+- **Dropt:** Drop-style game
+- **Gotchi Heroes:** Action game
+- **The Gotchiverse:** Open-world 2D metaverse
+
+---
+
+## Governance (AavegotchiDAO)
+
+AavegotchiDAO governs the Aavegotchi ecosystem. GHST holders vote on Aavegotchi Improvement Proposals (AGIPs). The DAO controls a treasury funded by ecosystem revenue. Governance uses Snapshot for off-chain voting with on-chain execution.
+
+---
+
+## Key Contract Addresses (Base)
+
+- GHST Token: 0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
+- Aavegotchi Diamond: 0xa99c4b08201f2913db8d28e71d020c4298f29dbf
+- Wearable Diamond: 0x052e6c114a166B0e91C2340370d72D4C33752B4b
+- Forge Diamond: 0x50aF2d63b839aA32b4166FD1Cb247129b715186C
+- GBM Auction (Baazaar): 0x80320A0000C7A6a34086E2ACAD6915Ff57FfDA31
+- REALM Parcels: 0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372
+
+## Key Contract Addresses (Ethereum)
+
+- GHST Token: 0x3F382DbD960E3a9bbCeaE22651E88158d2791550
+
+---
+
+## All Wiki Pages
+
+For the full list of pages, see the sitemap: https://wiki.aavegotchi.com/sitemap.xml
+
+Key page URLs:
+- https://wiki.aavegotchi.com/introduction
+- https://wiki.aavegotchi.com/ghst
+- https://wiki.aavegotchi.com/tokenomics
+- https://wiki.aavegotchi.com/base-migration
+- https://wiki.aavegotchi.com/contracts
+- https://wiki.aavegotchi.com/dao
+- https://wiki.aavegotchi.com/traits
+- https://wiki.aavegotchi.com/wearables
+- https://wiki.aavegotchi.com/rarity-farming
+- https://wiki.aavegotchi.com/gotchiverse
+- https://wiki.aavegotchi.com/spirit-force
+- https://wiki.aavegotchi.com/forge
+- https://wiki.aavegotchi.com/staking
+- https://wiki.aavegotchi.com/games
+- https://wiki.aavegotchi.com/team
+- https://wiki.aavegotchi.com/baazaar
+- https://wiki.aavegotchi.com/bridge
+- https://wiki.aavegotchi.com/directory
+- https://wiki.aavegotchi.com/glossary
+- https://wiki.aavegotchi.com/faq
+- https://wiki.aavegotchi.com/portals
+- https://wiki.aavegotchi.com/sets
+- https://wiki.aavegotchi.com/recipes
+- https://wiki.aavegotchi.com/kinship
+- https://wiki.aavegotchi.com/gotchus-alchemica
+- https://wiki.aavegotchi.com/gotchus-alchemica-exchange
+- https://wiki.aavegotchi.com/aavegotchi-improvement-proposals
+- https://wiki.aavegotchi.com/lore
+- https://wiki.aavegotchi.com/developers
+- https://wiki.aavegotchi.com/guild
+- https://wiki.aavegotchi.com/milestones
+- https://wiki.aavegotchi.com/tutorials
+- https://wiki.aavegotchi.com/minigames
+- https://wiki.aavegotchi.com/gotchi-lending
+- https://wiki.aavegotchi.com/haunt
+- https://wiki.aavegotchi.com/xp
+- https://wiki.aavegotchi.com/aging-mechanic
+- https://wiki.aavegotchi.com/estaates
+- https://wiki.aavegotchi.com/alchemical-channeling
+- https://wiki.aavegotchi.com/gotchiverse-game-bible
+- https://wiki.aavegotchi.com/trait-mappings
+- https://wiki.aavegotchi.com/atokens
+- https://wiki.aavegotchi.com/marketplace
+- https://wiki.aavegotchi.com/socialmedia
+- https://wiki.aavegotchi.com/roadmap
