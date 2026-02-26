@@ -151,6 +151,16 @@ There are a few ways to get started:
 * [Borrowing](/gotchi-lending) an Aavegotchi from someone who has one
 * Buying an Aavegotchi from the [Baazaar](/baazaar)
 
+### Which app URL should I use?
+
+Use **https://www.aavegotchi.com** as the canonical entry point.
+
+- **https://app.aavegotchi.com** (original app) is functional on Base but missing key features.
+- New features ship on the main dapp at **https://www.aavegotchi.com**.
+- **https://polygon.aavegotchi.com** is legacy/Polygon-era and mainly historical.
+
+Reference: [coderdan status update (2026-02-26)](https://x.com/coderdannn/status/2026913291029860595).
+
 ### How do I care for an Aavegotchi?
 
 By petting them every 12 hours!
