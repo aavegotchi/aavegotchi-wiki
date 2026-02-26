@@ -37,7 +37,7 @@
     "react-burger-menu": "^3.1.0",
     "react-dom": "^18.2.0",
     "react-markdown": "^10.1.0",
-    "react-syntax-highlighter": "^12.2.1",
+    "react-syntax-highlighter": "^16.1.0",
     "rehype-raw": "^7.0.0"
   },
   "devDependencies": {
