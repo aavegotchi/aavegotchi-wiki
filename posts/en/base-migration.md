@@ -24,6 +24,7 @@ This page is intentionally written as **historical framing** (what happened, whe
 ## What this means for where to use Aavegotchi
 
 - The official entry point for the modern app experience is **https://www.aavegotchi.com**.
+- The original app at **https://app.aavegotchi.com** is functional on Base, but is missing key features; new features are on the main dapp.
 - The Polygon legacy site **https://polygon.aavegotchi.com** remains relevant for limited legacy interactions while Polygon contracts are frozen.
 
 ## Timeline
@@ -33,10 +34,11 @@ table_timeline
 ## References
 
 - Official blog: [Aavegotchi Has Migrated to Base (2025-07-25)](https://blog.aavegotchi.com/aavegotchi-has-migrated-to-base/)
+- coderdan (X): [Original app works on Base; new features on main dapp (2026-02-26)](https://x.com/coderdannn/status/2026913291029860595)
 
 ## Last verified
 
-- 2026-02-11 — Reconciled against the official blog archive post and current project migration notes.
+- 2026-02-26 — Reconciled against the migration blog post and current app entry-point messaging (`app.aavegotchi.com` warning banner + coderdan status update).
 
 ## Related Pages
 
