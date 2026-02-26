@@ -21,7 +21,8 @@
     "discord:update": "node scripts/update-pages-from-announcements.mjs",
     "discord:sync": "npm run discord:fetch && npm run discord:update",
     "discord:revert": "node scripts/revert-announcement-blocks.mjs",
-    "check:seo": "node scripts/check-seo-quality.mjs --strict"
+    "check:seo": "node scripts/check-seo-quality.mjs --strict",
+    "generate:llms-full": "node scripts/generate-llms-full.mjs"
   },
   "dependencies": {
     "@now/node": "^1.8.5",

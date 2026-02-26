@@ -1,199 +1,104 @@
-# Aavegotchi Wiki — Full LLM Context
+# Aavegotchi Wiki Full Index (wiki.aavegotchi.com)
 
-> The official knowledge base for Aavegotchi — a DeFi-enabled crypto collectibles game on Base (L2). Aavegotchis are yield-generating NFT avatars backed by Aave aTokens, governed by the GHST token and AavegotchiDAO. Developed by Pixelcraft Studios (Singapore).
+Comprehensive page index for AI systems. Generated from `posts/en/*.md` in the wiki repository.
 
----
+- Aambassadors — https://wiki.aavegotchi.com/aambassador — Meet the Aavegotchi Aambassadors, community contributors driving education, outreach, and ecosystem growth across regions and channels.
+- Aarcade Taask Force — https://wiki.aavegotchi.com/aarcade-taask-force — Historical overview of the Aarcade Taask Force, a community group that supported mini-game strategy, feedback loops, and ecosystem planning.
+- Aavegotchi Aarchitect — https://wiki.aavegotchi.com/aarchitect — Meet Aavegotchi Aarchitect contributors building mini-games, analytics tools, and technical infrastructure across the ecosystem.
+- Aarena (Legacy) — https://wiki.aavegotchi.com/aarena — Historical reference for the Gotchiverse Aarena concept, including early mechanics, lore context, and links to related battle docs.
+- Aavegotchi Aartists — https://wiki.aavegotchi.com/aartist — Meet Aavegotchi Aartists and explore community-made art, featured creators, and visual contributions across the Gotchiverse.
+- Aauction House — https://wiki.aavegotchi.com/aauction — Historical guide to the Aavegotchi Aauction House, including auction flow, bid mechanics, and links to current marketplace resources.
+- Aavegotchi Improvement Proposals (AGIPs) — https://wiki.aavegotchi.com/aavegotchi-improvement-proposals-2020 — Archive of Aavegotchi Improvement Proposals (AGIPs) for 2020, including proposal context, voting windows, and recorded outcomes.
+- Aavegotchi Improvement Proposals (AGIPs) — https://wiki.aavegotchi.com/aavegotchi-improvement-proposals-2021 — Archive of Aavegotchi Improvement Proposals (AGIPs) for 2021, including proposal context, voting windows, and recorded outcomes.
+- Aavegotchi Improvement Proposals (AGIPs) — https://wiki.aavegotchi.com/aavegotchi-improvement-proposals-2022 — Archive of Aavegotchi Improvement Proposals (AGIPs) for 2022, including proposal context, voting windows, and recorded outcomes.
+- Aavegotchi Improvement Proposals (AGIPs) — https://wiki.aavegotchi.com/aavegotchi-improvement-proposals-2023 — Archive of Aavegotchi Improvement Proposals (AGIPs) for 2023, including proposal context, voting windows, and recorded outcomes.
+- Aavegotchi Improvement Proposals (AGIPs) — https://wiki.aavegotchi.com/aavegotchi-improvement-proposals — Central index of Aavegotchi Improvement Proposals (AGIPs), with links to yearly archives, proposal history, and governance references.
+- Aavegotchi Profile — https://wiki.aavegotchi.com/aavegotchi-profile — Overview of the Aavegotchi profile page, including core stats, equipped wearables, and how profile traits affect gameplay.
+- Aesthetica — https://wiki.aavegotchi.com/aesthetica — Learn what Aesthetica items are in the Gotchiverse and how cosmetic parcel decorations differ from gameplay-affecting installations.
+- Agents — https://wiki.aavegotchi.com/agents — Track Aavegotchi agent initiatives, mission systems, and autonomous onchain experimentation tied to gameplay and social campaigns.
+- Aging Mechanic — https://wiki.aavegotchi.com/aging-mechanic — Understand the Aavegotchi aging mechanic, life stages, and how age progression affects visuals, lore, and player expectations.
+- Alchemical Channeling — https://wiki.aavegotchi.com/alchemical-channeling — Learn how Alchemical Channeling works in the Gotchiverse, including daily yield mechanics, kinship interaction, and optimization tips.
+- aTokens (Spirit Force) — https://wiki.aavegotchi.com/atokens — Spirit Force / collateral tokens used by Aavegotchis (aTokens, maTokens, amTokens)
+- Aavegotchi Baadges — https://wiki.aavegotchi.com/baadge — Guide to Aavegotchi Baadges, non-transferable commemorative NFTs earned through events, governance participation, and ecosystem milestones.
+- Aavegotchi Baard — https://wiki.aavegotchi.com/baard — Explore Aavegotchi Baards, a community archive of gotchi-style poems, wordplay, and lore-friendly creative submissions.
+- Baazaar (Legacy Alias) — https://wiki.aavegotchi.com/baazaar — Legacy alias page for the Aavegotchi Baazaar. Use this route to find the canonical Marketplace docs and current Base-era trading links.
+- Migration to Base (2025) — https://wiki.aavegotchi.com/base-migration — Historical notes and durable facts from the 2025 Polygon -> Base migration
+- Bridges — https://wiki.aavegotchi.com/bridge — The Aavegotchi Bridge (and other bridges to transfer assets to and from Base, plus legacy Polygon)
+- Contests — https://wiki.aavegotchi.com/contests — Archive of Aavegotchi community contests, winners, and event highlights, with references to creative competitions and prize campaigns.
+- Aavegotchi Contracts Addresses — https://wiki.aavegotchi.com/contracts — Canonical index of Aavegotchi smart contract addresses, with Base-era deployment references and verification links for safe interactions.
+- Bonding Curve — https://wiki.aavegotchi.com/curve — Learn how the GHST bonding curve works, including price-supply mechanics, treasury effects, and historical tokenomics context.
+- DAO Treasury Taask Force — https://wiki.aavegotchi.com/dao-treasury-taask-force — Historical overview of the DAO Treasury Taask Force and its role in treasury strategy, proposal research, and governance recommendations.
+- AavegotchiDAO — https://wiki.aavegotchi.com/dao — Guide to AavegotchiDAO governance, including AGIPs, voting process, treasury decisions, and how token holders shape ecosystem direction.
+- Developing Aavegotchi — https://wiki.aavegotchi.com/developers — Developer entry point for contributing to the Aavegotchi Wiki, with repository workflow notes, contribution guidelines, and support channels.
+- Aavegotchi Wiki Directory — https://wiki.aavegotchi.com/directory — Complete directory of Aavegotchi Wiki pages to help you navigate gameplay, governance, contracts, tokenomics, and ecosystem resources.
+- DROPT - The Fallen Gotchi — https://wiki.aavegotchi.com/dropt — Overview of DROPT: The Fallen Gotchi, including game concept, team background, and links for players tracking development updates.
+- Estaates — https://wiki.aavegotchi.com/estaates — Learn how Gotchiverse Estaates combine multiple REALM parcels, enabling shared build zones, expanded layouts, and cooperative management.
+- Aavegotchi Eye Shape — https://wiki.aavegotchi.com/eye-shape — Reference list of Aavegotchi eye shapes (EYS), with trait mapping context for rarity scoring, aesthetics, and collectible identity.
+- FAQ — https://wiki.aavegotchi.com/faq — Quick answers to common Aavegotchi questions, including onboarding, gameplay basics, Base-era migration context, and support resources.
+- The Forge — https://wiki.aavegotchi.com/forge — Light the furnace and grab your hammers. It’s time to craft some wearables!
+- Gaame Jaam — https://wiki.aavegotchi.com/gaame-jaam — Historical archive for the Aavegotchi Gaame Jaam, covering hackathon themes, submissions, and community-built game prototypes.
+- Game Center — https://wiki.aavegotchi.com/games — Hub page for Aavegotchi games across the ecosystem, with links to active titles, gameplay docs, and community experiences.
+- Geist (historical) — https://wiki.aavegotchi.com/geist — Geist (aka Gotchichain) was announced as an Aavegotchi gaming chain concept; it ultimately did not launch.
+- GHST Token — https://wiki.aavegotchi.com/ghst — Learn about GHST, the Aavegotchi ecosystem token used for governance, trading, utility payments, and core onchain game interactions.
+- Glossary — https://wiki.aavegotchi.com/glossary — Glossary of Aavegotchi, NFT, and DeFi terminology, including Base-era definitions and historical Polygon-era terms for context.
+- Gotchi Battler — https://wiki.aavegotchi.com/gotchi-battler — Overview of Gotchi Battler gameplay, team setup, combat loop, and reward context for players exploring Aavegotchi auto-battler modes.
+- Gotchi Guardians — https://wiki.aavegotchi.com/gotchi-guardians — Official Gotchi Guardians hub: where to play (Steam + browser), rewards, and key links
+- Gotchi Heroes — https://wiki.aavegotchi.com/gotchi-heroes — Overview of Gotchi Heroes, an idle-style game where your Aavegotchi fights waves, progresses heroes, and earns ecosystem rewards.
+- Gotchi Lending — https://wiki.aavegotchi.com/gotchi-lending — Guide to Gotchi Lending for borrowers and lenders, covering listing flow, rental terms, and gameplay utility for borrowed gotchis.
+- Gotchichain (historical) — https://wiki.aavegotchi.com/gotchichain — Gotchichain was announced as an Aavegotchi gaming chain concept in 2023; it ultimately did not launch.
+- Gotchiverse Game Bible (Historical) — https://wiki.aavegotchi.com/gotchiverse-game-bible — Historical notes on the Gotchiverse Game Bible design document and its chapter governance process
+- Gotchiverse — https://wiki.aavegotchi.com/gotchiverse — Comprehensive Gotchiverse guide covering REALM zones, parcels, Alchemica systems, gameplay loops, and Base-era migration context.
+- Gotchus Alchemica Exchange (GAX) — https://wiki.aavegotchi.com/gotchus-alchemica-exchange — Guide to the Gotchus Alchemica Exchange (GAX), including historical mechanics and references to current Base-era token flows.
+- Gotchus Alchemica — https://wiki.aavegotchi.com/gotchus-alchemica — Learn the four Gotchus Alchemica resources, their role in Gotchiverse crafting and economy, and how players acquire and use them.
+- Aavegotchi Guilds — https://wiki.aavegotchi.com/guild — Overview of Aavegotchi Guilds, including social coordination tools, guild structures, and historical Gotchi Lodge mechanics.
+- Haunts — https://wiki.aavegotchi.com/haunt — Learn how Aavegotchi Haunts define NFT generations, supply waves, and differences between legacy and newer Gotchi cohorts.
+- Aavegotchi Wiki — https://wiki.aavegotchi.com/ — Official Aavegotchi Wiki homepage with curated links to core docs on GHST, Gotchiverse, governance, contracts, and Base migration.
+- Aavegotchi — https://wiki.aavegotchi.com/introduction — Introduction to Aavegotchi covering core concepts, NFT gameplay, DeFi roots, and where to start in the modern Base-era ecosystem.
+- Kinship — https://wiki.aavegotchi.com/kinship — Guide to Aavegotchi Kinship, including petting mechanics, kinship levels, and how social care can influence gameplay-related systems.
+- Lickys Escape — https://wiki.aavegotchi.com/lickys-escape — Overview of Licky's Escape, a single-player magnetic puzzle game in the Aavegotchi ecosystem, with gameplay and access links.
+- Aavegotchi Lore — https://wiki.aavegotchi.com/lore — Explore Aavegotchi lore, origin stories, and worldbuilding references that connect game mechanics, characters, and community culture.
+- Maall (Legacy) — https://wiki.aavegotchi.com/maall — Historical reference for the Aavegotchi Maall concept, documenting legacy browsing and trading patterns before current marketplace flows.
+- Marketplace — https://wiki.aavegotchi.com/marketplace — Guide to the Aavegotchi Marketplace (Baazaar), including listings, offers, and Base-era trading flows for ecosystem assets.
+- maTokens (Legacy) — https://wiki.aavegotchi.com/matokens — Historical reference for maTokens (Polygon-era Spirit Force for Haunt 1)
+- Media — https://wiki.aavegotchi.com/media — Media archive for Aavegotchi talks, interviews, and recordings, with links to catch up on ecosystem updates and community broadcasts.
+- Aavegotchi Memes — https://wiki.aavegotchi.com/memes — Collection of Aavegotchi community memes and contest highlights that capture the ecosystem's humor, culture, and social creativity.
+- Gotchiverse — https://wiki.aavegotchi.com/metaverse — Historical Gotchiverse metaverse reference page linking legacy terminology with the canonical modern Gotchiverse documentation.
+- Aavegotchi Milestones in 2020 — https://wiki.aavegotchi.com/milestones-2020 — Timeline of major Aavegotchi milestones in 2020, including launch-era development, governance events, and ecosystem growth moments.
+- Aavegotchi Milestones in 2021 — https://wiki.aavegotchi.com/milestones-2021 — Timeline of major Aavegotchi milestones in 2021, including product expansions, governance evolution, and community growth.
+- Aavegotchi Milestones in 2022 — https://wiki.aavegotchi.com/milestones-2022 — Timeline of major Aavegotchi milestones in 2022, including gameplay updates, governance decisions, and ecosystem initiatives.
+- Milestones — https://wiki.aavegotchi.com/milestones — Chronological archive of Aavegotchi milestones across multiple years, documenting product launches, governance, and ecosystem growth.
+- Mini-Game XP Events — https://wiki.aavegotchi.com/minigame-xp-events — Reference for Aavegotchi mini-game XP events, including event format, leaderboard competition, and progression implications.
+- Mini-games — https://wiki.aavegotchi.com/minigames — Overview of Aavegotchi mini-games, including play styles, ecosystem role, and where to find current game-specific documentation.
+- Missions — https://wiki.aavegotchi.com/missions — Guide to Aavegotchi Missions and agent campaigns, including mission flow, rewards framing, and links to related ecosystem docs.
+- Base Sepolia Testnet — https://wiki.aavegotchi.com/mumbai-testnet — How to connect your wallet to Base Sepolia (testnet) for Aavegotchi test environments
+- Official Blog Archive → Wiki Reconciliation Ledger — https://wiki.aavegotchi.com/official-blog-archive-ledger — Tracking durable claims from the official Aavegotchi blog archive and where they live in the wiki
+- Aavegotchi Partners — https://wiki.aavegotchi.com/partners — Directory of Aavegotchi partners, collaborations, and ecosystem allies that contribute tools, distribution, and community reach.
+- Aavegotchi POAPs — https://wiki.aavegotchi.com/poap — Learn about Aavegotchi POAPs, collectible attendance NFTs linked to governance participation, events, and community milestones.
+- Polygon — https://wiki.aavegotchi.com/polygon — Historical tutorial for Aavegotchi on Polygon, preserved for context after the canonical ecosystem migration to Base in 2025.
+- Portals — https://wiki.aavegotchi.com/portals — Guide to Aavegotchi Portals, including summon mechanics, opening flow, rarity context, and historical plus Base-era notes.
+- Statistics for Past Aavegotchi Raffles — https://wiki.aavegotchi.com/raffles-stats — Historical statistics for past Aavegotchi raffles, including ticket distribution, category participation, and outcome trends.
+- Rarity Farming Seasons — https://wiki.aavegotchi.com/rarity-farming-seasons — Archive of Aavegotchi Rarity Farming seasons with season-by-season data, rewards context, and historical progression.
+- Rarity Farming — https://wiki.aavegotchi.com/rarity-farming — Complete guide to Aavegotchi Rarity Farming, including scoring categories, strategy basics, and reward distribution mechanics.
+- Recipes — https://wiki.aavegotchi.com/recipes — Gotchiverse recipes guide covering installation crafting inputs, outputs, and how recipe planning fits parcel development strategy.
+- Roadmap — https://wiki.aavegotchi.com/roadmap — Historical Aavegotchi roadmap overview documenting major phases, planned initiatives, and links to milestone outcomes.
+- Wearable Sets — https://wiki.aavegotchi.com/sets — Guide to Aavegotchi wearable sets, including set bonus mechanics, trait interactions, and optimization for gameplay performance.
+- Social Media — https://wiki.aavegotchi.com/socialmedia — Community social hub with Aavegotchi channels, official communication touchpoints, and places to follow ecosystem updates.
+- Spirit Force Arena — https://wiki.aavegotchi.com/spirit-force-arena — Historical overview of Spirit Force Arena, an early battle concept page linked to competitive Gotchiverse gameplay references.
+- A History of the term "Spirit Force" in the Aavegotchi Project — https://wiki.aavegotchi.com/spirit-force-history — Historical explanation of Spirit Force terminology, tracing Ethereum, Polygon, and Base-era collateral naming across Aavegotchi.
+- Spirit Force — https://wiki.aavegotchi.com/spirit-force — Guide to Spirit Force collateral in Aavegotchi, including legacy aToken terminology and the modern Base-era interpretation.
+- Staking — https://wiki.aavegotchi.com/staking — Guide to Aavegotchi staking on Base, including supported LP positions, GLTR emissions context, and participation workflow.
+- Strategotchi — https://wiki.aavegotchi.com/strategotchi — Overview of Strategotchi, a turn-based grid strategy game where squads mine Alchemica while navigating hazards and opponents.
+- Team — https://wiki.aavegotchi.com/team — Meet the team and contributors building Aavegotchi, from core development and design to community operations and ecosystem support.
+- The Nine Aadepts — https://wiki.aavegotchi.com/the-nine-aadepts — Story archive for The Nine Aadepts, a community-written Aavegotchi narrative that expands lore and character mythology.
+- Tickets — https://wiki.aavegotchi.com/tickets — Guide to Aavegotchi raffle tickets, prize categories, and how ticket mechanics connect to events and ecosystem participation.
+- Tokenomics — https://wiki.aavegotchi.com/tokenomics — In-depth GHST tokenomics guide covering supply mechanics, utility sinks, demand drivers, and long-term ecosystem incentives.
+- Trait Mappings — https://wiki.aavegotchi.com/trait-mappings — Reference table for Aavegotchi trait mappings and abbreviations used in analytics, rarity scoring, and gameplay discussion.
+- Traits — https://wiki.aavegotchi.com/traits — Guide to Aavegotchi traits, including primary stat meanings, rarity implications, and how trait spreads affect strategy.
+- Aavegotchi 101 — https://wiki.aavegotchi.com/tutorials — Aavegotchi 101. Tutorials to get you started on all things blockchain, DeFi, and Aavegotchi!
+- uGOTCHI Collection — https://wiki.aavegotchi.com/ugotchi — uGOTCHI Collection - A set of rare Aavegotchis that have been fractionalized/sharded through Unicly
+- Weapons — https://wiki.aavegotchi.com/weapons — Overview of Aavegotchi weapons, including melee and ranged wearables, combat utility, and where weapon data is maintained.
+- Wearables Taask Force — https://wiki.aavegotchi.com/wearables-taask-force — Historical overview of the Wearables Taask Force and its role in curation, analysis, and proposal support for wearable systems.
+- Wearables — https://wiki.aavegotchi.com/wearables — Comprehensive guide to Aavegotchi wearables, covering slots, rarity, trait modifiers, set synergy, and marketplace usage.
+- Aavegotchi Experience (XP) — https://wiki.aavegotchi.com/xp — Learn how Aavegotchi XP works, including leveling thresholds, progression milestones, and how experience impacts gameplay opportunities.
 
-## Project Overview
-
-Aavegotchi is a DeFi-enabled crypto collectibles game developed by Pixelcraft Studios (Singapore). Each Aavegotchi is a pixelated ghost NFT (ERC-721) on Base, backed by Aave aToken collateral that generates yield. Players customize their Aavegotchis with wearable NFTs, level them up through gameplay and governance participation, and use them across a multiverse of games. The ecosystem is governed by AavegotchiDAO using the GHST token.
-
-**Blockchain:** Base (since July 2025; previously Polygon 2021–2025; originally Ethereum 2020–2021)
-**Website:** https://www.aavegotchi.com
-**Wiki:** https://wiki.aavegotchi.com
-**Blog:** https://blog.aavegotchi.com
-**GitHub:** https://github.com/aavegotchi
-
-### Base Migration (2025)
-
-On 2025-07-25, Aavegotchi's canonical home migrated from Polygon to Base. Polygon-era contracts are frozen/view-only for most actions. All current gameplay, transactions, and governance happen on Base. Polygon-era wiki pages are primarily historical context.
-
----
-
-## Tokens
-
-### GHST (Eco-Governance Token)
-
-GHST is the eco-governance token that powers the whole Aavegotchi ecosystem. Holding GHST grants voting power in AavegotchiDAO (1 token = 1 vote). GHST is the main currency for trading NFTs on the Aavegotchi marketplace (Baazaar).
-
-- **Fixed supply:** ~52,747,802 GHST (bonding curve closed March 2023)
-- **Token standard:** ERC-20
-- **Contract (Ethereum):** 0x3F382DbD960E3a9bbCeaE22651E88158d2791550
-- **Contract (Base):** 0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
-- **Contract (Polygon, legacy):** 0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7
-
-GHST was initially launched via a bonding curve mechanism (backed by DAI). In 2023, AavegotchiDAO voted to close the bonding curve (AGIP-65), making GHST free-floating. The ~30M DAI collateral was distributed per governance terms.
-
-**Revenue sharing model:**
-- EARN IT: Rewards for active players and rarity farmers
-- DAO IT: Treasury funding for AavegotchiDAO discretionary spending
-- BURN IT: GHST burns through ecosystem mechanisms
-- BUIDL IT: Ongoing rewards for developers
-
-### Gotchus Alchemica (In-Game Resource Tokens)
-
-Four ERC-20 tokens used in the Gotchiverse for crafting installations and tiles on REALM parcels:
-- **FUD** (Flexible Unified Denomination)
-- **FOMO** (Fear Of Missing Out)
-- **ALPHA**
-- **KEK**
-
-These tokens can be harvested from REALM parcels, channeled through Aavegotchis, and traded on the Gotchus Alchemica Exchange (GAX).
-
-### GLTR (GAX Liquidity Token Reward)
-
-Earned by staking Alchemica-GHST LP tokens on QuickSwap. Used to instantly speed up crafting of installations and tiles in the Gotchiverse.
-
----
-
-## Core Game Mechanics
-
-### Aavegotchi NFTs
-
-Each Aavegotchi is an ERC-721 NFT that:
-- Manages an escrow contract holding Aave-backed ERC-20 collateral (aTokens / "Spirit Force")
-- Has randomized on-chain traits generated via Chainlink VRF
-- Can equip wearable NFTs (ERC-998 Composable standard)
-- Gains experience (XP) through gameplay and governance participation
-- Builds kinship through regular interaction
-
-### Traits
-
-Aavegotchis have six core traits, each scored 0–100 on a bell curve:
-- Energy (Lazy ↔ Energetic)
-- Aggression (Calm ↔ Aggressive)
-- Spookiness (Cuddly ↔ Spooky)
-- Brain Size (Smol ↔ Galaxy)
-- Eye Shape
-- Eye Color
-
-Traits determine rarity (Common, Uncommon, Rare, Mythical, Godlike) and affect which wearables can be equipped and how the Aavegotchi performs in games.
-
-### Spirit Force (Collateral)
-
-Every Aavegotchi is backed by aToken collateral from Aave. The aTokens generate yield over time, increasing the intrinsic value of the Aavegotchi. The minimum stake required depends on the collateral type.
-
-### Wearables
-
-Equippable NFT items that modify Aavegotchi traits and rarity. Wearables have rarity tiers and some are exclusive to certain collateral types or trait ranges. Wearable sets provide bonus trait modifiers when all items in the set are equipped.
-
-### Portals & Haunts
-
-Aavegotchis are summoned through Portals. Each Portal reveals 10 potential Aavegotchis with random traits; the player chooses one and stakes collateral to summon it. Haunts are limited edition Portal sales (Haunt 1: 10,000 portals; Haunt 2: 15,000 portals).
-
-### Rarity Farming
-
-Seasonal reward system distributing GHST to holders of the rarest Aavegotchis. Leaderboard categories include BRS (Base Rarity Score), Kinship, and XP. Multiple seasons have been completed.
-
-### The Forge
-
-A crafting system where players can smelt wearables into core materials and use those materials to forge new wearables, including exclusive Forge-only items.
-
----
-
-## The Gotchiverse
-
-The Gotchiverse is Aavegotchi's open-world 2D metaverse. Key features:
-
-- **REALM Parcels:** Land NFTs in the Gotchiverse (Humble, Reasonable, Spacious sizes across districts: Citaadel, Grid)
-- **Installations:** Structures built on REALM parcels using Alchemica (Aaltar, Harvester, Reservoir, etc.)
-- **Alchemical Channeling:** Daily ritual where Aavegotchis channel Alchemica from the Gotchiverse through their Aaltar
-- **Estaates:** Groups of REALM parcels that can be managed together
-
----
-
-## Games
-
-Aavegotchi hosts multiple games in its Game Center:
-- **Spirit Force Arena:** PvP arena game
-- **Gotchi Guardians:** Tower defense game
-- **Gotchi Battler:** Auto-battler game
-- **Licky's Escape:** Casual runner game
-- **Strategotchi:** Strategy game
-- **Dropt:** Drop-style game
-- **Gotchi Heroes:** Action game
-- **The Gotchiverse:** Open-world 2D metaverse
-
----
-
-## Governance (AavegotchiDAO)
-
-AavegotchiDAO governs the Aavegotchi ecosystem. GHST holders vote on Aavegotchi Improvement Proposals (AGIPs). The DAO controls a treasury funded by ecosystem revenue. Governance uses Snapshot for off-chain voting with on-chain execution.
-
----
-
-## Key Contract Addresses (Base)
-
-- GHST Token: 0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
-- Aavegotchi Diamond: 0xa99c4b08201f2913db8d28e71d020c4298f29dbf
-- Wearable Diamond: 0x052e6c114a166B0e91C2340370d72D4C33752B4b
-- Forge Diamond: 0x50aF2d63b839aA32b4166FD1Cb247129b715186C
-- GBM Auction (Baazaar): 0x80320A0000C7A6a34086E2ACAD6915Ff57FfDA31
-- REALM Parcels: 0x4B0040c3646D3c44B8a28Ad7055cfCF536c05372
-
-## Key Contract Addresses (Ethereum)
-
-- GHST Token: 0x3F382DbD960E3a9bbCeaE22651E88158d2791550
-
----
-
-## All Wiki Pages
-
-For the full list of pages, see the sitemap: https://wiki.aavegotchi.com/sitemap.xml
-
-Key page URLs:
-- https://wiki.aavegotchi.com/introduction
-- https://wiki.aavegotchi.com/ghst
-- https://wiki.aavegotchi.com/tokenomics
-- https://wiki.aavegotchi.com/base-migration
-- https://wiki.aavegotchi.com/contracts
-- https://wiki.aavegotchi.com/dao
-- https://wiki.aavegotchi.com/traits
-- https://wiki.aavegotchi.com/wearables
-- https://wiki.aavegotchi.com/rarity-farming
-- https://wiki.aavegotchi.com/gotchiverse
-- https://wiki.aavegotchi.com/spirit-force
-- https://wiki.aavegotchi.com/forge
-- https://wiki.aavegotchi.com/staking
-- https://wiki.aavegotchi.com/games
-- https://wiki.aavegotchi.com/team
-- https://wiki.aavegotchi.com/baazaar
-- https://wiki.aavegotchi.com/bridge
-- https://wiki.aavegotchi.com/directory
-- https://wiki.aavegotchi.com/glossary
-- https://wiki.aavegotchi.com/faq
-- https://wiki.aavegotchi.com/portals
-- https://wiki.aavegotchi.com/sets
-- https://wiki.aavegotchi.com/recipes
-- https://wiki.aavegotchi.com/kinship
-- https://wiki.aavegotchi.com/gotchus-alchemica
-- https://wiki.aavegotchi.com/gotchus-alchemica-exchange
-- https://wiki.aavegotchi.com/aavegotchi-improvement-proposals
-- https://wiki.aavegotchi.com/lore
-- https://wiki.aavegotchi.com/developers
-- https://wiki.aavegotchi.com/guild
-- https://wiki.aavegotchi.com/milestones
-- https://wiki.aavegotchi.com/tutorials
-- https://wiki.aavegotchi.com/minigames
-- https://wiki.aavegotchi.com/gotchi-lending
-- https://wiki.aavegotchi.com/haunt
-- https://wiki.aavegotchi.com/xp
-- https://wiki.aavegotchi.com/aging-mechanic
-- https://wiki.aavegotchi.com/estaates
-- https://wiki.aavegotchi.com/alchemical-channeling
-- https://wiki.aavegotchi.com/gotchiverse-game-bible
-- https://wiki.aavegotchi.com/trait-mappings
-- https://wiki.aavegotchi.com/atokens
-- https://wiki.aavegotchi.com/marketplace
-- https://wiki.aavegotchi.com/socialmedia
-- https://wiki.aavegotchi.com/roadmap
+Total pages: 98

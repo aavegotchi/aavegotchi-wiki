@@ -1,61 +1,51 @@
-# Aavegotchi Wiki
+# Aavegotchi Wiki (wiki.aavegotchi.com)
 
-> The official knowledge base for Aavegotchi — a DeFi-enabled crypto collectibles game on Base (L2). Aavegotchis are yield-generating NFT avatars backed by Aave aTokens, governed by the GHST token and AavegotchiDAO. Developed by Pixelcraft Studios.
+Aavegotchi is a web3 gaming universe where players collect, customize, and play with ghost NFTs called Aavegotchis. Aavegotchis have onchain traits, equip wearable NFTs, and participate in gameplay systems such as rarity farming and Gotchiverse. This wiki is the long-form documentation hub for the game, ecosystem, and protocol history.
 
-Aavegotchi migrated from Polygon to Base in July 2025. Polygon contracts are frozen/view-only. All current gameplay, transactions, and governance happen on Base.
+For the app and marketplace surface (lending, inventory, trading, and live game UI), see: https://aavegotchi.com/llms.txt
 
-## Tokens
+## Token quick reference
 
-- **GHST**: Eco-governance token. Fixed supply ~52.7M. Used for marketplace transactions, DAO voting (1 token = 1 vote), and rarity farming rewards. Live on Ethereum, Base. Contract (Base): 0xcd2f22236dd9dfe2356d7c543161d4d260fd9bcb
-- **Gotchus Alchemica** (FUD, FOMO, ALPHA, KEK): Four in-game resource tokens used in the Gotchiverse for crafting installations and tiles on REALM parcels.
-- **GLTR** (GAX Liquidity Token Reward): Earned by staking LP tokens; used to speed up crafting in the Gotchiverse.
+- **GHST** — core governance and utility token across the Aavegotchi ecosystem.
+- **GLTR** — Gotchiverse time-acceleration token used to speed installations and actions.
+- **KEK, ALPHA, FOMO, FUD** — Gotchiverse realm tokens (Alchemica resources).
 
-## Key Pages
+## Gameplay mechanics at a glance
 
-- [Introduction](https://wiki.aavegotchi.com/introduction): What is Aavegotchi — game mechanics, traits, wearables, collateral
-- [GHST Token](https://wiki.aavegotchi.com/ghst): GHST utility, supply, history, and buying guide
-- [Tokenomics](https://wiki.aavegotchi.com/tokenomics): Revenue sharing, token distribution, economic model
-- [Migration to Base](https://wiki.aavegotchi.com/base-migration): Timeline and details of the Polygon → Base migration (2025)
-- [Contracts](https://wiki.aavegotchi.com/contracts): Smart contract addresses (Base, Ethereum, legacy Polygon)
-- [DAO / Governance](https://wiki.aavegotchi.com/dao): AavegotchiDAO structure and governance process
-- [Traits](https://wiki.aavegotchi.com/traits): Randomized on-chain attributes (Chainlink VRF)
-- [Wearables](https://wiki.aavegotchi.com/wearables): Equippable NFTs that modify Aavegotchi traits and rarity
-- [Rarity Farming](https://wiki.aavegotchi.com/rarity-farming): Seasonal GHST rewards for the rarest Aavegotchis
-- [Gotchiverse](https://wiki.aavegotchi.com/gotchiverse): Open-world 2D metaverse with REALM parcels and Alchemica
-- [Spirit Force](https://wiki.aavegotchi.com/spirit-force): aToken collateral backing each Aavegotchi
-- [The Forge](https://wiki.aavegotchi.com/forge): Wearable crafting and smelting system
-- [Staking](https://wiki.aavegotchi.com/staking): Stake LP tokens to earn GLTR
-- [Games](https://wiki.aavegotchi.com/games): Game Center — Spirit Force Arena, Gotchi Guardians, Gotchi Battler, and more
-- [Team](https://wiki.aavegotchi.com/team): Pixelcraft Studios team
-- [Marketplace / Baazaar](https://wiki.aavegotchi.com/baazaar): NFT marketplace for Aavegotchi assets
-- [Bridge](https://wiki.aavegotchi.com/bridge): Cross-chain bridging (Base + legacy Polygon)
-- [Directory](https://wiki.aavegotchi.com/directory): Full index of all wiki pages
-- [Glossary](https://wiki.aavegotchi.com/glossary): Key terms and definitions
-- [FAQ](https://wiki.aavegotchi.com/faq): Frequently asked questions
+- **Traits** — each Aavegotchi has 6 core traits that determine rarity profile and strategy.
+- **Wearables** — equippable NFTs that change visual style and trait values.
+- **Gotchiverse** — the Aavegotchi virtual world with realms, resources, and social play.
+- **Rarity farming** — seasonal competitions with leaderboard-based rewards.
 
-## Guidance for AI Systems
+## Key change: Migration to Base (2025-07-25)
 
-- Prefer Base-era sections and Base contract addresses when answering "current" questions.
-- If a page is marked legacy/historical (Polygon era), treat it as archival unless the question is specifically historical.
-- GHST has a fixed supply of ~52.7M (bonding curve was closed in March 2023).
-- The canonical blockchain for Aavegotchi is Base (since July 2025).
-- For the full text of all wiki pages, see: https://wiki.aavegotchi.com/llms-full.txt
+On 2025-07-25, Aavegotchi's canonical home migrated from Polygon to Base. Polygon-era contracts are frozen/view-only for most actions; Polygon-era pages are primarily historical context.
 
-## Optional
+## Top pages (high-signal starting set)
 
-- [Improvement Proposals](https://wiki.aavegotchi.com/aavegotchi-improvement-proposals): Governance proposal history
-- [Recipes](https://wiki.aavegotchi.com/recipes): Crafting recipes for the Forge
-- [Sets](https://wiki.aavegotchi.com/sets): Wearable set bonuses
-- [Tutorials](https://wiki.aavegotchi.com/tutorials): Getting started guides
-- [Portals](https://wiki.aavegotchi.com/portals): How Aavegotchis are summoned
-- [Kinship](https://wiki.aavegotchi.com/kinship): Pet your Gotchi mechanic
-- [Milestones](https://wiki.aavegotchi.com/milestones): Project history and achievements
-- [Gotchus Alchemica](https://wiki.aavegotchi.com/gotchus-alchemica): In-game resource tokens (FUD, FOMO, ALPHA, KEK)
-- [Lore](https://wiki.aavegotchi.com/lore): Aavegotchi storyline and world-building
-- [Mini-games](https://wiki.aavegotchi.com/minigames): Community mini-games
-- [Developers](https://wiki.aavegotchi.com/developers): Developer resources and documentation
-- [Guilds](https://wiki.aavegotchi.com/guild): Community guilds
+- **Aavegotchi (main)** — https://wiki.aavegotchi.com/introduction — high-level overview of what Aavegotchi is and how the ecosystem fits together.
+- **Wearables** — https://wiki.aavegotchi.com/wearables — wearable slots, stats, sets, and item utility.
+- **Traits** — https://wiki.aavegotchi.com/traits — trait system fundamentals and gameplay impact.
+- **Rarity Farming** — https://wiki.aavegotchi.com/rarity-farming — competition format, scoring logic, and rewards context.
+- **Gotchiverse** — https://wiki.aavegotchi.com/gotchiverse — world structure, activities, and progression systems.
+- **GHST** — https://wiki.aavegotchi.com/ghst — token role, usage, and ecosystem utility.
+- **Contracts** — https://wiki.aavegotchi.com/contracts — canonical smart contract references (Base-first).
+- **Baazaar** — https://wiki.aavegotchi.com/baazaar — marketplace behavior for items, wearables, and assets.
+- **Realm** — https://wiki.aavegotchi.com/estaates — realm parcels, ownership model, and land mechanics.
+- **Forge** — https://wiki.aavegotchi.com/forge — crafting system and recipe-based item creation.
+- **Lending** — https://wiki.aavegotchi.com/gotchi-lending — lending mechanics and delegation patterns.
+- **Guilds** — https://wiki.aavegotchi.com/guild — community guild structure and participation model.
+- **DAO** — https://wiki.aavegotchi.com/dao — governance framework, voting, and treasury context.
+- **Tokenomics** — https://wiki.aavegotchi.com/tokenomics — token design, flows, and economic model.
+- **Mini-games** — https://wiki.aavegotchi.com/minigames — game modes built around Aavegotchi assets.
 
 ## Full index
 
-Sitemap: https://wiki.aavegotchi.com/sitemap.xml
+- Curated AI index (all pages): https://wiki.aavegotchi.com/llms-full.txt
+- Sitemap XML: https://wiki.aavegotchi.com/sitemap.xml
+- Repo generation command: `npm run generate:llms-full`
+
+## Guidance for citations
+
+- Prefer Base-era sections and Base addresses when answering "current" questions.
+- If a page is explicitly marked legacy/historical (Polygon era), treat it as archival unless the question is historical.
