@@ -30,7 +30,7 @@
     "bootstrap": "^4.5.3",
     "gray-matter": "^4.0.2",
     "mailchimp-api-v3": "^1.14.0",
-    "next": "^16.1.6",
+    "next": "^16.2.0",
     "node-glob": "^1.2.0",
     "raw-loader": "^4.0.2",
     "react": "^18.2.0",
